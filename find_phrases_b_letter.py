@@ -18,7 +18,7 @@ letters_dict = list()
 # PARAMETERS
 # PARAMETERS
 
-kanji_to_search_for = "探"
+kanji_to_search_for = "夫"
 subpaths_to_exclude = ["/archive/text"]
 file_to_write_name = "phrases_for_{}.txt".format(kanji_to_search_for)
 

@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1c4bff3-dda7-48fd-ac1c-d21f90241c18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/letters_by_count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mp3_extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find_phrases_b_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_phrases_b_letter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mp3_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/mp3_extractor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.mp3_extractor">
+  <component name="RunManager" selected="Python.find_phrases_b_letter">
     <configuration name="count_letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="letters-extractors-kanjis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,6 +65,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_letters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_phrases_b_letter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="letters-extractors-kanjis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_phrases_b_letter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.find_phrases_b_letter" />
         <item itemvalue="Python.mp3_extractor" />
         <item itemvalue="Python.count_letters" />
       </list>
@@ -123,28 +144,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="438" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597528605775">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="438" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.821@0.23.1440.821" timestamp="1597528605775" />
-    <state width="1379" height="198" key="GridCell.Tab.0.bottom" timestamp="1597528564552">
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom" timestamp="1597667084173">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1597528564552" />
-    <state width="1379" height="198" key="GridCell.Tab.0.center" timestamp="1597528564551">
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1597667084173" />
+    <state width="1379" height="198" key="GridCell.Tab.0.center" timestamp="1597667084171">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1597528564551" />
-    <state width="1379" height="198" key="GridCell.Tab.0.left" timestamp="1597528564550">
+    <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1597667084171" />
+    <state width="1379" height="198" key="GridCell.Tab.0.left" timestamp="1597667084170">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1597528564550" />
-    <state width="1379" height="198" key="GridCell.Tab.0.right" timestamp="1597528564551">
+    <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1597667084170" />
+    <state width="1379" height="198" key="GridCell.Tab.0.right" timestamp="1597667084172">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1597528564551" />
+    <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1597667084172" />
     <state x="211" y="52" key="SettingsEditor" timestamp="1597504595573">
       <screen x="0" y="23" width="1440" height="821" />
     </state>

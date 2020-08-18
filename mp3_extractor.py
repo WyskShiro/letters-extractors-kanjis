@@ -4,9 +4,8 @@ from bs4 import BeautifulSoup
 
 
 base_url = "https://downloads.khinsider.com"
-url_with_osts = "{}/game-soundtracks/album/yu-gi-oh-duel-monsters-gx-sound-duel-vol-i".format(base_url)
+url_with_osts = "{}/game-soundtracks/album/yu-gi-oh-duel-monsters-gx-sound-duel-vol-ii".format(base_url)
 subpaths_to_exclude = []
-
 data = requests.get(url_with_osts)
 soup = BeautifulSoup(data.text, 'html.parser')
 
@@ -28,6 +27,10 @@ for tr in soup.find("table", {"id": "songlist"}).find_all("tr"):
     name = tr.find("td", {'class':"clickable-row"}).text
     sub_path = a["href"]
     if sub_path not in subpaths_to_exclude:
-        load_page(base_url + sub_path, name)
+        try:
+            load_page(base_url + sub_path, name)
+        except:
+            continue
+
 
 
