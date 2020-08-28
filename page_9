@@ -1,0 +1,1283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 42 (Japanese) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 42 (Japanese) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/t7zjG9SJ" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/t7zjG9SJ" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="pyVE6heD5qFe8UgKrM5F0baNK70kKvcCbvwAfurVuunyFTerLrGq8QSoDlLplC7l1fUakGpThUYMuGpG37PLqw==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/t7zjG9SJ" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/t7zjG9SJ" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 42 (Japanese)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Tuesday 28th of July 2020 10:29:58 PM CDT">Jul 28th, 2020</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    65                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 19.16 KB            </div>
+
+            <div class="right">
+                <a href="/raw/t7zjG9SJ" class="btn -small">raw</a>
+                <a href="/dl/t7zjG9SJ" class="btn -small">download</a>
+                <a href="/clone/t7zjG9SJ" class="btn -small h_800">clone</a>
+                <a href="/embed/t7zjG9SJ" class="btn -small h_800">embed</a>
+                <a href="/report/t7zjG9SJ" class="btn -small">report</a>
+                <a href="/print/t7zjG9SJ" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">#6/11 Afternoon</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">みんなで鍋すんだって？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;楽しみだ</div></li><li class="li1"><div class="de1">一緒にどうだ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">メシは、大勢で囲んだ方が旨いからな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">杏ちゃんだっけ？あの子、いい子だな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいやつだ</div></li><li class="li1"><div class="de1">派手な割に</div></li><li class="li1"><div class="de1">&gt;急になんだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">いや、さっきちょっと話してさ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">友達、帰る場所が無いんだってな。泊めてやってくれって、頼まれたんだよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">居候から頼むんじゃ、可哀想だからって言って。優しい子じゃねえか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">鍋なら、どっかにあるはずだ。探して持ってけ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#checking pans</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">調理器具の棚がある。鍋はあるだろうか…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">古びた土鍋を見つけた…これなら十分な大きさだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">お、見つけたか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">買い出し組も戻ってくる頃だな。あとは勝手にやってくれ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">いちおう、しばらくし下には居るが…火の扱いには気を付けろよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#At the Niijima household</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Host1</div></li><li class="li1"><div class="de1">さて、続きまして、「今、会いたいヒト」のコーナーなんですが…</div></li><li class="li1"><div class="de1">And now, onto the &quot;Hottest Meet-and-Greet&quot; segment of our show...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Host1</div></li><li class="li1"><div class="de1">前回の大好評を受けまして、本日も、彼に来てもらってます。</div></li><li class="li1"><div class="de1">After his last appearance was so well-received, we decided to bring back this fine gentleman today.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Host1</div></li><li class="li1"><div class="de1">現役高校生探偵、「明智吾郎」くんです！</div></li><li class="li1"><div class="de1">It&#039;s the high school detective, Goro Akechi!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">味、薄いね…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">でもよかった、いろいろあったけど成績は落ちてないみたいで。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">学校は大丈夫だよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">お姉ちゃんこそ、疲れてるんじゃない？塩分足りてないんだよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">そう見える？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Goro</div></li><li class="li1"><div class="de1">でも、もし仮に、本当にそんな怪盗が居るんだとしたら…</div></li><li class="li1"><div class="de1">But hypothetically speaking, if these Phantom Thieves are real...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Goro</div></li><li class="li1"><div class="de1">僕は、法で裁かれるべきだと思います。</div></li><li class="li1"><div class="de1">I believe they should be tried in a court of law.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Host2</div></li><li class="li1"><div class="de1">ハッキリ言うね。彼らのやってることは犯罪？</div></li><li class="li1"><div class="de1">That&#039;s quite the statement.  Are they committing crimes?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Host2</div></li><li class="li1"><div class="de1">ネットとかじゃ、怪盗団が居なきゃ今でも悪事が続いてたっていう人もいるけど？</div></li><li class="li1"><div class="de1">Some people even say that the Thieves are actually helping their victims abandon their evil ways.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Goro</div></li><li class="li1"><div class="de1">斑目画伯のした事は許されない罪です。</div></li><li class="li1"><div class="de1">What the artist Madarame did truly was an unforgivable crime.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Goro</div></li><li class="li1"><div class="de1">でも、それを法律以外の尺度で勝手に裁くのはただの私刑…正義から一番遠い行いです。</div></li><li class="li1"><div class="de1">However, they are taking the law into their own hands by judging him.  It is far from justice.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Goro</div></li><li class="li1"><div class="de1">第一、人の心を無理やりねじ曲げるなんて、人間が一番やっちゃいけない事ですよ。</div></li><li class="li1"><div class="de1">More importantly, you should never forcefully change a person&#039;s heart.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">…人の心を操ることは、犯罪なの？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">…方法によっては、犯罪ね。彼の言うとおりよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">悪事を認めさせて、罪を償わせても？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">何、急に？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">別に…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">正義の味方がいるとでも？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">…まさか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">余計なことは考えなくていいの。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">…言いたいこと、わかるよね？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">勉強していい大学に行く…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">「女」でのし上がっていくのは大変なの。なのに、上に立たなきゃできないことばかり。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">その為ならどんな手だって使うわ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">あなたも 将来の為に、今やるべきことだけに目を向けなさい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">…ごめんなさい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Sae phone call</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">こんな時に…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">ハイ。…うん、大丈夫よ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">…あぁ、その件ね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">何を、すべき…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">正義…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">困ってるヤツを助ける怪盗がいるなら…俺は全力で応援するけどね。</div></li><li class="li1"><div class="de1">If those Phantom Thieves are out there helpin&#039; people... I&#039;d root for &#039;em no questions asked.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">私…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back at Leblanc attic</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">もう食えんね…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">美味だったぜ。アン殿、きっといいお嫁さんに…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">ほわ…あふ……ごめん、ソファー借りる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">なんだ、ユースケ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">…締をやってないぞ。うどんや、おじやは…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">今度にしとけ…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">寝るのはや…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">疲れねえほうがおかしいだろ。寝かしといてやろうぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">時に竜司、杏とは、どういう関係だ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あ？別に、同じ中学っつーだれだよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">昔のアン殿は…どんなだったんだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そんな変わんねえよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">高校からは、クラス別んなって、話さなくなっちまったけど…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">友達は少なかったな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">帰国子女で、見た目もコレだからな。派手な奴は勝手に嫌うし、地味な奴は近づかない。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">そうだったのか…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">で、お前たちはどうだったんだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">俺ら…？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">互いを知るにはいい機会だ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">俺の過去はすっかり知られたんだ。お前たちも話すべきだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">自分は失うモンがねーってか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">いいぜ、話すよ。ただの親不孝もんの話だけど。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">小さい頃…オヤツが消えちまってさ。ずっとお袋と二人で暮らしてんだ…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ホントは陸上で特待生とかになって、お袋に楽させたかったんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">結局、ダメにしちまったんだけどよ。ハハ、すっげえ親不孝者だろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">高1んとき、鴨志田に手ぇ上げちまって、それでお袋、学校に呼び出されてよ…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">教師連中から言いたい放題言われてさ。そんときお袋、じっと我慢してた…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あのときのお袋の顔…今でも忘れらんねえ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">帰りに、謝られたんだ。片親でごめんってよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">そんな事があったのか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">学校は「みんな平等」と教えるが、現実は、そんな綺麗ばかりじゃない…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">…気持ちは、俺にはわかる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">まぁ、レッテルつったら、こいつこそ、大概だけどさ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">例の話か。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">そういえば、詳しく訊いたことなかったな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Back in the past with Shido</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">このガキ、訴えてやる！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">これ以上するなら…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">あのお金のこと、告発しますよ！？いいんですか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">そんなの、「お前が勝手にやった」って言えば済む話だ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">うそ…だって、私は指示の通りに…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">俺を誰だと思ってるんだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">そんな…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">おい、お前。警察に、こう証言しろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">「ガキが、いきなり俺に乱暴をしてきた」ってな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">ちょっとでも余計なこと喋ったら…分かってんだろうな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">え、そんな…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;ふざけるな</div></li><li class="li1"><div class="de1">勝手に倒れたくせに</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">黙れ、貴様は終わりだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">俺に逆らったらどうなるか…お前らに思い知らせてやる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">すみませーん。通報があったんですが、何かありました？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">あっ！貴様は…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">どういう状況だった？警察の方に説明してやってくれ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">そこの少年が、突然殴りかかってきて…この人を、強く突き飛ばしました。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">それで、この人が…怪我を…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">…だ、そうですよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">それと…俺の名前は一切出ないよう、処理してくれたまえ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shido</div></li><li class="li1"><div class="de1">どういう意味か…分かるよな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">は…はっ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">おい、確保しろ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">わ、分かりました！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back in Leblanc</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">聞いてるだけ腹立ってきやがるぜ…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">くっそ…！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">たったそんだけで「傷害」かよ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">女の方も、酷いな。ダンマリを決め込んだわけだろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">そういうヤツの心こそ盗むべきだ！どこのどいつだ、その男！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;知らない男だった…</div></li><li class="li1"><div class="de1">よく覚えてない…</div></li><li class="li1"><div class="de1">暗がりだったから…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">思い出せない、か…まあ夜道だった上に、逮捕なんてショックが重なったんじゃな…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">肝心な事が思い出せねえ辛さは、ワガハイよく分かるぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">被害者の個人情報は捕獲される。特定は難しいだろうな…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">それにもう判決が出たんだろう？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">うまく相手を特定して仕返しできても、こいつの前歴は消えやしない…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ありえねえ…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">世の中、間違ってるぜ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">弱ってるヤツ助けねえで、身勝手な大人を勝ち逃げさせてよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">偉いヤツが決めることなんてアテになんねえよな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">俺たちなら正せるんじゃないか？誰にも気付かれずに…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">俺たちが正しい「正義」を見せつけて、世間のめを覚まさせてやればいい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ああ、そうだぜ祐介！その為に授かった力だろ、絶対っ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">いいんじゃないか？…仕事は派手に決める方が格好いいしな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">お前らに教えられたことだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">…何、熱くなってんの？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あっと…悪ぃ…起こした？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">ううん、別に。中途から起きてたし。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">けど、なんか不思議。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">聞きながら思ったよ。みんなのこと、昔から知ってる気がする…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">これって「似た者同士」だからかな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ま…ロクなもんじゃねえけど。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">似た者同士か…ワガハイだけちがうな…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">…ワガハイには、振り返れるほどの記憶は無いからな…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">何言ってんだ。オマエ以上のはみ出しモンなんて世界中探したってそういるかよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">てえか、その記憶を取り戻すためにメメントス行くんだろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">きっと、俺たちみたいに、ロクでもない過去だろうがな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">違えねえ、絶対そうに決まってんな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">へん、それはどうかな！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">モルガナも、なんだか昔から知ってる気がする。すごくずっと昔から。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">怪盗団を助けてんのはワガハイ自身のためだ。勘違いすんなよっ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">オマエらに強くなってもらわないと、メメントス探索ところじゃねえからなっ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">いじけたり偉ぶったり忙しいヤツ…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">ねえ、やろうよ…本当に。私、行けるとこまでいきたい…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">ダメな大人をこらしめて、困ってる人たちを勇気づけたい…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">私たちにしかできないことっ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">たりめーだっ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">怪盗団を続けていれば俺も成長できる。描きとしても、人としても。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ワガハイが直々に鍛えてやるんだ。この怪盗団で、できないことはない！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">ってことで…改めてよろしく、リーダー。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よろしく</div></li><li class="li1"><div class="de1">&gt;仕方ない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">…もうこんな時間？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">今日は、この辺でお開きにすっか！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">ああ、そうだ。マスターが泊まってけって言ってたよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">それは…ありがたい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">お前が説得したんだろ？さっすが、親父キラー。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">超嬉しくない！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">風呂に入らないと寝られないが…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">銭湯あるから行って来いよ。ワガハイは行けないけどな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">へー、いいかもな！杏はどうなんの？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">あんた達だけでどうぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">じゃあね、モルガナ！おやすみ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">…チクショウ、早く人間に戻んなきゃ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">誰かに盗られちまう前に…！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#at the bathhouse</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">やっぱ広い風呂っていいぜ～。杏も来ればよかったのにな～。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">ちょっと熱い気がするが…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">爺さん、熱いの好きだからな。まあ、そのうちやめんだろ…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そういえばさ、前から気になってたんだけど…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">お前って、杏のことどう思ってんの？「女」として。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいと思う</div></li><li class="li1"><div class="de1">どうだろう</div></li><li class="li1"><div class="de1">&gt;ただの仲間だ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">いや、そうじゃなくてよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">つーか、お前ちょっと不健全じゃないの？下手なアイドルより、見た目だけはよくね？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">杏にそれ、伝えておく。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">やめて、マジで…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">しかし、早く次のターゲットを見つけ出さないとな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">…それなんだけどさ、「大物を狙う」ってだけでいいのかな…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ここんとこの世間の反応見てると、ちょっと考えちまうぜ…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">…たしかに、目先を追うだけでは、ただの空回りに終わるかもしれない。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">世間に訴える「戦略」が必要だな…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">お？どんなんだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">俺がそんな戦略、立てられるとでも？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">聞いた俺がバカだったよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">俺は切込み隊長役っつーか…モルガナはあっちの世界専門だし…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">むー、ふう…それにしても…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Ryuji yells at old man</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">…だぁ！！あちいんだよ！！！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">どんだけ、いれりゃ気が済むんだよ！熱湯ジジイ！！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">…俺もう、無理！！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">とりあえず、週明けにでも集まろうぜ。また連絡すっからよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back at Leblanc</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">まだ寝ないのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">俺はここでいい。アトリエで寝ることもあるし、気にするな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#going to bed</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">明日の朝食だが、気を使わなくていいぞ。焼き魚と味噌汁があれば十分だからな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#here comes the Velvet Room</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Justine</div></li><li class="li1"><div class="de1">囚人&lt;name&gt;、戻りました。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Caroline</div></li><li class="li1"><div class="de1">主の前だぞ！姿勢を正しせっ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Igor</div></li><li class="li1"><div class="de1">お前が手繰り寄せた緑、実に興味深い…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Igor</div></li><li class="li1"><div class="de1">皆、社会から一方的に焼印を押され、そして、それに抗う者というわけか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Igor</div></li><li class="li1"><div class="de1">気付いているか？お前の心も彼らに触発されているようだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Igor</div></li><li class="li1"><div class="de1">フフ、社会の異端者…言うなればピカレスク。その者たちとの絆をより深めるのだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Igor</div></li><li class="li1"><div class="de1">それが、お前の更生への力となるだろう。…楽しみにしている。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Igor</div></li><li class="li1"><div class="de1">私から贈り物だ。今のお前に相応しい新たな力を与えよう。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Igor</div></li><li class="li1"><div class="de1">より一層の更生に励むがいい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Igor</div></li><li class="li1"><div class="de1">そろそろ時間だな…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#7/12 begins, at school</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">冴さんの妹さん、だよね？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">少し、話せないかな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">怪盗団のこと？…明智くん。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">…察しがいいね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">鴨志田と斑目の事例で、なにか共通はないのかなってさ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">被害者が出てるんだし、怪盗団のことは追及しないと。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">怪盗団を否定しているのに、怪盗団の実在は疑わないんですね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">ああ、テレビ観てくれたんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">真実を追いかけるのに、常識が邪魔になることだってあるからね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">彼らがいるって考えた方が、多くの事につじつまが合う。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">これ…お姉ちゃんに言われて？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">たまたまだよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">なんか、楽しんでません？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">…そうかもね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">「予告怪盗」なんてフィクション、現実でやり遂げたヤツがいるとしたら…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">「カリスマ探偵」なんて言われてる身としては、ライバル視するなって方が無理だろう。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">自己評価が高いのね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">怪盗は悪で、貴方が正義？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">勝手に人の心を弄ってる奴と比べれば、少なくとも僕は正義の側にいる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">それに僕は自分に備わった才能を使って世のために奉仕しているにすぎない。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">君だって、そうじゃないの？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">私は…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">…なんだ君、意外と言いなりのいい子ちゃんタイプか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Akechi takes out phone</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">…そろそろ始まるな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Akechi</div></li><li class="li1"><div class="de1">じゃあね、冴さんによろしく。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">なんで、私ばかり責められるの…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Leblanc, Sakura and Yusuke</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">こんな美味しいコーヒーが飲めるなんて。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">…次が決まるまで、居ていいんだぞ？住み心地は良くねえだろうがな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">いえ、寮に戻ることにしました。みんなと昨日一晩話をしてわかったんです。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">俺は絵の世界に閉じ籠っていたせいか、世間を…他人を知らなすぎたと。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">人間を描くなら、もっと知らないといけない。色んな人と触れ合う必要があると思ったんです。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">まずは寮に戻って…身近な人たちと触れ合うことからやり直そうと。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">大してもんだよ。よく自分で気付けたな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">大げさですよ。またコーヒーを頂きに来ても？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">まってるよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">彼も、大変だっんですよね…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">マスターと彼は親戚なんですか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">え？ああ…なんつうか…ただの知人だ。血は繋がってねえ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">立ち入った質問かもしれませんが、なぜ彼を引き取ることに？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">理由…か。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">似てるからかね…昔の自分に。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">それだけの理由で？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">世の中そんなモンさ。誰かが誰かを気にかけるってのは。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">お前さんとこの師匠…あ、「元」師匠？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">その人だって、才能を盗むって以外に、お前に、なんか想うとこがあったんだろうよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">俺も…心の底からは、憎めません。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">俺、そろそろ…</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#pan over to Sayuri hanging on wall</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">なあ、ホントにいいの？絵。ウチなんかにはもったいないぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">寮で俺だけが抱えているのも、好奇の目に晒されるのも嫌でしょうから。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">何の変哲も無い日常を、ほんの少し彩る。母もきっと、同じ選択をするはずです。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">…そうか。じゃあ、預かっといてやるよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">ごちそうさまでした。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">…また。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Leblanc attic, Morgana and Main Character</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">…ようやくお目覚めかよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;祐介は？</div></li><li class="li1"><div class="de1">腹が減った</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">起きたらいなかったぞ。先に下でくつしろいでんだろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#downstairs</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">…起きた。もう昼過ぎだぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">あの坊主なら、やっぱり寮に戻るとよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">この絵置いて、出てったぞ。世話になった礼だそうだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;サユリか</div></li><li class="li1"><div class="de1">律儀だな</div></li><li class="li1"><div class="de1">売るなよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">今どき珍しい、義理固い坊主だ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">わが子を想う母親、いい絵じゃねかか？モデルは掛け値無しの美人だが、表情がいい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">こんなの見たら、常連ども、腰抜かすんじゃねえか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">それにしてもこの絵、どっかで見覚えが……ちょっと違うか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">さて…起きたんなら、さっさと上で着替えてこい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">とっくに開店してんだからよ。猫でも連れて、どっか行ってろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">#6/11 Afternoon
+
+Sakura
+みんなで鍋すんだって？
+
+&gt;楽しみだ
+一緒にどうだ
+
+Sakura
+メシは、大勢で囲んだ方が旨いからな。
+
+Sakura
+杏ちゃんだっけ？あの子、いい子だな。
+
+いいやつだ
+派手な割に
+&gt;急になんだ？
+
+Sakura
+いや、さっきちょっと話してさ。
+
+Sakura
+友達、帰る場所が無いんだってな。泊めてやってくれって、頼まれたんだよ。
+
+Sakura
+居候から頼むんじゃ、可哀想だからって言って。優しい子じゃねえか。
+
+Sakura
+鍋なら、どっかにあるはずだ。探して持ってけ。
+
+#checking pans
+
+調理器具の棚がある。鍋はあるだろうか…
+
+古びた土鍋を見つけた…これなら十分な大きさだ。
+
+Sakura
+お、見つけたか。
+
+Sakura
+買い出し組も戻ってくる頃だな。あとは勝手にやってくれ。
+
+Sakura
+いちおう、しばらくし下には居るが…火の扱いには気を付けろよ。
+
+#At the Niijima household
+
+Host1
+さて、続きまして、「今、会いたいヒト」のコーナーなんですが…
+And now, onto the &quot;Hottest Meet-and-Greet&quot; segment of our show...
+
+Host1
+前回の大好評を受けまして、本日も、彼に来てもらってます。
+After his last appearance was so well-received, we decided to bring back this fine gentleman today.
+
+Host1
+現役高校生探偵、「明智吾郎」くんです！
+It&#039;s the high school detective, Goro Akechi!
+
+Sae
+味、薄いね…
+
+Sae
+でもよかった、いろいろあったけど成績は落ちてないみたいで。
+
+Makoto
+学校は大丈夫だよ。
+
+Makoto
+お姉ちゃんこそ、疲れてるんじゃない？塩分足りてないんだよ。
+
+Sae
+そう見える？
+
+Goro
+でも、もし仮に、本当にそんな怪盗が居るんだとしたら…
+But hypothetically speaking, if these Phantom Thieves are real...
+
+Goro
+僕は、法で裁かれるべきだと思います。
+I believe they should be tried in a court of law.
+
+Host2
+ハッキリ言うね。彼らのやってることは犯罪？
+That&#039;s quite the statement.  Are they committing crimes?
+
+Host2
+ネットとかじゃ、怪盗団が居なきゃ今でも悪事が続いてたっていう人もいるけど？
+Some people even say that the Thieves are actually helping their victims abandon their evil ways.
+
+Goro
+斑目画伯のした事は許されない罪です。
+What the artist Madarame did truly was an unforgivable crime.
+
+Goro
+でも、それを法律以外の尺度で勝手に裁くのはただの私刑…正義から一番遠い行いです。
+However, they are taking the law into their own hands by judging him.  It is far from justice.
+
+Goro
+第一、人の心を無理やりねじ曲げるなんて、人間が一番やっちゃいけない事ですよ。
+More importantly, you should never forcefully change a person&#039;s heart.
+
+Makoto
+…人の心を操ることは、犯罪なの？
+
+Sae
+…方法によっては、犯罪ね。彼の言うとおりよ。
+
+Makoto
+悪事を認めさせて、罪を償わせても？
+
+Sae
+何、急に？
+
+Makoto
+別に…
+
+Sae
+正義の味方がいるとでも？
+
+Makoto
+…まさか。
+
+Sae
+余計なことは考えなくていいの。
+
+Sae
+…言いたいこと、わかるよね？
+
+Makoto
+勉強していい大学に行く…
+
+Sae
+「女」でのし上がっていくのは大変なの。なのに、上に立たなきゃできないことばかり。
+
+Sae
+その為ならどんな手だって使うわ。
+
+Sae
+あなたも 将来の為に、今やるべきことだけに目を向けなさい。
+
+Makoto
+…ごめんなさい。
+
+#Sae phone call
+
+Sae
+こんな時に…
+
+Sae
+ハイ。…うん、大丈夫よ。
+
+Sae
+…あぁ、その件ね。
+
+Makoto
+何を、すべき…
+
+Makoto
+正義…
+
+R
+困ってるヤツを助ける怪盗がいるなら…俺は全力で応援するけどね。
+If those Phantom Thieves are out there helpin&#039; people... I&#039;d root for &#039;em no questions asked.
+
+Makoto
+私…
+
+#back at Leblanc attic
+
+R
+もう食えんね…
+
+M
+美味だったぜ。アン殿、きっといいお嫁さんに…
+
+A
+ほわ…あふ……ごめん、ソファー借りる。
+
+M
+なんだ、ユースケ？
+
+Y
+…締をやってないぞ。うどんや、おじやは…
+
+R
+今度にしとけ…
+
+M
+寝るのはや…
+
+R
+疲れねえほうがおかしいだろ。寝かしといてやろうぜ。
+
+Y
+時に竜司、杏とは、どういう関係だ？
+
+R
+あ？別に、同じ中学っつーだれだよ。
+
+M
+昔のアン殿は…どんなだったんだ？
+
+R
+そんな変わんねえよ。
+
+R
+高校からは、クラス別んなって、話さなくなっちまったけど…
+
+R
+友達は少なかったな。
+
+R
+帰国子女で、見た目もコレだからな。派手な奴は勝手に嫌うし、地味な奴は近づかない。
+
+Y
+そうだったのか…
+
+Y
+で、お前たちはどうだったんだ？
+
+R
+俺ら…？
+
+Y
+互いを知るにはいい機会だ。
+
+Y
+俺の過去はすっかり知られたんだ。お前たちも話すべきだ。
+
+R
+自分は失うモンがねーってか。
+
+R
+いいぜ、話すよ。ただの親不孝もんの話だけど。
+
+R
+小さい頃…オヤツが消えちまってさ。ずっとお袋と二人で暮らしてんだ…
+
+R
+ホントは陸上で特待生とかになって、お袋に楽させたかったんだ。
+
+R
+結局、ダメにしちまったんだけどよ。ハハ、すっげえ親不孝者だろ？
+
+R
+高1んとき、鴨志田に手ぇ上げちまって、それでお袋、学校に呼び出されてよ…
+
+R
+教師連中から言いたい放題言われてさ。そんときお袋、じっと我慢してた…
+
+R
+あのときのお袋の顔…今でも忘れらんねえ。
+
+R
+帰りに、謝られたんだ。片親でごめんってよ。
+
+Y
+そんな事があったのか。
+
+Y
+学校は「みんな平等」と教えるが、現実は、そんな綺麗ばかりじゃない…
+
+Y
+…気持ちは、俺にはわかる。
+
+R
+まぁ、レッテルつったら、こいつこそ、大概だけどさ。
+
+R
+例の話か。
+
+M
+そういえば、詳しく訊いたことなかったな。
+
+#Back in the past with Shido
+
+Shido
+このガキ、訴えてやる！
+
+Woman
+これ以上するなら…
+
+Woman
+あのお金のこと、告発しますよ！？いいんですか？
+
+Shido
+そんなの、「お前が勝手にやった」って言えば済む話だ。
+
+Woman
+うそ…だって、私は指示の通りに…
+
+Shido
+俺を誰だと思ってるんだ？
+
+Woman
+そんな…
+
+Shido
+おい、お前。警察に、こう証言しろ。
+
+Shido
+「ガキが、いきなり俺に乱暴をしてきた」ってな。
+
+Shido
+ちょっとでも余計なこと喋ったら…分かってんだろうな？
+
+Woman
+え、そんな…
+
+&gt;ふざけるな
+勝手に倒れたくせに
+
+Shido
+黙れ、貴様は終わりだ。
+
+Shido
+俺に逆らったらどうなるか…お前らに思い知らせてやる。
+
+Police
+すみませーん。通報があったんですが、何かありました？
+
+Police
+あっ！貴様は…
+
+Shido
+どういう状況だった？警察の方に説明してやってくれ。
+
+Woman
+そこの少年が、突然殴りかかってきて…この人を、強く突き飛ばしました。
+
+Woman
+それで、この人が…怪我を…
+
+Shido
+…だ、そうですよ。
+
+Shido
+それと…俺の名前は一切出ないよう、処理してくれたまえ。
+
+Shido
+どういう意味か…分かるよな？
+
+Police
+は…はっ！
+
+Police
+おい、確保しろ！
+
+Police
+わ、分かりました！
+
+#back in Leblanc
+
+R
+聞いてるだけ腹立ってきやがるぜ…
+
+R
+くっそ…！
+
+R
+たったそんだけで「傷害」かよ？
+
+Y
+女の方も、酷いな。ダンマリを決め込んだわけだろ？
+
+M
+そういうヤツの心こそ盗むべきだ！どこのどいつだ、その男！
+
+&gt;知らない男だった…
+よく覚えてない…
+暗がりだったから…
+
+M
+思い出せない、か…まあ夜道だった上に、逮捕なんてショックが重なったんじゃな…
+
+M
+肝心な事が思い出せねえ辛さは、ワガハイよく分かるぜ。
+
+Y
+被害者の個人情報は捕獲される。特定は難しいだろうな…
+
+Y
+それにもう判決が出たんだろう？
+
+Y
+うまく相手を特定して仕返しできても、こいつの前歴は消えやしない…
+
+R
+ありえねえ…
+
+R
+世の中、間違ってるぜ！
+
+R
+弱ってるヤツ助けねえで、身勝手な大人を勝ち逃げさせてよ！
+
+M
+偉いヤツが決めることなんてアテになんねえよな。
+
+Y
+俺たちなら正せるんじゃないか？誰にも気付かれずに…
+
+Y
+俺たちが正しい「正義」を見せつけて、世間のめを覚まさせてやればいい。
+
+R
+ああ、そうだぜ祐介！その為に授かった力だろ、絶対っ！
+
+M
+いいんじゃないか？…仕事は派手に決める方が格好いいしな。
+
+Y
+お前らに教えられたことだ。
+
+A
+…何、熱くなってんの？
+
+R
+あっと…悪ぃ…起こした？
+
+A
+ううん、別に。中途から起きてたし。
+
+A
+けど、なんか不思議。
+
+A
+聞きながら思ったよ。みんなのこと、昔から知ってる気がする…
+
+A
+これって「似た者同士」だからかな？
+
+R
+ま…ロクなもんじゃねえけど。
+
+M
+似た者同士か…ワガハイだけちがうな…
+
+M
+…ワガハイには、振り返れるほどの記憶は無いからな…
+
+R
+何言ってんだ。オマエ以上のはみ出しモンなんて世界中探したってそういるかよ。
+
+R
+てえか、その記憶を取り戻すためにメメントス行くんだろ？
+
+Y
+きっと、俺たちみたいに、ロクでもない過去だろうがな。
+
+R
+違えねえ、絶対そうに決まってんな。
+
+M
+へん、それはどうかな！
+
+A
+モルガナも、なんだか昔から知ってる気がする。すごくずっと昔から。
+
+M
+怪盗団を助けてんのはワガハイ自身のためだ。勘違いすんなよっ！
+
+M
+オマエらに強くなってもらわないと、メメントス探索ところじゃねえからなっ！
+
+R
+いじけたり偉ぶったり忙しいヤツ…
+
+A
+ねえ、やろうよ…本当に。私、行けるとこまでいきたい…
+
+A
+ダメな大人をこらしめて、困ってる人たちを勇気づけたい…
+
+A
+私たちにしかできないことっ！
+
+R
+たりめーだっ！
+
+Y
+怪盗団を続けていれば俺も成長できる。描きとしても、人としても。
+
+M
+ワガハイが直々に鍛えてやるんだ。この怪盗団で、できないことはない！
+
+A
+ってことで…改めてよろしく、リーダー。
+
+よろしく
+&gt;仕方ない
+
+A
+…もうこんな時間？
+
+R
+今日は、この辺でお開きにすっか！
+
+A
+ああ、そうだ。マスターが泊まってけって言ってたよ。
+
+Y
+それは…ありがたい。
+
+R
+お前が説得したんだろ？さっすが、親父キラー。
+
+A
+超嬉しくない！
+
+Y
+風呂に入らないと寝られないが…
+
+M
+銭湯あるから行って来いよ。ワガハイは行けないけどな。
+
+R
+へー、いいかもな！杏はどうなんの？
+
+A
+あんた達だけでどうぞ。
+
+A
+じゃあね、モルガナ！おやすみ！
+
+M
+…チクショウ、早く人間に戻んなきゃ。
+
+M
+誰かに盗られちまう前に…！
+
+#at the bathhouse
+
+R
+やっぱ広い風呂っていいぜ～。杏も来ればよかったのにな～。
+
+Y
+ちょっと熱い気がするが…
+
+R
+爺さん、熱いの好きだからな。まあ、そのうちやめんだろ…
+
+R
+そういえばさ、前から気になってたんだけど…
+
+R
+お前って、杏のことどう思ってんの？「女」として。
+
+いいと思う
+どうだろう
+&gt;ただの仲間だ
+
+R
+いや、そうじゃなくてよ。
+
+R
+つーか、お前ちょっと不健全じゃないの？下手なアイドルより、見た目だけはよくね？
+
+Y
+杏にそれ、伝えておく。
+
+R
+やめて、マジで…
+
+Y
+しかし、早く次のターゲットを見つけ出さないとな。
+
+R
+…それなんだけどさ、「大物を狙う」ってだけでいいのかな…
+
+R
+ここんとこの世間の反応見てると、ちょっと考えちまうぜ…
+
+Y
+…たしかに、目先を追うだけでは、ただの空回りに終わるかもしれない。
+
+Y
+世間に訴える「戦略」が必要だな…
+
+R
+お？どんなんだ？
+
+Y
+俺がそんな戦略、立てられるとでも？
+
+R
+聞いた俺がバカだったよ。
+
+R
+俺は切込み隊長役っつーか…モルガナはあっちの世界専門だし…
+
+R
+むー、ふう…それにしても…
+
+#Ryuji yells at old man
+
+R
+…だぁ！！あちいんだよ！！！
+
+R
+どんだけ、いれりゃ気が済むんだよ！熱湯ジジイ！！
+
+R
+…俺もう、無理！！
+
+R
+とりあえず、週明けにでも集まろうぜ。また連絡すっからよ！
+
+#back at Leblanc
+
+Y
+まだ寝ないのか？
+
+Y
+俺はここでいい。アトリエで寝ることもあるし、気にするな。
+
+#going to bed
+
+Y
+明日の朝食だが、気を使わなくていいぞ。焼き魚と味噌汁があれば十分だからな？
+
+#here comes the Velvet Room
+
+Justine
+囚人&lt;name&gt;、戻りました。
+
+Caroline
+主の前だぞ！姿勢を正しせっ！
+
+Igor
+お前が手繰り寄せた緑、実に興味深い…
+
+Igor
+皆、社会から一方的に焼印を押され、そして、それに抗う者というわけか。
+
+Igor
+気付いているか？お前の心も彼らに触発されているようだ。
+
+Igor
+フフ、社会の異端者…言うなればピカレスク。その者たちとの絆をより深めるのだ。
+
+Igor
+それが、お前の更生への力となるだろう。…楽しみにしている。
+
+Igor
+私から贈り物だ。今のお前に相応しい新たな力を与えよう。
+
+Igor
+より一層の更生に励むがいい。
+
+Igor
+そろそろ時間だな…
+
+#7/12 begins, at school
+
+Akechi
+冴さんの妹さん、だよね？
+
+Akechi
+少し、話せないかな？
+
+Makoto
+怪盗団のこと？…明智くん。
+
+Akechi
+…察しがいいね。
+
+Akechi
+鴨志田と斑目の事例で、なにか共通はないのかなってさ。
+
+Akechi
+被害者が出てるんだし、怪盗団のことは追及しないと。
+
+Makoto
+怪盗団を否定しているのに、怪盗団の実在は疑わないんですね。
+
+Akechi
+ああ、テレビ観てくれたんだ。
+
+Akechi
+真実を追いかけるのに、常識が邪魔になることだってあるからね。
+
+Akechi
+彼らがいるって考えた方が、多くの事につじつまが合う。
+
+Makoto
+これ…お姉ちゃんに言われて？
+
+Akechi
+たまたまだよ。
+
+Makoto
+なんか、楽しんでません？
+
+Akechi
+…そうかもね。
+
+Akechi
+「予告怪盗」なんてフィクション、現実でやり遂げたヤツがいるとしたら…
+
+Akechi
+「カリスマ探偵」なんて言われてる身としては、ライバル視するなって方が無理だろう。
+
+Makoto
+自己評価が高いのね。
+
+Makoto
+怪盗は悪で、貴方が正義？
+
+Akechi
+勝手に人の心を弄ってる奴と比べれば、少なくとも僕は正義の側にいる。
+
+Akechi
+それに僕は自分に備わった才能を使って世のために奉仕しているにすぎない。
+
+Akechi
+君だって、そうじゃないの？
+
+Makoto
+私は…
+
+Akechi
+…なんだ君、意外と言いなりのいい子ちゃんタイプか。
+
+#Akechi takes out phone
+
+Akechi
+…そろそろ始まるな。
+
+Akechi
+じゃあね、冴さんによろしく。
+
+Makoto
+なんで、私ばかり責められるの…
+
+#Leblanc, Sakura and Yusuke
+
+Y
+こんな美味しいコーヒーが飲めるなんて。
+
+Sakura
+…次が決まるまで、居ていいんだぞ？住み心地は良くねえだろうがな。
+
+Y
+いえ、寮に戻ることにしました。みんなと昨日一晩話をしてわかったんです。
+
+Y
+俺は絵の世界に閉じ籠っていたせいか、世間を…他人を知らなすぎたと。
+
+Y
+人間を描くなら、もっと知らないといけない。色んな人と触れ合う必要があると思ったんです。
+
+Y
+まずは寮に戻って…身近な人たちと触れ合うことからやり直そうと。
+
+Sakura
+大してもんだよ。よく自分で気付けたな。
+
+Y
+大げさですよ。またコーヒーを頂きに来ても？
+
+Sakura
+まってるよ。
+
+Y
+彼も、大変だっんですよね…
+
+Y
+マスターと彼は親戚なんですか？
+
+Sakura
+え？ああ…なんつうか…ただの知人だ。血は繋がってねえ。
+
+Y
+立ち入った質問かもしれませんが、なぜ彼を引き取ることに？
+
+Sakura
+理由…か。
+
+Sakura
+似てるからかね…昔の自分に。
+
+Y
+それだけの理由で？
+
+Sakura
+世の中そんなモンさ。誰かが誰かを気にかけるってのは。
+
+Sakura
+お前さんとこの師匠…あ、「元」師匠？
+
+Sakura
+その人だって、才能を盗むって以外に、お前に、なんか想うとこがあったんだろうよ。
+
+Y
+俺も…心の底からは、憎めません。
+
+Y
+俺、そろそろ…
+
+#pan over to Sayuri hanging on wall
+
+Sakura
+なあ、ホントにいいの？絵。ウチなんかにはもったいないぜ。
+
+Y
+寮で俺だけが抱えているのも、好奇の目に晒されるのも嫌でしょうから。
+
+Y
+何の変哲も無い日常を、ほんの少し彩る。母もきっと、同じ選択をするはずです。
+
+Sakura
+…そうか。じゃあ、預かっといてやるよ。
+
+Y
+ごちそうさまでした。
+
+Y
+…また。
+
+#Leblanc attic, Morgana and Main Character
+
+M
+…ようやくお目覚めかよ。
+
+&gt;祐介は？
+腹が減った
+
+M
+起きたらいなかったぞ。先に下でくつしろいでんだろ。
+
+#downstairs
+
+Sakura
+…起きた。もう昼過ぎだぞ。
+
+Sakura
+あの坊主なら、やっぱり寮に戻るとよ。
+
+Sakura
+この絵置いて、出てったぞ。世話になった礼だそうだ。
+
+&gt;サユリか
+律儀だな
+売るなよ
+
+Sakura
+今どき珍しい、義理固い坊主だ。
+
+Sakura
+わが子を想う母親、いい絵じゃねかか？モデルは掛け値無しの美人だが、表情がいい。
+
+Sakura
+こんなの見たら、常連ども、腰抜かすんじゃねえか？
+
+Sakura
+それにしてもこの絵、どっかで見覚えが……ちょっと違うか。
+
+Sakura
+さて…起きたんなら、さっさと上で着替えてこい。
+
+Sakura
+とっくに開店してんだからよ。猫でも連れて、どっか行ってろ。
+</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

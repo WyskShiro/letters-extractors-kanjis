@@ -1,0 +1,1350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 21 (Japanese + English) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 21 (Japanese + English) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/vmei1gKh" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/vmei1gKh" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="fbMpb5UU_QysBGcEJYoaNZIPsEwT1E_7EePid_suRLpNgVkV73OPR9lAKUlzs1B_8DbVe2ngC5B_1I8wiGMv_g==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/vmei1gKh" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/vmei1gKh" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 21 (Japanese + English)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Thursday 5th of September 2019 07:26:10 AM CDT">Sep 5th, 2019</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    195                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 32.73 KB            </div>
+
+            <div class="right">
+                <a href="/raw/vmei1gKh" class="btn -small">raw</a>
+                <a href="/dl/vmei1gKh" class="btn -small">download</a>
+                <a href="/clone/vmei1gKh" class="btn -small h_800">clone</a>
+                <a href="/embed/vmei1gKh" class="btn -small h_800">embed</a>
+                <a href="/report/vmei1gKh" class="btn -small">report</a>
+                <a href="/print/vmei1gKh" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">#Back from Ryuji hangout</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">理事会は明日か</div></li><li class="li1"><div class="de1">Tomorrow&#039;s the board meeting...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、大丈夫だ。きっと、改心してるはずだ。</div></li><li class="li1"><div class="de1">Don&#039;t worry.  I&#039;m sure the change of heart worked.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">理事会、明日だよね？</div></li><li class="li1"><div class="de1">The board meeting&#039;s tomorrow, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田が改心しねえと俺らは退学か</div></li><li class="li1"><div class="de1">We&#039;re gonna get expelled if Kamoshida doesn&#039;t have a change of heart by then...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;きっと改心する</div></li><li class="li1"><div class="de1">しかたない</div></li><li class="li1"><div class="de1">I&#039;m sure he will.</div></li><li class="li1"><div class="de1">We did all we could.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">きっと改心する</div></li><li class="li1"><div class="de1">I&#039;m sure he will.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">絶対するしてくれなきゃ困る</div></li><li class="li1"><div class="de1">He&#039;ll definitely change.  It would be a real problem for us if he didn&#039;t.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうだよな</div></li><li class="li1"><div class="de1">You&#039;re right.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">諦めるのはまだ早いよな</div></li><li class="li1"><div class="de1">It&#039;s a little too early to be giving up now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どっちにしろ明日になればわかる</div></li><li class="li1"><div class="de1">Guess we&#039;re gonna find out one way or the other tomorrow.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">腹を括るしたねえな</div></li><li class="li1"><div class="de1">We just gotta brace ourselves for all the possibilities.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">保証してやれなくて悪いな。だが、必ず変化はあるはずだ。</div></li><li class="li1"><div class="de1">I&#039;m sorry I can&#039;t offer more reassurance, but he should have the change of heart.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">信じて明日を待とうぜ。</div></li><li class="li1"><div class="de1">Let&#039;s just believe in that while we wait for tomorrow.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#tv</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">地下鉄の事故から三週間</div></li><li class="li1"><div class="de1">It&#039;s been three weeks since the tragic subway disaster.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">事故への対応をめぐって、大臣が辞任する事態となりましたが</div></li><li class="li1"><div class="de1">In the course of addressing the accident, the Minister of Transport ended up resigned.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">事故当時の様子など、不明な点も多く捜査は難航している模様です</div></li><li class="li1"><div class="de1">Many questions, however, still remain unanswered, as police struggle in their investigation.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この事故、オマエが来てからすぐ起きたんだろ？</div></li><li class="li1"><div class="de1">That accident happened right after you moved here to Tokyo, didn&#039;t it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back in the attic</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しかし、改めて見ると部屋にモノがなくて寂しいな</div></li><li class="li1"><div class="de1">This room looks so desolate since there&#039;s nothing in here...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、ワガハイにいい考えがある。</div></li><li class="li1"><div class="de1">...I have a good idea.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">部屋の隅に転がってるイスを持ってきてくれる。</div></li><li class="li1"><div class="de1">Bring me that chair, the one in the corner.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これに乗れば天井の梁に手が届くだろ？</div></li><li class="li1"><div class="de1">You can reach that beam on the ceiling if you stand on this chair, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;届きそうだ。</div></li><li class="li1"><div class="de1">高い所は苦手</div></li><li class="li1"><div class="de1">汚れてそう</div></li><li class="li1"><div class="de1">I should be able to.</div></li><li class="li1"><div class="de1">I&#039;m not good with heights.</div></li><li class="li1"><div class="de1">It looks dirty...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし！天井の梁を使って身体を鍛えるぞ</div></li><li class="li1"><div class="de1">All right! Let&#039;s train your body using that ceiling beam!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうせやることもないんだ。鍛えておいても損はない。</div></li><li class="li1"><div class="de1">You&#039;re not doing anything right now.  There&#039;s no harm in training.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ワガハイがビシバシ鍛えてやるから覚悟しとけよ？</div></li><li class="li1"><div class="de1">I&#039;m going to whip you into shape, so you better be prepared.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examine plant</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">飾ってみたものの、なんだか元気ないな</div></li><li class="li1"><div class="de1">We thought it&#039;d look nice, but it looks a bit dead...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">元気になる栄養剤とか　どこかに売ってないかな？</div></li><li class="li1"><div class="de1">Don&#039;t they sell nutrients or something that&#039;ll bring some color back to it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#speak with Morgana</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">理事会は明日だな</div></li><li class="li1"><div class="de1">The board meeting&#039;s tomorrow...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examining television</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そういや、DVDが見れるんだっけ？今度、レンタル屋に行かないとな</div></li><li class="li1"><div class="de1">Oh yeah, you can watch DVDs now, right?  We should go to a rental shop sometime.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#sit on couch</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">大丈夫だ。ワガハイを信じろ。</div></li><li class="li1"><div class="de1">It&#039;ll be OK.  Just trust me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examining washers at laundromat</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ぐるぐる回ってるな</div></li><li class="li1"><div class="de1">All the clothes inside are spinning in a circle...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">き、気持ちが悪くなってきた。危険だぜ、コレ。</div></li><li class="li1"><div class="de1">...I-I&#039;m starting to get dizzy.  I think this thing&#039;s dangerous!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examining dryers</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そういえば汚れた物持ってなかったか？こいつで洗ってみるのはどうだ？</div></li><li class="li1"><div class="de1">Oh yeah, didn&#039;t you have something dirty?  Why don&#039;t you trying washing it with this?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もう汚れた物持ってないな このまま洗うか？</div></li><li class="li1"><div class="de1">You don&#039;t have any more dirty items.  Do you wanna just run the washing machine now?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;このまま洗おう</div></li><li class="li1"><div class="de1">洗うのはやめる</div></li><li class="li1"><div class="de1">Run the wash as is</div></li><li class="li1"><div class="de1">Cancel</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ガタガタ揺れてるぜ</div></li><li class="li1"><div class="de1">This is thing is shaking a lot...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">洗濯機の上にいると、振動が心地よく感じるぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おっ、終わったみたいだな。</div></li><li class="li1"><div class="de1">Oh, it looks like it&#039;s done.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おおっ、やったぜ！意外とキレイになったじゃないか！</div></li><li class="li1"><div class="de1">Oooh!  This is much cleaner than I expected!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それじゃ、そろそろ帰ろうぜ！</div></li><li class="li1"><div class="de1">Finally!  Let&#039;s head home!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ふぁあ～月曜とかマジかったるい</div></li><li class="li1"><div class="de1">*yawn* Mondays are always such a drag...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つうか、明日から連休だし今日休みで良くね？マジ意味分かんないし</div></li><li class="li1"><div class="de1">Why couldn&#039;t they give us today off, too?  We have the rest of the week off starting tomorrow...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">意味分かんないっつたら、ホラ、鴨志田に届いた予告状。</div></li><li class="li1"><div class="de1">Yeah, it&#039;s ridiculous.  Speaking of, what&#039;s up with that calling card?  The one sent to Kamoshida.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんか「歪んだ欲望を盗る」とかって</div></li><li class="li1"><div class="de1">Didn&#039;t it say something about &quot;stealing his distorted desires&quot; or something weird like that?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そういや、そんなんあったな</div></li><li class="li1"><div class="de1">Yeah, something like that...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、どうせタダのイタズラだろ？本気にしてるヤツなんていねえよ。</div></li><li class="li1"><div class="de1">I&#039;m sure it&#039;s just a prank.  No one&#039;s taking it seriously.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いきなり朝礼とか</div></li><li class="li1"><div class="de1">What&#039;s with the sudden morning assembly...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうせ前の飛び降りのことでしょ？</div></li><li class="li1"><div class="de1">I bet it&#039;s about that girl that jumped the other day.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">言われなくても自殺なんてしないっての。</div></li><li class="li1"><div class="de1">They don&#039;t have to tell us not to commit suicide.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ヘンな予告状もあったし、先生もテンパってんじゃない？</div></li><li class="li1"><div class="de1">There was that weird calling card too, so I guess the teachers are freaking out?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">前校長礼を行います。</div></li><li class="li1"><div class="de1">Let&#039;s begin this school-wide morning assembly.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">先日、痛ましい事件が起きたのは皆さんもご存じの通りです。</div></li><li class="li1"><div class="de1">As you all know, a tragic event took place the other day.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">辛い一命は取り留めたと聞いていますが、回復にはまだ時間がかかるとの事です。</div></li><li class="li1"><div class="de1">Thankfully, we have been informed that she pulled through, but it will take time until she recovers.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">君達、未来ある若者に、今一度考えてほしいのは、命の尊さ</div></li><li class="li1"><div class="de1">Everyone here has a bright future ahead.  I implore that you rethink the importance of life and-</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田先生、どうし</div></li><li class="li1"><div class="de1">Mr. Kamoshida, what&#039;s the-</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私は　生まれ変わったんです。</div></li><li class="li1"><div class="de1">I... have been reborn.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だから皆さんにすべてを告白しようと思います</div></li><li class="li1"><div class="de1">That is why I will confess everything to you all...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私は教師としてあるまじきことを繰り返してまいりました</div></li><li class="li1"><div class="de1">I have repeatedly done things that were... unbecoming of a teacher.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">生徒への暴言、部員への体罰　そして　女子生徒への性的な嫌がらせ</div></li><li class="li1"><div class="de1">Verbally abusing students... physically abusing my team, and... sexually harassing female students.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鈴井志帆さんが飛び降りたのは、私が原因です！</div></li><li class="li1"><div class="de1">I am the reason why Shiho Suzui tried to kill herself!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私はこの学校を、自分の城のように思っていた</div></li><li class="li1"><div class="de1">I thought of this school as my own castle...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">気に入らないというだけの理由で退学を言い渡した生徒もいます。</div></li><li class="li1"><div class="de1">There were even students that I sentenced to expulsion, simply because I didn&#039;t like them...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もちろん、それは撤回します</div></li><li class="li1"><div class="de1">I will, of course, rescind those...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何の罪も無い青少年を、酷い目に遭わせて本当に済まなかった</div></li><li class="li1"><div class="de1">I am truly sorry for putting innocent youths through such horrible acts...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私は傲慢で、浅はかで　恥ずべき人間、いや人間以下だ</div></li><li class="li1"><div class="de1">I&#039;m an arrogant, shallow... and shameful person.  No, I&#039;m worse than that...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">死んでお詫びします　！</div></li><li class="li1"><div class="de1">I will take responsibility and kill myself for it...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田先生！とりあえず、降りて！！</div></li><li class="li1"><div class="de1">Mr. Kamoshida!  Please get off the stage for now!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">解散、解散！！</div></li><li class="li1"><div class="de1">Everyone, return to your class!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私は　ッ！</div></li><li class="li1"><div class="de1">I-</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">逃げるな！</div></li><li class="li1"><div class="de1">Don&#039;t run, you bastard!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">志帆だって　死にたいほどの事件の続きを、ちゃんと生きてる！</div></li><li class="li1"><div class="de1">Shiho&#039;s still alive after all the things that made her want to die!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アンタだけ、逃げないで！</div></li><li class="li1"><div class="de1">You have no right to run from this!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">その通りだ　まったくその通りだ</div></li><li class="li1"><div class="de1">You&#039;re right... You&#039;re absolutely right...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私は、きちんと裁かれ罪を償うべきだ</div></li><li class="li1"><div class="de1">I should be punished under the law and atone for my crimes...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私は、高巻さんにも、酷いことをしました。</div></li><li class="li1"><div class="de1">I did horrible things to Takamaki-san as well.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鈴井さんにポジションを与えることを条件に、高巻さんに　関係までも迫りました。</div></li><li class="li1"><div class="de1">In return for giving Suzui-san a position on the team... I tried to force her into having relations.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日限りで教師の職を辞して自首いたします。</div></li><li class="li1"><div class="de1">As of today, I will resign from my position as an instructor and turn myself in.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どなたか、警察を呼んでくれ！</div></li><li class="li1"><div class="de1">Someone, please call the police!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">スゲェ</div></li><li class="li1"><div class="de1">Wow...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">朝礼は終了します！解散！解散して！！</div></li><li class="li1"><div class="de1">This morning&#039;s assembly is over!  Return to your classes immediately!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これ　「予告」通りじゃね？</div></li><li class="li1"><div class="de1">Isn&#039;t this just like what that calling card said...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">怪盗って、マジだったってこと！？</div></li><li class="li1"><div class="de1">Does that mean the Phantom Thieves thing was for real!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田が、なんかされたのか！？</div></li><li class="li1"><div class="de1">Was something done to Kamoshida!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、心を盗むとか、ないだろ！</div></li><li class="li1"><div class="de1">C&#039;mon, there&#039;s no way you could steal someone&#039;s heart!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも「死んでお詫びます」とか「自首します」とか、急に言う？</div></li><li class="li1"><div class="de1">But why else would he start saying things like he&#039;ll kill himself or turn himself in?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">バレそうになったんじゃない？自首のが罪軽いんじゃないっけ？</div></li><li class="li1"><div class="de1">Maybe because it almost got leaked?  Don&#039;t they go easier on you if you turn yourself in?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何があったんだろうな</div></li><li class="li1"><div class="de1">I wonder what happened...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わかんね。けど、鴨志田ってクズだったんだな。</div></li><li class="li1"><div class="de1">Who knows?  But man, Kamoshida turned out to be one sick bastard.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">教室に戻りなさい！</div></li><li class="li1"><div class="de1">Return to your classrooms at once!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本当に　心が、変わっちゃったんだね</div></li><li class="li1"><div class="de1">His heart really did change...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">みたいだな。</div></li><li class="li1"><div class="de1">Seems like it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも、これでよかったのか？</div></li><li class="li1"><div class="de1">But, was this really for the best?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;よかった</div></li><li class="li1"><div class="de1">どうだろう</div></li><li class="li1"><div class="de1">まだわからない</div></li><li class="li1"><div class="de1">I think so.</div></li><li class="li1"><div class="de1">I dunno...</div></li><li class="li1"><div class="de1">But what Kamoshida said...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そう、だよな。</div></li><li class="li1"><div class="de1">Yeah... it&#039;s gotta be.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど展開が急すぎっつーか</div></li><li class="li1"><div class="de1">But things&#039;re happenin&#039; way too fast...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんだ？</div></li><li class="li1"><div class="de1">Huh...?  What the...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">高巻さん　ごめん！</div></li><li class="li1"><div class="de1">Takamaki-san... I&#039;m sorry!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺たち、知ってたのに　見て見ぬフリしてた。</div></li><li class="li1"><div class="de1">We all knew... but we pretended we didn&#039;t.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">高巻さん、私、誤解してて　変な噂広めちゃって　ごめん！</div></li><li class="li1"><div class="de1">Takamaki-san, I had you all wrong... I&#039;m sorry that I spread rumors about you!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私、全然、知らなくて</div></li><li class="li1"><div class="de1">I didn&#039;t know at all...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田に、無理やり迫れてたんだね　辛かったね　！</div></li><li class="li1"><div class="de1">Kamoshda was forcefully pushing himself on you... It must&#039;ve been so hard for you...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">謝りたいって思ってる子きっと、たくさんいると思う。</div></li><li class="li1"><div class="de1">I&#039;m sure there&#039;s a ton of people who want to apologize to you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ごめんね　！</div></li><li class="li1"><div class="de1">We&#039;re so sorry...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ううん。いいの、私だって</div></li><li class="li1"><div class="de1">No, it&#039;s OK.  The same goes for me too...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それに　全部、済んだ話だから。</div></li><li class="li1"><div class="de1">Besides, that&#039;s all in the past now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おい、そこ！早く戻れ！</div></li><li class="li1"><div class="de1">Hey, you there!  Return to class at once!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃ、じゃあ</div></li><li class="li1"><div class="de1">W-Well, see you later then...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">君にも、本当に悪いことした。</div></li><li class="li1"><div class="de1">I can&#039;t apologize enough for what I did to you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いつか、埋め合わせするから。</div></li><li class="li1"><div class="de1">...I swear I&#039;ll make it up to you someday.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">心が変わったのは　どうも、鴨志田だけじゃねーみてえだな。</div></li><li class="li1"><div class="de1">Looks like Kamoshida ain&#039;t the only one that had a change of heart.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つか、よかったじゃん。妙な噂も無くなりそうだし。</div></li><li class="li1"><div class="de1">Man, I&#039;m glad for you.  Looks like those weird rumors are gonna go away.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいよ、私のことは。</div></li><li class="li1"><div class="de1">My thing doesn&#039;t really matter.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田に、志帆のこと謝らせてやった。私、それだけで</div></li><li class="li1"><div class="de1">We made Kamoshida apologize about Shiho... That&#039;s more than enough for me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なら、早く報告してやれよ。</div></li><li class="li1"><div class="de1">You should hurry and tell her about it then.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうだね。</div></li><li class="li1"><div class="de1">...Yeah.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ビビったわ　マジで「改心」だったな</div></li><li class="li1"><div class="de1">I totally freaked... He really did have a change of heart...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">運よく廃人化も無かったし、百点満点だぜ！</div></li><li class="li1"><div class="de1">And we were lucky his mind didn&#039;t get messed up either!  This was an A+ job!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">パレスが消えても、廃人化が起きないってことだろ　？</div></li><li class="li1"><div class="de1">Does this mean that they won&#039;t have a mental shutdown even if their Palace disappears...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なるほど　シャドウが死んじまう前に説得して、現実の本人のもとに返してやればいいってことか。</div></li><li class="li1"><div class="de1">I see... So we need to persuade the Shadow without killing it, and then send it back to its real self.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうすれば、廃人化は起きないってわけだ。</div></li><li class="li1"><div class="de1">Our targets won&#039;t undergo a cognitive collapse if we do that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つまり、ちゃんと自白だけ狙えるって事だな？</div></li><li class="li1"><div class="de1">So, we can get &#039;em to confess with no bad stuff?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">面白えじゃねえの！</div></li><li class="li1"><div class="de1">Hey!  That works for me!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">声でかいから。</div></li><li class="li1"><div class="de1">Do you have to be so loud?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">大丈夫だって。</div></li><li class="li1"><div class="de1">Don&#039;t worry about it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つーか、どうだった？見舞い</div></li><li class="li1"><div class="de1">So... how&#039;d it go?  With Shiho, I mean...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">志帆　意識、戻ったの　！</div></li><li class="li1"><div class="de1">She&#039;s regained consciousness...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">マジか！？</div></li><li class="li1"><div class="de1">For real!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">少しだけだけど、話せた　！</div></li><li class="li1"><div class="de1">It was only for a little bit, but I got to talk to her...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田が、自分のしたこと認めたよって　志帆に、言えた　！</div></li><li class="li1"><div class="de1">I was able to tell her that Kamoshida admitted to what he did...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">志帆　私に「ごめんね」だって</div></li><li class="li1"><div class="de1">Shiho, she... she told me she was sorry...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私が志帆のために鴨志田に媚びてたの、バレちゃってたみたい</div></li><li class="li1"><div class="de1">Looks like she found out that I was flirting with Kamoshida for her sake...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">謝りたいの、私の方なのに。</div></li><li class="li1"><div class="de1">And here I was, wanting to apologize to her.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">悪いのはカモシダだぜ。</div></li><li class="li1"><div class="de1">Kamoshida&#039;s at fault for all this.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうだね。</div></li><li class="li1"><div class="de1">I know...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">志帆のお母さんが、回復したら、転校させようと思うって。</div></li><li class="li1"><div class="de1">Shiho&#039;s mom is thinking of transferring her to another school after she recovers.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">セクハラとか、自殺未遂とか　やっぱレッテル付いて回るし。</div></li><li class="li1"><div class="de1">The whole sexual harassment and attempted suicide... people will label her after that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">志帆も、そうしたいって言ったみたい。</div></li><li class="li1"><div class="de1">Sounded like Shiho had the same idea too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">寂しくなんな</div></li><li class="li1"><div class="de1">It&#039;s gonna get lonely...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも、私もそれがいいと思った　ここにいたら、きっと辛いし。</div></li><li class="li1"><div class="de1">But, I think it&#039;s for the best... I&#039;m sure it&#039;ll be hard if she stays here.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いつだって会えんだろ　生きてりゃ、さ。</div></li><li class="li1"><div class="de1">She&#039;s alive.  You can see her anytime.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私も　変わんなきゃ。</div></li><li class="li1"><div class="de1">...I need to change too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">にしてもお前、鴨志田のシャドウ　よくガマンしたな？</div></li><li class="li1"><div class="de1">That aside, I was surprised you could hold yourself back against Kamoshida&#039;s Shadow.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私はただ　鴨志田に、直接謝らせたかったっていうか</div></li><li class="li1"><div class="de1">It wasn&#039;t like that... I just wanted Kamoshida to apologize himself.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アン殿は優しいんだよな。</div></li><li class="li1"><div class="de1">You&#039;re so kind, Lady Ann.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">クズ相手でも廃人化は寝覚めが悪ぃか。</div></li><li class="li1"><div class="de1">No matter how much of a shit bag he was, finishing him off woulda left a bad aftertaste, huh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、違うけど？</div></li><li class="li1"><div class="de1">Huh?  That&#039;s not it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">改心させた方が、復讐になるなって思って。</div></li><li class="li1"><div class="de1">I think revenge is better served if I make him repent.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アイツのしたこと考えれば、生きてる間、永遠に頭下げ続けることになるじゃん？</div></li><li class="li1"><div class="de1">Realizing what he&#039;s done, he&#039;ll grovel for forgiveness the rest of his life, you know?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「世の中、死ぬより辛い罪もあるな　」って思っただけ。</div></li><li class="li1"><div class="de1">I just believe there are fates worse than death.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こわ</div></li><li class="li1"><div class="de1">Holy shit...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、まあともかく、一件落着だけどよ</div></li><li class="li1"><div class="de1">A-Anyways, that&#039;s all settled...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そう言や、1つ気になってんだ。あの「城」のこと。</div></li><li class="li1"><div class="de1">But you know, there was one more thing I was wonderin&#039; about that castle.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あんなヘンな異世界が、なんで鴨志田にだけあったんだ？</div></li><li class="li1"><div class="de1">Why was Kamoshida the only one who had that Metaverse thing?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">別にあのカモシダに限った事じゃない。</div></li><li class="li1"><div class="de1">It isn&#039;t necessarily limited to him.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">欲望で心に歪みが起きてるヤツなら、誰でも持ちえるモノさ。</div></li><li class="li1"><div class="de1">It&#039;s something anyone could have if their heart became warped from their desires.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">誰でも</div></li><li class="li1"><div class="de1">Anyone...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">確かめてみるか？</div></li><li class="li1"><div class="de1">Wanna check it out?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">い、今はいい。しばらくは大人しくしてねえと。鴨志田のこと、また騒がれるだろうしな。</div></li><li class="li1"><div class="de1">N-Not right now.  We better lay low for a while.  People are still gonna be talkin&#039; about Kamoshida.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、パレスでやったこと調べるなんて、ぜってー不可能だろうけどよ。</div></li><li class="li1"><div class="de1">Then again, it&#039;s totally impossible for someone to find out what we did at his Palace.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">その事だけど　あんたたち、もう変な噂立てられてたよ。</div></li><li class="li1"><div class="de1">Yeah, about that... Weird rumors about you guys are already going around.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">結託して、鴨志田に暴力まがいの脅迫したって</div></li><li class="li1"><div class="de1">Stuff like, you got together and threatened Kamoshida with something close to physical violence...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んだそれ！？</div></li><li class="li1"><div class="de1">The hell!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さすがに怪盗が実在するなんて、そうそう信じないでしょ。</div></li><li class="li1"><div class="de1">People aren&#039;t going to easily believe that phantom thieves really exist.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">予告状は、鴨志田の悪事を知ってた誰かの悪戯ってことになってるみたい。</div></li><li class="li1"><div class="de1">The calling card&#039;s being treated like it was a prank by someone who knew what Kamoshida was doing.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そりゃそうか</div></li><li class="li1"><div class="de1">Makes sense...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やった本人でも信じ切れてねえし。</div></li><li class="li1"><div class="de1">We&#039;re the ones who did it, and I still don&#039;t completely believe it myself.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ひとまず、今後のことは、事態が落ち着いてから相談だね。</div></li><li class="li1"><div class="de1">Let&#039;s wait for things to settle down for the time being.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">とりあえず、このメダル、いくらで売れるか確認しよーぜ？</div></li><li class="li1"><div class="de1">Anyways, let&#039;s check how much this medal can be sold for.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こんなの、とっとと売っ払っちまったほうがいいだろ。</div></li><li class="li1"><div class="de1">It&#039;d be better if we pawned it off ASAP.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お、出た！</div></li><li class="li1"><div class="de1">Ooh, got a hit!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">って、3万！？金メダルの価値って3万かよ！？</div></li><li class="li1"><div class="de1">...Wait, thirty thousand yen!?  That&#039;s all a gold medal&#039;s worth!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">覚えてるー？中学の時に貸したお金。</div></li><li class="li1"><div class="de1">Remember that time in middle school?  I lent you some money.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、3万も借りてるわけねえだろ！</div></li><li class="li1"><div class="de1">There&#039;s no way I borrowed thirty thousand yen from you!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">利子が付いてたらこんなもんじゃない？</div></li><li class="li1"><div class="de1">Wouldn&#039;t it be around that much with compounded interest?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">誰も全部貰うなんて言ってないでしょ。</div></li><li class="li1"><div class="de1">I&#039;m not saying that I&#039;m taking all of it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">てか、何年も返さない方が悪いし！借りたものは返すって常識だし！</div></li><li class="li1"><div class="de1">I mean it&#039;s your fault for not paying me back all these years!  It&#039;s just common sense!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">事態を見守ることには賛成だ。</div></li><li class="li1"><div class="de1">I agree on laying low and keeping an eye on the situation.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しかしな、ワガハイを巻き込んでおいて、作戦成功の祝杯を挙げないなんてナンセンスだ。</div></li><li class="li1"><div class="de1">However, you dragged me into this.  It would be nonsense not to celebrate a successful mission.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こんなキメぇ金なんて、パーッと使っちまうのもありだな？</div></li><li class="li1"><div class="de1">I guess we could blow this dirty money on something fun.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">怪盗の相談は美食の席でと決まってる。どうだ？</div></li><li class="li1"><div class="de1">Discussions among phantom thieves are to take place over luxuious food.  How about it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょっと、それ</div></li><li class="li1"><div class="de1">Hey, wait-</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まぁ、いいか。だったら行きたい所があるんだけど。</div></li><li class="li1"><div class="de1">...Nah, I guess it&#039;s fine.  There&#039;s somewhere I want to go then.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どこだ？</div></li><li class="li1"><div class="de1">Where&#039;s that?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">志帆と行きたいって、前から言ってたとこ。</div></li><li class="li1"><div class="de1">It&#039;s a place Shiho and I have been wanting to go for a while.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺は借金あるし、文句は言えねえ</div></li><li class="li1"><div class="de1">I owe money, so I can&#039;t complain...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お前も、杏が決めた店でいいか？</div></li><li class="li1"><div class="de1">You good with that?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それでいい</div></li><li class="li1"><div class="de1">&gt;ラーメンがいい</div></li><li class="li1"><div class="de1">貯金しよう</div></li><li class="li1"><div class="de1">Fine by me.</div></li><li class="li1"><div class="de1">I want ramen.</div></li><li class="li1"><div class="de1">We should save the money.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んなの、いつだって食えんじゃんよ。</div></li><li class="li1"><div class="de1">We can eat something like that whenever we want.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ワガハイもアン殿に任せる。</div></li><li class="li1"><div class="de1">I&#039;ll leave it to your discretion as well, Lady Ann.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃああとで確認しとく。</div></li><li class="li1"><div class="de1">I&#039;ll call and check the prices later then.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いつ行くよ？さっそく明日にでも繰り出すか？</div></li><li class="li1"><div class="de1">When should we go?  Wanna do it soon, like tomorrow?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">連休の最後にしない？</div></li><li class="li1"><div class="de1">Why don&#039;t we go on the last day of the holidays?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">次の日からの学校生活に備えて、勢いつけるって意味で。</div></li><li class="li1"><div class="de1">It&#039;ll help energize us when school life starts up again the day after.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ってことは、5日の子供の日だな。</div></li><li class="li1"><div class="de1">Then... the 5th, on Children&#039;s day.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">で、換金は誰だやるの？</div></li><li class="li1"><div class="de1">So, who&#039;s going to sell this?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">任せとけ。なんでも買い取る店を知ったる。そうだよな、&lt;name&gt;?</div></li><li class="li1"><div class="de1">Leave that to us.  We know a store that&#039;ll buy anything.  Don&#039;t we, &lt;name&gt;?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃあお願いね。</div></li><li class="li1"><div class="de1">OK, Ill leave that to you guys.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あの金メダルって本物なの？いつの間にパレスに　？</div></li><li class="li1"><div class="de1">Is that gold medal real?  When did it get inside his Palace...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、あれは認知の産物　要はニセモノだな。</div></li><li class="li1"><div class="de1">No, that one is a fake.  It&#039;s just a by-product of his cognition.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ホンモノのメダルは、今でもちゃんと現実にあるはずだぜ。</div></li><li class="li1"><div class="de1">The real medal should still be in his possession.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ニセモノだそうだ</div></li><li class="li1"><div class="de1">本物は現実にあるらしい</div></li><li class="li1"><div class="de1">This one&#039;s a fake.</div></li><li class="li1"><div class="de1">Kamoshida has the real one.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ニセモノだそうだ</div></li><li class="li1"><div class="de1">This one&#039;s a fake.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んだよ　じゃあ鴨志田は金メダル奪われてねえってこと？</div></li><li class="li1"><div class="de1">What...?  You&#039;re telling me Kamoshida&#039;s still got the medal?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">改心できたんだし別にいいでしょ</div></li><li class="li1"><div class="de1">Who cares?  What matters is that we changed his heart.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">てか本物が消えてたらふつうに窃盗じゃん！</div></li><li class="li1"><div class="de1">And anyway, if we had taken the real thing, that&#039;d be stealing!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それに　もう前と同じようにはメダルを誇れないでしょ</div></li><li class="li1"><div class="de1">I don&#039;t think he&#039;ll be proud of that medal anymore regardless.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お前って案外サッパリしてるよなついでに借金も水に流してくれ</div></li><li class="li1"><div class="de1">You let go of stuff pretty easy, huh?  Wanna forget about my debt?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それとこれとは別中学生の500円は大きいの</div></li><li class="li1"><div class="de1">That&#039;s different.  Five hundred yen is a lot of money for a middle schooler, you know.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あの時のイルカのぬいぐるみまだ持ってんの？</div></li><li class="li1"><div class="de1">Do you even still have that dolphin anyway?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;イルカ？</div></li><li class="li1"><div class="de1">何の話だ？</div></li><li class="li1"><div class="de1">Dolphin?</div></li><li class="li1"><div class="de1">What are you talking about?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">イルカ？</div></li><li class="li1"><div class="de1">Dolphin?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">掘り返すなよ！</div></li><li class="li1"><div class="de1">Stop digging that up!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">中学の遠足で水族館に行った時さ</div></li><li class="li1"><div class="de1">Back in middle school, we went on a field trip to the aquarium.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">帰りの電車賃使いこんでお土産買った誰かさんがいてね</div></li><li class="li1"><div class="de1">But Ryuji had to spend all his money on a souvenir, so I lent hime some for the train fare.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">悪かったって　あれ母親の土産だったんだよ</div></li><li class="li1"><div class="de1">I said I was sorry... That was for my mom.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まあでも今回のことでチャラにしてあげる</div></li><li class="li1"><div class="de1">Well, I guess I can call it after all we&#039;ve been through.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アリガトウゴザイマース</div></li><li class="li1"><div class="de1">...Thank you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">てか、ニセモノならメダルは売って問題ないな！</div></li><li class="li1"><div class="de1">Anyways, we don&#039;t gotta worry about selling that medal off if it&#039;s fake!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この話は終わり！</div></li><li class="li1"><div class="de1">End of story!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">カモシダのヤツは、一生モノの金メダルをもう二度と誇って生きられない。</div></li><li class="li1"><div class="de1">Kamoshida will never be proud of that once-in-a-lifetime gold medal again.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">考えようによっちゃあ、それの方が、死ぬより辛い罰かも知れないな。</div></li><li class="li1"><div class="de1">Depending on how you look at it, that punishment might be even worse than death for him.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいよな、お前は明日から連休で</div></li><li class="li1"><div class="de1">Must be nice to have so much time off starting tomorrow...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こっちは客が増えて大変だってのによ</div></li><li class="li1"><div class="de1">For me, it just means more customers and even more work.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examining TV</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あなたはあの日、現場にいた。間違いありませんね？</div></li><li class="li1"><div class="de1">Admit it.  You were at the scene of the crime when it happened, weren&#039;t you?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わ、私にはアリバイがあるのよ！銃声なんか聞いてない！</div></li><li class="li1"><div class="de1">I-I have an alibi!  I was nowhere near there!  I wasn&#039;t even close enough to hear the gunshot!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おや、妙ですねえ。どうして「銃声」だとお分かりに？</div></li><li class="li1"><div class="de1">...Funny.  I never mentioned anything about a gunshot.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これ、刑事ドラマっていうのか？なかなか面白いな。</div></li><li class="li1"><div class="de1">This is a cop drama, right?  It&#039;s pretty interesting.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#talking to man outside of bathhouse</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ふう　今日も銭湯が最高じゃの。</div></li><li class="li1"><div class="de1">Phew... The hot spring felt especially good today.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">薬湯の日は普段よりも気持ちが良くて、天にも上る気分じゃい。</div></li><li class="li1"><div class="de1">Soaking in that medicinal spring was just like I was in heaven.  I wanted to never leave.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さて　このまま帰るか、居酒屋にでも寄ってくか</div></li><li class="li1"><div class="de1">Now then... Should I head home, or drop by the bar first?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#next day</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">メダルを換金しに行くぞ。</div></li><li class="li1"><div class="de1">Come on, we&#039;re going to pawn that medal today.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おーい、聞こえてるよな？</div></li><li class="li1"><div class="de1">Hey, you can hear me, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうせ暇なんだろ？いつまでも寝てないで手伝ってくれねーか？</div></li><li class="li1"><div class="de1">You don&#039;t have plans, do you?  Come help me out, instead of sleeping your life away.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ゴシュジンに世話になる身だしな</div></li><li class="li1"><div class="de1">We do owe it to him...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しょうがない。とっとと行って、手伝いを済ませて来い。</div></li><li class="li1"><div class="de1">...We&#039;ll just have to wait.  Hurry down and help him out.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">悪いねぇ、なんか催促したみたいで。</div></li><li class="li1"><div class="de1">Heh, sorry I kinda pressured you into doing this.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さて、次の話題　過去の栄光から一転、逮捕された五輪メダリストにいったい何が？</div></li><li class="li1"><div class="de1">And now to our next topic... Fall from Grace: The story of a dishonored Olympic medalist.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">都内の最高に勤務するバレー部顧問が、生徒に問題行為を繰り返していたことを突如告白。</div></li><li class="li1"><div class="de1">Just recently, a high school coach admitted to his school that he had been perpetually abusing students.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">顧問の素性が五輪メダリストであった事などから大きな波紋を呼んでいます。</div></li><li class="li1"><div class="de1">Given his prior Olympic achievements, this has caused quite a stir.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">常習犯であった教師が、全校生徒の前で突然の告白をした心変わりの裏には、何があったのでしょうか。</div></li><li class="li1"><div class="de1">What caused this habitual offender to suddenly confess these heinous crimes to his entire school?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">警察は取り調べを通じて詳しい動機などを明らかにする方針です。</div></li><li class="li1"><div class="de1">The police are hoping that the upcoming interrogations will bring light to this question.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ん？これ、どっかで</div></li><li class="li1"><div class="de1">Hm?  Isn&#039;t this...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">友達がよく青あざ作ってて</div></li><li class="li1"><div class="de1">My friends would come back from practice with bruises all the time...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">怖かったけど、やっと体罰がなくなるからホッとしてます　はい。</div></li><li class="li1"><div class="de1">It was scary, but I&#039;m relieved that the abuse is finally going to end now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">体にベタベタ触ってきたりとか、しょっちゅうあって　我慢してました。</div></li><li class="li1"><div class="de1">He would touch me and stuff all the time...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも、セクハラされっぱなしとか嫌だし　よかったです。</div></li><li class="li1"><div class="de1">I&#039;m glad I don&#039;t have to deal with that sexual harassment anymore...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">セクハラの噂はあったんですけど、信じる人の方が少なかったっていうか。</div></li><li class="li1"><div class="de1">There were always rumors, sure.  Not many people believed them though.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やっぱり本当だったんだ　って感じです。やっと安心して学校行けます。</div></li><li class="li1"><div class="de1">Like... I&#039;m totally shocked they were actually true.  At least now I can go to school without worrying.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やっぱそうだ、お前の学校じゃねうのか？</div></li><li class="li1"><div class="de1">I knew it.  This is your school, isn&#039;t it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;そうらしい</div></li><li class="li1"><div class="de1">意味ない</div></li><li class="li1"><div class="de1">Seems like it.</div></li><li class="li1"><div class="de1">Don&#039;t really care</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">学校、騒がしくなるかもしれねえけど、お前は大人しいててくれよ、いいな？</div></li><li class="li1"><div class="de1">Things might be getting turbulent at school, but you need to just keep your head down, all right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">というより、手ぇとめんな。まだまだ頼みたいことあんだからよ。</div></li><li class="li1"><div class="de1">...More importantly, keep those hands moving.  I&#039;ve got some more stuff I need you to do.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">目一杯、コキ使われたな</div></li><li class="li1"><div class="de1">The chief really worked us hard...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">テレビ見たか？ニュースになってたぞ！</div></li><li class="li1"><div class="de1">Did you see!?  It was on the news!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これで学校側も知らんふりはできねえだろ</div></li><li class="li1"><div class="de1">No way the school&#039;s gonna be able to play dumb after that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私も見た</div></li><li class="li1"><div class="de1">I saw it too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">志帆の名前出てなかったよね？</div></li><li class="li1"><div class="de1">Shiho&#039;s name didn&#039;t come up, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見てねえなさすがに伏せるだろ</div></li><li class="li1"><div class="de1">Not that I saw.  I&#039;d bet they wanted to keep that part quiet.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よがった</div></li><li class="li1"><div class="de1">I&#039;m so glad...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ようやくこれでケリがついたんだな</div></li><li class="li1"><div class="de1">It&#039;s finally over then...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あとは美味もん食ってさっさと忘れよぜ</div></li><li class="li1"><div class="de1">All we gotta do now is eat some tasty shit and put all this crap behind us.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">打ち上げ楽しみにしてるからな？</div></li><li class="li1"><div class="de1">I&#039;m totally looking forward to this celebration party.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">絶対がっかりさせないから楽しみにしてて！</div></li><li class="li1"><div class="de1">I&#039;ll try not to let you guys down.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、明日こそ金メダルを換金するぞ。</div></li><li class="li1"><div class="de1">All right, we need to go sell the gold medal tomorrow.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ゴシュジンに手伝い頼まれてもちゃんと断れよ？</div></li><li class="li1"><div class="de1">Even if the chief wants your help, make sure you turn him down, OK?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">皿洗っとけよ。</div></li><li class="li1"><div class="de1">Make sure to do the dishes.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;帰ったらやる</div></li><li class="li1"><div class="de1">厳しいな</div></li><li class="li1"><div class="de1">今はちょっと</div></li><li class="li1"><div class="de1">When I get back.</div></li><li class="li1"><div class="de1">Chores, really?</div></li><li class="li1"><div class="de1">I can&#039;t right now...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいからやれ。</div></li><li class="li1"><div class="de1">Just do it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">生意気、言ってんじゃねえ。</div></li><li class="li1"><div class="de1">Don&#039;t get cocky with me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いらっしゃい。</div></li><li class="li1"><div class="de1">Welcome.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">取り込み中？</div></li><li class="li1"><div class="de1">Am I interrupting something?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんでもねえよ。</div></li><li class="li1"><div class="de1">Not at all.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">先日、地下鉄で起きた列車暴走事故は未だに原因が解明されておらず</div></li><li class="li1"><div class="de1">The cause of the runaway-train incident in the subway the other day still has not been found.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">多発している精神暴走の関与と併せ、警察は事件の究明を急いでいます。</div></li><li class="li1"><div class="de1">Police are hurrying to solve the matter as it may relate to the rise in psychotic breakdown incidents.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ああ、いま話題になってるヤツ？</div></li><li class="li1"><div class="de1">Oh, is that the thing everyone&#039;s been talking about?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これ、気になりません？</div></li><li class="li1"><div class="de1">Doesn&#039;t it make you curious?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">普通に暮らしていた人が、ある日急に錯乱心したり、状態に</div></li><li class="li1"><div class="de1">People who were living normal lives suddenly went mad or deranged out of the blue...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それも立て続けに。偶然かしら？</div></li><li class="li1"><div class="de1">Not to mention that it&#039;s happening one after another... Could they really be coincidental?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それはいいとして</div></li><li class="li1"><div class="de1">Leaving that aside...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ご注文は？</div></li><li class="li1"><div class="de1">What&#039;ll you have?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ブレンド、ください。</div></li><li class="li1"><div class="de1">...I&#039;ll have the house blend please.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アルバイトの人？余裕あるんですね、ここ。</div></li><li class="li1"><div class="de1">Are you a part-timer?  I&#039;m surprised this place can afford one.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、そういう訳じゃ</div></li><li class="li1"><div class="de1">Uh, that&#039;s exactly the case...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アナタ　高校生？何処の学校？</div></li><li class="li1"><div class="de1">Are you a high school student?  Where do you attend?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;秀尽学園高校</div></li><li class="li1"><div class="de1">何処だっていい</div></li><li class="li1"><div class="de1">Shujin Academy.</div></li><li class="li1"><div class="de1">What&#039;s it to you?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">へえ　取り合いもそこに通ってるわ。</div></li><li class="li1"><div class="de1">Oh...?  Someone I know goes there as well.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いま大変よね。</div></li><li class="li1"><div class="de1">I&#039;ve heard that things are rough right now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田って教師、人が変わったように自分の罪を告白したんですってね。</div></li><li class="li1"><div class="de1">A teacher named Kamoshida confessed his crimes like he was a completely different person, supposedly.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それも「ある日突然」</div></li><li class="li1"><div class="de1">And it happened &quot;all of a sudden&quot; one day...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">人間の心理状態って、そう簡単に変わるものかしら？</div></li><li class="li1"><div class="de1">Can a person&#039;s mental state change so easily?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">コーヒーまだてすか？</div></li><li class="li1"><div class="de1">Is my drink ready yet?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">はいよ。</div></li><li class="li1"><div class="de1">...Coming right up.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、今日こそはメダルを換金だな。</div></li><li class="li1"><div class="de1">All right, today&#039;s the day we turn in that medal for cash.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">買い取ってくれそうなところに心当たりはあるだろ？</div></li><li class="li1"><div class="de1">You know some place that&#039;ll buy it off you, right?</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">#Back from Ryuji hangout
+
+理事会は明日か
+Tomorrow&#039;s the board meeting...
+
+いや、大丈夫だ。きっと、改心してるはずだ。
+Don&#039;t worry.  I&#039;m sure the change of heart worked.
+
+理事会、明日だよね？
+The board meeting&#039;s tomorrow, right?
+
+鴨志田が改心しねえと俺らは退学か
+We&#039;re gonna get expelled if Kamoshida doesn&#039;t have a change of heart by then...
+
+&gt;きっと改心する
+しかたない
+I&#039;m sure he will.
+We did all we could.
+
+きっと改心する
+I&#039;m sure he will.
+
+絶対するしてくれなきゃ困る
+He&#039;ll definitely change.  It would be a real problem for us if he didn&#039;t.
+
+そうだよな
+You&#039;re right.
+
+諦めるのはまだ早いよな
+It&#039;s a little too early to be giving up now.
+
+どっちにしろ明日になればわかる
+Guess we&#039;re gonna find out one way or the other tomorrow.
+
+腹を括るしたねえな
+We just gotta brace ourselves for all the possibilities.
+
+保証してやれなくて悪いな。だが、必ず変化はあるはずだ。
+I&#039;m sorry I can&#039;t offer more reassurance, but he should have the change of heart.
+
+信じて明日を待とうぜ。
+Let&#039;s just believe in that while we wait for tomorrow.
+
+#tv
+
+地下鉄の事故から三週間
+It&#039;s been three weeks since the tragic subway disaster.
+
+事故への対応をめぐって、大臣が辞任する事態となりましたが
+In the course of addressing the accident, the Minister of Transport ended up resigned.
+
+事故当時の様子など、不明な点も多く捜査は難航している模様です
+Many questions, however, still remain unanswered, as police struggle in their investigation.
+ 
+この事故、オマエが来てからすぐ起きたんだろ？
+That accident happened right after you moved here to Tokyo, didn&#039;t it?
+
+#back in the attic
+
+しかし、改めて見ると部屋にモノがなくて寂しいな
+This room looks so desolate since there&#039;s nothing in here...
+
+よし、ワガハイにいい考えがある。
+...I have a good idea.
+
+部屋の隅に転がってるイスを持ってきてくれる。
+Bring me that chair, the one in the corner.
+
+これに乗れば天井の梁に手が届くだろ？
+You can reach that beam on the ceiling if you stand on this chair, right?
+
+&gt;届きそうだ。
+高い所は苦手
+汚れてそう
+I should be able to.
+I&#039;m not good with heights.
+It looks dirty...
+
+よし！天井の梁を使って身体を鍛えるぞ
+All right! Let&#039;s train your body using that ceiling beam!
+
+どうせやることもないんだ。鍛えておいても損はない。
+You&#039;re not doing anything right now.  There&#039;s no harm in training.
+
+ワガハイがビシバシ鍛えてやるから覚悟しとけよ？
+I&#039;m going to whip you into shape, so you better be prepared.
+
+#examine plant
+
+飾ってみたものの、なんだか元気ないな
+We thought it&#039;d look nice, but it looks a bit dead...
+
+元気になる栄養剤とか　どこかに売ってないかな？
+Don&#039;t they sell nutrients or something that&#039;ll bring some color back to it?
+
+#speak with Morgana
+
+理事会は明日だな
+The board meeting&#039;s tomorrow...
+
+#examining television
+
+そういや、DVDが見れるんだっけ？今度、レンタル屋に行かないとな
+Oh yeah, you can watch DVDs now, right?  We should go to a rental shop sometime.
+
+#sit on couch
+
+大丈夫だ。ワガハイを信じろ。
+It&#039;ll be OK.  Just trust me.
+
+#examining washers at laundromat
+
+ぐるぐる回ってるな
+All the clothes inside are spinning in a circle...
+
+き、気持ちが悪くなってきた。危険だぜ、コレ。
+...I-I&#039;m starting to get dizzy.  I think this thing&#039;s dangerous!
+
+#examining dryers
+
+そういえば汚れた物持ってなかったか？こいつで洗ってみるのはどうだ？
+Oh yeah, didn&#039;t you have something dirty?  Why don&#039;t you trying washing it with this?
+
+もう汚れた物持ってないな このまま洗うか？
+You don&#039;t have any more dirty items.  Do you wanna just run the washing machine now?
+
+&gt;このまま洗おう
+洗うのはやめる
+Run the wash as is
+Cancel
+
+ガタガタ揺れてるぜ
+This is thing is shaking a lot...
+
+洗濯機の上にいると、振動が心地よく感じるぞ。
+
+おっ、終わったみたいだな。
+Oh, it looks like it&#039;s done.
+
+おおっ、やったぜ！意外とキレイになったじゃないか！
+Oooh!  This is much cleaner than I expected!
+
+それじゃ、そろそろ帰ろうぜ！
+Finally!  Let&#039;s head home!
+
+ふぁあ～月曜とかマジかったるい
+*yawn* Mondays are always such a drag...
+
+つうか、明日から連休だし今日休みで良くね？マジ意味分かんないし
+Why couldn&#039;t they give us today off, too?  We have the rest of the week off starting tomorrow...
+
+意味分かんないっつたら、ホラ、鴨志田に届いた予告状。
+Yeah, it&#039;s ridiculous.  Speaking of, what&#039;s up with that calling card?  The one sent to Kamoshida.
+
+なんか「歪んだ欲望を盗る」とかって
+Didn&#039;t it say something about &quot;stealing his distorted desires&quot; or something weird like that?
+
+そういや、そんなんあったな
+Yeah, something like that...
+
+ま、どうせタダのイタズラだろ？本気にしてるヤツなんていねえよ。
+I&#039;m sure it&#039;s just a prank.  No one&#039;s taking it seriously.
+
+いきなり朝礼とか
+What&#039;s with the sudden morning assembly...?
+
+どうせ前の飛び降りのことでしょ？
+I bet it&#039;s about that girl that jumped the other day.
+
+言われなくても自殺なんてしないっての。
+They don&#039;t have to tell us not to commit suicide.
+
+ヘンな予告状もあったし、先生もテンパってんじゃない？
+There was that weird calling card too, so I guess the teachers are freaking out?
+
+前校長礼を行います。
+Let&#039;s begin this school-wide morning assembly.
+
+先日、痛ましい事件が起きたのは皆さんもご存じの通りです。
+As you all know, a tragic event took place the other day.
+
+辛い一命は取り留めたと聞いていますが、回復にはまだ時間がかかるとの事です。
+Thankfully, we have been informed that she pulled through, but it will take time until she recovers.
+
+君達、未来ある若者に、今一度考えてほしいのは、命の尊さ
+Everyone here has a bright future ahead.  I implore that you rethink the importance of life and-
+
+鴨志田先生、どうし
+Mr. Kamoshida, what&#039;s the-
+
+私は　生まれ変わったんです。
+I... have been reborn.
+
+だから皆さんにすべてを告白しようと思います
+That is why I will confess everything to you all...
+
+私は教師としてあるまじきことを繰り返してまいりました
+I have repeatedly done things that were... unbecoming of a teacher.
+
+生徒への暴言、部員への体罰　そして　女子生徒への性的な嫌がらせ
+Verbally abusing students... physically abusing my team, and... sexually harassing female students.
+
+鈴井志帆さんが飛び降りたのは、私が原因です！
+I am the reason why Shiho Suzui tried to kill herself!
+
+私はこの学校を、自分の城のように思っていた
+I thought of this school as my own castle...
+
+気に入らないというだけの理由で退学を言い渡した生徒もいます。
+There were even students that I sentenced to expulsion, simply because I didn&#039;t like them...
+
+もちろん、それは撤回します
+I will, of course, rescind those...
+
+何の罪も無い青少年を、酷い目に遭わせて本当に済まなかった
+I am truly sorry for putting innocent youths through such horrible acts...
+
+私は傲慢で、浅はかで　恥ずべき人間、いや人間以下だ
+I&#039;m an arrogant, shallow... and shameful person.  No, I&#039;m worse than that...
+
+死んでお詫びします　！
+I will take responsibility and kill myself for it...!
+
+鴨志田先生！とりあえず、降りて！！
+Mr. Kamoshida!  Please get off the stage for now!
+
+解散、解散！！
+Everyone, return to your class!
+
+私は　ッ！
+I-
+
+逃げるな！
+Don&#039;t run, you bastard!
+
+志帆だって　死にたいほどの事件の続きを、ちゃんと生きてる！
+Shiho&#039;s still alive after all the things that made her want to die!
+
+アンタだけ、逃げないで！
+You have no right to run from this!
+
+その通りだ　まったくその通りだ
+You&#039;re right... You&#039;re absolutely right...
+
+私は、きちんと裁かれ罪を償うべきだ
+I should be punished under the law and atone for my crimes...
+
+私は、高巻さんにも、酷いことをしました。
+I did horrible things to Takamaki-san as well.
+
+鈴井さんにポジションを与えることを条件に、高巻さんに　関係までも迫りました。
+In return for giving Suzui-san a position on the team... I tried to force her into having relations.
+
+今日限りで教師の職を辞して自首いたします。
+As of today, I will resign from my position as an instructor and turn myself in.
+
+どなたか、警察を呼んでくれ！
+Someone, please call the police!
+
+スゲェ
+Wow...
+
+朝礼は終了します！解散！解散して！！
+This morning&#039;s assembly is over!  Return to your classes immediately!
+
+これ　「予告」通りじゃね？
+Isn&#039;t this just like what that calling card said...?
+
+怪盗って、マジだったってこと！？
+Does that mean the Phantom Thieves thing was for real!?
+
+鴨志田が、なんかされたのか！？
+Was something done to Kamoshida!?
+
+いや、心を盗むとか、ないだろ！
+C&#039;mon, there&#039;s no way you could steal someone&#039;s heart!
+
+でも「死んでお詫びます」とか「自首します」とか、急に言う？
+But why else would he start saying things like he&#039;ll kill himself or turn himself in?
+
+バレそうになったんじゃない？自首のが罪軽いんじゃないっけ？
+Maybe because it almost got leaked?  Don&#039;t they go easier on you if you turn yourself in?
+
+何があったんだろうな
+I wonder what happened...
+
+わかんね。けど、鴨志田ってクズだったんだな。
+Who knows?  But man, Kamoshida turned out to be one sick bastard.
+
+教室に戻りなさい！
+Return to your classrooms at once!
+
+本当に　心が、変わっちゃったんだね
+His heart really did change...
+
+みたいだな。
+Seems like it.
+
+でも、これでよかったのか？
+But, was this really for the best?
+
+&gt;よかった
+どうだろう
+まだわからない
+I think so.
+I dunno...
+But what Kamoshida said...
+
+そう、だよな。
+Yeah... it&#039;s gotta be.
+
+けど展開が急すぎっつーか
+But things&#039;re happenin&#039; way too fast...
+
+なんだ？
+Huh...?  What the...?
+
+高巻さん　ごめん！
+Takamaki-san... I&#039;m sorry!
+
+俺たち、知ってたのに　見て見ぬフリしてた。
+We all knew... but we pretended we didn&#039;t.
+
+高巻さん、私、誤解してて　変な噂広めちゃって　ごめん！
+Takamaki-san, I had you all wrong... I&#039;m sorry that I spread rumors about you!
+
+私、全然、知らなくて
+I didn&#039;t know at all...
+
+鴨志田に、無理やり迫れてたんだね　辛かったね　！
+Kamoshda was forcefully pushing himself on you... It must&#039;ve been so hard for you...!
+
+謝りたいって思ってる子きっと、たくさんいると思う。
+I&#039;m sure there&#039;s a ton of people who want to apologize to you.
+
+ごめんね　！
+We&#039;re so sorry...!
+
+ううん。いいの、私だって
+No, it&#039;s OK.  The same goes for me too...
+
+それに　全部、済んだ話だから。
+Besides, that&#039;s all in the past now.
+
+おい、そこ！早く戻れ！
+Hey, you there!  Return to class at once!
+
+じゃ、じゃあ
+W-Well, see you later then...
+
+君にも、本当に悪いことした。
+I can&#039;t apologize enough for what I did to you.
+
+いつか、埋め合わせするから。
+...I swear I&#039;ll make it up to you someday.
+
+心が変わったのは　どうも、鴨志田だけじゃねーみてえだな。
+Looks like Kamoshida ain&#039;t the only one that had a change of heart.
+
+つか、よかったじゃん。妙な噂も無くなりそうだし。
+Man, I&#039;m glad for you.  Looks like those weird rumors are gonna go away.
+
+いいよ、私のことは。
+My thing doesn&#039;t really matter.
+
+鴨志田に、志帆のこと謝らせてやった。私、それだけで
+We made Kamoshida apologize about Shiho... That&#039;s more than enough for me.
+
+なら、早く報告してやれよ。
+You should hurry and tell her about it then.
+
+そうだね。
+...Yeah.
+
+ビビったわ　マジで「改心」だったな
+I totally freaked... He really did have a change of heart...
+
+運よく廃人化も無かったし、百点満点だぜ！
+And we were lucky his mind didn&#039;t get messed up either!  This was an A+ job!
+
+パレスが消えても、廃人化が起きないってことだろ　？
+Does this mean that they won&#039;t have a mental shutdown even if their Palace disappears...?
+
+なるほど　シャドウが死んじまう前に説得して、現実の本人のもとに返してやればいいってことか。
+I see... So we need to persuade the Shadow without killing it, and then send it back to its real self.
+
+そうすれば、廃人化は起きないってわけだ。
+Our targets won&#039;t undergo a cognitive collapse if we do that.
+
+つまり、ちゃんと自白だけ狙えるって事だな？
+So, we can get &#039;em to confess with no bad stuff?
+
+面白えじゃねえの！
+Hey!  That works for me!
+
+声でかいから。
+Do you have to be so loud?
+
+大丈夫だって。
+Don&#039;t worry about it.
+
+つーか、どうだった？見舞い
+So... how&#039;d it go?  With Shiho, I mean...
+
+志帆　意識、戻ったの　！
+She&#039;s regained consciousness...!
+
+マジか！？
+For real!?
+
+少しだけだけど、話せた　！
+It was only for a little bit, but I got to talk to her...!
+
+鴨志田が、自分のしたこと認めたよって　志帆に、言えた　！
+I was able to tell her that Kamoshida admitted to what he did...!
+
+志帆　私に「ごめんね」だって
+Shiho, she... she told me she was sorry...
+
+私が志帆のために鴨志田に媚びてたの、バレちゃってたみたい
+Looks like she found out that I was flirting with Kamoshida for her sake...
+
+謝りたいの、私の方なのに。
+And here I was, wanting to apologize to her.
+
+悪いのはカモシダだぜ。
+Kamoshida&#039;s at fault for all this.
+
+そうだね。
+I know...
+
+志帆のお母さんが、回復したら、転校させようと思うって。
+Shiho&#039;s mom is thinking of transferring her to another school after she recovers.
+
+セクハラとか、自殺未遂とか　やっぱレッテル付いて回るし。
+The whole sexual harassment and attempted suicide... people will label her after that.
+
+志帆も、そうしたいって言ったみたい。
+Sounded like Shiho had the same idea too.
+
+寂しくなんな
+It&#039;s gonna get lonely...
+
+でも、私もそれがいいと思った　ここにいたら、きっと辛いし。
+But, I think it&#039;s for the best... I&#039;m sure it&#039;ll be hard if she stays here.
+
+いつだって会えんだろ　生きてりゃ、さ。
+She&#039;s alive.  You can see her anytime.
+
+私も　変わんなきゃ。
+...I need to change too.
+
+にしてもお前、鴨志田のシャドウ　よくガマンしたな？
+That aside, I was surprised you could hold yourself back against Kamoshida&#039;s Shadow.
+
+私はただ　鴨志田に、直接謝らせたかったっていうか
+It wasn&#039;t like that... I just wanted Kamoshida to apologize himself.
+
+アン殿は優しいんだよな。
+You&#039;re so kind, Lady Ann.
+
+クズ相手でも廃人化は寝覚めが悪ぃか。
+No matter how much of a shit bag he was, finishing him off woulda left a bad aftertaste, huh?
+
+いや、違うけど？
+Huh?  That&#039;s not it.
+
+改心させた方が、復讐になるなって思って。
+I think revenge is better served if I make him repent.
+
+アイツのしたこと考えれば、生きてる間、永遠に頭下げ続けることになるじゃん？
+Realizing what he&#039;s done, he&#039;ll grovel for forgiveness the rest of his life, you know?
+
+「世の中、死ぬより辛い罪もあるな　」って思っただけ。
+I just believe there are fates worse than death.
+
+こわ
+Holy shit...
+
+ま、まあともかく、一件落着だけどよ
+A-Anyways, that&#039;s all settled...
+
+そう言や、1つ気になってんだ。あの「城」のこと。
+But you know, there was one more thing I was wonderin&#039; about that castle.
+
+あんなヘンな異世界が、なんで鴨志田にだけあったんだ？
+Why was Kamoshida the only one who had that Metaverse thing?
+
+別にあのカモシダに限った事じゃない。
+It isn&#039;t necessarily limited to him.
+
+欲望で心に歪みが起きてるヤツなら、誰でも持ちえるモノさ。
+It&#039;s something anyone could have if their heart became warped from their desires.
+
+誰でも
+Anyone...
+
+確かめてみるか？
+Wanna check it out?
+
+い、今はいい。しばらくは大人しくしてねえと。鴨志田のこと、また騒がれるだろうしな。
+N-Not right now.  We better lay low for a while.  People are still gonna be talkin&#039; about Kamoshida.
+
+ま、パレスでやったこと調べるなんて、ぜってー不可能だろうけどよ。
+Then again, it&#039;s totally impossible for someone to find out what we did at his Palace.
+
+その事だけど　あんたたち、もう変な噂立てられてたよ。
+Yeah, about that... Weird rumors about you guys are already going around.
+
+結託して、鴨志田に暴力まがいの脅迫したって
+Stuff like, you got together and threatened Kamoshida with something close to physical violence...
+
+んだそれ！？
+The hell!?
+
+さすがに怪盗が実在するなんて、そうそう信じないでしょ。
+People aren&#039;t going to easily believe that phantom thieves really exist.
+
+予告状は、鴨志田の悪事を知ってた誰かの悪戯ってことになってるみたい。
+The calling card&#039;s being treated like it was a prank by someone who knew what Kamoshida was doing.
+
+そりゃそうか
+Makes sense...
+
+やった本人でも信じ切れてねえし。
+We&#039;re the ones who did it, and I still don&#039;t completely believe it myself.
+
+ひとまず、今後のことは、事態が落ち着いてから相談だね。
+Let&#039;s wait for things to settle down for the time being.
+
+とりあえず、このメダル、いくらで売れるか確認しよーぜ？
+Anyways, let&#039;s check how much this medal can be sold for.
+
+こんなの、とっとと売っ払っちまったほうがいいだろ。
+It&#039;d be better if we pawned it off ASAP.
+
+お、出た！
+Ooh, got a hit!
+
+って、3万！？金メダルの価値って3万かよ！？
+...Wait, thirty thousand yen!?  That&#039;s all a gold medal&#039;s worth!?
+
+覚えてるー？中学の時に貸したお金。
+Remember that time in middle school?  I lent you some money.
+
+いや、3万も借りてるわけねえだろ！
+There&#039;s no way I borrowed thirty thousand yen from you!
+
+利子が付いてたらこんなもんじゃない？
+Wouldn&#039;t it be around that much with compounded interest?
+
+誰も全部貰うなんて言ってないでしょ。
+I&#039;m not saying that I&#039;m taking all of it.
+
+てか、何年も返さない方が悪いし！借りたものは返すって常識だし！
+I mean it&#039;s your fault for not paying me back all these years!  It&#039;s just common sense!
+
+事態を見守ることには賛成だ。
+I agree on laying low and keeping an eye on the situation.
+
+しかしな、ワガハイを巻き込んでおいて、作戦成功の祝杯を挙げないなんてナンセンスだ。
+However, you dragged me into this.  It would be nonsense not to celebrate a successful mission.
+
+こんなキメぇ金なんて、パーッと使っちまうのもありだな？
+I guess we could blow this dirty money on something fun.
+
+怪盗の相談は美食の席でと決まってる。どうだ？
+Discussions among phantom thieves are to take place over luxuious food.  How about it?
+
+ちょっと、それ
+Hey, wait-
+
+まぁ、いいか。だったら行きたい所があるんだけど。
+...Nah, I guess it&#039;s fine.  There&#039;s somewhere I want to go then.
+
+どこだ？
+Where&#039;s that?
+
+志帆と行きたいって、前から言ってたとこ。
+It&#039;s a place Shiho and I have been wanting to go for a while.
+
+俺は借金あるし、文句は言えねえ
+I owe money, so I can&#039;t complain...
+
+お前も、杏が決めた店でいいか？
+You good with that?
+
+それでいい
+&gt;ラーメンがいい
+貯金しよう
+Fine by me.
+I want ramen.
+We should save the money.
+
+んなの、いつだって食えんじゃんよ。
+We can eat something like that whenever we want.
+
+ワガハイもアン殿に任せる。
+I&#039;ll leave it to your discretion as well, Lady Ann.
+
+じゃああとで確認しとく。
+I&#039;ll call and check the prices later then.
+
+いつ行くよ？さっそく明日にでも繰り出すか？
+When should we go?  Wanna do it soon, like tomorrow?
+
+連休の最後にしない？
+Why don&#039;t we go on the last day of the holidays?
+
+次の日からの学校生活に備えて、勢いつけるって意味で。
+It&#039;ll help energize us when school life starts up again the day after.
+
+ってことは、5日の子供の日だな。
+Then... the 5th, on Children&#039;s day.
+
+で、換金は誰だやるの？
+So, who&#039;s going to sell this?
+
+任せとけ。なんでも買い取る店を知ったる。そうだよな、&lt;name&gt;?
+Leave that to us.  We know a store that&#039;ll buy anything.  Don&#039;t we, &lt;name&gt;?
+
+じゃあお願いね。
+OK, Ill leave that to you guys.
+
+あの金メダルって本物なの？いつの間にパレスに　？
+Is that gold medal real?  When did it get inside his Palace...?
+
+いや、あれは認知の産物　要はニセモノだな。
+No, that one is a fake.  It&#039;s just a by-product of his cognition.
+
+ホンモノのメダルは、今でもちゃんと現実にあるはずだぜ。
+The real medal should still be in his possession.
+
+ニセモノだそうだ
+本物は現実にあるらしい
+This one&#039;s a fake.
+Kamoshida has the real one.
+
+ニセモノだそうだ
+This one&#039;s a fake.
+
+んだよ　じゃあ鴨志田は金メダル奪われてねえってこと？
+What...?  You&#039;re telling me Kamoshida&#039;s still got the medal?
+
+改心できたんだし別にいいでしょ
+Who cares?  What matters is that we changed his heart.
+
+てか本物が消えてたらふつうに窃盗じゃん！
+And anyway, if we had taken the real thing, that&#039;d be stealing!
+
+それに　もう前と同じようにはメダルを誇れないでしょ
+I don&#039;t think he&#039;ll be proud of that medal anymore regardless.
+
+お前って案外サッパリしてるよなついでに借金も水に流してくれ
+You let go of stuff pretty easy, huh?  Wanna forget about my debt?
+
+それとこれとは別中学生の500円は大きいの
+That&#039;s different.  Five hundred yen is a lot of money for a middle schooler, you know.
+
+あの時のイルカのぬいぐるみまだ持ってんの？
+Do you even still have that dolphin anyway?
+
+&gt;イルカ？
+何の話だ？
+Dolphin?
+What are you talking about?
+
+イルカ？
+Dolphin?
+
+掘り返すなよ！
+Stop digging that up!
+
+中学の遠足で水族館に行った時さ
+Back in middle school, we went on a field trip to the aquarium.
+
+帰りの電車賃使いこんでお土産買った誰かさんがいてね
+But Ryuji had to spend all his money on a souvenir, so I lent hime some for the train fare.
+
+悪かったって　あれ母親の土産だったんだよ
+I said I was sorry... That was for my mom.
+
+まあでも今回のことでチャラにしてあげる
+Well, I guess I can call it after all we&#039;ve been through.
+
+アリガトウゴザイマース
+...Thank you.
+
+てか、ニセモノならメダルは売って問題ないな！
+Anyways, we don&#039;t gotta worry about selling that medal off if it&#039;s fake!
+
+この話は終わり！
+End of story!
+
+カモシダのヤツは、一生モノの金メダルをもう二度と誇って生きられない。
+Kamoshida will never be proud of that once-in-a-lifetime gold medal again.
+
+考えようによっちゃあ、それの方が、死ぬより辛い罰かも知れないな。
+Depending on how you look at it, that punishment might be even worse than death for him.
+
+いいよな、お前は明日から連休で
+Must be nice to have so much time off starting tomorrow...
+
+こっちは客が増えて大変だってのによ
+For me, it just means more customers and even more work.
+
+#examining TV
+
+あなたはあの日、現場にいた。間違いありませんね？
+Admit it.  You were at the scene of the crime when it happened, weren&#039;t you?
+
+わ、私にはアリバイがあるのよ！銃声なんか聞いてない！
+I-I have an alibi!  I was nowhere near there!  I wasn&#039;t even close enough to hear the gunshot!
+
+おや、妙ですねえ。どうして「銃声」だとお分かりに？
+...Funny.  I never mentioned anything about a gunshot.
+
+これ、刑事ドラマっていうのか？なかなか面白いな。
+This is a cop drama, right?  It&#039;s pretty interesting.
+
+#talking to man outside of bathhouse
+
+ふう　今日も銭湯が最高じゃの。
+Phew... The hot spring felt especially good today.
+
+薬湯の日は普段よりも気持ちが良くて、天にも上る気分じゃい。
+Soaking in that medicinal spring was just like I was in heaven.  I wanted to never leave.
+
+さて　このまま帰るか、居酒屋にでも寄ってくか
+Now then... Should I head home, or drop by the bar first?
+
+#next day
+
+メダルを換金しに行くぞ。
+Come on, we&#039;re going to pawn that medal today.
+
+おーい、聞こえてるよな？
+Hey, you can hear me, right?
+
+どうせ暇なんだろ？いつまでも寝てないで手伝ってくれねーか？
+You don&#039;t have plans, do you?  Come help me out, instead of sleeping your life away.
+
+ゴシュジンに世話になる身だしな
+We do owe it to him...
+
+しょうがない。とっとと行って、手伝いを済ませて来い。
+...We&#039;ll just have to wait.  Hurry down and help him out.
+
+悪いねぇ、なんか催促したみたいで。
+Heh, sorry I kinda pressured you into doing this.
+
+さて、次の話題　過去の栄光から一転、逮捕された五輪メダリストにいったい何が？
+And now to our next topic... Fall from Grace: The story of a dishonored Olympic medalist.
+
+都内の最高に勤務するバレー部顧問が、生徒に問題行為を繰り返していたことを突如告白。
+Just recently, a high school coach admitted to his school that he had been perpetually abusing students.
+
+顧問の素性が五輪メダリストであった事などから大きな波紋を呼んでいます。
+Given his prior Olympic achievements, this has caused quite a stir.
+
+常習犯であった教師が、全校生徒の前で突然の告白をした心変わりの裏には、何があったのでしょうか。
+What caused this habitual offender to suddenly confess these heinous crimes to his entire school?
+
+警察は取り調べを通じて詳しい動機などを明らかにする方針です。
+The police are hoping that the upcoming interrogations will bring light to this question.
+
+ん？これ、どっかで
+Hm?  Isn&#039;t this...?
+
+友達がよく青あざ作ってて
+My friends would come back from practice with bruises all the time...
+
+怖かったけど、やっと体罰がなくなるからホッとしてます　はい。
+It was scary, but I&#039;m relieved that the abuse is finally going to end now.
+
+体にベタベタ触ってきたりとか、しょっちゅうあって　我慢してました。
+He would touch me and stuff all the time...
+
+でも、セクハラされっぱなしとか嫌だし　よかったです。
+I&#039;m glad I don&#039;t have to deal with that sexual harassment anymore...
+
+セクハラの噂はあったんですけど、信じる人の方が少なかったっていうか。
+There were always rumors, sure.  Not many people believed them though.
+
+やっぱり本当だったんだ　って感じです。やっと安心して学校行けます。
+Like... I&#039;m totally shocked they were actually true.  At least now I can go to school without worrying.
+
+やっぱそうだ、お前の学校じゃねうのか？
+I knew it.  This is your school, isn&#039;t it?
+
+&gt;そうらしい
+意味ない
+Seems like it.
+Don&#039;t really care
+
+学校、騒がしくなるかもしれねえけど、お前は大人しいててくれよ、いいな？
+Things might be getting turbulent at school, but you need to just keep your head down, all right?
+
+というより、手ぇとめんな。まだまだ頼みたいことあんだからよ。
+...More importantly, keep those hands moving.  I&#039;ve got some more stuff I need you to do.
+
+目一杯、コキ使われたな
+The chief really worked us hard...
+
+テレビ見たか？ニュースになってたぞ！
+Did you see!?  It was on the news!
+
+これで学校側も知らんふりはできねえだろ
+No way the school&#039;s gonna be able to play dumb after that.
+
+私も見た
+I saw it too.
+
+志帆の名前出てなかったよね？
+Shiho&#039;s name didn&#039;t come up, right?
+
+見てねえなさすがに伏せるだろ
+Not that I saw.  I&#039;d bet they wanted to keep that part quiet.
+
+よがった
+I&#039;m so glad...
+
+ようやくこれでケリがついたんだな
+It&#039;s finally over then...
+
+あとは美味もん食ってさっさと忘れよぜ
+All we gotta do now is eat some tasty shit and put all this crap behind us.
+
+打ち上げ楽しみにしてるからな？
+I&#039;m totally looking forward to this celebration party.
+
+絶対がっかりさせないから楽しみにしてて！
+I&#039;ll try not to let you guys down.
+
+よし、明日こそ金メダルを換金するぞ。
+All right, we need to go sell the gold medal tomorrow.
+
+ゴシュジンに手伝い頼まれてもちゃんと断れよ？
+Even if the chief wants your help, make sure you turn him down, OK?
+
+皿洗っとけよ。
+Make sure to do the dishes.
+
+&gt;帰ったらやる
+厳しいな
+今はちょっと
+When I get back.
+Chores, really?
+I can&#039;t right now...
+
+いいからやれ。
+Just do it.
+
+生意気、言ってんじゃねえ。
+Don&#039;t get cocky with me.
+
+いらっしゃい。
+Welcome.
+
+取り込み中？
+Am I interrupting something?
+
+なんでもねえよ。
+Not at all.
+
+先日、地下鉄で起きた列車暴走事故は未だに原因が解明されておらず
+The cause of the runaway-train incident in the subway the other day still has not been found.
+
+多発している精神暴走の関与と併せ、警察は事件の究明を急いでいます。
+Police are hurrying to solve the matter as it may relate to the rise in psychotic breakdown incidents.
+
+ああ、いま話題になってるヤツ？
+Oh, is that the thing everyone&#039;s been talking about?
+
+これ、気になりません？
+Doesn&#039;t it make you curious?
+
+普通に暮らしていた人が、ある日急に錯乱心したり、状態に
+People who were living normal lives suddenly went mad or deranged out of the blue...
+
+それも立て続けに。偶然かしら？
+Not to mention that it&#039;s happening one after another... Could they really be coincidental?
+
+それはいいとして
+Leaving that aside...
+
+ご注文は？
+What&#039;ll you have?
+
+ブレンド、ください。
+...I&#039;ll have the house blend please.
+
+アルバイトの人？余裕あるんですね、ここ。
+Are you a part-timer?  I&#039;m surprised this place can afford one.
+
+いや、そういう訳じゃ
+Uh, that&#039;s exactly the case...
+
+アナタ　高校生？何処の学校？
+Are you a high school student?  Where do you attend?
+
+&gt;秀尽学園高校
+何処だっていい
+Shujin Academy.
+What&#039;s it to you?
+
+へえ　取り合いもそこに通ってるわ。
+Oh...?  Someone I know goes there as well.
+
+いま大変よね。
+I&#039;ve heard that things are rough right now.
+
+鴨志田って教師、人が変わったように自分の罪を告白したんですってね。
+A teacher named Kamoshida confessed his crimes like he was a completely different person, supposedly.
+
+それも「ある日突然」
+And it happened &quot;all of a sudden&quot; one day...
+
+人間の心理状態って、そう簡単に変わるものかしら？
+Can a person&#039;s mental state change so easily?
+
+コーヒーまだてすか？
+Is my drink ready yet?
+
+はいよ。
+...Coming right up.
+
+よし、今日こそはメダルを換金だな。
+All right, today&#039;s the day we turn in that medal for cash.
+
+買い取ってくれそうなところに心当たりはあるだろ？
+You know some place that&#039;ll buy it off you, right?</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

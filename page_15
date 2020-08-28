@@ -1,0 +1,1591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 39 (Japanese + English) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta name="robots" content="noindex" />
+    <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 39 (Japanese + English) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/nubgfSrE" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/nubgfSrE" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="-Ya21c2WvHZRyPYnkIqY0xObBOsUSm2U1Vu6wB2CCSO82cC0_q7oLjb-sBPZydXjYvpFnyxzPKPgCsOoccFaTQ==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/nubgfSrE" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/nubgfSrE" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 39 (Japanese + English)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Monday 20th of July 2020 08:30:26 AM CDT">Jul 20th, 2020</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    61                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 38.31 KB            </div>
+
+            <div class="right">
+                <a href="/raw/nubgfSrE" class="btn -small">raw</a>
+                <a href="/dl/nubgfSrE" class="btn -small">download</a>
+                <a href="/clone/nubgfSrE" class="btn -small h_800">clone</a>
+                <a href="/embed/nubgfSrE" class="btn -small h_800">embed</a>
+                <a href="/report/nubgfSrE" class="btn -small">report</a>
+                <a href="/print/nubgfSrE" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">#6/3 night, coffee trivia with Sakura</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">この口当たり…</div></li><li class="li1"><div class="de1">This taste...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">…コロンビア産、エメラルドマウンテンだな。</div></li><li class="li1"><div class="de1">It must be Columbian Nariño.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Trivia</div></li><li class="li1"><div class="de1">国土の約半分が山岳地帯のコロンビアでは、山脈の急斜面がコーヒーの栽培地となり高い生産力の礎となっている。</div></li><li class="li1"><div class="de1">The high altitude, rainy climate, and soil of the Columbian mountains creates a strong foundation for their high quality coffee.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Trivia</div></li><li class="li1"><div class="de1">エメラルドマウンテンは、宝石のエメラルドから付けられた。酸味、苦味、甘みのバランスが良く鮮明なコクとまろやかな口当たりが魅力。</div></li><li class="li1"><div class="de1">Nariño coffee has a creamy, viscous body that coats the mouth with fruity and nutty flavors.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#6/4 begins, in class</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">最近、ジメジメしてきたね。</div></li><li class="li1"><div class="de1">It&#039;s been getting humid lately, huh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">けどこういうときこそ明るく、天気に負けないように行きよう！</div></li><li class="li1"><div class="de1">But it&#039;s times like these when you&#039;ve just gotta push through the funk!  Don&#039;t let the weather get to you!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">…って思ってたそばからなんだけど、昨日職質されちゃったよ。</div></li><li class="li1"><div class="de1">...Well, that was the plan, anyway.  Then I got police officers asking what I was up to.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">僕の見た目、そんなに怪しいかなぁ…</div></li><li class="li1"><div class="de1">Do I really look that suspicious...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">そうそう、見た目と言えば…</div></li><li class="li1"><div class="de1">Oh, but speaking of looks...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">みんなは「あの子、かわいいから性格もよさそう」なんて思った経験ないかな？</div></li><li class="li1"><div class="de1">Have any of you seen someone you thought was cute, and immediately decided that they must be nice, too?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">これは誰にでもある現象でね、ちゃんと名前だってついてるんだよ。</div></li><li class="li1"><div class="de1">That thought process is totally normal, if not always accurate.  There&#039;s even a name for it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">じゃあ、&lt;name&gt;君。</div></li><li class="li1"><div class="de1">Any guesses, &lt;name&gt;-kun?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">この現象の名前、分かるかな？</div></li><li class="li1"><div class="de1">What do you think the name for this phenomenon is?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;ピグマリオン効果</div></li><li class="li1"><div class="de1">ハロー効果</div></li><li class="li1"><div class="de1">イプニング効果</div></li><li class="li1"><div class="de1">The Pygmalion effect.</div></li><li class="li1"><div class="de1">The halo effect.</div></li><li class="li1"><div class="de1">The destiny effect.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">残念。正解はハロー効果だ。</div></li><li class="li1"><div class="de1">Unfortunately, no.  It&#039;s called the halo effect.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">相手の目立つ部分を見たことによって先入観を抱き、それ以外の認識を歪めてしまう…</div></li><li class="li1"><div class="de1">You get distracted by superficial qualities, and your broader perception of someone can get biased.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">こうなると、正しい判断をすることが難しくなってしまうんだ。</div></li><li class="li1"><div class="de1">Once you get that far, it&#039;s hard to make totally objective judgments.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">静かな人だから、きっと怖いに違いない…とかね。</div></li><li class="li1"><div class="de1">Like, &quot;that person is quiet, so they must be scary.&quot;  Stuff like that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Classmate</div></li><li class="li1"><div class="de1">先生、当てる相手、まちがえてない？</div></li><li class="li1"><div class="de1">Did the teacher mean to pick someone else?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Classmate</div></li><li class="li1"><div class="de1">もっとデキる子いるのにねー…</div></li><li class="li1"><div class="de1">There are definitely people who would have gotten that right...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">ハロー効果も悪いことばかりじゃないけど…</div></li><li class="li1"><div class="de1">The halo effect isn&#039;t all bad, but...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">初対面の人に会うときは先入観を持たないことをおすすめするよ。</div></li><li class="li1"><div class="de1">I recommend you give people the chance to define themselves instead of making snap judgments.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Maruki</div></li><li class="li1"><div class="de1">こういうのに囚われて、相手の持つ素晴らしい部分に気づけないのはもったいないだろ？</div></li><li class="li1"><div class="de1">After all, it&#039;d be a shame if your biases kept you from noticing something truly wonderful about someone, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">見た目だけ良くて性格が最悪なヤツなら、そこら中にいるよな。</div></li><li class="li1"><div class="de1">Plenty of terrible people look perfectly decent on the outside.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">その点、アン殿は全てパーフェクト！にゃふふ…さすがだぜ。</div></li><li class="li1"><div class="de1">But Lady Ann looks perfect, and she IS perfect!  Nyahaha...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#6/4 night, IM</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">明日で個展終わりだけど…斑目は改心してるよね？</div></li><li class="li1"><div class="de1">The exhibition ends tomorrow... Madarame must have had his change of heart by now, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">大丈夫だろ</div></li><li class="li1"><div class="de1">I&#039;m sure it&#039;ll be fine.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">告訴がどうのって連絡も今のことないしな</div></li><li class="li1"><div class="de1">So far nobody&#039;s come charging us with anything, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">でも、告訴するにしても個展終わってからでしょ？</div></li><li class="li1"><div class="de1">But wouldn&#039;t he wait to press charges until AFTER the exhibition?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">明日、連絡きたらどうしよう…</div></li><li class="li1"><div class="de1">What should we do if someone contacts us about it tomorrow...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">祐介に聞いてみろよまだ斑目んちだろ？</div></li><li class="li1"><div class="de1">Try asking Yusuke.  He&#039;s still staying with Madarame, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">そういえば祐介は？</div></li><li class="li1"><div class="de1">Oh, that&#039;s right... Where is Yusuke?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">斑目と一緒にいて大丈夫かな</div></li><li class="li1"><div class="de1">I wonder if he&#039;ll be OK with Madarame...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">すまん、連絡が遅くなった</div></li><li class="li1"><div class="de1">Sorry I&#039;m late to contact you all.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">明日、動きがありそうだ斑目がどこかに連絡していた</div></li><li class="li1"><div class="de1">It seems something will certainly be happening tomorrow.  Madarame is on the phone as we speak.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;動きって？</div></li><li class="li1"><div class="de1">どこに？</div></li><li class="li1"><div class="de1">What do you mean, something?</div></li><li class="li1"><div class="de1">With who?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">動きって？</div></li><li class="li1"><div class="de1">What do you mean, something?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">マスコミ発表の準備かもしれん告訴の話ではなさそうだ</div></li><li class="li1"><div class="de1">I believe he is preparing for a media announcement.  I didn&#039;t hear anything about pressing charges.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">じゃあ待つしかねえな</div></li><li class="li1"><div class="de1">Guess we just gotta wait then.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">明日、渋谷に集まろう</div></li><li class="li1"><div class="de1">Let us meet in Shibuya tomorrow.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">ＯＫ！じゃあ明日！</div></li><li class="li1"><div class="de1">OK!  See you then!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">明日でいよいよ個展も終わりだな…きっと今度も大丈夫さ。</div></li><li class="li1"><div class="de1">The exhibition is finally ending tomorrow... I&#039;m sure things will work out fine this time too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#more coffee trivia</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">この味わい…</div></li><li class="li1"><div class="de1">This flavor...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">…キューバ産、クリスタルマウンテンだな？</div></li><li class="li1"><div class="de1">It&#039;s Cuban Crystal Mountain, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Trivia</div></li><li class="li1"><div class="de1">キューバはフロリダ半島の南にあるカリブ海最大の島。コーヒー豆の栽培に適し、芳醇な香りと味を持つ質の高い豆を生産している。</div></li><li class="li1"><div class="de1">Cuba is the biggest island in the Caribbean.  Their coffee is known for its full-bodied aroma and taste.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Trivia</div></li><li class="li1"><div class="de1">クリスタルマウンテンは、水晶の発掘地であった栽培地の山岳が名前の由来。大きな豆を厳選した最上級品。バランス良いマイルドな風味が特徴。</div></li><li class="li1"><div class="de1">Crystal Mountain coffee is made from only the largest beans of the harvest.  It has a sweet, nutty flavor with low acidity.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#6/5, people staring at Madarame on a television screen at press conference</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Man</div></li><li class="li1"><div class="de1">なんだ、あのジイさん？</div></li><li class="li1"><div class="de1">What&#039;s up with that old geezer?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">泣いてない…？</div></li><li class="li1"><div class="de1">Is he... crying?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Madarame</div></li><li class="li1"><div class="de1">私は…画家としてあるまじき罪を犯しました。</div></li><li class="li1"><div class="de1">I... I have committed crimes that are unbecoming of an artist.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Madarame</div></li><li class="li1"><div class="de1">世に言う…その…「盗作」を、私は…</div></li><li class="li1"><div class="de1">Plainly put... I, um... plagiarized work...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Madarame</div></li><li class="li1"><div class="de1">我が国の、美術界にも…そして…「サユリ」に、も…くっ！</div></li><li class="li1"><div class="de1">I-I... tainted this-this country&#039;s art world... and... even &quot;Sayuri&quot;!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Madarame</div></li><li class="li1"><div class="de1">…皆様に、どう…お詫びを…申し上げ…う…申し上げ、たら…いい、か…んぁっははぁぁ！</div></li><li class="li1"><div class="de1">...H-How could I... I possibly... apologize to-to everyone for... for what I&#039;ve done... Aaaah...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Man</div></li><li class="li1"><div class="de1">泣き過ぎだろう。</div></li><li class="li1"><div class="de1">He&#039;s crying way too much...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">…先ほど行われた、斑目氏による、緊急謝罪会見の模様をお伝えしました。</div></li><li class="li1"><div class="de1">...And that was from the urgent apology conference by Madarame that took place just a moment ago.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">斑目氏は盗作の事実を協会に申告したのち、警察からの出頭要請に応じたとのことです。</div></li><li class="li1"><div class="de1">After reporting to the association, Madarame has agreed to the police&#039;s request to turn himself in.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">前、テレビ出てなかった？</div></li><li class="li1"><div class="de1">Wasn&#039;t he on TV the other day?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">斑目氏は、教え子らへの虐待容疑に加え、無断で作品を自作と偽って発表していた疑いがあるほか…</div></li><li class="li1"><div class="de1">On top of the charges of abuse to his pupils, Madarame is under suspicion of claiming their works as his own.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">代表作「サユリ」に関する盗難被害の届けが、詐欺目的の狂言だったとも疑われています。</div></li><li class="li1"><div class="de1">Some doubt the validity that his maiden work &quot;Sayuri&quot; was stolen, believing it was used for fraud.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">大物に持ちあがった大がかりな違法行為に、美術界では衝撃が走って…</div></li><li class="li1"><div class="de1">This large-scale criminal act has caused a great shock to the art world, and...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">あの爺さん、終わったね。</div></li><li class="li1"><div class="de1">That old man&#039;s done for.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">氏は会見後、身柄を警察に移される予定でしたが、高齢を老考慮され、警察病院での聴取となる模様です。</div></li><li class="li1"><div class="de1">After the conference, Madarame was taken to a police hospital for interrogation due to his age.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">しかし簡易鑑定では精神に異常はなく、責任能力はあるとの見方を…示しています。</div></li><li class="li1"><div class="de1">However, initial psych evaluations state that he is mentally sound and likely responsible for his actions.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Man</div></li><li class="li1"><div class="de1">そんなジジイに優しくすることないのに。</div></li><li class="li1"><div class="de1">There&#039;s no need to be nice to an old geezer like that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Man</div></li><li class="li1"><div class="de1">なんで自分からバラしたワケ？あり得なくね？</div></li><li class="li1"><div class="de1">Why&#039;d he spill the beans himself?  Doesn&#039;t that seem weird?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">また、氏の個展に「怪盗団」を名乗る何者かが、不審な声明文を貼り出したとの情報があり…</div></li><li class="li1"><div class="de1">Also, a group calling themselves the Phantom Thieves posted a dubious note at Madarame&#039;s exhibit.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">警察では、容疑を特定しないかたちで関連を調べる事にしています。</div></li><li class="li1"><div class="de1">The police will investigate their relation to this case, but for now, did not identify them as suspects.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Man</div></li><li class="li1"><div class="de1">怪盗？ドロゴウと、爺さんの土下座と、なんかカンケーあんの？</div></li><li class="li1"><div class="de1">Phantom Thieves?  Do these bandits have somethin&#039; to do with that old geezer&#039;s apology?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">あー聞いた事ある、怪盗団。悪い心を盗むんだって。だから犯人、自分から謝罪しちゃうって話。</div></li><li class="li1"><div class="de1">Ohhh, I&#039;ve heard of them before.  They supposedly steal evil hearts; it&#039;s why the culprits apologize.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Woman</div></li><li class="li1"><div class="de1">え、心盗むって何？できなくない、そんなの？</div></li><li class="li1"><div class="de1">Wait, what?  Steal hearts?  That&#039;s impossible though.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Man</div></li><li class="li1"><div class="de1">けど、俺もなんかネットで見た気なんな。確か、予告状だけはマジで出されたっぽいぜ？</div></li><li class="li1"><div class="de1">But I feel like I saw somethin&#039; about that online too.  They sent out a calling card for real.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Man</div></li><li class="li1"><div class="de1">「貴方のはーと頂きます」みてえな？マジでそんな奴いたらスゲェわ、神ってるわ。</div></li><li class="li1"><div class="de1">So it was like, &quot;We&#039;re going to take your heart&quot;?  That&#039;s impressive if someone really did that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Boy</div></li><li class="li1"><div class="de1">怪盗団…ねえ？</div></li><li class="li1"><div class="de1">Phantom Thieves, huh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">また怪盗団…</div></li><li class="li1"><div class="de1">Phantom Thieves again...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#at the hideout</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">見た見たぁ？斑目のニュース！鴨志田ん時とおんなじだ！</div></li><li class="li1"><div class="de1">You guys see the news about Madarame!?  It&#039;s just like what happened with Kamoshida!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">怪盗のこともちゃんと言われてた！</div></li><li class="li1"><div class="de1">And they mentioned the Phantom Thieves!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">けどよ、面白くなってきたな…うまくやりゃ、狙った通りに改心だ。</div></li><li class="li1"><div class="de1">Man, this is startin&#039; to get interesting... If we do it right, we can change people&#039;s hearts.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">この力…マジで見返すどころか、世の中大騒ぎになんじゃね？</div></li><li class="li1"><div class="de1">With this power... we might be able to do more than just gettin&#039; back at society.  It&#039;ll be a big deal.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">楽しみだ</div></li><li class="li1"><div class="de1">&gt;どうかな</div></li><li class="li1"><div class="de1">This&#039;ll be fun.</div></li><li class="li1"><div class="de1">I don&#039;t know.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">冷めてんなぁ。</div></li><li class="li1"><div class="de1">Man, you&#039;re so indifferent.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">まあ、リーダーは浮かれ過ぎない方が頼もしいじゃん。</div></li><li class="li1"><div class="de1">Then again, doesn&#039;t that make him more trustworthy as our leader?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">この調子でどんどん広まってかねーかな！</div></li><li class="li1"><div class="de1">As for me, I hope we just keep gettin&#039; more and more famous!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">「二度目」ってのもデカいぜ。こんな偶然、フツーねえからな。</div></li><li class="li1"><div class="de1">Something like this happening twice is massive too.  It&#039;s too great a coincidence to occur normally.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">続けていけば、絶対、みんなに勇気与えられる気がする。</div></li><li class="li1"><div class="de1">If we continue doing this, we&#039;ll definitely be able to give courage to everyone who needs it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#police walk up</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">…少し、静かにした方が良さそうだ。</div></li><li class="li1"><div class="de1">...We may want to quiet down a little.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">知り合い？</div></li><li class="li1"><div class="de1">Do you know them?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">バカ、補導員だ！</div></li><li class="li1"><div class="de1">You moron!  They&#039;re attendance officers!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police1</div></li><li class="li1"><div class="de1">君たち、ちょっといいかな？</div></li><li class="li1"><div class="de1">Hello there.  May I speak with you for a moment?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">はぁ～い、何かご用でしょうか！？</div></li><li class="li1"><div class="de1">Ah, yes!  How can we help you?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">何度、見ても痺れる棒読み具合だぜ。</div></li><li class="li1"><div class="de1">That monotonous acting of hers never fails to send a chill down my spine.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police1</div></li><li class="li1"><div class="de1">何してるの？どういう友達？</div></li><li class="li1"><div class="de1">What are you all doing here?  Are you friends?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;みんなでお茶でもと…</div></li><li class="li1"><div class="de1">不良友達だ</div></li><li class="li1"><div class="de1">何に見える？</div></li><li class="li1"><div class="de1">We wanted some tea...</div></li><li class="li1"><div class="de1">We&#039;re delinquents.</div></li><li class="li1"><div class="de1">What do we look like?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police2</div></li><li class="li1"><div class="de1">ふうん、本当か？こんな所で、お茶もないだろうが。</div></li><li class="li1"><div class="de1">Hm, is that so?  And how would you do that in a place like this?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">今からどこ行こうかって…</div></li><li class="li1"><div class="de1">We were just discussing where we should go...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police1</div></li><li class="li1"><div class="de1">まぁ、今日はいいけどね。あまり遅くならないうちに解散しなさいね。</div></li><li class="li1"><div class="de1">Well, all right.  Just make sure you disperse before it gets too late, okay?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police1</div></li><li class="li1"><div class="de1">変な事件も多いし、例の画家のニュースで騒がしいしね。</div></li><li class="li1"><div class="de1">There have been some odd happenings lately, and the news about that artist has caused quite a stir.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">気を付けまぁすっ！</div></li><li class="li1"><div class="de1">We&#039;ll be careful!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">昼間っからよ…あいつらヒマなんじゃね？</div></li><li class="li1"><div class="de1">It&#039;s still light out... Man, those guys must have way too much time on their hands.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">あんなアドリブやめてよ…！焦ったしっ！</div></li><li class="li1"><div class="de1">Hey, don&#039;t go making stuff up on the spot like that, okay!?  I totally panicked &#039;cause of you!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">…今まで以上に警戒した方がいいぜ。</div></li><li class="li1"><div class="de1">...From now on, we&#039;ll need to be even more cautious than before.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">第二の怪盗騒ぎが巻き起こってる最中に、前回と今回の被害者が会ってる訳だしな。</div></li><li class="li1"><div class="de1">Look at us!  Right after the second Thieves incident, both prior victims are meeting up.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">まさか、会話聞かれたりとか…</div></li><li class="li1"><div class="de1">Wait, you mean people might be listening to us?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ヘーキだよ、この人ごみだ。気にしてんのは俺たちだけ。</div></li><li class="li1"><div class="de1">Eh, it&#039;ll be fine.  Look around.  We&#039;re the only people worryin&#039; about it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">それもそうか…</div></li><li class="li1"><div class="de1">I guess you&#039;re right...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ところでさ、祐介。斑目から、なんか聞けた？</div></li><li class="li1"><div class="de1">By the way, Yusuke... You able to get anything out of Madarame?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">怪しいヤツがどうのとか言ってたじゃん？</div></li><li class="li1"><div class="de1">Remember how he was talkin&#039; about that suspicious person in the black mask?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">それが…問い詰めてはみたんだが。奴は自分に何が起きたかさえ理解していない。</div></li><li class="li1"><div class="de1">Well... I pressed him for answers, but he doesn&#039;t even understand what happened to him to begin with.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">私らに欲望盗られたこと、実際に見たわけじゃないんだもんね。</div></li><li class="li1"><div class="de1">It&#039;s not like he actually saw his desires get stolen, after all.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">ヘタなれば刑務所行きって噂だ。やつから情報を得るのは…難しいだろうな。</div></li><li class="li1"><div class="de1">It&#039;s rumored that he may be sent to prison.  In that case, gaining information will be difficult...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">つかお前、これからどうすんの？</div></li><li class="li1"><div class="de1">So, what&#039;re you gonna do now?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">あの家を出るよ。あんな場所では、もう絵は描けない。</div></li><li class="li1"><div class="de1">I&#039;ll be leaving that house.  I can&#039;t draw in such a place anymore.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">アテ…あるの？</div></li><li class="li1"><div class="de1">Do you have somewhere to go?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">学生寮がある。美術科特待生の俺は無償でいいそうだ。</div></li><li class="li1"><div class="de1">The school dorms.  I can stay there free of charge thanks to my fine arts scholarship.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">特待生！？え、お前すごいの…？</div></li><li class="li1"><div class="de1">A scholarship!?  Wait, you&#039;re that good?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">高巻さんの家でいい。</div></li><li class="li1"><div class="de1">Although, Takamaki-san&#039;s house would do as well.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">…って、はぁッ！？</div></li><li class="li1"><div class="de1">...Wait, WHAT!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">いつでもモデル頼めるし？</div></li><li class="li1"><div class="de1">You know, you could ask her to model for you whenever you wanted!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">ばか！</div></li><li class="li1"><div class="de1">You moron!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">まあ、祐介も一人になって、いつでも集まり易くなったけどな。</div></li><li class="li1"><div class="de1">Then again, now that Yusuke&#039;ll be livin&#039; alone, it&#039;ll be easier for us to meet up whenever we want.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">ひとまずは、事件経過について、様子見だ。</div></li><li class="li1"><div class="de1">For the time being, we should wait and see how this case plays out.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">それに、斑目級の大物ってなると、時間も多少かかりそうだしよ。</div></li><li class="li1"><div class="de1">And it&#039;ll prolly take some time findin&#039; a target as big as Madarame.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">とにかく、大人しく学園生活しつつ、次のターゲット見つけよう？</div></li><li class="li1"><div class="de1">Anyway, we should just act like normal students while we look for our next target, okay?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">リュージ、また頼むぜ？</div></li><li class="li1"><div class="de1">We&#039;ll be entrusting that to you again, Ryuji.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">それまでは準備だな。</div></li><li class="li1"><div class="de1">All right.  Guess it&#039;s just more prep &#039;til then.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">…喜多川、祐介。</div></li><li class="li1"><div class="de1">Yusuke Kitagawa...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#future scene</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">鈴井志帆に続いて、また面識の浅い他人の為にやったっていうの？</div></li><li class="li1"><div class="de1">So after Shiho Suzui, you did it again for someone you barely knew?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">二度も追い返されて、通報までされかけて…そんな相手を、上がり込んでまで助けたわけ？</div></li><li class="li1"><div class="de1">You were sent away twice, almost reported to the police... and yet you still wanted to save him?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">しかも、城の次は「美術館」…</div></li><li class="li1"><div class="de1">Moreover, you ended up in a museum instead of a castle this time...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">宝を盗めば心が入れ替わるなんて妄言、まだ言い通す気なのね？</div></li><li class="li1"><div class="de1">You&#039;re still going to maintain this rubbish about changing someone&#039;s heart by stealing their Treasure?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;真実だ</div></li><li class="li1"><div class="de1">好きに取れ</div></li><li class="li1"><div class="de1">It&#039;s the truth.</div></li><li class="li1"><div class="de1">Take it how you will.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">いいわ。そんな話、出まかせなら仲間と口裏合わせなんて出来ないはず。</div></li><li class="li1"><div class="de1">Very well.  The truth behind this tale of yours will be clear once your conspirators are in custody.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">新しく加わった仲間の事を話しなさい。</div></li><li class="li1"><div class="de1">Now then, tell me about this new member who joined your group.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">意地なんて張るのは無意味よ。自分の立場を悪くするだけ。</div></li><li class="li1"><div class="de1">There&#039;s no point in being stubborn.  It will only damage your position.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">斑目のたった一人の門下生なんて、調べればすぐに分かる事よ？</div></li><li class="li1"><div class="de1">The identity of Madarame&#039;s pupil can be easily discovered with a little investigation.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;調べればいい</div></li><li class="li1"><div class="de1">喋る気はない</div></li><li class="li1"><div class="de1">……</div></li><li class="li1"><div class="de1">Go right ahead.</div></li><li class="li1"><div class="de1">I&#039;m not telling.</div></li><li class="li1"><div class="de1">......</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">仲間は売らないって言いたいわけ？</div></li><li class="li1"><div class="de1">So you won&#039;t sell out your accomplice?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">…いいわ。聞きたいことはたくさんあるから。</div></li><li class="li1"><div class="de1">...Fine.  There&#039;s still much more that I want to hear.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">この頃からよね。怪盗団人気に火が点き始めたのは。</div></li><li class="li1"><div class="de1">It was around this time that the Phantom Thieves began to truly gain popularity.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">ネットに嘘が溢れて、「自分にも予告状が届いた」だの、「怪盗に助けられた」だの…</div></li><li class="li1"><div class="de1">Lies flooded the internet-things like, &quot;The Phantom Thieves saved me too,&quot; or, &quot;I got a calling card&quot;...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">情報収集の手間が10倍になったわよ…ほんとに勘弁してほしかったわ。</div></li><li class="li1"><div class="de1">For heaven&#039;s sake... those lies made the collection of intel take almost ten times longer.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">次の標的はこの男…</div></li><li class="li1"><div class="de1">Now, your next target was this man...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">「金城潤矢」…</div></li><li class="li1"><div class="de1">Junya Kaneshiro.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">この男は、今までの二人とは訳が違う。警察も手を焼いてた「本物」よ。</div></li><li class="li1"><div class="de1">He doesn&#039;t even compare to the previous two.  Even the police had been struggling to apprehend him.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">こんな悪党を、どうやって落としたの？聞かせて。</div></li><li class="li1"><div class="de1">So, exactly how did you take down such a well-guarded criminal?  Tell me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#present day, police chief office with Sae</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">…容疑者は「覚えていない」などと、意味不明の供述を繰り返しており…</div></li><li class="li1"><div class="de1">...The suspect has repeatedly testified that he does not have any recollection of his actions.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Newscaster</div></li><li class="li1"><div class="de1">警察では精神鑑定を行い、犯行の経緯や動機の解明を進めるとのことです。</div></li><li class="li1"><div class="de1">A full psychiatric evaluation will be performed to further investigate the crime&#039;s details and motives.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">秀尽学園の鴨志田、そして今回の斑目…</div></li><li class="li1"><div class="de1">First Kamoshida at Shujin Academy, and now Madarame...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">共通点がいくつか見つかっています。</div></li><li class="li1"><div class="de1">I&#039;ve found a number of points of commonality between the two.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">突発的な心代わりの直前に、「予告状」が送られていたり…</div></li><li class="li1"><div class="de1">Both, for example, were sent a &quot;calling card&quot; before their unforeseen changes of heart.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae Boss</div></li><li class="li1"><div class="de1">…なるほどね。</div></li><li class="li1"><div class="de1">...I see.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae Boss</div></li><li class="li1"><div class="de1">だが一連の精神暴走件と関連づけるのは、飛躍しすぎではないかね…？</div></li><li class="li1"><div class="de1">But isn&#039;t tying their cases to the series of psychotic breakdowns jumping to conclusions?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae Boss</div></li><li class="li1"><div class="de1">そもそも君が踏み込めば、警察が良い顔をしないだろう…</div></li><li class="li1"><div class="de1">Furthermore, the police will frown upon you stepping into this...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">縄張りだのメンツだのに、こだわってる場合じゃ…</div></li><li class="li1"><div class="de1">Now isn&#039;t the time to be worrying about things like jurisdiction and honor!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">ここ2、3年の間に起きた事件を関連付けて、調査すべきです。</div></li><li class="li1"><div class="de1">We need to dig deeper and find a correlation among the incidents these past two, three years.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae Boss</div></li><li class="li1"><div class="de1">…わかった、任せる。日々の教務に支障をきたさぬ範囲でな？</div></li><li class="li1"><div class="de1">Very well.  I leave it to you... However, you must not let this interfere with your regular duties.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">ありがとうございます。</div></li><li class="li1"><div class="de1">Thank you, sir.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Sae leaves</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae Boss</div></li><li class="li1"><div class="de1">余計なマネを、あの女…！</div></li><li class="li1"><div class="de1">That damn woman just had to stick her nose into this!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Bald Sunglasses Man</div></li><li class="li1"><div class="de1">…異常とも思える事件が相次ぎ、不安が広がっているのは承知をしています。</div></li><li class="li1"><div class="de1">...And I understand that these abnormal incidents have caused some anxiety throughout our country.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Bald Sunglasses Man</div></li><li class="li1"><div class="de1">これは大変憂慮すべき事態です。</div></li><li class="li1"><div class="de1">This situation must be approached with the utmost seriousness.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Bald Sunglasses Man</div></li><li class="li1"><div class="de1">国民の皆様が安心して暮らせるよう、全力をあげて取り組んでまいります。</div></li><li class="li1"><div class="de1">I shall continue to put forth great forth great effort so that every citizen can live with peace of mind.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae Boss</div></li><li class="li1"><div class="de1">怪盗団を名乗る連中といい、あれが明るみになれば…っ！</div></li><li class="li1"><div class="de1">Not only are there these Phantom Thieves to worry about, but if that is exposed...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#train station with Ryuji</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">チャット、祐介からみてーだ。そっちも来てんじゃね？</div></li><li class="li1"><div class="de1">Looks like Yusuke&#039;s textin&#039; me.  I think you&#039;re getting &#039;em too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#im</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">礼を言う</div></li><li class="li1"><div class="de1">You have my gratitude.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">急に改まってなんだよ？</div></li><li class="li1"><div class="de1">What&#039;re you so polite for all of a sudden?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">目を覚ましてくれた事本当に感謝している</div></li><li class="li1"><div class="de1">I truly am thankful for you for making me come to my senses.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;おおげさだ</div></li><li class="li1"><div class="de1">貸しにしよう</div></li><li class="li1"><div class="de1">You&#039;re exaggerating.</div></li><li class="li1"><div class="de1">You owe us one.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おおげさだ</div></li><li class="li1"><div class="de1">You&#039;re exaggerating.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">いや、お前たちのおかげだ礼を言わせてくれ</div></li><li class="li1"><div class="de1">I most certainly am not.  I must express my gratitude earnestly.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">これから頼むぜ</div></li><li class="li1"><div class="de1">You&#039;re one of us now, man.  We&#039;ll be counting on you, mkay?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">もちろんだ</div></li><li class="li1"><div class="de1">Of course.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">何かあれば私たちも協力するから</div></li><li class="li1"><div class="de1">And if anything comes up, we won&#039;t hesitate to lend a hand.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">ありがとう</div></li><li class="li1"><div class="de1">Thank you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Y</div></li><li class="li1"><div class="de1">それじゃあ、また</div></li><li class="li1"><div class="de1">Well then, see you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#end im</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">わざわざ礼とか、結構律儀だよなアイツ…</div></li><li class="li1"><div class="de1">He didn&#039;t have to go through all that trouble just to thank us.  He&#039;s such an honest guy.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">けどまあ、俺らの最初の仕事としちゃ大成功だよな！</div></li><li class="li1"><div class="de1">Anyways, that went well for our first job, huh?  It was a huge success!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">…でよ、成功ついでにお前このあと時間ある？</div></li><li class="li1"><div class="de1">So, that said... you got time after this?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;時間はある</div></li><li class="li1"><div class="de1">なんだ？</div></li><li class="li1"><div class="de1">Yeah.</div></li><li class="li1"><div class="de1">For what?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">実はよ、知り合いから、ダーツバーの無料券もらったんだよ。</div></li><li class="li1"><div class="de1">Well, thing is, I got some free tickets to a darts lounge from this guy I know.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">けど、期限が今日までなの忘れててさ。せっかくだし今から行かね？</div></li><li class="li1"><div class="de1">But, I totally forgot that they expire today.  So... you wanna go right now?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">オマエ…さっき警戒すべきって話したばっかだろ。</div></li><li class="li1"><div class="de1">Ryuji... didn&#039;t we just finish talking about how we need to be on guard?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ダーツするぐらいならヘーキだろ！モルガナもやってみてーだろ？ダーツ。</div></li><li class="li1"><div class="de1">C&#039;mon, it&#039;s just darts!  Don&#039;t you wanna play too, Morgana?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">…投げられるかはわかんねぇけど。</div></li><li class="li1"><div class="de1">...I mean, if you can actually throw anything.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">まあ、普通に遊ぶ程度なら問題ないか…</div></li><li class="li1"><div class="de1">If you&#039;re just going to play, then I guess it shouldn&#039;t be a problem...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">よし！ではダーツバーとやらに行くとするか！リュージ、案内しろ！</div></li><li class="li1"><div class="de1">All right, then let&#039;s head to this darts lounge or whatever it is.  Lead the way, Ryuji!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">おう、任しとけ！</div></li><li class="li1"><div class="de1">Hell yeah, I&#039;m on it!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">つってもその店、吉祥寺にあんだよ。まずは電車だな。</div></li><li class="li1"><div class="de1">Oh, right.  The place is in Kichijoji, so we gotta take the train first.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;吉祥寺？</div></li><li class="li1"><div class="de1">行ったことがない</div></li><li class="li1"><div class="de1">Kichijoji?</div></li><li class="li1"><div class="de1">I&#039;ve never been there.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">なんだ、行ったことねえの？駅前はいろんな店あんだぜ？</div></li><li class="li1"><div class="de1">What, for real?  There&#039;s a buncha different shops right outside the station there.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">渋谷からなら1本だし。とりあえず井ノ上線に向かおうぜ。</div></li><li class="li1"><div class="de1">It&#039;s just one stop away from Shibuya, so let&#039;s head for the Inogami Line first.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#at stairs to inogami line</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">この階段登ってくと井ノ上線だ。吉祥寺に行くんなら、こっからだな。</div></li><li class="li1"><div class="de1">These stairs will take you to the Inogami Line.  This is the way to Kichijoji.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ワガハイ、ワクワクしてきたぞ！</div></li><li class="li1"><div class="de1">I&#039;m getting excited!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">んじゃ、行こうぜ！</div></li><li class="li1"><div class="de1">All right, let&#039;s go!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">吉祥寺は定期券の区間外だな。運賃がかかるから気を付けろよ？</div></li><li class="li1"><div class="de1">Now, we&#039;re heading to an area that&#039;s outside of where your commuter pass works, so make sure you&#039;ve got the fare.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Makoto</div></li><li class="li1"><div class="de1">あの二人…</div></li><li class="li1"><div class="de1">Those two...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#at kichijoji</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">おー、ここが吉祥寺か…</div></li><li class="li1"><div class="de1">Ooh, so this is Kichijoji, huh...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">雰囲気から、渋谷とは全然違うな。</div></li><li class="li1"><div class="de1">You can tell it&#039;s nothing like Shibuya, just from the atmosphere alone.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">実際、渋谷にはねーような店もわりとあるっぽいぜ？</div></li><li class="li1"><div class="de1">Well, yeah.  Looks like there&#039;re a lot of shops here that you can&#039;t find in Shibuya.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">…俺もあんま詳しくはねーけど。</div></li><li class="li1"><div class="de1">...Not that I&#039;d really know.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;面白そうだ</div></li><li class="li1"><div class="de1">早くダーツバーに行こう</div></li><li class="li1"><div class="de1">It seems interesting.</div></li><li class="li1"><div class="de1">Let&#039;s get over to the darts lounge.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">お、興味出てきたか？</div></li><li class="li1"><div class="de1">Oh, it&#039;s got your attention now, huh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">今日は用事でいねーけど、杏たちと来ても楽しそうだよな。</div></li><li class="li1"><div class="de1">Ann&#039;s not here &#039;cause she&#039;s busy, but I bet it&#039;d be fun to come here with some more people.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ダーツバーの場所は、そこのアーケード街より一本横の通りにあるみてーだ。</div></li><li class="li1"><div class="de1">I think the darts lounge is one block up from the main street.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">せっかくだし、店行く前にイロイロ見て回りたいってんなら付き合うぜ？</div></li><li class="li1"><div class="de1">But since we&#039;re here, I won&#039;t say no to checkin&#039; out a bunch of the other shops on the way.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#in front of the bar</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">おっ、この通り！</div></li><li class="li1"><div class="de1">Ah, this is the road!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あそこの店の名前、無料券に書いてあんのと一緒だな。</div></li><li class="li1"><div class="de1">The name of that shop matches what&#039;s on the free tickets.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あー…「ペンガインスニパー」？</div></li><li class="li1"><div class="de1">It says... &quot;Penguin Sniper&quot;?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">「ペンガインスニパー」だろ…英語の成績大丈夫かオマエ…</div></li><li class="li1"><div class="de1">It&#039;s not meant to be taken literally...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あーそれだそれ。んじゃ行ってみよーぜ！</div></li><li class="li1"><div class="de1">Still, if you&#039;re comin&#039; up with a good name... Well, whatever.  Let&#039;s check it out!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examining store under bar</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">山ガール向け、海ガール向け…アウトドア関連の商品を取り扱ってるのか。</div></li><li class="li1"><div class="de1">For mountain girls and beach girls... Looks like they have a whole bunch of outdoor stuff.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">アウトドアやる女子ってホントに増えてんだな。</div></li><li class="li1"><div class="de1">Man, there&#039;s so many outdoorsy girls around nowadays.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">けど、男向けのを山ボーイ、海ボーイっていわねーのはなんでなんだ？</div></li><li class="li1"><div class="de1">But how come there aren&#039;t any mountain boys or ocean boys?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">確かに…</div></li><li class="li1"><div class="de1">...Good point.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#in front of the bar</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">おー！ここだ、ここだ。</div></li><li class="li1"><div class="de1">Ohh!  Here, this is the place.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">やベ、バーとかちょいキンチョーするわ…</div></li><li class="li1"><div class="de1">Oh man, I&#039;m getting kind of nervous...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">はっ、おこちゃまめ。恥ずかしい姿は見せるなよ？</div></li><li class="li1"><div class="de1">Ha, you&#039;re such a child.  Try not to embarrass the rest of us, would you?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">わーってるって！</div></li><li class="li1"><div class="de1">You don&#039;t gotta tell me that!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">で、どうするよ？もう店の中に入ってみるか？</div></li><li class="li1"><div class="de1">So, what&#039;s the plan?  You wanna head inside?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;店に入ろう</div></li><li class="li1"><div class="de1">まだ街を歩きたい</div></li><li class="li1"><div class="de1">Let&#039;s go.</div></li><li class="li1"><div class="de1">I still want to look around.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#in the bar</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">うっし、ブル！高得点だぜ！</div></li><li class="li1"><div class="de1">All right, bull!  That&#039;s a new high score!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;ブル？</div></li><li class="li1"><div class="de1">詳しいな</div></li><li class="li1"><div class="de1">Bull?</div></li><li class="li1"><div class="de1">You seem to know a lot.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">的の真ん中のことを「ブルズアイ」って言うのよ。で、そこに当てるのが「ブル」！</div></li><li class="li1"><div class="de1">The center of the target&#039;s called the bullseye.  If you land a dart there, it&#039;s called &quot;bull&quot;!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">…ま、昨日ネットで覚えたばっかだけどな。</div></li><li class="li1"><div class="de1">...I know because I looked up the rules online last night.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">で、今やってるルールは「ゼロワン」つって0点になったら成功なんだ。</div></li><li class="li1"><div class="de1">Anyway, this game&#039;s called &quot;01.&quot;  You win by getting your score all the way down to 0 points before the other player.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">点を稼ぐんじゃなくてゼロにするのか？変わったルールだな。</div></li><li class="li1"><div class="de1">Oh, so you&#039;re not trying to get a high score, but get rid of your score?  That&#039;s pretty different.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">まず最初に持ち点があるんだよ。で、当てた場所に応じて点数が削られてって…</div></li><li class="li1"><div class="de1">We both start with the same score, then you lose points based on the number on the board where your dart lands...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ピッタリ0点になったら成功ってワケ。そっから1点でもズレたらダメだ。</div></li><li class="li1"><div class="de1">And you can only win if you get your score down to 0, exactly.  You can&#039;t even be off by a single point!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">どうよ、スリリングで燃えるだろ？</div></li><li class="li1"><div class="de1">How&#039;s that sound?  Pretty sick, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">点数の計算とダーツの投げ分けが成功のカギというわけか…</div></li><li class="li1"><div class="de1">So you have to calculate your score properly while making sure you hit the right numbers on the board...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">かなりの集中力が求められそうだな。</div></li><li class="li1"><div class="de1">This game seems like it takes a lot of concentration.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ププ、1点だとさ。ほら、もうちょっと腕をまっすぐだな…</div></li><li class="li1"><div class="de1">Heehee, one point!?  C&#039;mon, you have to straighten your arm out more, and...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ところで、リュージは何を見てんだ？</div></li><li class="li1"><div class="de1">Hey, Ryuji, what&#039;s up?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ああ、この貼り紙さ。「ペアプレイで盛り上がろう！」だってよ。</div></li><li class="li1"><div class="de1">Ah, I was just readin&#039; this flier.  It says, &quot;Darts is a party when you play in pairs!&quot;</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ペアで交互に投げるんだってさ。さっき言ったゼロワンのルールでな。</div></li><li class="li1"><div class="de1">You team up with someone and alternate throwers when it&#039;s your turn.  You still use the same rules I told you, though.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">なあ、コレやってみねえ？</div></li><li class="li1"><div class="de1">Hey, whaddya say we give it a try?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;面白そうだ</div></li><li class="li1"><div class="de1">足を引っ張るなよ</div></li><li class="li1"><div class="de1">Yeah, sounds fun.</div></li><li class="li1"><div class="de1">You better not tank us...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そうこなくちゃな！そんじゃ、さっそく始めようぜ。</div></li><li class="li1"><div class="de1">Hell yeah, that&#039;s what I&#039;m talkin&#039; about!  Let&#039;s do this!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">うお！いきなりブルかよ！こりゃテンション上がるぜ！</div></li><li class="li1"><div class="de1">Whoa!  A bull right off the bat!?  Man, talk about an exciting opening!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">いくぜ！元陸上部をナメんなよ！</div></li><li class="li1"><div class="de1">Here goes!  Don&#039;t underestimate an ex-athlete!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">きたぁーっ！20のトリプルぅ！</div></li><li class="li1"><div class="de1">HELL YEAH!  Triple 20!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">おお…あんな細いトコによくぞ。リュージにしては、やるな！</div></li><li class="li1"><div class="de1">Whoa, he hit such a tiny spot!  Quite impressive-especially for you, Ryuji.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あと少しで0点だ！最終ラウンド、引き締めてこうぜ！</div></li><li class="li1"><div class="de1">We&#039;re almost down to 0 points!  Let&#039;s really focus for the last round!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">うっしゃー！ピッタリ0点！俺らカンペキじゃね！？</div></li><li class="li1"><div class="de1">Woohoooo!  0 points, right on the dot!  Ain&#039;t we badass!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">そう簡単に達成できるモンじゃないぞ。やっぱりオマエ、持ってるな！</div></li><li class="li1"><div class="de1">That&#039;s no easy feat!  You really do have something special going on!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">いやコレ、おもしれーわ。</div></li><li class="li1"><div class="de1">Man, this is so fun.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">責任感つーか、プレッシャーがスゲーけど…その分、やったろーじゃんって気になるぜ！</div></li><li class="li1"><div class="de1">When you&#039;re on the line, the pressure&#039;s insane, but it makes you wanna do your best for your partner!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ペアプレイを通じてなにか掴めた気がする…！</div></li><li class="li1"><div class="de1">I feel like I understand something better after pairing up with Ryuji...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ふむ、何か掴んだみたいだな。オマエらの顔を見れば分かるぜ。</div></li><li class="li1"><div class="de1">Hm, based on the looks on your faces, I&#039;m guessing both of you got something out of this game.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">たとえ遊びでも、やり方次第じゃ鍛錬になるってことか…</div></li><li class="li1"><div class="de1">Even if it is just a game, it can be some kinda training, depending on how you play...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;真面目だな</div></li><li class="li1"><div class="de1">いい考えだ</div></li><li class="li1"><div class="de1">Someone&#039;s dedicated.</div></li><li class="li1"><div class="de1">That&#039;s a good way to look at it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ふっ、ワガハイはいつだって怪盗団のことを考えてるのさ。</div></li><li class="li1"><div class="de1">Heh... Well, I do always have the Phantom Thieves on the brain.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">この場所、使えるぜ！今度はミンナで集まろう！</div></li><li class="li1"><div class="de1">Let&#039;s keep practicing together here- Ooh, ooh!  Let&#039;s invite everybody next time!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">おっ、これって俺が誘ったおかげじゃね？あれだ、ホラ…棚から…岡持ち？</div></li><li class="li1"><div class="de1">Man... All this, just from me askin&#039; you to meet me here!  This is, like... y&#039;know... one of those strikes of good luck!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ボタモチだろ！岡持ちって、出前かよ。</div></li><li class="li1"><div class="de1">A &quot;stroke&quot; of good luck!  Why would it be a strike?  Who would protest having good luck?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">お…いい音！</div></li><li class="li1"><div class="de1">Ooh, what&#039;s that?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#pan to billiard tables</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そういや、ここってビリヤードも遊べたんだよな。</div></li><li class="li1"><div class="de1">Oh yeah, they have pool here, too!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ふむ…コイツも遊び方次第では何かに使えるかもしれん…</div></li><li class="li1"><div class="de1">Hmm... This game could be useful too, depending on how we look at it...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ま、今日はも遅いから、ビリヤードはまた今度にしとこうぜ。</div></li><li class="li1"><div class="de1">It&#039;s already pretty late, though.  We can come back and play it later.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">そう言えば、今回は無料券を使ったが次に遊ぶ時からは有料なんだな。</div></li><li class="li1"><div class="de1">Ah, and don&#039;t forget-we got a couple free tickets to play today, but next time you&#039;ll have to pay up.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">でも面白かったろ？これだったら、また遊びたいぜ！</div></li><li class="li1"><div class="de1">But it was super fun, right!?  I really wanna play again sometime!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">…そんじゃ、帰るとすっか。今日は付き合ってくれてサンキュな。</div></li><li class="li1"><div class="de1">Well, we should head home for the day.  Thanks for hangin&#039; out.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back at Leblanc</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">確かお前、渋谷で乗り換えだったよな？</div></li><li class="li1"><div class="de1">If I remember correctly, you transfer lines at Shibuya, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">客の話じゃ、最近は危ない輩が多いらしい。カモにされたりなんじゃねえぞ？</div></li><li class="li1"><div class="de1">I heard customers say it&#039;s gotten pretty dangerous over there.  Don&#039;t let yourself be a target, got it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">へぇ、そんなブッソーなことになってんのかよ…</div></li><li class="li1"><div class="de1">Wow.  It&#039;s really gotten that unsafe, huh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">…そうは言っても夜の吉祥寺、気になるだろ？</div></li><li class="li1"><div class="de1">That said, you still want to check out Kichijoji at night, don&#039;t you?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">大丈夫だ&lt;name&gt;、いざとなったらワガハイがいる！</div></li><li class="li1"><div class="de1">Don&#039;t worry, &lt;name&gt;.  Worst comes to worst, I&#039;ve got your back.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ワガハイ、あの通りのうまそうな匂いを確かめたいんだ…ニャフフ。</div></li><li class="li1"><div class="de1">Besides, there&#039;s a certain delicious smell on that street that bears investigating... Myeh heh heh.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#IM</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">ちょっと気になる情報だから聞いて欲しいんだ</div></li><li class="li1"><div class="de1">Picked up some interesting info you might want to hear...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">吉祥寺で迷惑なおじいさんが出没してるらしい</div></li><li class="li1"><div class="de1">Apparently there&#039;s this old man who&#039;s been causing problems in Kichijoji.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">ちょっとでも注意したら逆上げしてケンカになっちゃうんだって</div></li><li class="li1"><div class="de1">If you make one wrong move or say the wrong thing, he flies into a rage and it turns into a fight.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">そんで殴られてもいないのに「殴られた」とかウソついて慰謝料を要求してるとか…</div></li><li class="li1"><div class="de1">Even if you don&#039;t hit him, he lies and says you did-and then sues for damages.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">「殴られた詐欺」とでもいえば言いのかな？</div></li><li class="li1"><div class="de1">So he&#039;s like a con artist!  Or like... a conflict artist.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;むちゃくちゃだな</div></li><li class="li1"><div class="de1">警察の対応は？</div></li><li class="li1"><div class="de1">That&#039;s ridiculous.</div></li><li class="li1"><div class="de1">And the cops?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">むちゃくちゃだな</div></li><li class="li1"><div class="de1">That&#039;s ridiculous.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">俺もそう思う野放しにしてちゃ危ないよ</div></li><li class="li1"><div class="de1">I agree. We can&#039;t let this guy go unchecked.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">ただ、迷惑な老人ってだけで名前までは分かんなかった</div></li><li class="li1"><div class="de1">Only problem is, knowing that he&#039;s an old troublemaker isn&#039;t enough to get us a name...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">でも吉祥寺のハーモニー横丁に出没してるってことは掴んだよ！</div></li><li class="li1"><div class="de1">But I DID hear he hangs out in Kichijoji&#039;s Harmony Alley a lot!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">確かに厄介な老人みたいだが…</div></li><li class="li1"><div class="de1">This old man sure does sound like a problem.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">名前が分からないんじゃ改心させることは出来ないな。</div></li><li class="li1"><div class="de1">And if we don&#039;t know his name, we can&#039;t make him have a change of heart.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">よし、吉祥寺へいく理由も出来たことだし、いっちょハーモニー横丁へ行ってみようぜ！</div></li><li class="li1"><div class="de1">Okay, it sounds like our next stop is Kichijoji.  Let&#039;s go check out this Harmony Alley!</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">#6/3 night, coffee trivia with Sakura
+
+Sakura
+この口当たり…
+This taste...
+
+Sakura
+…コロンビア産、エメラルドマウンテンだな。
+It must be Columbian Nariño.
+
+Trivia
+国土の約半分が山岳地帯のコロンビアでは、山脈の急斜面がコーヒーの栽培地となり高い生産力の礎となっている。
+The high altitude, rainy climate, and soil of the Columbian mountains creates a strong foundation for their high quality coffee.
+
+Trivia
+エメラルドマウンテンは、宝石のエメラルドから付けられた。酸味、苦味、甘みのバランスが良く鮮明なコクとまろやかな口当たりが魅力。
+Nariño coffee has a creamy, viscous body that coats the mouth with fruity and nutty flavors.
+
+#6/4 begins, in class
+
+Maruki
+最近、ジメジメしてきたね。
+It&#039;s been getting humid lately, huh?
+
+Maruki
+けどこういうときこそ明るく、天気に負けないように行きよう！
+But it&#039;s times like these when you&#039;ve just gotta push through the funk!  Don&#039;t let the weather get to you!
+
+Maruki
+…って思ってたそばからなんだけど、昨日職質されちゃったよ。
+...Well, that was the plan, anyway.  Then I got police officers asking what I was up to.
+
+Maruki
+僕の見た目、そんなに怪しいかなぁ…
+Do I really look that suspicious...?
+
+Maruki
+そうそう、見た目と言えば…
+Oh, but speaking of looks...
+
+Maruki
+みんなは「あの子、かわいいから性格もよさそう」なんて思った経験ないかな？
+Have any of you seen someone you thought was cute, and immediately decided that they must be nice, too?
+
+Maruki
+これは誰にでもある現象でね、ちゃんと名前だってついてるんだよ。
+That thought process is totally normal, if not always accurate.  There&#039;s even a name for it.
+
+Maruki
+じゃあ、&lt;name&gt;君。
+Any guesses, &lt;name&gt;-kun?
+
+Maruki
+この現象の名前、分かるかな？
+What do you think the name for this phenomenon is?
+
+&gt;ピグマリオン効果
+ハロー効果
+イプニング効果
+The Pygmalion effect.
+The halo effect.
+The destiny effect.
+
+Maruki
+残念。正解はハロー効果だ。
+Unfortunately, no.  It&#039;s called the halo effect.
+
+Maruki
+相手の目立つ部分を見たことによって先入観を抱き、それ以外の認識を歪めてしまう…
+You get distracted by superficial qualities, and your broader perception of someone can get biased.
+
+Maruki
+こうなると、正しい判断をすることが難しくなってしまうんだ。
+Once you get that far, it&#039;s hard to make totally objective judgments.
+
+Maruki
+静かな人だから、きっと怖いに違いない…とかね。
+Like, &quot;that person is quiet, so they must be scary.&quot;  Stuff like that.
+
+Classmate
+先生、当てる相手、まちがえてない？
+Did the teacher mean to pick someone else?
+
+Classmate
+もっとデキる子いるのにねー…
+There are definitely people who would have gotten that right...
+
+Maruki
+ハロー効果も悪いことばかりじゃないけど…
+The halo effect isn&#039;t all bad, but...
+
+Maruki
+初対面の人に会うときは先入観を持たないことをおすすめするよ。
+I recommend you give people the chance to define themselves instead of making snap judgments.
+
+Maruki
+こういうのに囚われて、相手の持つ素晴らしい部分に気づけないのはもったいないだろ？
+After all, it&#039;d be a shame if your biases kept you from noticing something truly wonderful about someone, right?
+
+M
+見た目だけ良くて性格が最悪なヤツなら、そこら中にいるよな。
+Plenty of terrible people look perfectly decent on the outside.
+
+M
+その点、アン殿は全てパーフェクト！にゃふふ…さすがだぜ。
+But Lady Ann looks perfect, and she IS perfect!  Nyahaha...
+
+#6/4 night, IM
+
+A
+明日で個展終わりだけど…斑目は改心してるよね？
+The exhibition ends tomorrow... Madarame must have had his change of heart by now, right?
+
+R
+大丈夫だろ
+I&#039;m sure it&#039;ll be fine.
+
+R
+告訴がどうのって連絡も今のことないしな
+So far nobody&#039;s come charging us with anything, right?
+
+A
+でも、告訴するにしても個展終わってからでしょ？
+But wouldn&#039;t he wait to press charges until AFTER the exhibition?
+
+A
+明日、連絡きたらどうしよう…
+What should we do if someone contacts us about it tomorrow...?
+
+R
+祐介に聞いてみろよまだ斑目んちだろ？
+Try asking Yusuke.  He&#039;s still staying with Madarame, right?
+
+A
+そういえば祐介は？
+Oh, that&#039;s right... Where is Yusuke?
+
+A
+斑目と一緒にいて大丈夫かな
+I wonder if he&#039;ll be OK with Madarame...
+
+Y
+すまん、連絡が遅くなった
+Sorry I&#039;m late to contact you all.
+
+Y
+明日、動きがありそうだ斑目がどこかに連絡していた
+It seems something will certainly be happening tomorrow.  Madarame is on the phone as we speak.
+
+&gt;動きって？
+どこに？
+What do you mean, something?
+With who?
+
+動きって？
+What do you mean, something?
+
+Y
+マスコミ発表の準備かもしれん告訴の話ではなさそうだ
+I believe he is preparing for a media announcement.  I didn&#039;t hear anything about pressing charges.
+
+R
+じゃあ待つしかねえな
+Guess we just gotta wait then.
+
+Y
+明日、渋谷に集まろう
+Let us meet in Shibuya tomorrow.
+
+A
+ＯＫ！じゃあ明日！
+OK!  See you then!
+
+M
+明日でいよいよ個展も終わりだな…きっと今度も大丈夫さ。
+The exhibition is finally ending tomorrow... I&#039;m sure things will work out fine this time too.
+
+#more coffee trivia
+
+Sakura
+この味わい…
+This flavor...
+
+Sakura
+…キューバ産、クリスタルマウンテンだな？
+It&#039;s Cuban Crystal Mountain, right?
+
+Trivia
+キューバはフロリダ半島の南にあるカリブ海最大の島。コーヒー豆の栽培に適し、芳醇な香りと味を持つ質の高い豆を生産している。
+Cuba is the biggest island in the Caribbean.  Their coffee is known for its full-bodied aroma and taste.
+
+Trivia
+クリスタルマウンテンは、水晶の発掘地であった栽培地の山岳が名前の由来。大きな豆を厳選した最上級品。バランス良いマイルドな風味が特徴。
+Crystal Mountain coffee is made from only the largest beans of the harvest.  It has a sweet, nutty flavor with low acidity.
+
+#6/5, people staring at Madarame on a television screen at press conference
+
+Man
+なんだ、あのジイさん？
+What&#039;s up with that old geezer?
+
+Woman
+泣いてない…？
+Is he... crying?
+
+Madarame
+私は…画家としてあるまじき罪を犯しました。
+I... I have committed crimes that are unbecoming of an artist.
+
+Madarame
+世に言う…その…「盗作」を、私は…
+Plainly put... I, um... plagiarized work...
+
+Madarame
+我が国の、美術界にも…そして…「サユリ」に、も…くっ！
+I-I... tainted this-this country&#039;s art world... and... even &quot;Sayuri&quot;!
+
+Madarame
+…皆様に、どう…お詫びを…申し上げ…う…申し上げ、たら…いい、か…んぁっははぁぁ！
+...H-How could I... I possibly... apologize to-to everyone for... for what I&#039;ve done... Aaaah...
+
+Man
+泣き過ぎだろう。
+He&#039;s crying way too much...
+
+Newscaster
+…先ほど行われた、斑目氏による、緊急謝罪会見の模様をお伝えしました。
+...And that was from the urgent apology conference by Madarame that took place just a moment ago.
+
+Newscaster
+斑目氏は盗作の事実を協会に申告したのち、警察からの出頭要請に応じたとのことです。
+After reporting to the association, Madarame has agreed to the police&#039;s request to turn himself in.
+
+Woman
+前、テレビ出てなかった？
+Wasn&#039;t he on TV the other day?
+
+Newscaster
+斑目氏は、教え子らへの虐待容疑に加え、無断で作品を自作と偽って発表していた疑いがあるほか…
+On top of the charges of abuse to his pupils, Madarame is under suspicion of claiming their works as his own.
+
+Newscaster
+代表作「サユリ」に関する盗難被害の届けが、詐欺目的の狂言だったとも疑われています。
+Some doubt the validity that his maiden work &quot;Sayuri&quot; was stolen, believing it was used for fraud.
+
+Newscaster
+大物に持ちあがった大がかりな違法行為に、美術界では衝撃が走って…
+This large-scale criminal act has caused a great shock to the art world, and...
+
+Woman
+あの爺さん、終わったね。
+That old man&#039;s done for.
+
+Newscaster
+氏は会見後、身柄を警察に移される予定でしたが、高齢を老考慮され、警察病院での聴取となる模様です。
+After the conference, Madarame was taken to a police hospital for interrogation due to his age.
+
+Newscaster
+しかし簡易鑑定では精神に異常はなく、責任能力はあるとの見方を…示しています。
+However, initial psych evaluations state that he is mentally sound and likely responsible for his actions.
+
+Man
+そんなジジイに優しくすることないのに。
+There&#039;s no need to be nice to an old geezer like that.
+
+Man
+なんで自分からバラしたワケ？あり得なくね？
+Why&#039;d he spill the beans himself?  Doesn&#039;t that seem weird?
+
+Newscaster
+また、氏の個展に「怪盗団」を名乗る何者かが、不審な声明文を貼り出したとの情報があり…
+Also, a group calling themselves the Phantom Thieves posted a dubious note at Madarame&#039;s exhibit.
+
+Newscaster
+警察では、容疑を特定しないかたちで関連を調べる事にしています。
+The police will investigate their relation to this case, but for now, did not identify them as suspects.
+
+Man
+怪盗？ドロゴウと、爺さんの土下座と、なんかカンケーあんの？
+Phantom Thieves?  Do these bandits have somethin&#039; to do with that old geezer&#039;s apology?
+
+Woman
+あー聞いた事ある、怪盗団。悪い心を盗むんだって。だから犯人、自分から謝罪しちゃうって話。
+Ohhh, I&#039;ve heard of them before.  They supposedly steal evil hearts; it&#039;s why the culprits apologize.
+
+Woman
+え、心盗むって何？できなくない、そんなの？
+Wait, what?  Steal hearts?  That&#039;s impossible though.
+
+Man
+けど、俺もなんかネットで見た気なんな。確か、予告状だけはマジで出されたっぽいぜ？
+But I feel like I saw somethin&#039; about that online too.  They sent out a calling card for real.
+
+Man
+「貴方のはーと頂きます」みてえな？マジでそんな奴いたらスゲェわ、神ってるわ。
+So it was like, &quot;We&#039;re going to take your heart&quot;?  That&#039;s impressive if someone really did that.
+
+Boy
+怪盗団…ねえ？
+Phantom Thieves, huh?
+
+Makoto
+また怪盗団…
+Phantom Thieves again...
+
+#at the hideout
+
+R
+見た見たぁ？斑目のニュース！鴨志田ん時とおんなじだ！
+You guys see the news about Madarame!?  It&#039;s just like what happened with Kamoshida!
+
+A
+怪盗のこともちゃんと言われてた！
+And they mentioned the Phantom Thieves!
+
+R
+けどよ、面白くなってきたな…うまくやりゃ、狙った通りに改心だ。
+Man, this is startin&#039; to get interesting... If we do it right, we can change people&#039;s hearts.
+
+R
+この力…マジで見返すどころか、世の中大騒ぎになんじゃね？
+With this power... we might be able to do more than just gettin&#039; back at society.  It&#039;ll be a big deal.
+
+楽しみだ
+&gt;どうかな
+This&#039;ll be fun.
+I don&#039;t know.
+
+R
+冷めてんなぁ。
+Man, you&#039;re so indifferent.
+
+A
+まあ、リーダーは浮かれ過ぎない方が頼もしいじゃん。
+Then again, doesn&#039;t that make him more trustworthy as our leader?
+
+R
+この調子でどんどん広まってかねーかな！
+As for me, I hope we just keep gettin&#039; more and more famous!
+
+M
+「二度目」ってのもデカいぜ。こんな偶然、フツーねえからな。
+Something like this happening twice is massive too.  It&#039;s too great a coincidence to occur normally.
+
+A
+続けていけば、絶対、みんなに勇気与えられる気がする。
+If we continue doing this, we&#039;ll definitely be able to give courage to everyone who needs it.
+
+#police walk up
+
+Y
+…少し、静かにした方が良さそうだ。
+...We may want to quiet down a little.
+
+A
+知り合い？
+Do you know them?
+
+R
+バカ、補導員だ！
+You moron!  They&#039;re attendance officers!
+
+Police1
+君たち、ちょっといいかな？
+Hello there.  May I speak with you for a moment?
+
+A
+はぁ～い、何かご用でしょうか！？
+Ah, yes!  How can we help you?
+
+M
+何度、見ても痺れる棒読み具合だぜ。
+That monotonous acting of hers never fails to send a chill down my spine.
+
+Police1
+何してるの？どういう友達？
+What are you all doing here?  Are you friends?
+
+&gt;みんなでお茶でもと…
+不良友達だ
+何に見える？
+We wanted some tea...
+We&#039;re delinquents.
+What do we look like?
+
+Police2
+ふうん、本当か？こんな所で、お茶もないだろうが。
+Hm, is that so?  And how would you do that in a place like this?
+
+A
+今からどこ行こうかって…
+We were just discussing where we should go...
+
+Police1
+まぁ、今日はいいけどね。あまり遅くならないうちに解散しなさいね。
+Well, all right.  Just make sure you disperse before it gets too late, okay?
+
+Police1
+変な事件も多いし、例の画家のニュースで騒がしいしね。
+There have been some odd happenings lately, and the news about that artist has caused quite a stir.
+
+A
+気を付けまぁすっ！
+We&#039;ll be careful!
+
+R
+昼間っからよ…あいつらヒマなんじゃね？
+It&#039;s still light out... Man, those guys must have way too much time on their hands.
+
+A
+あんなアドリブやめてよ…！焦ったしっ！
+Hey, don&#039;t go making stuff up on the spot like that, okay!?  I totally panicked &#039;cause of you!
+
+M
+…今まで以上に警戒した方がいいぜ。
+...From now on, we&#039;ll need to be even more cautious than before.
+
+M
+第二の怪盗騒ぎが巻き起こってる最中に、前回と今回の被害者が会ってる訳だしな。
+Look at us!  Right after the second Thieves incident, both prior victims are meeting up.
+
+A
+まさか、会話聞かれたりとか…
+Wait, you mean people might be listening to us?
+
+R
+ヘーキだよ、この人ごみだ。気にしてんのは俺たちだけ。
+Eh, it&#039;ll be fine.  Look around.  We&#039;re the only people worryin&#039; about it.
+
+A
+それもそうか…
+I guess you&#039;re right...
+
+R
+ところでさ、祐介。斑目から、なんか聞けた？
+By the way, Yusuke... You able to get anything out of Madarame?
+
+R
+怪しいヤツがどうのとか言ってたじゃん？
+Remember how he was talkin&#039; about that suspicious person in the black mask?
+
+Y
+それが…問い詰めてはみたんだが。奴は自分に何が起きたかさえ理解していない。
+Well... I pressed him for answers, but he doesn&#039;t even understand what happened to him to begin with.
+
+A
+私らに欲望盗られたこと、実際に見たわけじゃないんだもんね。
+It&#039;s not like he actually saw his desires get stolen, after all.
+
+Y
+ヘタなれば刑務所行きって噂だ。やつから情報を得るのは…難しいだろうな。
+It&#039;s rumored that he may be sent to prison.  In that case, gaining information will be difficult...
+
+R
+つかお前、これからどうすんの？
+So, what&#039;re you gonna do now?
+
+Y
+あの家を出るよ。あんな場所では、もう絵は描けない。
+I&#039;ll be leaving that house.  I can&#039;t draw in such a place anymore.
+
+A
+アテ…あるの？
+Do you have somewhere to go?
+
+Y
+学生寮がある。美術科特待生の俺は無償でいいそうだ。
+The school dorms.  I can stay there free of charge thanks to my fine arts scholarship.
+
+R
+特待生！？え、お前すごいの…？
+A scholarship!?  Wait, you&#039;re that good?
+
+Y
+高巻さんの家でいい。
+Although, Takamaki-san&#039;s house would do as well.
+
+A
+…って、はぁッ！？
+...Wait, WHAT!?
+
+R
+いつでもモデル頼めるし？
+You know, you could ask her to model for you whenever you wanted!
+
+A
+ばか！
+You moron!
+
+R
+まあ、祐介も一人になって、いつでも集まり易くなったけどな。
+Then again, now that Yusuke&#039;ll be livin&#039; alone, it&#039;ll be easier for us to meet up whenever we want.
+
+Y
+ひとまずは、事件経過について、様子見だ。
+For the time being, we should wait and see how this case plays out.
+
+R
+それに、斑目級の大物ってなると、時間も多少かかりそうだしよ。
+And it&#039;ll prolly take some time findin&#039; a target as big as Madarame.
+
+A
+とにかく、大人しく学園生活しつつ、次のターゲット見つけよう？
+Anyway, we should just act like normal students while we look for our next target, okay?
+
+M
+リュージ、また頼むぜ？
+We&#039;ll be entrusting that to you again, Ryuji.
+
+R
+それまでは準備だな。
+All right.  Guess it&#039;s just more prep &#039;til then.
+
+Makoto
+…喜多川、祐介。
+Yusuke Kitagawa...
+
+#future scene
+
+Sae
+鈴井志帆に続いて、また面識の浅い他人の為にやったっていうの？
+So after Shiho Suzui, you did it again for someone you barely knew?
+
+Sae
+二度も追い返されて、通報までされかけて…そんな相手を、上がり込んでまで助けたわけ？
+You were sent away twice, almost reported to the police... and yet you still wanted to save him?
+
+Sae
+しかも、城の次は「美術館」…
+Moreover, you ended up in a museum instead of a castle this time...
+
+Sae
+宝を盗めば心が入れ替わるなんて妄言、まだ言い通す気なのね？
+You&#039;re still going to maintain this rubbish about changing someone&#039;s heart by stealing their Treasure?
+
+&gt;真実だ
+好きに取れ
+It&#039;s the truth.
+Take it how you will.
+
+Sae
+いいわ。そんな話、出まかせなら仲間と口裏合わせなんて出来ないはず。
+Very well.  The truth behind this tale of yours will be clear once your conspirators are in custody.
+
+Sae
+新しく加わった仲間の事を話しなさい。
+Now then, tell me about this new member who joined your group.
+
+Sae
+意地なんて張るのは無意味よ。自分の立場を悪くするだけ。
+There&#039;s no point in being stubborn.  It will only damage your position.
+
+Sae
+斑目のたった一人の門下生なんて、調べればすぐに分かる事よ？
+The identity of Madarame&#039;s pupil can be easily discovered with a little investigation.
+
+&gt;調べればいい
+喋る気はない
+……
+Go right ahead.
+I&#039;m not telling.
+......
+
+Sae
+仲間は売らないって言いたいわけ？
+So you won&#039;t sell out your accomplice?
+
+Sae
+…いいわ。聞きたいことはたくさんあるから。
+...Fine.  There&#039;s still much more that I want to hear.
+
+Sae
+この頃からよね。怪盗団人気に火が点き始めたのは。
+It was around this time that the Phantom Thieves began to truly gain popularity.
+
+Sae
+ネットに嘘が溢れて、「自分にも予告状が届いた」だの、「怪盗に助けられた」だの…
+Lies flooded the internet-things like, &quot;The Phantom Thieves saved me too,&quot; or, &quot;I got a calling card&quot;...
+
+Sae
+情報収集の手間が10倍になったわよ…ほんとに勘弁してほしかったわ。
+For heaven&#039;s sake... those lies made the collection of intel take almost ten times longer.
+
+Sae
+次の標的はこの男…
+Now, your next target was this man...
+
+Sae
+「金城潤矢」…
+Junya Kaneshiro.
+
+Sae
+この男は、今までの二人とは訳が違う。警察も手を焼いてた「本物」よ。
+He doesn&#039;t even compare to the previous two.  Even the police had been struggling to apprehend him.
+
+Sae
+こんな悪党を、どうやって落としたの？聞かせて。
+So, exactly how did you take down such a well-guarded criminal?  Tell me.
+
+#present day, police chief office with Sae
+
+Newscaster
+…容疑者は「覚えていない」などと、意味不明の供述を繰り返しており…
+...The suspect has repeatedly testified that he does not have any recollection of his actions.
+
+Newscaster
+警察では精神鑑定を行い、犯行の経緯や動機の解明を進めるとのことです。
+A full psychiatric evaluation will be performed to further investigate the crime&#039;s details and motives.
+
+Sae
+秀尽学園の鴨志田、そして今回の斑目…
+First Kamoshida at Shujin Academy, and now Madarame...
+
+Sae
+共通点がいくつか見つかっています。
+I&#039;ve found a number of points of commonality between the two.
+
+Sae
+突発的な心代わりの直前に、「予告状」が送られていたり…
+Both, for example, were sent a &quot;calling card&quot; before their unforeseen changes of heart.
+
+Sae Boss
+…なるほどね。
+...I see.
+
+Sae Boss
+だが一連の精神暴走件と関連づけるのは、飛躍しすぎではないかね…？
+But isn&#039;t tying their cases to the series of psychotic breakdowns jumping to conclusions?
+
+Sae Boss
+そもそも君が踏み込めば、警察が良い顔をしないだろう…
+Furthermore, the police will frown upon you stepping into this...
+
+Sae
+縄張りだのメンツだのに、こだわってる場合じゃ…
+Now isn&#039;t the time to be worrying about things like jurisdiction and honor!
+
+Sae
+ここ2、3年の間に起きた事件を関連付けて、調査すべきです。
+We need to dig deeper and find a correlation among the incidents these past two, three years.
+
+Sae Boss
+…わかった、任せる。日々の教務に支障をきたさぬ範囲でな？
+Very well.  I leave it to you... However, you must not let this interfere with your regular duties.
+
+Sae
+ありがとうございます。
+Thank you, sir.
+
+#Sae leaves
+
+Sae Boss
+余計なマネを、あの女…！
+That damn woman just had to stick her nose into this!
+
+Bald Sunglasses Man
+…異常とも思える事件が相次ぎ、不安が広がっているのは承知をしています。
+...And I understand that these abnormal incidents have caused some anxiety throughout our country.
+
+Bald Sunglasses Man
+これは大変憂慮すべき事態です。
+This situation must be approached with the utmost seriousness.
+
+Bald Sunglasses Man
+国民の皆様が安心して暮らせるよう、全力をあげて取り組んでまいります。
+I shall continue to put forth great forth great effort so that every citizen can live with peace of mind.
+
+Sae Boss
+怪盗団を名乗る連中といい、あれが明るみになれば…っ！
+Not only are there these Phantom Thieves to worry about, but if that is exposed...
+
+#train station with Ryuji
+
+R
+チャット、祐介からみてーだ。そっちも来てんじゃね？
+Looks like Yusuke&#039;s textin&#039; me.  I think you&#039;re getting &#039;em too.
+
+#im
+
+Y
+礼を言う
+You have my gratitude.
+
+R
+急に改まってなんだよ？
+What&#039;re you so polite for all of a sudden?
+
+Y
+目を覚ましてくれた事本当に感謝している
+I truly am thankful for you for making me come to my senses.
+
+&gt;おおげさだ
+貸しにしよう
+You&#039;re exaggerating.
+You owe us one.
+
+おおげさだ
+You&#039;re exaggerating.
+
+Y
+いや、お前たちのおかげだ礼を言わせてくれ
+I most certainly am not.  I must express my gratitude earnestly.
+
+R
+これから頼むぜ
+You&#039;re one of us now, man.  We&#039;ll be counting on you, mkay?
+
+Y
+もちろんだ
+Of course.
+
+A
+何かあれば私たちも協力するから
+And if anything comes up, we won&#039;t hesitate to lend a hand.
+
+Y
+ありがとう
+Thank you.
+
+Y
+それじゃあ、また
+Well then, see you.
+
+#end im
+
+R
+わざわざ礼とか、結構律儀だよなアイツ…
+He didn&#039;t have to go through all that trouble just to thank us.  He&#039;s such an honest guy.
+
+R
+けどまあ、俺らの最初の仕事としちゃ大成功だよな！
+Anyways, that went well for our first job, huh?  It was a huge success!
+
+R
+…でよ、成功ついでにお前このあと時間ある？
+So, that said... you got time after this?
+
+&gt;時間はある
+なんだ？
+Yeah.
+For what?
+
+R
+実はよ、知り合いから、ダーツバーの無料券もらったんだよ。
+Well, thing is, I got some free tickets to a darts lounge from this guy I know.
+
+R
+けど、期限が今日までなの忘れててさ。せっかくだし今から行かね？
+But, I totally forgot that they expire today.  So... you wanna go right now?
+
+M
+オマエ…さっき警戒すべきって話したばっかだろ。
+Ryuji... didn&#039;t we just finish talking about how we need to be on guard?
+
+R
+ダーツするぐらいならヘーキだろ！モルガナもやってみてーだろ？ダーツ。
+C&#039;mon, it&#039;s just darts!  Don&#039;t you wanna play too, Morgana?
+
+R
+…投げられるかはわかんねぇけど。
+...I mean, if you can actually throw anything.
+
+M
+まあ、普通に遊ぶ程度なら問題ないか…
+If you&#039;re just going to play, then I guess it shouldn&#039;t be a problem...
+
+M
+よし！ではダーツバーとやらに行くとするか！リュージ、案内しろ！
+All right, then let&#039;s head to this darts lounge or whatever it is.  Lead the way, Ryuji!
+
+R
+おう、任しとけ！
+Hell yeah, I&#039;m on it!
+
+R
+つってもその店、吉祥寺にあんだよ。まずは電車だな。
+Oh, right.  The place is in Kichijoji, so we gotta take the train first.
+
+&gt;吉祥寺？
+行ったことがない
+Kichijoji?
+I&#039;ve never been there.
+
+R
+なんだ、行ったことねえの？駅前はいろんな店あんだぜ？
+What, for real?  There&#039;s a buncha different shops right outside the station there.
+
+R
+渋谷からなら1本だし。とりあえず井ノ上線に向かおうぜ。
+It&#039;s just one stop away from Shibuya, so let&#039;s head for the Inogami Line first.
+
+#at stairs to inogami line
+
+R
+この階段登ってくと井ノ上線だ。吉祥寺に行くんなら、こっからだな。
+These stairs will take you to the Inogami Line.  This is the way to Kichijoji.
+
+M
+ワガハイ、ワクワクしてきたぞ！
+I&#039;m getting excited!
+
+R
+んじゃ、行こうぜ！
+All right, let&#039;s go!
+
+M
+吉祥寺は定期券の区間外だな。運賃がかかるから気を付けろよ？
+Now, we&#039;re heading to an area that&#039;s outside of where your commuter pass works, so make sure you&#039;ve got the fare.
+
+Makoto
+あの二人…
+Those two...
+
+#at kichijoji
+
+M
+おー、ここが吉祥寺か…
+Ooh, so this is Kichijoji, huh...
+
+M
+雰囲気から、渋谷とは全然違うな。
+You can tell it&#039;s nothing like Shibuya, just from the atmosphere alone.
+
+R
+実際、渋谷にはねーような店もわりとあるっぽいぜ？
+Well, yeah.  Looks like there&#039;re a lot of shops here that you can&#039;t find in Shibuya.
+
+R
+…俺もあんま詳しくはねーけど。
+...Not that I&#039;d really know.
+
+&gt;面白そうだ
+早くダーツバーに行こう
+It seems interesting.
+Let&#039;s get over to the darts lounge.
+
+R
+お、興味出てきたか？
+Oh, it&#039;s got your attention now, huh?
+
+R
+今日は用事でいねーけど、杏たちと来ても楽しそうだよな。
+Ann&#039;s not here &#039;cause she&#039;s busy, but I bet it&#039;d be fun to come here with some more people.
+
+R
+ダーツバーの場所は、そこのアーケード街より一本横の通りにあるみてーだ。
+I think the darts lounge is one block up from the main street.
+
+R
+せっかくだし、店行く前にイロイロ見て回りたいってんなら付き合うぜ？
+But since we&#039;re here, I won&#039;t say no to checkin&#039; out a bunch of the other shops on the way.
+
+#in front of the bar
+
+R
+おっ、この通り！
+Ah, this is the road!
+
+R
+あそこの店の名前、無料券に書いてあんのと一緒だな。
+The name of that shop matches what&#039;s on the free tickets.
+
+R
+あー…「ペンガインスニパー」？
+It says... &quot;Penguin Sniper&quot;?
+
+M
+「ペンガインスニパー」だろ…英語の成績大丈夫かオマエ…
+It&#039;s not meant to be taken literally...
+
+R
+あーそれだそれ。んじゃ行ってみよーぜ！
+Still, if you&#039;re comin&#039; up with a good name... Well, whatever.  Let&#039;s check it out!
+
+#examining store under bar
+
+M
+山ガール向け、海ガール向け…アウトドア関連の商品を取り扱ってるのか。
+For mountain girls and beach girls... Looks like they have a whole bunch of outdoor stuff.
+
+R
+アウトドアやる女子ってホントに増えてんだな。
+Man, there&#039;s so many outdoorsy girls around nowadays.
+
+R
+けど、男向けのを山ボーイ、海ボーイっていわねーのはなんでなんだ？
+But how come there aren&#039;t any mountain boys or ocean boys?
+
+M
+確かに…
+...Good point.
+
+#in front of the bar
+
+R
+おー！ここだ、ここだ。
+Ohh!  Here, this is the place.
+
+R
+やベ、バーとかちょいキンチョーするわ…
+Oh man, I&#039;m getting kind of nervous...
+
+M
+はっ、おこちゃまめ。恥ずかしい姿は見せるなよ？
+Ha, you&#039;re such a child.  Try not to embarrass the rest of us, would you?
+
+R
+わーってるって！
+You don&#039;t gotta tell me that!
+
+R
+で、どうするよ？もう店の中に入ってみるか？
+So, what&#039;s the plan?  You wanna head inside?
+
+&gt;店に入ろう
+まだ街を歩きたい
+Let&#039;s go.
+I still want to look around.
+
+#in the bar
+
+R
+うっし、ブル！高得点だぜ！
+All right, bull!  That&#039;s a new high score!
+
+&gt;ブル？
+詳しいな
+Bull?
+You seem to know a lot.
+
+R
+的の真ん中のことを「ブルズアイ」って言うのよ。で、そこに当てるのが「ブル」！
+The center of the target&#039;s called the bullseye.  If you land a dart there, it&#039;s called &quot;bull&quot;!
+
+R
+…ま、昨日ネットで覚えたばっかだけどな。
+...I know because I looked up the rules online last night.
+
+R
+で、今やってるルールは「ゼロワン」つって0点になったら成功なんだ。
+Anyway, this game&#039;s called &quot;01.&quot;  You win by getting your score all the way down to 0 points before the other player.
+
+M
+点を稼ぐんじゃなくてゼロにするのか？変わったルールだな。
+Oh, so you&#039;re not trying to get a high score, but get rid of your score?  That&#039;s pretty different.
+
+R
+まず最初に持ち点があるんだよ。で、当てた場所に応じて点数が削られてって…
+We both start with the same score, then you lose points based on the number on the board where your dart lands...
+
+R
+ピッタリ0点になったら成功ってワケ。そっから1点でもズレたらダメだ。
+And you can only win if you get your score down to 0, exactly.  You can&#039;t even be off by a single point!
+
+R
+どうよ、スリリングで燃えるだろ？
+How&#039;s that sound?  Pretty sick, right?
+
+M
+点数の計算とダーツの投げ分けが成功のカギというわけか…
+So you have to calculate your score properly while making sure you hit the right numbers on the board...
+
+M
+かなりの集中力が求められそうだな。
+This game seems like it takes a lot of concentration.
+
+M
+ププ、1点だとさ。ほら、もうちょっと腕をまっすぐだな…
+Heehee, one point!?  C&#039;mon, you have to straighten your arm out more, and...
+
+M
+ところで、リュージは何を見てんだ？
+Hey, Ryuji, what&#039;s up?
+
+R
+ああ、この貼り紙さ。「ペアプレイで盛り上がろう！」だってよ。
+Ah, I was just readin&#039; this flier.  It says, &quot;Darts is a party when you play in pairs!&quot;
+
+R
+ペアで交互に投げるんだってさ。さっき言ったゼロワンのルールでな。
+You team up with someone and alternate throwers when it&#039;s your turn.  You still use the same rules I told you, though.
+
+R
+なあ、コレやってみねえ？
+Hey, whaddya say we give it a try?
+
+&gt;面白そうだ
+足を引っ張るなよ
+Yeah, sounds fun.
+You better not tank us...
+
+R
+そうこなくちゃな！そんじゃ、さっそく始めようぜ。
+Hell yeah, that&#039;s what I&#039;m talkin&#039; about!  Let&#039;s do this!
+
+R
+うお！いきなりブルかよ！こりゃテンション上がるぜ！
+Whoa!  A bull right off the bat!?  Man, talk about an exciting opening!
+
+R
+いくぜ！元陸上部をナメんなよ！
+Here goes!  Don&#039;t underestimate an ex-athlete!
+
+R
+きたぁーっ！20のトリプルぅ！
+HELL YEAH!  Triple 20!
+
+M
+おお…あんな細いトコによくぞ。リュージにしては、やるな！
+Whoa, he hit such a tiny spot!  Quite impressive-especially for you, Ryuji.
+
+R
+あと少しで0点だ！最終ラウンド、引き締めてこうぜ！
+We&#039;re almost down to 0 points!  Let&#039;s really focus for the last round!
+
+R
+うっしゃー！ピッタリ0点！俺らカンペキじゃね！？
+Woohoooo!  0 points, right on the dot!  Ain&#039;t we badass!
+
+M
+そう簡単に達成できるモンじゃないぞ。やっぱりオマエ、持ってるな！
+That&#039;s no easy feat!  You really do have something special going on!
+
+R
+いやコレ、おもしれーわ。
+Man, this is so fun.
+
+R
+責任感つーか、プレッシャーがスゲーけど…その分、やったろーじゃんって気になるぜ！
+When you&#039;re on the line, the pressure&#039;s insane, but it makes you wanna do your best for your partner!
+
+ペアプレイを通じてなにか掴めた気がする…！
+I feel like I understand something better after pairing up with Ryuji...!
+
+M
+ふむ、何か掴んだみたいだな。オマエらの顔を見れば分かるぜ。
+Hm, based on the looks on your faces, I&#039;m guessing both of you got something out of this game.
+
+M
+たとえ遊びでも、やり方次第じゃ鍛錬になるってことか…
+Even if it is just a game, it can be some kinda training, depending on how you play...
+
+&gt;真面目だな
+いい考えだ
+Someone&#039;s dedicated.
+That&#039;s a good way to look at it.
+
+M
+ふっ、ワガハイはいつだって怪盗団のことを考えてるのさ。
+Heh... Well, I do always have the Phantom Thieves on the brain.
+
+M
+この場所、使えるぜ！今度はミンナで集まろう！
+Let&#039;s keep practicing together here- Ooh, ooh!  Let&#039;s invite everybody next time!
+
+R
+おっ、これって俺が誘ったおかげじゃね？あれだ、ホラ…棚から…岡持ち？
+Man... All this, just from me askin&#039; you to meet me here!  This is, like... y&#039;know... one of those strikes of good luck!
+
+M
+ボタモチだろ！岡持ちって、出前かよ。
+A &quot;stroke&quot; of good luck!  Why would it be a strike?  Who would protest having good luck?
+
+R
+お…いい音！
+Ooh, what&#039;s that?
+
+#pan to billiard tables
+
+R
+そういや、ここってビリヤードも遊べたんだよな。
+Oh yeah, they have pool here, too!
+
+M
+ふむ…コイツも遊び方次第では何かに使えるかもしれん…
+Hmm... This game could be useful too, depending on how we look at it...
+
+R
+ま、今日はも遅いから、ビリヤードはまた今度にしとこうぜ。
+It&#039;s already pretty late, though.  We can come back and play it later.
+
+M
+そう言えば、今回は無料券を使ったが次に遊ぶ時からは有料なんだな。
+Ah, and don&#039;t forget-we got a couple free tickets to play today, but next time you&#039;ll have to pay up.
+
+R
+でも面白かったろ？これだったら、また遊びたいぜ！
+But it was super fun, right!?  I really wanna play again sometime!
+
+R
+…そんじゃ、帰るとすっか。今日は付き合ってくれてサンキュな。
+Well, we should head home for the day.  Thanks for hangin&#039; out.
+
+#back at Leblanc
+
+Sakura
+確かお前、渋谷で乗り換えだったよな？
+If I remember correctly, you transfer lines at Shibuya, right?
+
+Sakura
+客の話じゃ、最近は危ない輩が多いらしい。カモにされたりなんじゃねえぞ？
+I heard customers say it&#039;s gotten pretty dangerous over there.  Don&#039;t let yourself be a target, got it?
+
+M
+へぇ、そんなブッソーなことになってんのかよ…
+Wow.  It&#039;s really gotten that unsafe, huh?
+
+M
+…そうは言っても夜の吉祥寺、気になるだろ？
+That said, you still want to check out Kichijoji at night, don&#039;t you?
+
+M
+大丈夫だ&lt;name&gt;、いざとなったらワガハイがいる！
+Don&#039;t worry, &lt;name&gt;.  Worst comes to worst, I&#039;ve got your back.
+
+M
+ワガハイ、あの通りのうまそうな匂いを確かめたいんだ…ニャフフ。
+Besides, there&#039;s a certain delicious smell on that street that bears investigating... Myeh heh heh.
+
+#IM
+
+Mishima
+ちょっと気になる情報だから聞いて欲しいんだ
+Picked up some interesting info you might want to hear...
+
+Mishima
+吉祥寺で迷惑なおじいさんが出没してるらしい
+Apparently there&#039;s this old man who&#039;s been causing problems in Kichijoji.
+
+Mishima
+ちょっとでも注意したら逆上げしてケンカになっちゃうんだって
+If you make one wrong move or say the wrong thing, he flies into a rage and it turns into a fight.
+
+Mishima
+そんで殴られてもいないのに「殴られた」とかウソついて慰謝料を要求してるとか…
+Even if you don&#039;t hit him, he lies and says you did-and then sues for damages.
+
+Mishima
+「殴られた詐欺」とでもいえば言いのかな？
+So he&#039;s like a con artist!  Or like... a conflict artist.
+
+&gt;むちゃくちゃだな
+警察の対応は？
+That&#039;s ridiculous.
+And the cops?
+
+むちゃくちゃだな
+That&#039;s ridiculous.
+
+Mishima
+俺もそう思う野放しにしてちゃ危ないよ
+I agree. We can&#039;t let this guy go unchecked.
+
+Mishima
+ただ、迷惑な老人ってだけで名前までは分かんなかった
+Only problem is, knowing that he&#039;s an old troublemaker isn&#039;t enough to get us a name...
+
+Mishima
+でも吉祥寺のハーモニー横丁に出没してるってことは掴んだよ！
+But I DID hear he hangs out in Kichijoji&#039;s Harmony Alley a lot!
+
+M
+確かに厄介な老人みたいだが…
+This old man sure does sound like a problem.
+
+M
+名前が分からないんじゃ改心させることは出来ないな。
+And if we don&#039;t know his name, we can&#039;t make him have a change of heart.
+
+M
+よし、吉祥寺へいく理由も出来たことだし、いっちょハーモニー横丁へ行ってみようぜ！
+Okay, it sounds like our next stop is Kichijoji.  Let&#039;s go check out this Harmony Alley!</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

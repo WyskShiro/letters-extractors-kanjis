@@ -1,0 +1,1458 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 8 (Japanese + English) (Ver 2) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 8 (Japanese + English) (Ver 2) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/eyPEQUib" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/eyPEQUib" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="maAW5nxzTO1iLg-_OJ3kbe1nScfl85xK4iT2LFYEZt_q5UyJDz8gqz0ZSc9IzqMrp0o-99OS2SyufpsfZGcNrA==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/eyPEQUib" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/eyPEQUib" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 8 (Japanese + English) (Ver 2)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Sunday 1st of March 2020 06:29:00 PM CDT">Mar 1st, 2020</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    174                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 27.56 KB            </div>
+
+            <div class="right">
+                <a href="/raw/eyPEQUib" class="btn -small">raw</a>
+                <a href="/dl/eyPEQUib" class="btn -small">download</a>
+                <a href="/clone/eyPEQUib" class="btn -small h_800">clone</a>
+                <a href="/embed/eyPEQUib" class="btn -small h_800">embed</a>
+                <a href="/report/eyPEQUib" class="btn -small">report</a>
+                <a href="/print/eyPEQUib" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">よし、戻ってきたな。早いトコ、こっから出ようぜ！</div></li><li class="li1"><div class="de1">All right, we’re back.  We gotta get outta here, quick!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">「修練場」近くの兵からの定期連絡が途絶えた！</div></li><li class="li1"><div class="de1">The watch post near the training hall has ceased reporting!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">本当に侵入者がいる可能性が高い！各員、警戒を強めろ！</div></li><li class="li1"><div class="de1">Chances of intruder activity are extremely high!  All personnel, increase security measures!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">チッ、長居しすぎたな　急いで脱出するぞ！</div></li><li class="li1"><div class="de1">Tch, we’ve stayed here too long… Come on, let’s get out of here!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#immediately before the main hall</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">出口はこっちだ！急ぐぞ！</div></li><li class="li1"><div class="de1">The exit’s this way!  Let’s hurry!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">また貴様らとはな。</div></li><li class="li1"><div class="de1">...You knaves again?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">過ちを二度繰り返すとは、救い難いな！</div></li><li class="li1"><div class="de1">To think you’d make the same mistake again.  You’re hopeless!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">学校はテメェの城なんかじゃねえ！</div></li><li class="li1"><div class="de1">The school ain’t your castle!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あいつらの顔は、しっかり覚えたぜ。　観念すんだな！</div></li><li class="li1"><div class="de1">I’ve memorized their faces real good.  You’re goin’ down!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">「負け犬ほどよく吠える」とは、真理しいな。</div></li><li class="li1"><div class="de1">It seems it’s true when they say “barking dogs seldom bite.”</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">陸上部のエースも墜ちたものよ。</div></li><li class="li1"><div class="de1">How far the star runner of the track team has fallen.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あぁ！？何が言いてえ！？</div></li><li class="li1"><div class="de1">The hell are you gettin’ at!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">暴力騒ぎを起こして、仲間の夢を潰した「裏切りのエース」君。</div></li><li class="li1"><div class="de1">I speak of the “Track Traitor” who acted in violence, ending his teammate’s dreams.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">貴様の自分勝手の巻き添えになった連中が、いやはや　可哀想で仕方ない。</div></li><li class="li1"><div class="de1">Oh, I can only imagine the pain of the others who were dragged under with your... selfish act.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">暴力騒ぎ？</div></li><li class="li1"><div class="de1">&gt;裏切りのエース？</div></li><li class="li1"><div class="de1">Violence?</div></li><li class="li1"><div class="de1">“Track Traitor”?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">これは驚いた。知らないまま付き合わされてるのか？</div></li><li class="li1"><div class="de1">What a surprise.  So you’re accompanying him without knowing anything at all?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">仲間を裏切り、夢を潰したというのに　こやつは一人のうのうと生きている。</div></li><li class="li1"><div class="de1">He betrayed his teammates and crushed their hopes, yet he still carries on as carefree as ever.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ち、違うッ！</div></li><li class="li1"><div class="de1">That’s not true!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">こんな愚物に付き合って、死ぬハメになるとは　運がないな。</div></li><li class="li1"><div class="de1">You’ve come along with this fool and are now going to end up dead.  ...How unlucky of you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">構わん、まとめて殺せ。俺の城をゴミで汚すな。</div></li><li class="li1"><div class="de1">Go.  Kill them all.  Don’t sully my castle with garbage.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ッ！くそッ！</div></li><li class="li1"><div class="de1">Goddammit...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">リュージ、どけッ！</div></li><li class="li1"><div class="de1">Ryuji, move!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#fight starts</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">くっ、囲まれたぞっ！</div></li><li class="li1"><div class="de1">Ngh… we’re surrounded!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadows</div></li><li class="li1"><div class="de1">殺す！カモシダ様の命令で殺す！望まれてるから殺す！</div></li><li class="li1"><div class="de1">I’ll kill you!  I’ll kill you ‘cause King Kamoshida told us!  I’ll kill ‘cause that’s what he wants!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#losing fight</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">こいつは　ヤバイな</div></li><li class="li1"><div class="de1">There’s more of them?  This is bad...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">どうせ、貴様の思い付きで来て、こうなっちまったんだろう？え？</div></li><li class="li1"><div class="de1">I bet you simply came here on a whim and ended up like this.  Isn&#039;t that right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">やめろ</div></li><li class="li1"><div class="de1">No...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">すぐ感情的になるクズ</div></li><li class="li1"><div class="de1">What a worthless piece of trash, getting emotional so quickly...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">この俺様に手を上げやがって。</div></li><li class="li1"><div class="de1">How dare you raise your hand at me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">臨時とはいえ、少しの間、陸上部の練習を見てやった恩を忘れたか？</div></li><li class="li1"><div class="de1">Though it was only temporary, have you forgotten my kindness in supervising track practice?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あんなもん練習じゃねえ！体罰だ！単にテメェが、陸上部が気にくわねえから</div></li><li class="li1"><div class="de1">Wasn’t no practice-it was physical abuse!  You just didn’t like our team!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">目障りなんだよ！実績を上げるのは俺様だけでいい！</div></li><li class="li1"><div class="de1">It was nothing but an eyesore!  The only one who need to achieve results is me!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">クビになったあの監督も、救えない馬鹿だ</div></li><li class="li1"><div class="de1">That coach who got fired was hopeless too...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">正論言って楯つかなければ、エースの脚を潰すだけにしてやったものを</div></li><li class="li1"><div class="de1">Had he not opposed me with a sound argument, I would’ve settled it with only breaking his star’s leg.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">何、だと</div></li><li class="li1"><div class="de1">....What?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">もう1本の脚も、やってやるかぁ？どうせ学校「正当防衛」にしてくれるしな！</div></li><li class="li1"><div class="de1">Do you need me to deal with your other leg too?  The school will call it self-defense anyway!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">クソ　また俺　負けんのかよ</div></li><li class="li1"><div class="de1">Dammit… Am I gonna lose again…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">こんなクソのせいで、走れなくなって　！陸上部も、なくなって　！</div></li><li class="li1"><div class="de1">Not only can I not run anymore... the track team is gone too ‘cause of this asshole…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">そうだったのか</div></li><li class="li1"><div class="de1">So that’s why...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">こいつらを始末したら、次は貴様だぞ？</div></li><li class="li1"><div class="de1">Once these two are dealt with, you’re next.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">おい、リュージ！</div></li><li class="li1"><div class="de1">Ryuji!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">言われっぱなしか？</div></li><li class="li1"><div class="de1">&gt;許せないんだろう？</div></li><li class="li1"><div class="de1">Don’t let him win!</div></li><li class="li1"><div class="de1">Stand up for yourself!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そうだよ。</div></li><li class="li1"><div class="de1">...You’re right.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">俺が、あいつに奪われたモン、もう返ってこねえ、大事なモン　！</div></li><li class="li1"><div class="de1">Everything that was important to me was taken by him… I’ll never get ‘em back…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">そこで、大人しく見てるがいい。</div></li><li class="li1"><div class="de1">Stay there and watch.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">クズを庇って犬死にする、救えないクズどもをな。</div></li><li class="li1"><div class="de1">Look on as these hopeless scum die for nothing because they sided with trash like you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">お前の方だよ</div></li><li class="li1"><div class="de1">No… That’s what you are...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">人を利用することした考えてねえ　お前の方こそクズだ　鴨志田ぁ！</div></li><li class="li1"><div class="de1">All you think about is using people… You’re the real scumbag, Kamoshida!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">何してる、黙らせろ！</div></li><li class="li1"><div class="de1">What are you doing?  Silence him!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ニヤけたツラで、こっち見てんじゃねえよ！</div></li><li class="li1"><div class="de1">Stop lookin’ down on me with that stupid smile on your face!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Persona awakening cutscene</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysterious voice</div></li><li class="li1"><div class="de1">随分と待たせたものよ。</div></li><li class="li1"><div class="de1">You made me wait quite a while.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysterious voice</div></li><li class="li1"><div class="de1">力が要るんだろう？ならば契約だ。</div></li><li class="li1"><div class="de1">You seek power, correct?  Then let us form a pact.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysterious voice</div></li><li class="li1"><div class="de1">どうせ消しえぬ汚名なら、旗に掲げてひと暴れ</div></li><li class="li1"><div class="de1">Since your name has been disgraced already, why not hoist the flag an wreak havoc…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysterious voice</div></li><li class="li1"><div class="de1">お前の中の「もう一人のお前」が、そう望んでいる</div></li><li class="li1"><div class="de1">The “other you” who exists within desires it thus...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysterious voice</div></li><li class="li1"><div class="de1">我は汝、汝は我</div></li><li class="li1"><div class="de1">I am thou, thou art I...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysterious voice</div></li><li class="li1"><div class="de1">覚悟して背負え</div></li><li class="li1"><div class="de1">There is no turning back...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysterious voice</div></li><li class="li1"><div class="de1">これよりは、反逆のドクロが貴様の旗だ！</div></li><li class="li1"><div class="de1">The skull of rebellion is your flag henceforth!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">フン、貴様に何ができる</div></li><li class="li1"><div class="de1">Hmph.  What can you do…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">黙って眺めているがいい！</div></li><li class="li1"><div class="de1">Cower in fear and watch!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Persona come out</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">コイツもだとッ　！？</div></li><li class="li1"><div class="de1">Ugh… This one as well!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">これが、俺のペルソナ</div></li><li class="li1"><div class="de1">Right on… Wassup, Persona...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">こいつはいい</div></li><li class="li1"><div class="de1">This effin’ rocks!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">この力がありゃ、借りが返せる</div></li><li class="li1"><div class="de1">Now that I got this power, it’s time for payback...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ほんと、待たせちまったな</div></li><li class="li1"><div class="de1">Yo, I’m ready...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">いくぜ。</div></li><li class="li1"><div class="de1">Bring it!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">クッ　ナメるな、ガキが！！</div></li><li class="li1"><div class="de1">Ngh… Don’t mock me, you brat!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ぶっ放せよ　「キャプテン・キッド」！！</div></li><li class="li1"><div class="de1">Blast him away… Captain Kidd!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">カモシダ様の手を煩わす問題児がぁ！</div></li><li class="li1"><div class="de1">What troublemakers that bother King Kamoshida with trifle matters!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">どうせ、鴨志田の認知ってのは変わんねえんだろ？なら、問題児らしく振舞ってやるよ！</div></li><li class="li1"><div class="de1">Kamoshida’s cognition ain’t changin’ right?  Then I’ll act like the troublemaker I am!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">行くぜ！俺のキッドぉ！</div></li><li class="li1"><div class="de1">Let’s do this, Captain Kidd!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#end of fight</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">私、は　栄えある、カモシダ様の　臣下で、ある　ぞ</div></li><li class="li1"><div class="de1">I am… a loyal subject… of the glorious King Kamoshida...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">それが、なぜ　敗北、を　っ！？</div></li><li class="li1"><div class="de1">So why… have I lost…!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">鴨志田が大したことないってだけだろ？</div></li><li class="li1"><div class="de1">It just proves that Kamoshida ain’t anything special.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">どうだっ！</div></li><li class="li1"><div class="de1">How ‘bout that!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">こいつは驚いたぜ　リュッジにも素養があったとはな。</div></li><li class="li1"><div class="de1">Whoa… So Ryuji had the potential too...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">今さら、謝っても　許さねえ　からな　！</div></li><li class="li1"><div class="de1">Even if you apologize now… I ain’t forgivin’ you…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">ここは俺様の城だ言ったのに、まだ分からんよだな　？</div></li><li class="li1"><div class="de1">I told you that this is my castle.  It seems you still don’t understand...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">なっ　高巻ッ！？</div></li><li class="li1"><div class="de1">Wh-- Takamaki!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">なんて　ニャンてキレイな女の子だニャ　！</div></li><li class="li1"><div class="de1">Wha… What a meow-velous and beautiful girl…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">どうなってやがる　！？</div></li><li class="li1"><div class="de1">What’s going on…!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;様子がおかしい</div></li><li class="li1"><div class="de1">うらやましい</div></li><li class="li1"><div class="de1">Something seems off.</div></li><li class="li1"><div class="de1">I’m so jealous...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そう言や、何となく</div></li><li class="li1"><div class="de1">Yeah, now that you mention it...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">つーか、なんで居んだよ！？</div></li><li class="li1"><div class="de1">But why is she even here!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">テメ！手ぇ放せ、変態ヤロウ！</div></li><li class="li1"><div class="de1">Hey!  Let go of her, you perv!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">何べん教えれば理解できるんだ？</div></li><li class="li1"><div class="de1">How many times must I tell you until you understand?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">ここは「俺様の城」　何をやっても許される場所。誰もが俺様に気に入られたいと願う。</div></li><li class="li1"><div class="de1">This is MY castle--a place in which I can do whatever I want.  Everyone wishes to be loved by me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">貴様らみたいな頭の悪い賊以外はな。</div></li><li class="li1"><div class="de1">...That is, everyone besides slow-witted thieves like you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">高巻！何とか言えよ！？</div></li><li class="li1"><div class="de1">Takamaki!  Say somethin’!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">リュージ、冷静になれ！あの子は、どうやら本物じゃない。</div></li><li class="li1"><div class="de1">Calm down, Ryuji!  It seems that girl isn’t the real one.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">奴様達と同じで「認知上の存在」なんだよ！</div></li><li class="li1"><div class="de1">She’s the same as those slaves-a being made from Kamoshida’s cognition of her!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">うらやましいか？</div></li><li class="li1"><div class="de1">Are you jealous?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">まあ貴様らのような問題だらけの不良には、女は寄って来ないだろうなぁ？</div></li><li class="li1"><div class="de1">Well, I’m not surprised.  Women aren’t drawn to problematic punks like you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">はやく掃除しろっ！</div></li><li class="li1"><div class="de1">Clean them up this instant!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">くそ、この数じゃ　囲まれる前にズラかるぞ！</div></li><li class="li1"><div class="de1">We’re outnumbered… Let’s scram before we get surrounded!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">何もしねえで逃げんのかよ！</div></li><li class="li1"><div class="de1">We’re not gonna do anything and just run!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;死んだら終わりだ</div></li><li class="li1"><div class="de1">いいから来い</div></li><li class="li1"><div class="de1">We can’t die here.</div></li><li class="li1"><div class="de1">Just shut up and go.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">オマエが冷静で助かるぜ。</div></li><li class="li1"><div class="de1">Thank god you’ve got a level head.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">クッ　わかった。</div></li><li class="li1"><div class="de1">Ngh… Fine.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">テメェの化けの皮、ゼッテーひっぺがしてやる！　首洗って待ってろ！</div></li><li class="li1"><div class="de1">We’ll expose what you really are, no matter what!  You better be ready for us…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">ハハハ！ここの連中はいたぶり飽きてたところだ！</div></li><li class="li1"><div class="de1">Hahaha!  I was beginning to get bored of torturing the ones here!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">こつでもかかってこい、命が惜しくないならな！(laughing)</div></li><li class="li1"><div class="de1">Come at me whenever you want, if you don’t care about your life! (continued laughing)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">相手にするな、行くぞ！</div></li><li class="li1"><div class="de1">Ignore him. Let’s go!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#outside the Palace</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">コレ、着替えた覚えねえし！</div></li><li class="li1"><div class="de1">I don’t remember changin’ into this!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;似合ってる</div></li><li class="li1"><div class="de1">賊というより族</div></li><li class="li1"><div class="de1">It looks good on you.</div></li><li class="li1"><div class="de1">You look like a thug.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">喜んでいいのか、ソレ？</div></li><li class="li1"><div class="de1">Uhh… Should I be happy about that?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">けど、お前のよりは悪くねえ。</div></li><li class="li1"><div class="de1">...Then again, it ain’t as bad as yours.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">いたか！？</div></li><li class="li1"><div class="de1">Did you find them!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">静かにっ！</div></li><li class="li1"><div class="de1">Quiet!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">いないぞ、向こうを探せ！</div></li><li class="li1"><div class="de1">No.  Search that way!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">どういうことだよ、これ　？意味わかんねえ！</div></li><li class="li1"><div class="de1">So what’s goin’ on?  I’m completely lost, man…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">前に言ったろ。</div></li><li class="li1"><div class="de1">I told you before.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">パレスの「主」に楯ついて敵視されると、ペルソナ使いは、そうなるんだよ。</div></li><li class="li1"><div class="de1">When a Persona-user opposes a Palace’s ruler and becomes a threat to them, this happens.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">歪みにやられないためにな。</div></li><li class="li1"><div class="de1">It’s to prevent you from being affected by distortions.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">これ　ドクロか？</div></li><li class="li1"><div class="de1">Is this... a skull?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">具体的な格好は、オマエの内面の現れだ。オマエに眠る「反逆者」の</div></li><li class="li1"><div class="de1">Your appearance reflects your inner self.  It’s the rebel that slumbers within...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">言ってもわかんねえか。</div></li><li class="li1"><div class="de1">...Not that you’ll get it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">わかんね</div></li><li class="li1"><div class="de1">Nope...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ならいちいち訊かないで、自分の目で見たものは受け入れとけ。</div></li><li class="li1"><div class="de1">Then stop asking questions and accept what you see for what it is.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">気楽に言いやがって。</div></li><li class="li1"><div class="de1">Easy for you to say.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">アッ！てーか、やべえじゃんっ！</div></li><li class="li1"><div class="de1">*gasp* Wait, we’re in deep shit!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">静かにしろっつってんだろ！</div></li><li class="li1"><div class="de1">I said to be quiet!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">こっちで助かったって、ホンモンの学校で結局鴨志田に</div></li><li class="li1"><div class="de1">We might’ve gotten away here, but we’re still screwed with Kamoshida at the real school...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">バカのくせに鋭いな。</div></li><li class="li1"><div class="de1">That’s quite sharp of you!  ...For being an idiot.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">安心しろ、現実のカモシダは、こっちのことは知りえない。</div></li><li class="li1"><div class="de1">Relax.  The Kamoshida in reality can’t possibly know about what happens here.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">シャドウってのは「抑圧された本性」　人が日ごろ目を背けている人格だからな。</div></li><li class="li1"><div class="de1">A Shadow is the true self that is suppressed-a side one’s personality they don’t want to see.</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">大丈夫ってことか？</div></li><li class="li1"><div class="de1">...So we’re OK?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">処刑のこと、現実のカモシダは覚えてたか？</div></li><li class="li1"><div class="de1">Did the Kamoshida in reality remember about the execution?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">そういう事だ。</div></li><li class="li1"><div class="de1">There you have it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">よしゃ！それさえ分かりゃ、後は</div></li><li class="li1"><div class="de1">All right!  Now that we know that, all we gotta do is-</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">待て、約束通り、道案内してやったんだ。今度はワガハイに協力してもらうぞ？</div></li><li class="li1"><div class="de1">Wait.  I guided you as promised.  It’s your turn to cooperate with me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">そのために、色々くそ丁寧に教えてやったんだからな。</div></li><li class="li1"><div class="de1">That’s why I was super nice about teaching you idiots everything.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">あぁ？協力？</div></li><li class="li1"><div class="de1">Huh?  Cooperate?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">言っただろ？ワガハイは元々ここへ、「調査」に来たってな。</div></li><li class="li1"><div class="de1">Don’t you remember?  I originally came here for an investigation.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">この身が受けた「歪み」を消し去って、真の姿を取り戻す！</div></li><li class="li1"><div class="de1">I need to erase the distortion from my body and regain my real form!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">そのためには、遥かメメントスの</div></li><li class="li1"><div class="de1">That’s why we must delve deep into Mementos and-</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">待てよ、なに勝手に話進めてんだ。</div></li><li class="li1"><div class="de1">Whoa, hold up.  What’re you goin’ on and on about?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">付き合うなんて一言も言ってねえぞ。</div></li><li class="li1"><div class="de1">We never said anything about helpin’ you out.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">え、まさか　タダで世話になろうってんじゃないよな？</div></li><li class="li1"><div class="de1">Huh?  Don’t tell me… Are you not going to repay the hospitality I showed you?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">とくにオマエ！すでにワガハイのプランの一部なのに科？</div></li><li class="li1"><div class="de1">Especially you!  You’re going to up and leave, even though you’re already part of my master plan!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">考えてはみる</div></li><li class="li1"><div class="de1">&gt;約束してない</div></li><li class="li1"><div class="de1">なんの話だ？</div></li><li class="li1"><div class="de1">Let me think about it.</div></li><li class="li1"><div class="de1">I never promised.</div></li><li class="li1"><div class="de1">What plan?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">嘘じゃねえだろ。</div></li><li class="li1"><div class="de1">See?  I wasn’t lyin’.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ワガハイがニンゲンじゃないから　猫っぽいから　バカにしてんのか！？</div></li><li class="li1"><div class="de1">Is it because I’m not human…?  Because I’m like a cat…?  Is that why you’re making a fool of me!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">こっちは忙しいんだよ！</div></li><li class="li1"><div class="de1">We’re busy!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">世話んなったな、猫。なかなかガッツのある猫だったぜ、お前！</div></li><li class="li1"><div class="de1">Thanks for everything, cat.  You’ve got guts, bein’ a cat and all!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">またどっかでな！</div></li><li class="li1"><div class="de1">See you around!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ちょ！ねーわ、マジねーわ！なにイイ話風にまとめてんだこら！？</div></li><li class="li1"><div class="de1">Hey!  What the hell!?  Ugh, seriously!  Why’re you wrapping this up like everything’s all hunky-dory!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">M</div></li><li class="li1"><div class="de1">ねーわ！ねーわ！ぬぇぇーわぁぁーーッ！</div></li><li class="li1"><div class="de1">Oh hell no!  Get back here!  ...Grr… GRAAGGGHHH!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back in reality</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Navigation App</div></li><li class="li1"><div class="de1">現実世界に帰還しました。お疲れ様でした。</div></li><li class="li1"><div class="de1">You have returned to the real world.  Welcome back.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">助かった　戻った。</div></li><li class="li1"><div class="de1">...Thank god.  We’re back.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">なんか、振り回しちまったな。悪ぃ。</div></li><li class="li1"><div class="de1">I dragged you around a lot, huh?  ...Sorry, man.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">てか、マジしんど　お前、平気なわけ？</div></li><li class="li1"><div class="de1">Ugh, I’m dead tired… How you holdin’ up?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">疲れた</div></li><li class="li1"><div class="de1">&gt;平気だ</div></li><li class="li1"><div class="de1">眠い</div></li><li class="li1"><div class="de1">I’m exhausted.</div></li><li class="li1"><div class="de1">Eh, I’m fine.</div></li><li class="li1"><div class="de1">I could use a nap.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">すげえな。陸上やってた俺でもバテ気味なのによ</div></li><li class="li1"><div class="de1">That’s impressive.  I’m exhausted even though I used to do track...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">それより、マジだったら面白ぇ事になんな！</div></li><li class="li1"><div class="de1">But damn, if what we saw was for real, this is gonna get good!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">鴨志田が奴隷扱いしてるヤツらの顔、俺、バッチリ覚えたから。</div></li><li class="li1"><div class="de1">I totally remember the faces of the guys Kamoshida was treatin’ like slaves.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そいつら片っばしから捕まえて体罰を吐かせりゃ鴨志田もおしまいだ。</div></li><li class="li1"><div class="de1">Once we make ‘em fess up to any physical abuse, Kamoshida will be done.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">r</div></li><li class="li1"><div class="de1">体罰の証人探し　お前も手伝ってくれるだろ？</div></li><li class="li1"><div class="de1">So… wanna help me look for those guys or any witnesses?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;手伝おう</div></li><li class="li1"><div class="de1">いやだ</div></li><li class="li1"><div class="de1">大変そうだ</div></li><li class="li1"><div class="de1">Sure, I’ll help.</div></li><li class="li1"><div class="de1">Nah.</div></li><li class="li1"><div class="de1">Sounds difficult...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そうこなくちゃな！</div></li><li class="li1"><div class="de1">Now that’s what I’m talkin’ about!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">お前さ</div></li><li class="li1"><div class="de1">Hey, so...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">前歴あるから大人しくしてようってんなら　意味ねえと思うぜ。</div></li><li class="li1"><div class="de1">If you’re thinking’ of layin’ low ‘cause you got a record, I don’t think that’ll help...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">もう知れ渡ってんだよ。無茶くちゃテル貼られちまってる。</div></li><li class="li1"><div class="de1">Everyone already knows.  They totally got you pegged as a criminal.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">……</div></li><li class="li1"><div class="de1">&gt;何故そんなことに？</div></li><li class="li1"><div class="de1">……</div></li><li class="li1"><div class="de1">How’d that happen?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">鴨志田がバレしやがったんだ！</div></li><li class="li1"><div class="de1">Kamoshida opened his damn mouth!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;本当か？</div></li><li class="li1"><div class="de1">どうして？</div></li><li class="li1"><div class="de1">教師が？</div></li><li class="li1"><div class="de1">Seriously?</div></li><li class="li1"><div class="de1">Buy why?</div></li><li class="li1"><div class="de1">A teacher did that…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">既バレなんて、教師以外ありえねーだろ！</div></li><li class="li1"><div class="de1">No one else besides a teacher could’ve leaked it that fast!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ヤロウは気に食わねえと思ったら、部でも生徒でも平気で潰しやがんだ！</div></li><li class="li1"><div class="de1">It doesn’t matter if it&#039;s a student or a club; that asshole just wrecks things he doesn’t agree with.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">オレん時みてえにな　！</div></li><li class="li1"><div class="de1">Just like he did with me…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">俺の言う事なんか誰もまともに取り合ってくれねえ。</div></li><li class="li1"><div class="de1">No one’ll take anything I say seriously.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">けど、体罰の噂は本当かも知れねえ。</div></li><li class="li1"><div class="de1">Still, those rumors about him gettin’ physical might be real.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">それに実際、鴨志田の歪んだ心っての見たら、それこそ　放っておけないだろ！？</div></li><li class="li1"><div class="de1">And after seein’ Kamoshida’s distorted-heart thing in person, there’s no way I can just sit back!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;もちろんだ</div></li><li class="li1"><div class="de1">気持ちはわかるが</div></li><li class="li1"><div class="de1">Of course.</div></li><li class="li1"><div class="de1">I feel you, but...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">頼んだぜ、俺も気合い入れっからよ！</div></li><li class="li1"><div class="de1">I’m countin’ on you!  Don’t worry; I’m hyped about this too!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">竜司からの信頼を感じる</div></li><li class="li1"><div class="de1">I can sense a bond of trust coming from Ryuji...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Niijima future scene</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">見つかりたくないなら、単独でやる方から効率的。そういう考え方だってできる</div></li><li class="li1"><div class="de1">Acting as a Phantom Thief would&#039;ve been more efficient alone.  You could’ve gone about it that way...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">でも君は、単独では行動しなかった。協力者がいた方が利点がある　君はそう判断した。</div></li><li class="li1"><div class="de1">However, you did not.  There are merits to having associates… That’s what you decided.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae</div></li><li class="li1"><div class="de1">ちがう！？</div></li><li class="li1"><div class="de1">Am I wrong?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back to the present</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そういや、昼から何も食べってねえんだった。</div></li><li class="li1"><div class="de1">Right, I haven’t eaten anything since lunch.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ここで別れんのもなんだしよ、なんか食い行こうぜ？</div></li><li class="li1"><div class="de1">It’d be weird splittin’ off now, so why don’t we grab a bite somewhere?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わかった</div></li><li class="li1"><div class="de1">&gt;何料理？</div></li><li class="li1"><div class="de1">気が進まない</div></li><li class="li1"><div class="de1">Sure.</div></li><li class="li1"><div class="de1">What kind of food?</div></li><li class="li1"><div class="de1">I’m not feeling it...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">肉。</div></li><li class="li1"><div class="de1">Meat, man.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">とりあえず来いよ。</div></li><li class="li1"><div class="de1">Just follow me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">つか、ぶっちゃけお前の昔話とか聞きてえし！</div></li><li class="li1"><div class="de1">I mean, I totally gotta hear about your past!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#at the restaurant</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">んだよ、それ！そいつクソすぎんだろっ！？</div></li><li class="li1"><div class="de1">The hell, man!  How much shittier can that asshole get!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;落ち着け</div></li><li class="li1"><div class="de1">食べてる途中だ</div></li><li class="li1"><div class="de1">昔のことだ</div></li><li class="li1"><div class="de1">Calm down.</div></li><li class="li1"><div class="de1">I’m still eating</div></li><li class="li1"><div class="de1">It’s in the past...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">聞いてるだけで腹立ってきやがるぜ！</div></li><li class="li1"><div class="de1">But just hearin’ your story makes me angry!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そんで、地元からこっちに来て居候か</div></li><li class="li1"><div class="de1">So… you left your hometown, and… you’re livin’ here now, huh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">やっぱ俺ら、性根が似てんのかもな。</div></li><li class="li1"><div class="de1">We might be more alike than I originally thought.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;そうかも</div></li><li class="li1"><div class="de1">どこが？</div></li><li class="li1"><div class="de1">そっちは何を？</div></li><li class="li1"><div class="de1">You may be right.</div></li><li class="li1"><div class="de1">How so?</div></li><li class="li1"><div class="de1">What did you do?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">こんなこと思えたやつ、お前が初めてだ。</div></li><li class="li1"><div class="de1">You’re the first guy that made me think that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">周りから厄介者扱いされてて、居場所ないとこ？</div></li><li class="li1"><div class="de1">I guess it’s how we’re treated like a pain in the ass by the people around us, like we don’t belong.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">俺もよ、前に学校でやらかしちまってな。</div></li><li class="li1"><div class="de1">I did something stupid at school before, too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">場所　四茶だっけか？</div></li><li class="li1"><div class="de1">The place you’re livin’ now is in… Yongen, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">地下鉄、この時間ラッシュだから、時間ずらしてった方がいいぜ？</div></li><li class="li1"><div class="de1">It’s rush hour on the subways.  I suggest you kill some time before headin’ home.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">んだよ、全然食べってねえじゃねえか。</div></li><li class="li1"><div class="de1">What the hell, man.  You barely touched your food.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;何の真似だ</div></li><li class="li1"><div class="de1">自分でやる</div></li><li class="li1"><div class="de1">What are you doing?</div></li><li class="li1"><div class="de1">I can do that myself.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">いんだよ、協力の礼だ。</div></li><li class="li1"><div class="de1">Just lemme do it.  I gotta thank you for helpin’ me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">つーわけで、明日からもよろしく頼むぜ。</div></li><li class="li1"><div class="de1">Anyway, I got your back like you got mine from tomorrow on.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">鴨志田さえ何とかすりゃ、お互いちっとぁ居心地マシんなんだろ？</div></li><li class="li1"><div class="de1">As long as we do something about Kamoshida, I’m sure we’ll both feel better about bein’ at school.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">そうだ！</div></li><li class="li1"><div class="de1">Oh, yeah!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">連絡先教えてくれ。あと、チャットのＩＤもな。</div></li><li class="li1"><div class="de1">Tell me your number.  Chat ID too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">見てやがれ、鴨志田</div></li><li class="li1"><div class="de1">Just you wait, Kamoshida...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">明日から既始めっぞ。まず奴隷にされてたやつらに話を聞く。</div></li><li class="li1"><div class="de1">We’re gonna start right away tomorrow.  First, let’s hit up those guys that were kept as slaves.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">球技大会だったよな？鴨志田推薦のバレー大会とか、胸クソ悪ィけどよ。</div></li><li class="li1"><div class="de1">The volleyball rally’s tomorrow, huh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">お陰で午後は受業ねえし、みんな浮かれてる。ウロついても気付かれにくいはずだ。</div></li><li class="li1"><div class="de1">But thanks to that, we got no classes in the afternoon, and we can walk around unnoticed.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">まあ、詳しい話は明日にしようぜ</div></li><li class="li1"><div class="de1">Well, I guess we can work out the details tomorrow...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">つか、食えよ。ショウガならいっぱいあっからよ。</div></li><li class="li1"><div class="de1">C’mon, you gotta eat more.  There’s tons of ginger here.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Shiho and Ann</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">上手く　眠れなくて。</div></li><li class="li1"><div class="de1">I-I haven&#039;t been sleeping well lately...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">目をつぶると色々考えちゃうから</div></li><li class="li1"><div class="de1">Whenever I close my eyes, I keep thinking about too many things...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">志帆</div></li><li class="li1"><div class="de1">Shiho...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">全国大会、もうすぐだから　考えちゃうんだ。</div></li><li class="li1"><div class="de1">Nationals are coming up soon, so I keep thinking...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">私なんかが、スタメンなんて</div></li><li class="li1"><div class="de1">Should someone like me really be on the starting lineup…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">大丈夫、自信もって！</div></li><li class="li1"><div class="de1">Don’t worry.  Just be confident in yourself!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">実力が認められてんだって！志帆が誰よりも頑張ってるからじゃん！</div></li><li class="li1"><div class="de1">You skills have been recognized!  It’s all because you work harder than anyone else!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">うん　私、バレーしかできないから</div></li><li class="li1"><div class="de1">Yeah… Volleyball’s all I have, after all...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">それより、ケガ、大丈夫？すごい腫れてたけど</div></li><li class="li1"><div class="de1">More importantly, was that injury OK?  It looked really swollen.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">ううん、このくらい　大会前だし</div></li><li class="li1"><div class="de1">No, it’s nothing.  It’s normal… Especially since a meet’s coming up...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">鈴井　悪い、話してるとこ。</div></li><li class="li1"><div class="de1">Sorry to interrupt, Suzui.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mishima</div></li><li class="li1"><div class="de1">その　鴨志田先生が、呼んでる。</div></li><li class="li1"><div class="de1">Um… Mr. Kamoshida told me to get you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">何の用　？</div></li><li class="li1"><div class="de1">What does he want…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">杏、私</div></li><li class="li1"><div class="de1">Ann, I...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">大丈夫だって！きっと、スタメンのミーティングとかじゃない？</div></li><li class="li1"><div class="de1">It’ll be fine!  I bet it’s a meeting about the starting lineup or something.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">そうだね。</div></li><li class="li1"><div class="de1">...Yeah.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shiho</div></li><li class="li1"><div class="de1">じゃあ私、行かなきゃ</div></li><li class="li1"><div class="de1">Well, I better go...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">うん、頑張って！</div></li><li class="li1"><div class="de1">Yup.  Good luck!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">A</div></li><li class="li1"><div class="de1">頑張れ、志帆　！</div></li><li class="li1"><div class="de1">Hang in there, Shiho…!　</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back at Leblanc</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">帰ったか。</div></li><li class="li1"><div class="de1">...You’re home.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">今日は真面目に学校行ったんだろうな？</div></li><li class="li1"><div class="de1">I take it you actually went to school today?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もちろん行った</div></li><li class="li1"><div class="de1">&gt;どうだと思う？</div></li><li class="li1"><div class="de1">大変だった</div></li><li class="li1"><div class="de1">Of course.</div></li><li class="li1"><div class="de1">What do you think?</div></li><li class="li1"><div class="de1">It was pretty tough.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">俺が聞いてんだよ。まあ、面倒起こしてないなら、それでいい。</div></li><li class="li1"><div class="de1">I’m the one asking questions here.  Eh, as long as you’re not getting into trouble, it’s fine by me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">どこで何してたか知らねえが、騒ぎでも起こしたら放り出すからな。</div></li><li class="li1"><div class="de1">I don’t know what you’ve been up to, but trust me, you’ll be gone if you start causing problems.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">くれぐれも言っとくぞ。お前、自由の身だと思うなよ。</div></li><li class="li1"><div class="de1">In case you forget, your life is not a free one right now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#im</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">さっそく連絡したぜ</div></li><li class="li1"><div class="de1">Hey, I decided to go ahead and message you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">届いてるか？</div></li><li class="li1"><div class="de1">Can you see this?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;届いてる</div></li><li class="li1"><div class="de1">届いてない</div></li><li class="li1"><div class="de1">どちら様ですか？</div></li><li class="li1"><div class="de1">Yep.</div></li><li class="li1"><div class="de1">Nope.</div></li><li class="li1"><div class="de1">Who’s this?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">明日、頼んだぜ？</div></li><li class="li1"><div class="de1">I’m gonna be counting on you tomorrow, OK?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;何のこと？</div></li><li class="li1"><div class="de1">わかった</div></li><li class="li1"><div class="de1">What about?</div></li><li class="li1"><div class="de1">Got it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何のこと？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">しらばっくれるなよ　同じメシ食べった仲だろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">ここまで来たんだから最後まで付き合え</div></li><li class="li1"><div class="de1">We’ve come this far, so you gotta stick with me to the end.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">R</div></li><li class="li1"><div class="de1">体罰されてる連中を俺らで助けてやろうぜ</div></li><li class="li1"><div class="de1">Let’s save those guys who’ve been getting abused.  You and me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#end im</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">ったく、聞いてんのかよ。</div></li><li class="li1"><div class="de1">...Sheesh, are you even listening to me?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">妙なのとツルむんじゃねーぞ。分かったな？</div></li><li class="li1"><div class="de1">Just stay away from bad influences, OK?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">俺はもう上がる。</div></li><li class="li1"><div class="de1">Hey, I’m gonna head home for the night.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sakura</div></li><li class="li1"><div class="de1">鍵、かけとくからな。夜中に出歩いたりすんなよ。</div></li><li class="li1"><div class="de1">I’ll lock the store up.  Don’t go wandering out.</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">R
+よし、戻ってきたな。早いトコ、こっから出ようぜ！
+All right, we’re back.  We gotta get outta here, quick!
+
+Guard
+「修練場」近くの兵からの定期連絡が途絶えた！
+The watch post near the training hall has ceased reporting!
+
+Guard
+本当に侵入者がいる可能性が高い！各員、警戒を強めろ！
+Chances of intruder activity are extremely high!  All personnel, increase security measures!
+
+M
+チッ、長居しすぎたな　急いで脱出するぞ！
+Tch, we’ve stayed here too long… Come on, let’s get out of here!
+
+#immediately before the main hall
+
+M
+出口はこっちだ！急ぐぞ！
+The exit’s this way!  Let’s hurry!
+
+Shadow Kamoshida
+また貴様らとはな。
+...You knaves again?
+
+Shadow Kamoshida
+過ちを二度繰り返すとは、救い難いな！
+To think you’d make the same mistake again.  You’re hopeless!
+
+R
+学校はテメェの城なんかじゃねえ！
+The school ain’t your castle!
+
+R
+あいつらの顔は、しっかり覚えたぜ。　観念すんだな！
+I’ve memorized their faces real good.  You’re goin’ down!
+
+Shadow Kamoshida
+「負け犬ほどよく吠える」とは、真理しいな。
+It seems it’s true when they say “barking dogs seldom bite.”
+
+Shadow Kamoshida
+陸上部のエースも墜ちたものよ。
+How far the star runner of the track team has fallen.
+
+R
+あぁ！？何が言いてえ！？
+The hell are you gettin’ at!?
+
+Shadow Kamoshida
+暴力騒ぎを起こして、仲間の夢を潰した「裏切りのエース」君。
+I speak of the “Track Traitor” who acted in violence, ending his teammate’s dreams.
+
+Shadow Kamoshida
+貴様の自分勝手の巻き添えになった連中が、いやはや　可哀想で仕方ない。
+Oh, I can only imagine the pain of the others who were dragged under with your... selfish act.
+
+暴力騒ぎ？
+&gt;裏切りのエース？
+Violence?
+“Track Traitor”?
+
+Shadow Kamoshida
+これは驚いた。知らないまま付き合わされてるのか？
+What a surprise.  So you’re accompanying him without knowing anything at all?
+
+Shadow Kamoshida
+仲間を裏切り、夢を潰したというのに　こやつは一人のうのうと生きている。
+He betrayed his teammates and crushed their hopes, yet he still carries on as carefree as ever.
+
+R
+ち、違うッ！
+That’s not true!
+
+Shadow Kamoshida
+こんな愚物に付き合って、死ぬハメになるとは　運がないな。
+You’ve come along with this fool and are now going to end up dead.  ...How unlucky of you.
+
+Shadow Kamoshida
+構わん、まとめて殺せ。俺の城をゴミで汚すな。
+Go.  Kill them all.  Don’t sully my castle with garbage.
+
+R
+ッ！くそッ！
+Goddammit...
+
+M
+リュージ、どけッ！
+Ryuji, move!
+
+#fight starts
+
+M
+くっ、囲まれたぞっ！
+Ngh… we’re surrounded!
+
+Shadows
+殺す！カモシダ様の命令で殺す！望まれてるから殺す！
+I’ll kill you!  I’ll kill you ‘cause King Kamoshida told us!  I’ll kill ‘cause that’s what he wants!
+
+#losing fight
+
+M
+こいつは　ヤバイな
+There’s more of them?  This is bad...
+
+Shadow Kamoshida
+どうせ、貴様の思い付きで来て、こうなっちまったんだろう？え？
+I bet you simply came here on a whim and ended up like this.  Isn&#039;t that right?
+
+R
+やめろ
+No...
+
+Shadow Kamoshida
+すぐ感情的になるクズ
+What a worthless piece of trash, getting emotional so quickly...
+
+Shadow Kamoshida
+この俺様に手を上げやがって。
+How dare you raise your hand at me.
+
+Shadow Kamoshida
+臨時とはいえ、少しの間、陸上部の練習を見てやった恩を忘れたか？
+Though it was only temporary, have you forgotten my kindness in supervising track practice?
+
+R
+あんなもん練習じゃねえ！体罰だ！単にテメェが、陸上部が気にくわねえから
+Wasn’t no practice-it was physical abuse!  You just didn’t like our team!
+
+Shadow Kamoshida
+目障りなんだよ！実績を上げるのは俺様だけでいい！
+It was nothing but an eyesore!  The only one who need to achieve results is me!
+
+Shadow Kamoshida
+クビになったあの監督も、救えない馬鹿だ
+That coach who got fired was hopeless too...
+
+Shadow Kamoshida
+正論言って楯つかなければ、エースの脚を潰すだけにしてやったものを
+Had he not opposed me with a sound argument, I would’ve settled it with only breaking his star’s leg.
+
+R
+何、だと
+....What?
+
+Shadow Kamoshida
+もう1本の脚も、やってやるかぁ？どうせ学校「正当防衛」にしてくれるしな！
+Do you need me to deal with your other leg too?  The school will call it self-defense anyway!
+
+R
+クソ　また俺　負けんのかよ
+Dammit… Am I gonna lose again…?
+
+R
+こんなクソのせいで、走れなくなって　！陸上部も、なくなって　！
+Not only can I not run anymore... the track team is gone too ‘cause of this asshole…!
+
+M
+そうだったのか
+So that’s why...
+
+Shadow Kamoshida
+こいつらを始末したら、次は貴様だぞ？
+Once these two are dealt with, you’re next.
+
+M
+おい、リュージ！
+Ryuji!
+
+言われっぱなしか？
+&gt;許せないんだろう？
+Don’t let him win!
+Stand up for yourself!
+
+R
+そうだよ。
+...You’re right.
+
+R
+俺が、あいつに奪われたモン、もう返ってこねえ、大事なモン　！
+Everything that was important to me was taken by him… I’ll never get ‘em back…!
+
+Shadow Kamoshida
+そこで、大人しく見てるがいい。
+Stay there and watch.
+
+Shadow Kamoshida
+クズを庇って犬死にする、救えないクズどもをな。
+Look on as these hopeless scum die for nothing because they sided with trash like you.
+
+R
+お前の方だよ
+No… That’s what you are...
+
+R
+人を利用することした考えてねえ　お前の方こそクズだ　鴨志田ぁ！
+All you think about is using people… You’re the real scumbag, Kamoshida!
+
+Shadow Kamoshida
+何してる、黙らせろ！
+What are you doing?  Silence him!
+
+R
+ニヤけたツラで、こっち見てんじゃねえよ！
+Stop lookin’ down on me with that stupid smile on your face!
+
+#Persona awakening cutscene
+
+Mysterious voice
+随分と待たせたものよ。
+You made me wait quite a while.
+
+Mysterious voice
+力が要るんだろう？ならば契約だ。
+You seek power, correct?  Then let us form a pact.
+
+Mysterious voice
+どうせ消しえぬ汚名なら、旗に掲げてひと暴れ
+Since your name has been disgraced already, why not hoist the flag an wreak havoc…?
+
+Mysterious voice
+お前の中の「もう一人のお前」が、そう望んでいる
+The “other you” who exists within desires it thus...
+
+Mysterious voice
+我は汝、汝は我
+I am thou, thou art I...
+
+Mysterious voice
+覚悟して背負え
+There is no turning back...
+
+Mysterious voice
+これよりは、反逆のドクロが貴様の旗だ！
+The skull of rebellion is your flag henceforth!
+
+Guard
+フン、貴様に何ができる
+Hmph.  What can you do…?
+
+Guard
+黙って眺めているがいい！
+Cower in fear and watch!
+
+#Persona come out
+
+Shadow Kamoshida
+コイツもだとッ　！？
+Ugh… This one as well!?
+
+R
+これが、俺のペルソナ
+Right on… Wassup, Persona...
+
+R
+こいつはいい
+This effin’ rocks!
+
+R
+この力がありゃ、借りが返せる
+Now that I got this power, it’s time for payback...
+
+R
+ほんと、待たせちまったな
+Yo, I’m ready...
+
+R
+いくぜ。
+Bring it!
+
+Guard
+クッ　ナメるな、ガキが！！
+Ngh… Don’t mock me, you brat!
+
+R
+ぶっ放せよ　「キャプテン・キッド」！！
+Blast him away… Captain Kidd!
+
+Guard
+カモシダ様の手を煩わす問題児がぁ！
+What troublemakers that bother King Kamoshida with trifle matters!
+
+R
+どうせ、鴨志田の認知ってのは変わんねえんだろ？なら、問題児らしく振舞ってやるよ！
+Kamoshida’s cognition ain’t changin’ right?  Then I’ll act like the troublemaker I am!
+
+R
+行くぜ！俺のキッドぉ！
+Let’s do this, Captain Kidd!
+
+#end of fight
+
+Guard
+私、は　栄えある、カモシダ様の　臣下で、ある　ぞ
+I am… a loyal subject… of the glorious King Kamoshida...
+
+Guard
+それが、なぜ　敗北、を　っ！？
+So why… have I lost…!?
+
+R
+鴨志田が大したことないってだけだろ？
+It just proves that Kamoshida ain’t anything special.
+
+R
+どうだっ！
+How ‘bout that!?
+
+M
+こいつは驚いたぜ　リュッジにも素養があったとはな。
+Whoa… So Ryuji had the potential too...
+
+R
+今さら、謝っても　許さねえ　からな　！
+Even if you apologize now… I ain’t forgivin’ you…!
+
+Shadow Kamoshida
+ここは俺様の城だ言ったのに、まだ分からんよだな　？
+I told you that this is my castle.  It seems you still don’t understand...
+
+R
+なっ　高巻ッ！？
+Wh-- Takamaki!?
+
+M
+なんて　ニャンてキレイな女の子だニャ　！
+Wha… What a meow-velous and beautiful girl…!
+
+R
+どうなってやがる　！？
+What’s going on…!?
+
+&gt;様子がおかしい
+うらやましい
+Something seems off.
+I’m so jealous...
+
+R
+そう言や、何となく
+Yeah, now that you mention it...
+
+R
+つーか、なんで居んだよ！？
+But why is she even here!?
+
+R
+テメ！手ぇ放せ、変態ヤロウ！
+Hey!  Let go of her, you perv!
+
+Shadow Kamoshida
+何べん教えれば理解できるんだ？
+How many times must I tell you until you understand?
+
+Shadow Kamoshida
+ここは「俺様の城」　何をやっても許される場所。誰もが俺様に気に入られたいと願う。
+This is MY castle--a place in which I can do whatever I want.  Everyone wishes to be loved by me.
+
+Shadow Kamoshida
+貴様らみたいな頭の悪い賊以外はな。
+...That is, everyone besides slow-witted thieves like you.
+
+R
+高巻！何とか言えよ！？
+Takamaki!  Say somethin’!
+
+M
+リュージ、冷静になれ！あの子は、どうやら本物じゃない。
+Calm down, Ryuji!  It seems that girl isn’t the real one.
+
+M
+奴様達と同じで「認知上の存在」なんだよ！
+She’s the same as those slaves-a being made from Kamoshida’s cognition of her!
+
+Shadow Kamoshida
+うらやましいか？
+Are you jealous?
+
+Shadow Kamoshida
+まあ貴様らのような問題だらけの不良には、女は寄って来ないだろうなぁ？
+Well, I’m not surprised.  Women aren’t drawn to problematic punks like you.
+
+Shadow Kamoshida
+はやく掃除しろっ！
+Clean them up this instant!
+
+M
+くそ、この数じゃ　囲まれる前にズラかるぞ！
+We’re outnumbered… Let’s scram before we get surrounded!
+
+R
+何もしねえで逃げんのかよ！
+We’re not gonna do anything and just run!?
+
+&gt;死んだら終わりだ
+いいから来い
+We can’t die here.
+Just shut up and go.
+
+M
+オマエが冷静で助かるぜ。
+Thank god you’ve got a level head.
+
+R
+クッ　わかった。
+Ngh… Fine.
+
+R
+テメェの化けの皮、ゼッテーひっぺがしてやる！　首洗って待ってろ！
+We’ll expose what you really are, no matter what!  You better be ready for us…!
+
+Shadow Kamoshida
+ハハハ！ここの連中はいたぶり飽きてたところだ！
+Hahaha!  I was beginning to get bored of torturing the ones here!
+
+Shadow Kamoshida
+こつでもかかってこい、命が惜しくないならな！(laughing)
+Come at me whenever you want, if you don’t care about your life! (continued laughing)
+
+M
+相手にするな、行くぞ！
+Ignore him. Let’s go!
+
+#outside the Palace
+
+R
+コレ、着替えた覚えねえし！
+I don’t remember changin’ into this!
+
+&gt;似合ってる
+賊というより族
+It looks good on you.
+You look like a thug.
+
+R
+喜んでいいのか、ソレ？
+Uhh… Should I be happy about that?
+
+R
+けど、お前のよりは悪くねえ。
+...Then again, it ain’t as bad as yours.
+
+Guard
+いたか！？
+Did you find them!?
+
+M
+静かにっ！
+Quiet!
+
+Guard
+いないぞ、向こうを探せ！
+No.  Search that way!
+
+R
+どういうことだよ、これ　？意味わかんねえ！
+So what’s goin’ on?  I’m completely lost, man…!
+
+M
+前に言ったろ。
+I told you before.
+
+M
+パレスの「主」に楯ついて敵視されると、ペルソナ使いは、そうなるんだよ。
+When a Persona-user opposes a Palace’s ruler and becomes a threat to them, this happens.
+
+M
+歪みにやられないためにな。
+It’s to prevent you from being affected by distortions.
+
+R
+これ　ドクロか？
+Is this... a skull?
+
+M
+具体的な格好は、オマエの内面の現れだ。オマエに眠る「反逆者」の
+Your appearance reflects your inner self.  It’s the rebel that slumbers within...
+
+M
+言ってもわかんねえか。
+...Not that you’ll get it.
+
+R
+わかんね
+Nope...
+
+M
+ならいちいち訊かないで、自分の目で見たものは受け入れとけ。
+Then stop asking questions and accept what you see for what it is.
+
+R
+気楽に言いやがって。
+Easy for you to say.
+
+R
+アッ！てーか、やべえじゃんっ！
+*gasp* Wait, we’re in deep shit!
+
+M
+静かにしろっつってんだろ！
+I said to be quiet!
+
+R
+こっちで助かったって、ホンモンの学校で結局鴨志田に
+We might’ve gotten away here, but we’re still screwed with Kamoshida at the real school...
+
+M
+バカのくせに鋭いな。
+That’s quite sharp of you!  ...For being an idiot.
+
+M
+安心しろ、現実のカモシダは、こっちのことは知りえない。
+Relax.  The Kamoshida in reality can’t possibly know about what happens here.
+
+M
+シャドウってのは「抑圧された本性」　人が日ごろ目を背けている人格だからな。
+A Shadow is the true self that is suppressed-a side one’s personality they don’t want to see.
+R
+大丈夫ってことか？
+...So we’re OK?
+
+M
+処刑のこと、現実のカモシダは覚えてたか？
+Did the Kamoshida in reality remember about the execution?
+
+M
+そういう事だ。
+There you have it.
+
+R
+よしゃ！それさえ分かりゃ、後は
+All right!  Now that we know that, all we gotta do is-
+
+M
+待て、約束通り、道案内してやったんだ。今度はワガハイに協力してもらうぞ？
+Wait.  I guided you as promised.  It’s your turn to cooperate with me.
+
+M
+そのために、色々くそ丁寧に教えてやったんだからな。
+That’s why I was super nice about teaching you idiots everything.
+
+R
+あぁ？協力？
+Huh?  Cooperate?
+
+M
+言っただろ？ワガハイは元々ここへ、「調査」に来たってな。
+Don’t you remember?  I originally came here for an investigation.
+
+M
+この身が受けた「歪み」を消し去って、真の姿を取り戻す！
+I need to erase the distortion from my body and regain my real form!
+
+M
+そのためには、遥かメメントスの
+That’s why we must delve deep into Mementos and-
+
+R
+待てよ、なに勝手に話進めてんだ。
+Whoa, hold up.  What’re you goin’ on and on about?
+
+R
+付き合うなんて一言も言ってねえぞ。
+We never said anything about helpin’ you out.
+
+M
+え、まさか　タダで世話になろうってんじゃないよな？
+Huh?  Don’t tell me… Are you not going to repay the hospitality I showed you?
+
+M
+とくにオマエ！すでにワガハイのプランの一部なのに科？
+Especially you!  You’re going to up and leave, even though you’re already part of my master plan!?
+
+考えてはみる
+&gt;約束してない
+なんの話だ？
+Let me think about it.
+I never promised.
+What plan?
+
+R
+嘘じゃねえだろ。
+See?  I wasn’t lyin’.
+
+M
+ワガハイがニンゲンじゃないから　猫っぽいから　バカにしてんのか！？
+Is it because I’m not human…?  Because I’m like a cat…?  Is that why you’re making a fool of me!?
+
+R
+こっちは忙しいんだよ！
+We’re busy!
+
+R
+世話んなったな、猫。なかなかガッツのある猫だったぜ、お前！
+Thanks for everything, cat.  You’ve got guts, bein’ a cat and all!
+
+R
+またどっかでな！
+See you around!
+
+M
+ちょ！ねーわ、マジねーわ！なにイイ話風にまとめてんだこら！？
+Hey!  What the hell!?  Ugh, seriously!  Why’re you wrapping this up like everything’s all hunky-dory!?
+
+M
+ねーわ！ねーわ！ぬぇぇーわぁぁーーッ！
+Oh hell no!  Get back here!  ...Grr… GRAAGGGHHH!
+
+#back in reality
+
+Navigation App
+現実世界に帰還しました。お疲れ様でした。
+You have returned to the real world.  Welcome back.
+
+R
+助かった　戻った。
+...Thank god.  We’re back.
+
+R
+なんか、振り回しちまったな。悪ぃ。
+I dragged you around a lot, huh?  ...Sorry, man.
+
+R
+てか、マジしんど　お前、平気なわけ？
+Ugh, I’m dead tired… How you holdin’ up?
+
+疲れた
+&gt;平気だ
+眠い
+I’m exhausted.
+Eh, I’m fine.
+I could use a nap.
+
+R
+すげえな。陸上やってた俺でもバテ気味なのによ
+That’s impressive.  I’m exhausted even though I used to do track...
+
+R
+それより、マジだったら面白ぇ事になんな！
+But damn, if what we saw was for real, this is gonna get good!
+
+R
+鴨志田が奴隷扱いしてるヤツらの顔、俺、バッチリ覚えたから。
+I totally remember the faces of the guys Kamoshida was treatin’ like slaves.
+
+R
+そいつら片っばしから捕まえて体罰を吐かせりゃ鴨志田もおしまいだ。
+Once we make ‘em fess up to any physical abuse, Kamoshida will be done.
+
+r
+体罰の証人探し　お前も手伝ってくれるだろ？
+So… wanna help me look for those guys or any witnesses?
+
+&gt;手伝おう
+いやだ
+大変そうだ
+Sure, I’ll help.
+Nah.
+Sounds difficult...
+
+R
+そうこなくちゃな！
+Now that’s what I’m talkin’ about!
+
+R
+お前さ
+Hey, so...
+
+R
+前歴あるから大人しくしてようってんなら　意味ねえと思うぜ。
+If you’re thinking’ of layin’ low ‘cause you got a record, I don’t think that’ll help...
+
+R
+もう知れ渡ってんだよ。無茶くちゃテル貼られちまってる。
+Everyone already knows.  They totally got you pegged as a criminal.
+
+……
+&gt;何故そんなことに？
+……
+How’d that happen?
+
+R
+鴨志田がバレしやがったんだ！
+Kamoshida opened his damn mouth!
+
+&gt;本当か？
+どうして？
+教師が？
+Seriously?
+Buy why?
+A teacher did that…?
+
+R
+既バレなんて、教師以外ありえねーだろ！
+No one else besides a teacher could’ve leaked it that fast!
+
+R
+ヤロウは気に食わねえと思ったら、部でも生徒でも平気で潰しやがんだ！
+It doesn’t matter if it&#039;s a student or a club; that asshole just wrecks things he doesn’t agree with.
+
+R
+オレん時みてえにな　！
+Just like he did with me…!
+
+R
+俺の言う事なんか誰もまともに取り合ってくれねえ。
+No one’ll take anything I say seriously.
+
+R
+けど、体罰の噂は本当かも知れねえ。
+Still, those rumors about him gettin’ physical might be real.
+
+R
+それに実際、鴨志田の歪んだ心っての見たら、それこそ　放っておけないだろ！？
+And after seein’ Kamoshida’s distorted-heart thing in person, there’s no way I can just sit back!
+
+&gt;もちろんだ
+気持ちはわかるが
+Of course.
+I feel you, but...
+
+R
+頼んだぜ、俺も気合い入れっからよ！
+I’m countin’ on you!  Don’t worry; I’m hyped about this too!
+
+竜司からの信頼を感じる
+I can sense a bond of trust coming from Ryuji...
+
+#Niijima future scene
+
+Sae
+見つかりたくないなら、単独でやる方から効率的。そういう考え方だってできる
+Acting as a Phantom Thief would&#039;ve been more efficient alone.  You could’ve gone about it that way...
+
+Sae
+でも君は、単独では行動しなかった。協力者がいた方が利点がある　君はそう判断した。
+However, you did not.  There are merits to having associates… That’s what you decided.
+
+Sae
+ちがう！？
+Am I wrong?
+
+#back to the present
+
+R
+そういや、昼から何も食べってねえんだった。
+Right, I haven’t eaten anything since lunch.
+
+R
+ここで別れんのもなんだしよ、なんか食い行こうぜ？
+It’d be weird splittin’ off now, so why don’t we grab a bite somewhere?
+
+わかった
+&gt;何料理？
+気が進まない
+Sure.
+What kind of food?
+I’m not feeling it...
+
+R
+肉。
+Meat, man.
+
+R
+とりあえず来いよ。
+Just follow me.
+
+R
+つか、ぶっちゃけお前の昔話とか聞きてえし！
+I mean, I totally gotta hear about your past!
+
+#at the restaurant
+
+R
+んだよ、それ！そいつクソすぎんだろっ！？
+The hell, man!  How much shittier can that asshole get!?
+
+&gt;落ち着け
+食べてる途中だ
+昔のことだ
+Calm down.
+I’m still eating
+It’s in the past...
+
+R
+聞いてるだけで腹立ってきやがるぜ！
+But just hearin’ your story makes me angry!
+
+R
+そんで、地元からこっちに来て居候か
+So… you left your hometown, and… you’re livin’ here now, huh?
+
+R
+やっぱ俺ら、性根が似てんのかもな。
+We might be more alike than I originally thought.
+
+&gt;そうかも
+どこが？
+そっちは何を？
+You may be right.
+How so?
+What did you do?
+
+R
+こんなこと思えたやつ、お前が初めてだ。
+You’re the first guy that made me think that.
+
+R
+周りから厄介者扱いされてて、居場所ないとこ？
+I guess it’s how we’re treated like a pain in the ass by the people around us, like we don’t belong.
+
+R
+俺もよ、前に学校でやらかしちまってな。
+I did something stupid at school before, too.
+
+R
+場所　四茶だっけか？
+The place you’re livin’ now is in… Yongen, right?
+
+R
+地下鉄、この時間ラッシュだから、時間ずらしてった方がいいぜ？
+It’s rush hour on the subways.  I suggest you kill some time before headin’ home.
+
+R
+んだよ、全然食べってねえじゃねえか。
+What the hell, man.  You barely touched your food.
+
+&gt;何の真似だ
+自分でやる
+What are you doing?
+I can do that myself.
+
+R
+いんだよ、協力の礼だ。
+Just lemme do it.  I gotta thank you for helpin’ me.
+
+R
+つーわけで、明日からもよろしく頼むぜ。
+Anyway, I got your back like you got mine from tomorrow on.
+
+R
+鴨志田さえ何とかすりゃ、お互いちっとぁ居心地マシんなんだろ？
+As long as we do something about Kamoshida, I’m sure we’ll both feel better about bein’ at school.
+
+R
+そうだ！
+Oh, yeah!
+
+R
+連絡先教えてくれ。あと、チャットのＩＤもな。
+Tell me your number.  Chat ID too.
+
+R
+見てやがれ、鴨志田
+Just you wait, Kamoshida...
+
+R
+明日から既始めっぞ。まず奴隷にされてたやつらに話を聞く。
+We’re gonna start right away tomorrow.  First, let’s hit up those guys that were kept as slaves.
+
+R
+球技大会だったよな？鴨志田推薦のバレー大会とか、胸クソ悪ィけどよ。
+The volleyball rally’s tomorrow, huh?
+
+R
+お陰で午後は受業ねえし、みんな浮かれてる。ウロついても気付かれにくいはずだ。
+But thanks to that, we got no classes in the afternoon, and we can walk around unnoticed.
+
+R
+まあ、詳しい話は明日にしようぜ
+Well, I guess we can work out the details tomorrow...
+
+R
+つか、食えよ。ショウガならいっぱいあっからよ。
+C’mon, you gotta eat more.  There’s tons of ginger here.
+
+#Shiho and Ann
+
+Shiho
+上手く　眠れなくて。
+I-I haven&#039;t been sleeping well lately...
+
+Shiho
+目をつぶると色々考えちゃうから
+Whenever I close my eyes, I keep thinking about too many things...
+
+A
+志帆
+Shiho...
+
+Shiho
+全国大会、もうすぐだから　考えちゃうんだ。
+Nationals are coming up soon, so I keep thinking...
+
+Shiho
+私なんかが、スタメンなんて
+Should someone like me really be on the starting lineup…?
+
+A
+大丈夫、自信もって！
+Don’t worry.  Just be confident in yourself!
+
+A
+実力が認められてんだって！志帆が誰よりも頑張ってるからじゃん！
+You skills have been recognized!  It’s all because you work harder than anyone else!
+
+Shiho
+うん　私、バレーしかできないから
+Yeah… Volleyball’s all I have, after all...
+
+A
+それより、ケガ、大丈夫？すごい腫れてたけど
+More importantly, was that injury OK?  It looked really swollen.
+
+Shiho
+ううん、このくらい　大会前だし
+No, it’s nothing.  It’s normal… Especially since a meet’s coming up...
+
+Mishima
+鈴井　悪い、話してるとこ。
+Sorry to interrupt, Suzui.
+
+Mishima
+その　鴨志田先生が、呼んでる。
+Um… Mr. Kamoshida told me to get you.
+
+Shiho
+何の用　？
+What does he want…?
+
+Shiho
+杏、私
+Ann, I...
+
+A
+大丈夫だって！きっと、スタメンのミーティングとかじゃない？
+It’ll be fine!  I bet it’s a meeting about the starting lineup or something.
+
+Shiho
+そうだね。
+...Yeah.
+
+Shiho
+じゃあ私、行かなきゃ
+Well, I better go...
+
+A
+うん、頑張って！
+Yup.  Good luck!
+
+A
+頑張れ、志帆　！
+Hang in there, Shiho…!　
+
+#back at Leblanc
+
+Sakura
+帰ったか。
+...You’re home.
+
+Sakura
+今日は真面目に学校行ったんだろうな？
+I take it you actually went to school today?
+
+もちろん行った
+&gt;どうだと思う？
+大変だった
+Of course.
+What do you think?
+It was pretty tough.
+
+Sakura
+俺が聞いてんだよ。まあ、面倒起こしてないなら、それでいい。
+I’m the one asking questions here.  Eh, as long as you’re not getting into trouble, it’s fine by me.
+
+Sakura
+どこで何してたか知らねえが、騒ぎでも起こしたら放り出すからな。
+I don’t know what you’ve been up to, but trust me, you’ll be gone if you start causing problems.
+
+Sakura
+くれぐれも言っとくぞ。お前、自由の身だと思うなよ。
+In case you forget, your life is not a free one right now.
+
+#im
+
+R
+さっそく連絡したぜ
+Hey, I decided to go ahead and message you.
+
+R
+届いてるか？
+Can you see this?
+
+&gt;届いてる
+届いてない
+どちら様ですか？
+Yep.
+Nope.
+Who’s this?
+
+R
+明日、頼んだぜ？
+I’m gonna be counting on you tomorrow, OK?
+
+&gt;何のこと？
+わかった
+What about?
+Got it.
+
+何のこと？
+
+R
+しらばっくれるなよ　同じメシ食べった仲だろ？
+
+R
+ここまで来たんだから最後まで付き合え
+We’ve come this far, so you gotta stick with me to the end.
+
+R
+体罰されてる連中を俺らで助けてやろうぜ
+Let’s save those guys who’ve been getting abused.  You and me.
+
+#end im
+
+Sakura
+ったく、聞いてんのかよ。
+...Sheesh, are you even listening to me?
+
+Sakura
+妙なのとツルむんじゃねーぞ。分かったな？
+Just stay away from bad influences, OK?
+
+Sakura
+俺はもう上がる。
+Hey, I’m gonna head home for the night.
+
+Sakura
+鍵、かけとくからな。夜中に出歩いたりすんなよ。
+I’ll lock the store up.  Don’t go wandering out.</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

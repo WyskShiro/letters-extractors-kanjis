@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 3 (Japanese) (Ver 2) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 3 (Japanese) (Ver 2) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/qmgvQ9PC" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/qmgvQ9PC" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="TnoRF2R7ODZKsOofJFOc7i-76ERchJXpIj-eE1J9-8AmIlNHCC9cQRjSqShlDMqtS---LTTxoNlabvFkZB6v8w==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/qmgvQ9PC" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/qmgvQ9PC" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 3 (Japanese) (Ver 2)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Monday 11th of November 2019 12:06:58 AM CDT">Nov 11th, 2019</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    160                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 9.52 KB            </div>
+
+            <div class="right">
+                <a href="/raw/qmgvQ9PC" class="btn -small">raw</a>
+                <a href="/dl/qmgvQ9PC" class="btn -small">download</a>
+                <a href="/clone/qmgvQ9PC" class="btn -small h_800">clone</a>
+                <a href="/embed/qmgvQ9PC" class="btn -small h_800">embed</a>
+                <a href="/report/qmgvQ9PC" class="btn -small">report</a>
+                <a href="/print/qmgvQ9PC" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">#waking up in a jail cell</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">おい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">起きろ、オイ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">大丈夫か?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">平気だ</div></li><li class="li1"><div class="de1">ここは?</div></li><li class="li1"><div class="de1">&gt;そっちは?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">ああ、なんとかな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">とうやら、夢ってワケじゃねえわうだな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">くっそ、何なんだコレ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">おい、出しやがれ!誰かいんだろっ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">くそ、何処だココ!なんかのセットか　?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">な、なんだ、今のは</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">おい　おい　おい　おい　</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">なんか、ヤバくねえか　?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">これ、絶対やべえだろ　!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">どっかから、逃げられねーのか!?とにかく、なんとかしようぜ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examine jail bars</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">この柵、見た目より頑丈だぜ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examine barrels</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">そのタル、何にも入ってねーよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examine chains</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">その鎖って、あれだよな?拷問とかする時の</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">クソッ!冗談じゃねーぞ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">んっ、なんか聞こえなかったか?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Armored Soldier</div></li><li class="li1"><div class="de1">喜べ、貴様らの処刑が決まった。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Armored Soldier</div></li><li class="li1"><div class="de1">罪状は「不法侵入」である。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Armored Soldier</div></li><li class="li1"><div class="de1">よって、死刑に処す。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">はあッ!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">俺様の「城」で勝手は許されない。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">え?まさか　鴨志田か?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;誰だ?</div></li><li class="li1"><div class="de1">カモシダ?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">ただのコソ泥と思ったら、坂本、貴様だったとはな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">また逆らうつもりか?貴様、ちっとも反省してないな?え?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">一人じゃどうにもならんと、今度は仲間を引き連れてきたのか?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">お前　ふざけんなよっ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">王に向かってその口の聞き方は何だ?貴様、自分の立場が分かってないようだな?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">我が城に飛び込んだ挙句、王である俺様に悪態をついた罪</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">死を以て償ってもらうとしよう。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">処刑だ、連れ出せッ!!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">や、やめろ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">く、くそっ　!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Ryuji shoulder tackling a guy in full armor</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">オラァッ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">付きあってられっか!逃げんぞ!!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#well, that went badly</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">うう　痛ってえ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">いいから逃げろ　!こいつら、マジだぞ!!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">ほう、貴様、逃げるのか?随分、薄情な仲間だな?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">仲間じゃねえ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">ほら、早くいけ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">どうした?怖気づいて逃げられないか?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">ふん、取るに足らない小虫が</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">俺様は、コイツの処刑に集中するとしよう</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">そうーれ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">クズがッ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">ゴミ虫めッ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">フン　さっきまでの威勢はどうした?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">こんな下郎、殴る価値もない。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">今、殺してやる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;やめろ!</div></li><li class="li1"><div class="de1">正気か!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">なな　?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">お前　俺様が誰か分からないのか?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">腹立たしい目をしおってッ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">押さえてろ　あいつを殺したら、すぐに殺す。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysterious voice</div></li><li class="li1"><div class="de1">これは極めて理不尽なゲーム　勝機は、ほぼないに等しい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysterious voice</div></li><li class="li1"><div class="de1">しかし、この声が届いているという事はまだ可能性は残っているはず</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">どうした　見ているだけか?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">我が身大事さに、見殺しか?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">このままでは本当に死ぬぞ?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">それとも、あれは間違っていたのか?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;間違ってない</div></li><li class="li1"><div class="de1">間違いだった</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">よかろう　覚悟、聞き届けたり。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">契約だ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">我は汝、汝は我</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">己が信じた正義の為に、あまねく冒涜を省みぬ者よ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">その怒り、我が各と共に解き放て!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Different but equally mysterious voice</div></li><li class="li1"><div class="de1">たとえ地獄に繋がれようと全てを己で見定める、強き意思の力を!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">殺せーッ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;ふざけるな！</div></li><li class="li1"><div class="de1">自分が相手だ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">何だと　?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">そんなに殺されたいか　いいだろう!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Arsene</div></li><li class="li1"><div class="de1">我が名は、逢魔の掠奪者「アルセーヌ」!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">お前</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Arsene</div></li><li class="li1"><div class="de1">我は、お前に宿る、反逆者の魂。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Arsene</div></li><li class="li1"><div class="de1">お前が望むなら、難局を打ち破る力を与えてやってもいい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;力が欲しい</div></li><li class="li1"><div class="de1">死んでたまるか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Arsene</div></li><li class="li1"><div class="de1">フン、良かろう</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">貴様　何者だ　!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">我が衛兵よ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">そいつから、やってしまえ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">こいつらの真の力　思い知れっ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Arsene</div></li><li class="li1"><div class="de1">目の前の敵を憎め!その意思を力に換えて　放ってみろ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Arsene</div></li><li class="li1"><div class="de1">武器を振るえ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Arsene</div></li><li class="li1"><div class="de1">我の、この力はお前のもの!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Arsene</div></li><li class="li1"><div class="de1">やり方は任せる。自由に暴れてやれっ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#after the fight</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">今の</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">何なんだ、一体</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">おのれ　!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">や、やったぜ、畜生!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;カギを閉めろ!</div></li><li class="li1"><div class="de1">逃げるぞ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">こ、これかっ!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">よし、かかったッ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">貴様ら!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">なお　!何なんだよ、今の!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">それに、お前の、格好は　!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">うお、戻った　!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">貴様らあぁぁ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">くっそ、イミわかんねえ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">とにかく逃げんぞ!先に行け!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">おのれぇ　賊めが!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">追え!絶対に逃すなっ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">き、貴様ら!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Shadow Kamoshida</div></li><li class="li1"><div class="de1">オレ様にこんな事してタダで済むと思っているのか!!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">知るかっ!これ以上付き合ってられっかよ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">とにかく、ここから出るぞ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">出口だ!出口をさがせ!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">開けねーのかよ!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">クソッ!通れそうな場所探すぞ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">ん？どうした？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">橋か　けど、壊れてやがるな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">いや、これくらいなら跳べるか　？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">よしっ！行けそうだな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">オイオイ、落ちるなよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">あっぶねー！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">なんだよ？開かねえのかよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">とにかく出口だ！他に道はねえか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">また牢屋かよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">やべぇ！カバンがつっかえる！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">これは　吊り橋か？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">つーか、マジでここは何処なんだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">おいっ、隠れろ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">あれ　俺らのこと探してんだよな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">これ以上付き合ってられっか！早く出口見つけようぜ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">上に続いてるってコトは出口に繋がってんのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">ハァ　ハァ　こ、この扉が　出口か！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">オイ！早く出ようぜ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">オイオイ　嘘だろ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">出口じゃないのかよ！いったい、なんなんだよここ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">お　おい　あれ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">悲鳴　聞こえたもんな　やっば掴まってたの、俺らだけじゃねぇんだ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">つか　大丈夫なのかよ　あれ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">前にナンカあんな。橋　と、石像　か？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examining statue near bridge</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">くそっ、橋があんのに上がってやがる！下ろす方法ねえのかよっ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examine jail cell near bridge</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">こ、ここもか　こいつ、大丈夫なのか！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">つか、なんでバレーボールが、牢の中にあんだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">また行き止まりかよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">くっそ、出口はどこにあんだよ　！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">おい、そこの。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">キンバツと、コセっ毛！こっち向け！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">なんだ！？こいつ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">オマエら、城の兵士じゃねえな！？こっから出してくれ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ほら、そこにカギあるだろう！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">外出てえのは、こっちなんだよ　！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">てかお前、どう見たって敵だろ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">捕まってんのに敵なわけないだろ！助けてくれよ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">信用できない</div></li><li class="li1"><div class="de1">静かにしろ</div></li><li class="li1"><div class="de1">&gt;猫？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">猫じゃねえっ！次言ったら許さんぞ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">もう来やがった　！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">くそ、圏外だ！外と連絡つかねえのかよ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">一体どっから出れんだよ　！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">おい、オマエら！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">出口が知れたいのか？出してくれれば案内するぞ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">捕まって処刑はイヤだろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本当か？</div></li><li class="li1"><div class="de1">危険じゃないのか？</div></li><li class="li1"><div class="de1">&gt;嘘ならタダじゃおかない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">嘘じゃない！本当だって！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">どうも調子いいな、コイツ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">二人だけで出られるってんなら、好きにしろよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">どうするよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">マジなんだろうな！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">早くしないと捕まるぞ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">し、仕方ねえ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#unlock jail cell</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">フゥ～、シャバの空気はうまいぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">出口はどこなんだよ。化け猫！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">猫って言うな！ワガハイは「モルガナ」だ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">うっせえ早くしろ！また閉じ込めんぞ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">わ、わかってるよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ついてこい、静かにだぞっ！</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">#waking up in a jail cell
+
+Ryuji
+おい。
+
+Ryuji
+起きろ、オイ!
+
+Ryuji
+大丈夫か?
+
+平気だ
+ここは?
+&gt;そっちは?
+
+Ryuji
+ああ、なんとかな。
+
+Ryuji
+とうやら、夢ってワケじゃねえわうだな
+
+Ryuji
+くっそ、何なんだコレ!
+
+Ryuji
+おい、出しやがれ!誰かいんだろっ!
+
+Ryuji
+くそ、何処だココ!なんかのセットか　?
+
+Ryuji
+な、なんだ、今のは
+
+Ryuji
+おい　おい　おい　おい　
+
+Ryuji
+なんか、ヤバくねえか　?
+
+Ryuji
+これ、絶対やべえだろ　!
+
+Ryuji
+どっかから、逃げられねーのか!?とにかく、なんとかしようぜ!
+
+#examine jail bars
+
+Ryuji
+この柵、見た目より頑丈だぜ
+
+#examine barrels
+
+Ryuji
+そのタル、何にも入ってねーよ。
+
+#examine chains
+
+Ryuji
+その鎖って、あれだよな?拷問とかする時の
+
+Ryuji
+クソッ!冗談じゃねーぞ!
+
+Ryuji
+んっ、なんか聞こえなかったか?
+
+Armored Soldier
+喜べ、貴様らの処刑が決まった。
+
+Armored Soldier
+罪状は「不法侵入」である。
+
+Armored Soldier
+よって、死刑に処す。
+
+Ryuji
+はあッ!?
+
+Shadow Kamoshida
+俺様の「城」で勝手は許されない。
+
+Ryuji
+え?まさか　鴨志田か?
+
+&gt;誰だ?
+カモシダ?
+
+Shadow Kamoshida
+ただのコソ泥と思ったら、坂本、貴様だったとはな
+
+Shadow Kamoshida
+また逆らうつもりか?貴様、ちっとも反省してないな?え?
+
+Shadow Kamoshida
+一人じゃどうにもならんと、今度は仲間を引き連れてきたのか?
+
+Ryuji
+お前　ふざけんなよっ!
+
+Shadow Kamoshida
+王に向かってその口の聞き方は何だ?貴様、自分の立場が分かってないようだな?
+
+Shadow Kamoshida
+我が城に飛び込んだ挙句、王である俺様に悪態をついた罪
+
+Shadow Kamoshida
+死を以て償ってもらうとしよう。
+
+Shadow Kamoshida
+処刑だ、連れ出せッ!!
+
+Ryuji
+や、やめろ!
+
+Ryuji
+く、くそっ　!
+
+#Ryuji shoulder tackling a guy in full armor
+
+Ryuji
+オラァッ!
+
+Ryuji
+付きあってられっか!逃げんぞ!!
+
+#well, that went badly
+
+Ryuji
+うう　痛ってえ
+
+Ryuji
+いいから逃げろ　!こいつら、マジだぞ!!
+
+Shadow Kamoshida
+ほう、貴様、逃げるのか?随分、薄情な仲間だな?
+
+Ryuji
+仲間じゃねえ
+
+Ryuji
+ほら、早くいけ!
+
+Shadow Kamoshida
+どうした?怖気づいて逃げられないか?
+
+Shadow Kamoshida
+ふん、取るに足らない小虫が
+
+Shadow Kamoshida
+俺様は、コイツの処刑に集中するとしよう
+
+Shadow Kamoshida
+そうーれ!
+
+Shadow Kamoshida
+クズがッ!
+
+Shadow Kamoshida
+ゴミ虫めッ!
+
+Shadow Kamoshida
+フン　さっきまでの威勢はどうした?
+
+Shadow Kamoshida
+こんな下郎、殴る価値もない。
+
+Shadow Kamoshida
+今、殺してやる。
+
+&gt;やめろ!
+正気か!?
+
+Shadow Kamoshida
+なな　?
+
+Shadow Kamoshida
+お前　俺様が誰か分からないのか?
+
+Shadow Kamoshida
+腹立たしい目をしおってッ!
+
+Shadow Kamoshida
+押さえてろ　あいつを殺したら、すぐに殺す。
+
+Mysterious voice
+これは極めて理不尽なゲーム　勝機は、ほぼないに等しい。
+
+Mysterious voice
+しかし、この声が届いているという事はまだ可能性は残っているはず
+
+Different but equally mysterious voice
+どうした　見ているだけか?
+
+Different but equally mysterious voice
+我が身大事さに、見殺しか?
+
+Different but equally mysterious voice
+このままでは本当に死ぬぞ?
+
+Different but equally mysterious voice
+それとも、あれは間違っていたのか?
+
+&gt;間違ってない
+間違いだった
+
+Different but equally mysterious voice
+よかろう　覚悟、聞き届けたり。
+
+Different but equally mysterious voice
+契約だ。
+
+Different but equally mysterious voice
+我は汝、汝は我
+
+Different but equally mysterious voice
+己が信じた正義の為に、あまねく冒涜を省みぬ者よ!
+
+Different but equally mysterious voice
+その怒り、我が各と共に解き放て!
+
+Different but equally mysterious voice
+たとえ地獄に繋がれようと全てを己で見定める、強き意思の力を!
+
+Shadow Kamoshida
+殺せーッ!
+
+&gt;ふざけるな！
+自分が相手だ
+
+Shadow Kamoshida
+何だと　?
+
+Shadow Kamoshida
+そんなに殺されたいか　いいだろう!
+
+Arsene
+我が名は、逢魔の掠奪者「アルセーヌ」!
+
+Ryuji
+お前
+
+Arsene
+我は、お前に宿る、反逆者の魂。
+
+Arsene
+お前が望むなら、難局を打ち破る力を与えてやってもいい。
+
+&gt;力が欲しい
+死んでたまるか
+
+Arsene
+フン、良かろう
+
+Shadow Kamoshida
+貴様　何者だ　!?
+
+Shadow Kamoshida
+我が衛兵よ!
+
+Shadow Kamoshida
+そいつから、やってしまえ!
+
+Shadow Kamoshida
+こいつらの真の力　思い知れっ!
+
+Arsene
+目の前の敵を憎め!その意思を力に換えて　放ってみろ!
+
+Arsene
+武器を振るえ!
+
+Arsene
+我の、この力はお前のもの!
+
+Arsene
+やり方は任せる。自由に暴れてやれっ!
+
+#after the fight
+
+Ryuji
+今の
+
+Ryuji
+何なんだ、一体
+
+Shadow Kamoshida
+おのれ　!
+
+Ryuji
+や、やったぜ、畜生!
+
+&gt;カギを閉めろ!
+逃げるぞ!
+
+Ryuji
+こ、これかっ!?
+
+Ryuji
+よし、かかったッ!
+
+Shadow Kamoshida
+貴様ら!?
+
+Ryuji
+なお　!何なんだよ、今の!?
+
+Ryuji
+それに、お前の、格好は　!
+
+Ryuji
+うお、戻った　!?
+
+Shadow Kamoshida
+貴様らあぁぁ!
+
+Shadow Kamoshida
+くっそ、イミわかんねえ!
+
+Ryuji
+とにかく逃げんぞ!先に行け!
+
+Shadow Kamoshida
+おのれぇ　賊めが!
+
+Shadow Kamoshida
+追え!絶対に逃すなっ!
+
+Shadow Kamoshida
+き、貴様ら!
+
+Shadow Kamoshida
+オレ様にこんな事してタダで済むと思っているのか!!
+
+Ryuji
+知るかっ!これ以上付き合ってられっかよ!
+
+Ryuji
+とにかく、ここから出るぞ!
+
+Ryuji
+出口だ!出口をさがせ!
+
+Ryuji
+開けねーのかよ!?
+
+Ryuji
+クソッ!通れそうな場所探すぞ？
+
+Ryuji
+ん？どうした？
+
+Ryuji
+橋か　けど、壊れてやがるな。
+
+Ryuji
+いや、これくらいなら跳べるか　？
+
+Ryuji
+よしっ！行けそうだな。
+
+Ryuji
+オイオイ、落ちるなよ
+
+Ryuji
+あっぶねー！
+
+Ryuji
+なんだよ？開かねえのかよ！
+
+Ryuji
+とにかく出口だ！他に道はねえか？
+
+Ryuji
+また牢屋かよ
+
+Ryuji
+やべぇ！カバンがつっかえる！
+
+Ryuji
+これは　吊り橋か？
+
+Ryuji
+つーか、マジでここは何処なんだ？
+
+Ryuji
+おいっ、隠れろ！
+
+Ryuji
+あれ　俺らのこと探してんだよな？
+
+Ryuji
+これ以上付き合ってられっか！早く出口見つけようぜ！
+
+Ryuji
+上に続いてるってコトは出口に繋がってんのか？
+
+Ryuji
+ハァ　ハァ　こ、この扉が　出口か！？
+
+Ryuji
+オイ！早く出ようぜ！
+
+Ryuji
+オイオイ　嘘だろ
+
+Ryuji
+出口じゃないのかよ！いったい、なんなんだよここ！？
+
+Ryuji
+お　おい　あれ
+
+Ryuji
+悲鳴　聞こえたもんな　やっば掴まってたの、俺らだけじゃねぇんだ！
+
+Ryuji
+つか　大丈夫なのかよ　あれ
+
+Ryuji
+前にナンカあんな。橋　と、石像　か？
+
+#examining statue near bridge
+
+Ryuji
+くそっ、橋があんのに上がってやがる！下ろす方法ねえのかよっ！
+
+#examine jail cell near bridge
+
+Ryuji
+こ、ここもか　こいつ、大丈夫なのか！？
+
+Ryuji
+つか、なんでバレーボールが、牢の中にあんだ？
+
+Ryuji
+また行き止まりかよ
+
+Ryuji
+くっそ、出口はどこにあんだよ　！
+
+Morgana
+おい、そこの。
+
+Morgana
+キンバツと、コセっ毛！こっち向け！
+
+Ryuji
+なんだ！？こいつ！？
+
+Morgana
+オマエら、城の兵士じゃねえな！？こっから出してくれ！
+
+Morgana
+ほら、そこにカギあるだろう！？
+
+Ryuji
+外出てえのは、こっちなんだよ　！
+
+Ryuji
+てかお前、どう見たって敵だろ！？
+
+Morgana
+捕まってんのに敵なわけないだろ！助けてくれよ！？
+
+信用できない
+静かにしろ
+&gt;猫？
+
+Morgana
+猫じゃねえっ！次言ったら許さんぞ！
+
+Ryuji
+もう来やがった　！
+
+Ryuji
+くそ、圏外だ！外と連絡つかねえのかよ！？
+
+Ryuji
+一体どっから出れんだよ　！
+
+Morgana
+おい、オマエら！
+
+Morgana
+出口が知れたいのか？出してくれれば案内するぞ？
+
+Morgana
+捕まって処刑はイヤだろ？
+
+本当か？
+危険じゃないのか？
+&gt;嘘ならタダじゃおかない
+
+Morgana
+嘘じゃない！本当だって！
+
+Ryuji
+どうも調子いいな、コイツ
+
+Morgana
+二人だけで出られるってんなら、好きにしろよ！
+
+Ryuji
+どうするよ
+
+Ryuji
+マジなんだろうな！？
+
+Morgana
+早くしないと捕まるぞ！
+
+Ryuji
+し、仕方ねえ
+
+#unlock jail cell
+
+Morgana
+フゥ～、シャバの空気はうまいぜ。
+
+Ryuji
+出口はどこなんだよ。化け猫！
+
+Morgana
+猫って言うな！ワガハイは「モルガナ」だ！
+
+Ryuji
+うっせえ早くしろ！また閉じ込めんぞ！
+
+Morgana
+わ、わかってるよ！
+
+Morgana
+ついてこい、静かにだぞっ！</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

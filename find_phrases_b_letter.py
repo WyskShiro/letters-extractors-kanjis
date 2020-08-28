@@ -18,10 +18,10 @@ letters_dict = list()
 # PARAMETERS
 # PARAMETERS
 
-kanji_to_search_for = "裏"
+kanji_to_search_for = "観"
 subpaths_to_exclude = ["/archive/text"]
-file_to_write_name = "phrases_for_{}.txt".format(kanji_to_search_for)
-
+file_to_write_name = "test_phrases_for_{}.txt".format(kanji_to_search_for)
+page_num = 1
 
 # Functions
 # Functions
@@ -49,7 +49,7 @@ for a in soup.find("table", {"class": "maintable"}).find_all("a"):
     if sub_path not in subpaths_to_exclude:
         load_page(base_url + sub_path)
 
-keys = letters_dict
+keys = set(letters_dict)
 f = open(file_to_write_name, "w")
 for key in keys:
     f.write(key.encode('utf8'))

@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 20 (Japanese) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 20 (Japanese) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/VvcWKquf" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/VvcWKquf" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="iSzLG5rq6Jp2H-fcTiIJtDqaVQhWtCxm77xpExxRrzLRZJptxZ2mwgdo35Qfd0yZVsMTaQWBSR-45hBLVWnMBw==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/VvcWKquf" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/VvcWKquf" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 20 (Japanese)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Wednesday 21st of August 2019 11:42:59 PM CDT">Aug 21st, 2019</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    170                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 11.95 KB            </div>
+
+            <div class="right">
+                <a href="/raw/VvcWKquf" class="btn -small">raw</a>
+                <a href="/dl/VvcWKquf" class="btn -small">download</a>
+                <a href="/clone/VvcWKquf" class="btn -small h_800">clone</a>
+                <a href="/embed/VvcWKquf" class="btn -small h_800">embed</a>
+                <a href="/report/VvcWKquf" class="btn -small">report</a>
+                <a href="/print/VvcWKquf" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">働かざる者食うべからず　って、知ってるか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">その気があんなら店の仕事の一つでも覚えてくれりゃあな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうする？ゴシュジンの手伝いをすんのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#yes</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">分かってんじゃねえか。なら、荷物置いてさっさと来い。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そろそろ馴染むの客も来んだよ。これが口の多い女でな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">店に立つ以上、お前にも基本を叩き込まねえとな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何の話か、もちろん分かってるよな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;コーヒーの淹れ方</div></li><li class="li1"><div class="de1">女の口説き方</div></li><li class="li1"><div class="de1">分からない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さすがに、そんくらいは分かってるか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">賑わってねえこんな店でも、コダワリはあるんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">適当に淹れた味いコーヒーなんて出してみろ、叩き出すからな　覚えとけよ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいわね、キミ。惣ちゃんの淹れるコーヒーは間違いないわよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">特製カレーにも合うし。ついつい、セットで頼じゃう。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">常連さん相手には、多少好みに合わせて出したりするからね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ねえ惣ちゃん、味のヒミツ教えてよ？時間作るからさぁ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あいにく企業ヒミツだな。ま、舌で味を盗む分には、かまわねえよ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ケチね。私の心は、惣ちゃんの料理にうっかり盗まれちゃってるのに。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃ、あま~いデザート追加するか？300円だよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">店やってっと、色んなお客さん来るから。気持ちを汲んで、うまいこと相手なんだぞ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それが接客ってもんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いらっしゃ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あんた</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうも！久しぶり、佐倉さん！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お店、出してたって聞いてさ！水臭いじゃないの。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">駅近くていい立地だねえ？ねえ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ご注文は。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">世界話もナシかい？冷たいなぁ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あっ、この匂い　懐かしいね！あのカレーだろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もしかして、まだ「あの女」のこと</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ご注文は？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ははっ、まいったね。今日はアイサツだけ。また改めて近いうちに来るよ！じゃ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ったく。どっから嗅ぎつけてきやがったんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;今のは誰？</div></li><li class="li1"><div class="de1">きな臭いやつだ</div></li><li class="li1"><div class="de1">あの女？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">忘れろ、お前には関係ない。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">余計な詮索より、豆の種類でも覚えろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">コーヒーのイロハも知らないようじゃ、使いモンになんねえからな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それに　コーヒーに詳しいと「モテる」ぜ？嘘じゃない。お前にとっても悪くない話だろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;モテたい</div></li><li class="li1"><div class="de1">興味ない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">正直だな。いつもそうやって素直でいろよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、きっちり教えてやるよ。俺がラク出来るようにな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">っと、もうこんな時間か。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ぼちぼち閉店準備なるぞ。最後まで気抜くなよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#talk to Ryuji in SNS</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日、予定あんのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やっぱまだジッとしてらんねーわ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺いま、渋谷のゲーセン来てんだ何かあったら連絡くれな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おう、了解</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Examining people at arcade machines</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">侍と忍者が戦っているぜ。血飛沫が結構すごいな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田倒したってのに　なんか落ち着かねえよな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これからどうなるか、あとは鴨志田次第ってことか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">体、動かしとこうぜ？なんもしねえとスグ錆びついちまうぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んじゃ、着替えて来いよ。軽くランニングでもしようぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んじゃ、またな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">電車止まってる？また例の精神暴走？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まーた大臣辞任かよ　変わりすぎだろ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">不倫とかアホすぎるだろ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">電車で刃物ふり回すとかなんなの</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おかしな奴多すぎ！まともな奴いねえの？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">コーヒーの器具は好きに使って構わないが扱いは気をつけろよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#talk to Sakura</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ヒマしてんなら勉強なるか、本を読め。時は金なりだ、無駄になるんじゃねえぞ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Brewing coffee</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここでゴシュジンが自慢のコーヒーを淹れてるのか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">コーヒー、淹れてみるか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;やる</div></li><li class="li1"><div class="de1">やめておく</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">コーヒー淹れんのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">豆は棚にあるのを適当に使え。それぞれの特徴はそのうち教えてやる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んじゃ、俺はタバコでも買ってくるか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おお～！いい匂いしてきた</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うまそうに飲んでるじゃないか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">作り手の思いがこもったコーヒーか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">異世界で飲めば、気休めじゃなく、ホントに体が癒されるかもな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちゃんとやってるみたいだな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どれ、飲ませてみな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この香りと柔らかなコク</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ブルーマウンテンを使ったのか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ジャマイカ産ブルーマウンテン</div></li><li class="li1"><div class="de1">ジャマイカは豊かな自然、豊富な雨量、強い寒暖差、水はけの良い土壌など、コーヒー栽培には好条件の揃った国である。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ブルーマウンテンは、栽培地である山の名前で、厳しい基準をクリアした高品質豆に与えられる、豊かな香りと柔らかなコクを持つ、人気ブランド。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど、これじゃ豆が泣いてるぞ。もっと練習しとけ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まあ、教えた通りにやろうとはしてるな。その努力は認めてやるよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">カウンターに立ってるとこは、なかなかサマになってるじゃないの。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">教えたこと、素直にやってるみたいだし言いつけも守ってる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これが、前歴持ちの問題児とはね</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、長話も何だ。そのまま精進なるんだな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">せっかく教わったんだしこれからも機会を作って、腕を磨かないとな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">極上のコーヒーを振る舞ったりしたらオマエを見る目、絶対に変わるぜ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">明日もあるし、ボチボチ休むとなるか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おっ、座れたな！着くまで何か読むか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「宝物庫は、既にもぬけの殻だった　」と書いてある</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">伝説の大泥棒、アルセーヌ　同業としては憧れるよなぁ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">大怪盗・アルセーヌを読み終わったのか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">追手を手玉に取るアルセーヌ　やっぱり格好良かったぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">小説を通じて怪盗の知的センス、しっかり学べたみたいだな！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おっと、もう駅に着きそうだぜ。有意識な時間が過ごせたな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おはよ。理事会、明後日だね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田、本当に改心したのかな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">失敗してたらどうしようって、そればっ考えちゃって</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;信じるしかない</div></li><li class="li1"><div class="de1">不安か？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">できる事はやったもんね。信じて待っ敷かないか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも不思議　ちょっと楽になったかも。キミの冷静さのおかげかな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">志帆の仇とって、退学もナシ！休み明けたら、きっとみんなで笑える！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私もそう信じとくよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Hello, everyone! How are you?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この時代、英語なんてできて当たり前。話すたびモジモジしてたら置いてかれるわよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いい？この時間は日本人であることを忘れて自分を外国人と思い込みなさい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">コツは違う自分になりきるってコトね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうやって場面ごとに仮面を切り替えるタレントこそ、この時代モツを言うの。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mr. &lt;name&gt;　アナタはどうかしら？早速だけどクエッション。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「Are you a person of talent?」どういう意味か、外国人になった気持ちで答えて。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オマエが「a person of talent」かどうか訊いてるみたいだな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ワガハイ、あんま英語は得意じゃないが、出来る限りサポートしてやるぜ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">えーっと、まず「person」の意味は</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ぺーそん</div></li><li class="li1"><div class="de1">&gt;人物</div></li><li class="li1"><div class="de1">ペルソナ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「person(パーソン)」つったら「人物」って意味だよな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃあ、次の「talent(タレント)」の意味は</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">芸術</div></li><li class="li1"><div class="de1">&gt;才能</div></li><li class="li1"><div class="de1">テレビ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そういや先生は「仮面を切り替えるタレント」とか言ってたな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">仮面を切り替える才能　おお、それっぽい！「talent(タレント)」は才能だ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃあ、「a person of talent」っていうのは</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ペルソナ使い</div></li><li class="li1"><div class="de1">芸能人</div></li><li class="li1"><div class="de1">&gt;優秀な人</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">You&#039;re right!正解よ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">タレント　つまり才能のある、優秀な人物か？って聞いたので。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">臨機応変に答えられたアナタにそまさにA person of talent!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちなみに、タレントの語源は聖書にも登場するタラントって金貨。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">優秀な召使いほど神様から金貨を多くもらい、才能でさらに元手を増やしたって話ね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">彼、けっこうデキる？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんか意外</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">チョット、いいかも</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日は一段と冴えてんな！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本来、英語のタレントに芸能人って意味はないわ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも状況に応じて仮面を変えられるのはまさに神様から与えられたタレント　才能よね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">テレビで臨機応変な対応が出来る人をタレントって呼ぶのもあながち間違いじゃないわ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">仮面を切り替える才能　ひょっとしてワガハイたちもタレント　！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Makoto at the library</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">怪盗騒ぎの後は、鴨志田先生の自宅謹慎</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">連休明けに中間試験もあるのに、新学期から一体どうなってるのよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何？忙しいから邪魔しないでくれる？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#checking out Carmen book</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">はい、こちらです。扱いには気を付けて下さいね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">妖艶の踊り子か。なかなか面白いそうな本だな！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Leblanc after studying in library</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田がどうなったかあれからなんか聞いた？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;聞いてない</div></li><li class="li1"><div class="de1">どうした？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">聞いてない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そっか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;何かあったのか？</div></li><li class="li1"><div class="de1">用件は？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何かあったのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんか急に不安になってさ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">助けてくれたお前が退学になったら　って思ったらよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">また俺のせいで人に辛い思いさせんのかなってさ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それに、杏も鈴井も助けてやれなかったらって思うと</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;信じるしかない</div></li><li class="li1"><div class="de1">そうなったらその時だ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">信じるしかない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ごめん弱音吐いてる場合じゃねえよな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">話したらちょっと楽になったありがとな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ、この話杏には内緒だからな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺らが不安がってたら杏が頼る場所なくなっちまうから</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それじゃな！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#drunken man outside Leblanc</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ、あ～　どもこんばんはぁ。報道22時の時間れす～。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まずは、連続いし　意識ふまっ　ふめー事件の話題を　ゲエェ～！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;しっかりしろ</div></li><li class="li1"><div class="de1">お前は誰だ</div></li><li class="li1"><div class="de1">いま噛んだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しっかりしなさぁ～い、ってか！アハハ～、分かってるろぉ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back at Leblanc attic</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そういや、テレビ届いたんだよな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ブラウン管のテレビもこの部屋だと、しっくり来るな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">チューナー付きだからテレビも見れるししかもDVDプレイヤー付きだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これは、いい買い物だったんじゃないか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examining shelves</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でかい段ボールだな　へえ、オマエの荷物が入ってるんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#examining ladder/bicycle garbage pile</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">片付ける気になったのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;片付ける</div></li><li class="li1"><div class="de1">やめておく</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この観葉植物、まだ枯れてないそ　ちょっと飾ってみようぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">観葉植物があるだけで、殺風景な部屋もすこしはマシに見えてきたな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この部屋の最初のインテリアだ。枯れないようにちゃんと世話してやろうぜ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょうどいい機会だ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そこの本棚も大変なことになってるしこの際だから、全部片付けてしまおうぜ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">政治に法律、哲学　なんか難しい本ばっかりだな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おっ！これならオマエも読めるんじゃないか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんで難しい本の中にこんなのが混じってたんだろうな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まあいいや。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これで少しは落ち着ける部屋になったか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">後はここから好きなようにしていけばいいだけだな！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、今日はもう寝ようぜ。</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">働かざる者食うべからず　って、知ってるか？
+
+その気があんなら店の仕事の一つでも覚えてくれりゃあな
+
+どうする？ゴシュジンの手伝いをすんのか？
+
+#yes
+
+分かってんじゃねえか。なら、荷物置いてさっさと来い。
+
+そろそろ馴染むの客も来んだよ。これが口の多い女でな
+
+店に立つ以上、お前にも基本を叩き込まねえとな
+
+何の話か、もちろん分かってるよな？
+
+&gt;コーヒーの淹れ方
+女の口説き方
+分からない
+
+さすがに、そんくらいは分かってるか。
+
+賑わってねえこんな店でも、コダワリはあるんだ。
+
+適当に淹れた味いコーヒーなんて出してみろ、叩き出すからな　覚えとけよ？
+
+いいわね、キミ。惣ちゃんの淹れるコーヒーは間違いないわよ。
+
+特製カレーにも合うし。ついつい、セットで頼じゃう。
+
+常連さん相手には、多少好みに合わせて出したりするからね。
+
+ねえ惣ちゃん、味のヒミツ教えてよ？時間作るからさぁ。
+
+あいにく企業ヒミツだな。ま、舌で味を盗む分には、かまわねえよ？
+
+ケチね。私の心は、惣ちゃんの料理にうっかり盗まれちゃってるのに。
+
+じゃ、あま~いデザート追加するか？300円だよ。
+
+店やってっと、色んなお客さん来るから。気持ちを汲んで、うまいこと相手なんだぞ？
+
+それが接客ってもんだ。
+
+いらっしゃ
+
+あんた
+
+どうも！久しぶり、佐倉さん！
+
+お店、出してたって聞いてさ！水臭いじゃないの。
+
+駅近くていい立地だねえ？ねえ？
+
+ご注文は。
+
+世界話もナシかい？冷たいなぁ。
+
+あっ、この匂い　懐かしいね！あのカレーだろ？
+
+もしかして、まだ「あの女」のこと
+
+ご注文は？
+
+ははっ、まいったね。今日はアイサツだけ。また改めて近いうちに来るよ！じゃ。
+
+ったく。どっから嗅ぎつけてきやがったんだ。
+
+&gt;今のは誰？
+きな臭いやつだ
+あの女？
+
+忘れろ、お前には関係ない。
+
+余計な詮索より、豆の種類でも覚えろ。
+
+コーヒーのイロハも知らないようじゃ、使いモンになんねえからな。
+
+それに　コーヒーに詳しいと「モテる」ぜ？嘘じゃない。お前にとっても悪くない話だろ。
+
+&gt;モテたい
+興味ない
+
+正直だな。いつもそうやって素直でいろよ。
+
+ま、きっちり教えてやるよ。俺がラク出来るようにな。
+
+っと、もうこんな時間か。
+
+ぼちぼち閉店準備なるぞ。最後まで気抜くなよ。
+
+#talk to Ryuji in SNS
+
+今日、予定あんのか？
+
+やっぱまだジッとしてらんねーわ
+
+俺いま、渋谷のゲーセン来てんだ何かあったら連絡くれな
+
+おう、了解
+
+#Examining people at arcade machines
+
+侍と忍者が戦っているぜ。血飛沫が結構すごいな
+
+鴨志田倒したってのに　なんか落ち着かねえよな。
+
+これからどうなるか、あとは鴨志田次第ってことか
+
+体、動かしとこうぜ？なんもしねえとスグ錆びついちまうぞ。
+
+んじゃ、着替えて来いよ。軽くランニングでもしようぜ。
+
+んじゃ、またな。
+
+電車止まってる？また例の精神暴走？
+
+まーた大臣辞任かよ　変わりすぎだろ
+
+不倫とかアホすぎるだろ
+
+電車で刃物ふり回すとかなんなの
+
+おかしな奴多すぎ！まともな奴いねえの？
+
+コーヒーの器具は好きに使って構わないが扱いは気をつけろよ。
+
+#talk to Sakura
+
+ヒマしてんなら勉強なるか、本を読め。時は金なりだ、無駄になるんじゃねえぞ？
+
+#Brewing coffee
+
+ここでゴシュジンが自慢のコーヒーを淹れてるのか
+
+コーヒー、淹れてみるか？
+
+&gt;やる
+やめておく
+
+コーヒー淹れんのか？
+
+豆は棚にあるのを適当に使え。それぞれの特徴はそのうち教えてやる。
+
+んじゃ、俺はタバコでも買ってくるか
+
+おお～！いい匂いしてきた
+
+うまそうに飲んでるじゃないか。
+
+作り手の思いがこもったコーヒーか
+
+異世界で飲めば、気休めじゃなく、ホントに体が癒されるかもな。
+
+ちゃんとやってるみたいだな。
+
+どれ、飲ませてみな。
+
+この香りと柔らかなコク
+
+ブルーマウンテンを使ったのか
+
+ジャマイカ産ブルーマウンテン
+ジャマイカは豊かな自然、豊富な雨量、強い寒暖差、水はけの良い土壌など、コーヒー栽培には好条件の揃った国である。
+
+ブルーマウンテンは、栽培地である山の名前で、厳しい基準をクリアした高品質豆に与えられる、豊かな香りと柔らかなコクを持つ、人気ブランド。
+
+けど、これじゃ豆が泣いてるぞ。もっと練習しとけ。
+
+まあ、教えた通りにやろうとはしてるな。その努力は認めてやるよ。
+
+カウンターに立ってるとこは、なかなかサマになってるじゃないの。
+
+教えたこと、素直にやってるみたいだし言いつけも守ってる。
+
+これが、前歴持ちの問題児とはね
+
+ま、長話も何だ。そのまま精進なるんだな。
+
+せっかく教わったんだしこれからも機会を作って、腕を磨かないとな。
+
+極上のコーヒーを振る舞ったりしたらオマエを見る目、絶対に変わるぜ？
+
+明日もあるし、ボチボチ休むとなるか。
+
+おっ、座れたな！着くまで何か読むか？
+
+「宝物庫は、既にもぬけの殻だった　」と書いてある
+
+伝説の大泥棒、アルセーヌ　同業としては憧れるよなぁ。
+
+大怪盗・アルセーヌを読み終わったのか。
+
+追手を手玉に取るアルセーヌ　やっぱり格好良かったぜ。
+
+小説を通じて怪盗の知的センス、しっかり学べたみたいだな！
+
+おっと、もう駅に着きそうだぜ。有意識な時間が過ごせたな。
+
+おはよ。理事会、明後日だね。
+
+鴨志田、本当に改心したのかな。
+
+失敗してたらどうしようって、そればっ考えちゃって
+
+&gt;信じるしかない
+不安か？
+
+できる事はやったもんね。信じて待っ敷かないか
+
+でも不思議　ちょっと楽になったかも。キミの冷静さのおかげかな？
+
+志帆の仇とって、退学もナシ！休み明けたら、きっとみんなで笑える！
+
+私もそう信じとくよ。
+
+Hello, everyone! How are you?
+
+この時代、英語なんてできて当たり前。話すたびモジモジしてたら置いてかれるわよ。
+
+いい？この時間は日本人であることを忘れて自分を外国人と思い込みなさい。
+
+コツは違う自分になりきるってコトね。
+
+そうやって場面ごとに仮面を切り替えるタレントこそ、この時代モツを言うの。
+
+Mr. &lt;name&gt;　アナタはどうかしら？早速だけどクエッション。
+
+「Are you a person of talent?」どういう意味か、外国人になった気持ちで答えて。
+
+オマエが「a person of talent」かどうか訊いてるみたいだな。
+
+ワガハイ、あんま英語は得意じゃないが、出来る限りサポートしてやるぜ！
+
+えーっと、まず「person」の意味は
+
+ぺーそん
+&gt;人物
+ペルソナ
+
+「person(パーソン)」つったら「人物」って意味だよな。
+
+じゃあ、次の「talent(タレント)」の意味は
+
+芸術
+&gt;才能
+テレビ
+
+そういや先生は「仮面を切り替えるタレント」とか言ってたな。
+
+仮面を切り替える才能　おお、それっぽい！「talent(タレント)」は才能だ。
+
+じゃあ、「a person of talent」っていうのは
+
+ペルソナ使い
+芸能人
+&gt;優秀な人
+
+You&#039;re right!正解よ。
+
+タレント　つまり才能のある、優秀な人物か？って聞いたので。
+
+臨機応変に答えられたアナタにそまさにA person of talent!
+
+ちなみに、タレントの語源は聖書にも登場するタラントって金貨。
+
+優秀な召使いほど神様から金貨を多くもらい、才能でさらに元手を増やしたって話ね。
+
+彼、けっこうデキる？
+
+なんか意外
+
+チョット、いいかも
+
+今日は一段と冴えてんな！
+
+本来、英語のタレントに芸能人って意味はないわ。
+
+でも状況に応じて仮面を変えられるのはまさに神様から与えられたタレント　才能よね。
+
+テレビで臨機応変な対応が出来る人をタレントって呼ぶのもあながち間違いじゃないわ。
+
+仮面を切り替える才能　ひょっとしてワガハイたちもタレント　！？
+
+#Makoto at the library
+
+怪盗騒ぎの後は、鴨志田先生の自宅謹慎
+
+連休明けに中間試験もあるのに、新学期から一体どうなってるのよ
+
+何？忙しいから邪魔しないでくれる？
+
+#checking out Carmen book
+
+はい、こちらです。扱いには気を付けて下さいね。
+
+妖艶の踊り子か。なかなか面白いそうな本だな！
+
+#Leblanc after studying in library
+
+鴨志田がどうなったかあれからなんか聞いた？
+
+&gt;聞いてない
+どうした？
+
+聞いてない
+
+そっか
+
+&gt;何かあったのか？
+用件は？
+
+何かあったのか？
+
+なんか急に不安になってさ
+
+助けてくれたお前が退学になったら　って思ったらよ
+
+また俺のせいで人に辛い思いさせんのかなってさ
+
+それに、杏も鈴井も助けてやれなかったらって思うと
+
+&gt;信じるしかない
+そうなったらその時だ
+
+信じるしかない
+
+ごめん弱音吐いてる場合じゃねえよな
+
+話したらちょっと楽になったありがとな
+
+あ、この話杏には内緒だからな？
+
+俺らが不安がってたら杏が頼る場所なくなっちまうから
+
+それじゃな！
+
+#drunken man outside Leblanc
+
+あ、あ～　どもこんばんはぁ。報道22時の時間れす～。
+
+まずは、連続いし　意識ふまっ　ふめー事件の話題を　ゲエェ～！
+
+&gt;しっかりしろ
+お前は誰だ
+いま噛んだ？
+
+しっかりしなさぁ～い、ってか！アハハ～、分かってるろぉ
+
+#back at Leblanc attic
+
+そういや、テレビ届いたんだよな？
+
+ブラウン管のテレビもこの部屋だと、しっくり来るな
+
+チューナー付きだからテレビも見れるししかもDVDプレイヤー付きだ。
+
+これは、いい買い物だったんじゃないか？
+
+#examining shelves
+
+でかい段ボールだな　へえ、オマエの荷物が入ってるんだ。
+
+#examining ladder/bicycle garbage pile
+
+片付ける気になったのか？
+
+&gt;片付ける
+やめておく
+
+この観葉植物、まだ枯れてないそ　ちょっと飾ってみようぜ。
+
+観葉植物があるだけで、殺風景な部屋もすこしはマシに見えてきたな
+
+この部屋の最初のインテリアだ。枯れないようにちゃんと世話してやろうぜ！
+
+ちょうどいい機会だ。
+
+そこの本棚も大変なことになってるしこの際だから、全部片付けてしまおうぜ！
+
+政治に法律、哲学　なんか難しい本ばっかりだな
+
+おっ！これならオマエも読めるんじゃないか？
+
+なんで難しい本の中にこんなのが混じってたんだろうな
+
+まあいいや。
+
+これで少しは落ち着ける部屋になったか
+
+後はここから好きなようにしていけばいいだけだな！
+
+よし、今日はもう寝ようぜ。</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

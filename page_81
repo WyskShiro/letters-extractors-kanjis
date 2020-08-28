@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 7 (Japanese) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 7 (Japanese) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/UwywWxJ8" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/UwywWxJ8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="i3X4FdDDhZBXuMr9y5eOuVOPR7LI5RtsAA2SFDXMHG24JJ18mZLN_g3xqImgounBALo3gazXUF0yWuF5BLxrWw==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/UwywWxJ8" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/UwywWxJ8" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 7 (Japanese)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Sunday 16th of December 2018 09:17:23 PM CDT">Dec 16th, 2018</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    162                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 8.67 KB            </div>
+
+            <div class="right">
+                <a href="/raw/UwywWxJ8" class="btn -small">raw</a>
+                <a href="/dl/UwywWxJ8" class="btn -small">download</a>
+                <a href="/clone/UwywWxJ8" class="btn -small h_800">clone</a>
+                <a href="/embed/UwywWxJ8" class="btn -small h_800">embed</a>
+                <a href="/report/UwywWxJ8" class="btn -small">report</a>
+                <a href="/print/UwywWxJ8" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">外にはまだ兵士がいるはずだ。様子を伺いながら、慎重に出る事にしよう。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こっちで人影が見えた気がしたが　気のせいか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">奴隷どもはどうした？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">全員「修練場」だ。今頃、盛大に悲鳴を上げているだろうぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、侵入者が居るという話もある。油断するなよ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">聞いたか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">修練場って言ってたな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そこなら心当たりがある。この少し先だ。行くぞ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちっ　見張っているか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アイツの傍らにある柵が修練場に通じる入り口のはずなんだ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃどうすんだ？戦うのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">上手く見つからずに倒せれば良いがな　もし見つかったらパレスの警戒度が上がっちまう。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃ、じゃあ、警戒が上がっちまったら、逃げるしかねぇのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見つからずに敵を倒せれば警戒度は下がる。まあ、少しだけががな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">な　なんか　複雑だな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">仕方ないな　「警戒度」に関する注意をまとめとく。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「警戒度」はパレス探索のキモだ。後でちゃんと読んどけよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この先が修練場なんだな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">少し進んだ先だ。見張りに気をつれろよ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おい、侵入者らしい奴はいたか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、まだ見当たらない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">チッ　やっぱり敵が多いな　あれじゃ、かわすのも無理か</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃあ、どうする？また倒すか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おい、簡単に言うな。まだ先はあるんだぞ。スタミナは残しておきたいだろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そ、そうか　そうだよな　悪いぃ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こんな時　俺も戦う力がありゃ　少しは手伝えんのによ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">持ってんのは　オモチャだけだもんな　なさけねえぜ実際</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オモチャ？さっきの銃か？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">の、オモチャな　見た目ソレっぽいだけで弾も出ねぇ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なるほど　そうか　その手があったか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、そいつで奴らを倒そう！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">は！？聞いてたか？モデルガンだし、弾だって</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">大丈夫だ、きっとうまくいく！クセっ毛、しかけろ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まかせろ</div></li><li class="li1"><div class="de1">どうするんだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ワガハイを信じろ！行くぞ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、おい！気をつけろよ！弾でねーんだから！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">銃、ちゃんと持ってるな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">シャドウに向けて撃ってみろっ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうだ！驚いただろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">残弾数には気をつけろよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、ワガハイの武器もみせてやる！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おい今、弾、出たよな！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここは「認知の世界」だからな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">相手が「本物だ」と認知する限り、本物なのさ。幸い、見た目だけはリアルだしな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わけわっかんねえ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まあ、オマエのオツムじゃなー。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">クセっ毛の方はどうだ？オマエなら、理解できたんじゃないか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">簡単な理屈だ</div></li><li class="li1"><div class="de1">分かるわけない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">フッ、やっぱりなかなか筋がいい。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つーか、リアルな方がいいなら、なんでお前「パチンコ」なんだよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">リアル威力じゃねーか！認知はどこ行った！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、まぁ　いい。好きに理解しろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ああ、それから、今後は役割分担を決めようぜ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">誤魔化しやがった</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見ての通り、敵も多くなってきたし。今後は役割分担と連携が重要になってくる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">情報支援は引き続きワガハイがするから、戦いの仕方は、クセっ毛。オマエが決めてみろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「戦いの仕方」？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">要はどう戦うかの指示だ。直接指示しても良いし、各々に任せても良い。そういう判断だ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、今はワガハイしか居ないがな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちっ　見張りか　あの先の筈なんだが</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ンじゃ、またブッ倒すか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうするしか無い、か　いや、だが　ちょうどいいかもな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よしっ、これからオマエらに、取って置きの戦い方を教えてやる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">新しい技か？</div></li><li class="li1"><div class="de1">遠慮する</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ああ、そんなモンだ。いくぞっ！！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいか？戦いには流れってモンがある。まぁ、百聞はなんとやらだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まずは敵をダウンさせろ！全てはそこからだ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よしっ！一気に追い話めて総攻撃だ！！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うむ。上手くいった！やっぱオマエ、筋が良いぜ～。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">な、なんだよ今のパパパッての！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「総攻撃」って言ったろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">敵を全員ダウンさせれば、こうやって一気に倒すことだって出来るんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">静かに　瞬殺だったな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何しろ無防備な敵への一斉攻撃だからな。威力は高いし、敵全体に効果がある。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さっきも話したが、指揮系統は銃一したい。総攻撃の号令はオマエかせやってくれよ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">分かった</div></li><li class="li1"><div class="de1">面倒だ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">敵の弱点を突いて、全員ダウンさせて総攻撃！こいつが戦いの基金パターンだ。覚えておけよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よしっ、ここだ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田　愛の　修練場？ふざけやがって！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この声、どこから聞こえるんだ　？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ、あそこか！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">クソが！ざっけんなッ！！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">大声出すなつってんだろ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">クソすぎんだろ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どっから開けんだ、これ　？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やめろ　！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">放っといてくれよ　逆らったって無駄なんだし</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">大人しくさえしてれば、お前らみたいに処刑はされないんだ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">好きでそんなトコいるってのかよ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">て言うかオマエ、まさかとは思うが　こいつら連れ出そうって気か？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">このままにしてられっかよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">バカすぎる</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こいつらはな、カモシダが「認知してるだけの人間」だ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">現実から入り込んだ本物の人間じゃない。オマエらとは、違うの。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ニンチ　？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そいつら助けても意味ねえってことだよ！現実にいる本物とは別モンなんだから。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よく似た人形みてえなモンさ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んだそりゃ！？ややこしすぎんだよっ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">学校が城で、生徒は奴隷か　まんま過ぎてウケるぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">確かに、あのクソ野郎の頭ん中じゃねえか　！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しっかし、ひでえな。現実でも「奴隷」扱いってことだろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">現実でも　？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こいつら</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">全員、バレー部だ！鴨志田が顧問の！！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">日頃から殴られてんだろうな　普通、ここまでボコボコにならねえって。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">現実でも、似たような目に遭ってんのか！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうなんじゃね？だってコレ、カモシダが「奴隷」だと思ってるって事だろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">マジかもしれねえワケか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田には体罰の噂があんだよ。あくまで噂だけど</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">マジだったらこれ、フツーに警察沙汰じゃね　？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こいつら証拠にしてやる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うまくいけば鴨志田のヤロウを　！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あれ、動かねえ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ナビ使えんのにカメラはダメなのかよ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ナビ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺ら、ナビでこっち来たんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お前のは？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">カメラが起動しない。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんでもいいが、そろそろ見つかるぜ？戻った方がいい！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょっと待ってろ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しゃあねえ。こうなったら　全員の顔を覚えて帰ってやら！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おし、その辺の牢を調べるぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ヤロウ　きっと現実でも　！体罰の噂はデマじゃなかったワケだな！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">みっ　水　</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ああ　もう嫌だぁ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">水を飲まさねえってシゴキは、現実でも、ありがちなパターンだ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">クソが　！ゼッテー覚えて帰ってやる</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、覚えた。他にもいねえか調べてみようぜ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何しに来たか知らないけどさ　放っておいてくれよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何言ってんだよ！お前、それでいいのか！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">って　、コイツ等に言っても無駄なんだっけか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">痛い　痛いよぉ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何だこれ　シゴキにすらなってねえ　ただの暴力じゃねーか！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">現実でも、似たような事してるって事だよな　くそっ、鴨志田のヤロウ　！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">早くしろ</div></li><li class="li1"><div class="de1">……。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">チッ、わかってるっつの　すぐに覚えるから、ちょっと待ってろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おい、まだか！？そろそろマズイぞ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">バカッ、焦んだろうが！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、この辺りのヤツは、全員覚えた！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ならモタモタすんな、ズラかるぞ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺、嫌なんだよ、お前達みたいに睨まれんのさ　だから巻き込むなよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だからって、こんな目に合わされて、テメェ、なんとも思わねぇのかよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">っていうだけ無駄か</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">急げ！早く脱出するぞ！</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">外にはまだ兵士がいるはずだ。様子を伺いながら、慎重に出る事にしよう。
+
+こっちで人影が見えた気がしたが　気のせいか
+
+奴隷どもはどうした？
+
+全員「修練場」だ。今頃、盛大に悲鳴を上げているだろうぜ。
+
+よし、侵入者が居るという話もある。油断するなよ？
+
+聞いたか？
+
+修練場って言ってたな？
+
+そこなら心当たりがある。この少し先だ。行くぞ！
+
+ちっ　見張っているか
+
+アイツの傍らにある柵が修練場に通じる入り口のはずなんだ
+
+じゃどうすんだ？戦うのか？
+
+上手く見つからずに倒せれば良いがな　もし見つかったらパレスの警戒度が上がっちまう。
+
+じゃ、じゃあ、警戒が上がっちまったら、逃げるしかねぇのか？
+
+見つからずに敵を倒せれば警戒度は下がる。まあ、少しだけががな。
+
+な　なんか　複雑だな
+
+仕方ないな　「警戒度」に関する注意をまとめとく。
+
+「警戒度」はパレス探索のキモだ。後でちゃんと読んどけよ。
+
+この先が修練場なんだな？
+
+少し進んだ先だ。見張りに気をつれろよ？
+
+おい、侵入者らしい奴はいたか？
+
+いや、まだ見当たらない
+
+チッ　やっぱり敵が多いな　あれじゃ、かわすのも無理か
+
+じゃあ、どうする？また倒すか？
+
+おい、簡単に言うな。まだ先はあるんだぞ。スタミナは残しておきたいだろ？
+
+そ、そうか　そうだよな　悪いぃ
+
+こんな時　俺も戦う力がありゃ　少しは手伝えんのによ
+
+持ってんのは　オモチャだけだもんな　なさけねえぜ実際
+
+オモチャ？さっきの銃か？
+
+の、オモチャな　見た目ソレっぽいだけで弾も出ねぇ
+
+なるほど　そうか　その手があったか
+
+よし、そいつで奴らを倒そう！
+
+は！？聞いてたか？モデルガンだし、弾だって
+
+大丈夫だ、きっとうまくいく！クセっ毛、しかけろ！
+
+まかせろ
+どうするんだ？
+
+ワガハイを信じろ！行くぞ！
+
+いや、おい！気をつけろよ！弾でねーんだから！
+
+銃、ちゃんと持ってるな？
+
+シャドウに向けて撃ってみろっ！
+
+どうだ！驚いただろ？
+
+残弾数には気をつけろよ！
+
+よし、ワガハイの武器もみせてやる！
+
+おい今、弾、出たよな！？
+
+ここは「認知の世界」だからな。
+
+相手が「本物だ」と認知する限り、本物なのさ。幸い、見た目だけはリアルだしな。
+
+わけわっかんねえ。
+
+まあ、オマエのオツムじゃなー。
+
+クセっ毛の方はどうだ？オマエなら、理解できたんじゃないか？
+
+簡単な理屈だ
+分かるわけない
+
+フッ、やっぱりなかなか筋がいい。
+
+つーか、リアルな方がいいなら、なんでお前「パチンコ」なんだよ！
+
+リアル威力じゃねーか！認知はどこ行った！？
+
+ま、まぁ　いい。好きに理解しろ。
+
+ああ、それから、今後は役割分担を決めようぜ？
+
+誤魔化しやがった
+
+見ての通り、敵も多くなってきたし。今後は役割分担と連携が重要になってくる。
+
+情報支援は引き続きワガハイがするから、戦いの仕方は、クセっ毛。オマエが決めてみろ。
+
+「戦いの仕方」？
+
+要はどう戦うかの指示だ。直接指示しても良いし、各々に任せても良い。そういう判断だ。
+
+ま、今はワガハイしか居ないがな。
+
+ちっ　見張りか　あの先の筈なんだが
+
+ンじゃ、またブッ倒すか？
+
+そうするしか無い、か　いや、だが　ちょうどいいかもな
+
+よしっ、これからオマエらに、取って置きの戦い方を教えてやる。
+
+新しい技か？
+遠慮する
+
+ああ、そんなモンだ。いくぞっ！！
+
+いいか？戦いには流れってモンがある。まぁ、百聞はなんとやらだ。
+
+まずは敵をダウンさせろ！全てはそこからだ！
+
+よしっ！一気に追い話めて総攻撃だ！！
+
+うむ。上手くいった！やっぱオマエ、筋が良いぜ～。
+
+な、なんだよ今のパパパッての！？
+
+「総攻撃」って言ったろ？
+
+敵を全員ダウンさせれば、こうやって一気に倒すことだって出来るんだ。
+
+静かに　瞬殺だったな
+
+何しろ無防備な敵への一斉攻撃だからな。威力は高いし、敵全体に効果がある。
+
+さっきも話したが、指揮系統は銃一したい。総攻撃の号令はオマエかせやってくれよ？
+
+分かった
+面倒だ
+
+敵の弱点を突いて、全員ダウンさせて総攻撃！こいつが戦いの基金パターンだ。覚えておけよ。
+
+よしっ、ここだ！
+
+鴨志田　愛の　修練場？ふざけやがって！
+
+この声、どこから聞こえるんだ　？
+
+あ、あそこか！？
+
+クソが！ざっけんなッ！！
+
+大声出すなつってんだろ！
+
+クソすぎんだろ！？
+
+どっから開けんだ、これ　？
+
+やめろ　！
+
+放っといてくれよ　逆らったって無駄なんだし
+
+大人しくさえしてれば、お前らみたいに処刑はされないんだ！
+
+好きでそんなトコいるってのかよ！？
+
+て言うかオマエ、まさかとは思うが　こいつら連れ出そうって気か？
+
+このままにしてられっかよ！
+
+バカすぎる
+
+こいつらはな、カモシダが「認知してるだけの人間」だ。
+
+現実から入り込んだ本物の人間じゃない。オマエらとは、違うの。
+
+ニンチ　？
+
+そいつら助けても意味ねえってことだよ！現実にいる本物とは別モンなんだから。
+
+よく似た人形みてえなモンさ。
+
+んだそりゃ！？ややこしすぎんだよっ！
+
+学校が城で、生徒は奴隷か　まんま過ぎてウケるぜ。
+
+確かに、あのクソ野郎の頭ん中じゃねえか　！
+
+しっかし、ひでえな。現実でも「奴隷」扱いってことだろ？
+
+現実でも　？
+
+こいつら
+
+全員、バレー部だ！鴨志田が顧問の！！
+
+日頃から殴られてんだろうな　普通、ここまでボコボコにならねえって。
+
+現実でも、似たような目に遭ってんのか！？
+
+そうなんじゃね？だってコレ、カモシダが「奴隷」だと思ってるって事だろ。
+
+マジかもしれねえワケか
+
+鴨志田には体罰の噂があんだよ。あくまで噂だけど
+
+マジだったらこれ、フツーに警察沙汰じゃね　？
+
+こいつら証拠にしてやる。
+
+うまくいけば鴨志田のヤロウを　！
+
+あれ、動かねえ！？
+
+ナビ使えんのにカメラはダメなのかよ！？
+
+ナビ？
+
+俺ら、ナビでこっち来たんだ。
+
+お前のは？
+
+カメラが起動しない。
+
+なんでもいいが、そろそろ見つかるぜ？戻った方がいい！
+
+ちょっと待ってろ！
+
+しゃあねえ。こうなったら　全員の顔を覚えて帰ってやら！
+
+おし、その辺の牢を調べるぞ。
+
+ヤロウ　きっと現実でも　！体罰の噂はデマじゃなかったワケだな！
+
+みっ　水　
+
+ああ　もう嫌だぁ
+
+水を飲まさねえってシゴキは、現実でも、ありがちなパターンだ
+
+クソが　！ゼッテー覚えて帰ってやる
+
+よし、覚えた。他にもいねえか調べてみようぜ！
+
+何しに来たか知らないけどさ　放っておいてくれよ
+
+何言ってんだよ！お前、それでいいのか！？
+
+って　、コイツ等に言っても無駄なんだっけか
+
+痛い　痛いよぉ
+
+何だこれ　シゴキにすらなってねえ　ただの暴力じゃねーか！
+
+現実でも、似たような事してるって事だよな　くそっ、鴨志田のヤロウ　！
+
+早くしろ
+……。
+
+チッ、わかってるっつの　すぐに覚えるから、ちょっと待ってろ。
+
+おい、まだか！？そろそろマズイぞ！
+
+バカッ、焦んだろうが！
+
+よし、この辺りのヤツは、全員覚えた！
+
+ならモタモタすんな、ズラかるぞ！
+
+俺、嫌なんだよ、お前達みたいに睨まれんのさ　だから巻き込むなよ
+
+だからって、こんな目に合わされて、テメェ、なんとも思わねぇのかよ！
+
+っていうだけ無駄か
+
+急げ！早く脱出するぞ！</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Environmental Station Alpha notes - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Environmental Station Alpha notes - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/qpB7ab4P" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/qpB7ab4P" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="DWMCW9v5QawF28YPeVGinIDCZBZ9gdXd0s-hx8_qBJZ4DlY9qZU3_nGNoFBPFfrF2YQJWzzZu-vjm5iNuYU13g==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/qpB7ab4P" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/qpB7ab4P" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Environmental Station Alpha notes</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Thursday 14th of February 2019 06:45:46 AM CDT">Feb 14th, 2019</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    297                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 6.98 KB            </div>
+
+            <div class="right">
+                <a href="/raw/qpB7ab4P" class="btn -small">raw</a>
+                <a href="/dl/qpB7ab4P" class="btn -small">download</a>
+                <a href="/clone/qpB7ab4P" class="btn -small h_800">clone</a>
+                <a href="/embed/qpB7ab4P" class="btn -small h_800">embed</a>
+                <a href="/report/qpB7ab4P" class="btn -small">report</a>
+                <a href="/print/qpB7ab4P" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">Basic Route</div></li><li class="li1"><div class="de1">Scrapper boss-&gt;Health tank-&gt;Underground</div></li><li class="li1"><div class="de1">Underground-&gt;Teleport-&gt;Queen Beetle health tank-&gt;Volcanic starting area</div></li><li class="li1"><div class="de1">Volcanic starting area-&gt;Sand land-&gt;water biome</div></li><li class="li1"><div class="de1">Water Biome Sanctuary-&gt;Upper Jungle area</div></li><li class="li1"><div class="de1">Overgrowth-&gt;Temple Health tank-&gt;rough map-&gt;Sand land (health tank)</div></li><li class="li1"><div class="de1">sand land generator-&gt;Temple-&gt;Volcanic area</div></li><li class="li1"><div class="de1">Use code 18466-&gt;Derelict ship</div></li><li class="li1"><div class="de1">V Dash-&gt;Health tank (west pool area in water biome, start of volcanic area, sand land swinging)</div></li><li class="li1"><div class="de1">4 Alphabet doors-&gt;AI control room (normal end)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Post-game Route</div></li><li class="li1"><div class="de1">Plasma Shield-&gt;Triple shot-&gt;Multicore/Overcharge-&gt;Collect Diskettes</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Diskette room - left of George MeloNS room</div></li><li class="li1"><div class="de1">1. Some first biome place in the wall</div></li><li class="li1"><div class="de1">2. Hidden wall in temple shaft (also a Message room)</div></li><li class="li1"><div class="de1">3. Volcanic pit area</div></li><li class="li1"><div class="de1">4. First area blue block part (giant mushroom room)</div></li><li class="li1"><div class="de1">5. Lower sand area (from D class guardians teleporter)</div></li><li class="li1"><div class="de1">6. Upper Jungle (Gold Card blocks, Mender unit)</div></li><li class="li1"><div class="de1">7. Upper volcanic area (under temple, past garbage chute)</div></li><li class="li1"><div class="de1">8. Upper alphabet door area</div></li><li class="li1"><div class="de1">9. Upper left of Derelict ship</div></li><li class="li1"><div class="de1">10. Far right Temple (super grappling hook swing area)</div></li><li class="li1"><div class="de1">11. Under Derelict ship teleport, left into the Water biome</div></li><li class="li1"><div class="de1">12. Area under sand land first teleport, the upper part of the grappling hook area</div></li><li class="li1"><div class="de1">Second Diskette room - Gold blocks in start of Volcanic area-&gt;X Dash</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Pillars-&gt;Research Station-&gt;Keys-&gt;Planetary site/signs-&gt;NG+</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Pillar rooms</div></li><li class="li1"><div class="de1">Diskette &quot;Notes 1&quot; and &quot;Notes 2&quot; show pillar location, Key 2 hint, The Resource location</div></li><li class="li1"><div class="de1">Pillar 2 unlock - Next to elevator shaft/AI room entrance</div></li><li class="li1"><div class="de1">Glowing Squares room (Pillar 1 unlocK) - First shaft you drop down form (right side)</div></li><li class="li1"><div class="de1">Glowing Squares room (Pillar 4 unlock) - Adjacent to final boss room, one with all the geemers</div></li><li class="li1"><div class="de1">Glowing Squares room (Solved: Pillar 3 unlock) - left of Queen Beetle room also a big corpse thing?</div></li><li class="li1"><div class="de1">Pillar room - Sun, moon, and stars room (Under goliath jelly, needs triple shot/gold keycard) (solved: Room explanation above scrapper boss)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Keys</div></li><li class="li1"><div class="de1">a key (key 4) - Spider room above entrance hall in temple</div></li><li class="li1"><div class="de1">Key 2 - Volcanic area save room with the 3 blue orbs above it.  Enter room from right and dash back out</div></li><li class="li1"><div class="de1">Key 1 - Glowing squares room (Some kind of key? solved: it&#039;s a key) - Right of upper alphabet door area diskette, how to get to?</div></li><li class="li1"><div class="de1">Key 3 - Almost found it in the first episode</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Endgame?</div></li><li class="li1"><div class="de1">Chamber of MWYAH - under the sandrock/water biome area</div></li><li class="li1"><div class="de1">Far upper right Temple (Planet surface teleporter, requires 4 keys/pillar unlocks?/code?)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Clock-like Room</div></li><li class="li1"><div class="de1">No upgrade - spinning hands</div></li><li class="li1"><div class="de1">Gray hand combinations - Death</div></li><li class="li1"><div class="de1">Jump - 6-6 - THE SECOND SIGN STANDS FRONT OF A CREATURE LONG FORGOTTEN</div></li><li class="li1"><div class="de1">Hookshot - 5-5 - THE THIRD SIGN IS ON METAL AT THE FIRST STEPS ON THE ROAD ONE CAN NEVER COMPLETE</div></li><li class="li1"><div class="de1">Teleport access - 10-10 - THE TWELFTH SIGN IS WHERE EAGLES DARE</div></li><li class="li1"><div class="de1">Propeller - 4-4 - THE FOURTH SIGN IS ON A LEDGE OVER WATER UNDER A GLASS DOME</div></li><li class="li1"><div class="de1">Charge shot - 3-3 - THE FIFTH SIGN IS HIDDEN AWAY ABOVE A VERTICAL POWER</div></li><li class="li1"><div class="de1">Dash - 2-2 - THE SIXTH SIGN IS IN A MASS OF SAND ON A PLANT UNDER SIEGE</div></li><li class="li1"><div class="de1">Heat resist - 1-1 - THE SEVENTH SIGN IS AT THE BOTTOM OF THE WORLD</div></li><li class="li1"><div class="de1">Gold keycard - 8-8 - THE FINAL SIGN IS AT ANCIENT RUINS COVERED BY GLASS</div></li><li class="li1"><div class="de1">V Dash - 13-13 - THE NINTH SIGN IS NEARBY ON A POINTED PILLAR NEXT TO ALMOST CERTAIN DEATH</div></li><li class="li1"><div class="de1">Map - 7-7 - THE FIRST SIGN IS AT THE CENTER OF A SUBMERGED ARENA</div></li><li class="li1"><div class="de1">Triple - 12-12 - THE TENTH SIGN IS AT THE CIRCULAR WINDOW TO THE VASTNESS OF SPACE</div></li><li class="li1"><div class="de1">Plasma - 13-1 - Special area</div></li><li class="li1"><div class="de1">Supercharge - 9-9 - THE THIRTEENTH SIGN IS ON AN OVERHANG ABOVE ADVICE TO BE PATIENT</div></li><li class="li1"><div class="de1">X Dash - 11-11 - THE ELEVENTH SIGN IS ON THE SPOT OF WHAT WAS STOLEN</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">In order:</div></li><li class="li1"><div class="de1">THE FIRST SIGN IS AT THE CENTER OF A SUBMERGED ARENA (Serpent 5 arena)</div></li><li class="li1"><div class="de1">THE SECOND SIGN STANDS FRONT OF A CREATURE LONG FORGOTTEN (corpse in volcanic area)</div></li><li class="li1"><div class="de1">THE THIRD SIGN IS ON METAL AT THE FIRST STEPS ON THE ROAD ONE CAN NEVER COMPLETE (second ending)</div></li><li class="li1"><div class="de1">THE FOURTH SIGN IS ON A LEDGE OVER WATER UNDER A GLASS DOME (under the derelict ship teleporter)</div></li><li class="li1"><div class="de1">THE FIFTH SIGN IS HIDDEN AWAY ABOVE A VERTICAL POWER (above the vertical dash upgrade)</div></li><li class="li1"><div class="de1">THE SIXTH SIGN IS IN A MASS OF SAND ON A PLANT UNDER SIEGE (underground sand area near George MeloNS rooms teleporter)</div></li><li class="li1"><div class="de1">THE SEVENTH SIGN IS AT THE BOTTOM OF THE WORLD (under security overmind boss arena)</div></li><li class="li1"><div class="de1">Eighth sign doesn&#039;t exist</div></li><li class="li1"><div class="de1">THE NINTH SIGN IS NEARBY ON A POINTED PILLAR NEXT TO ALMOST CERTAIN DEATH (crystal next to the death beam two rooms to the left)</div></li><li class="li1"><div class="de1">THE TENTH SIGN IS AT THE CIRCULAR WINDOW TO THE VASTNESS OF SPACE (upper left derelict ship)</div></li><li class="li1"><div class="de1">THE ELEVENTH SIGN IS ON THE SPOT OF WHAT WAS STOLEN (overcharge upgrade original location)</div></li><li class="li1"><div class="de1">THE TWELFTH SIGN IS WHERE EAGLES DARE (the eagle)</div></li><li class="li1"><div class="de1">THE THIRTEENTH SIGN IS ON AN OVERHANG ABOVE ADVICE TO BE PATIENT (above scrapper unit, next to boss rush)</div></li><li class="li1"><div class="de1">THE FINAL SIGN IS AT ANCIENT RUINS COVERED BY GLASS (broken glass dome in Temple)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Clock-like Plasma Shield room</div></li><li class="li1"><div class="de1">ONLY THE KNOWLEDGEABLE ONES MAY PROCEED</div></li><li class="li1"><div class="de1">HEAD TO THE STAND AND ENTER THE CODE</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">WRITE THE THREE INITIALS OF THE NAME AT THE TOLD SPOT</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Mysteries to solve</div></li><li class="li1"><div class="de1">Big X in wall in Second Level Access room</div></li><li class="li1"><div class="de1">Crystal room with dotted red block - Above V Dash powerup (solved: Sign puzzle)</div></li><li class="li1"><div class="de1">Robed guardian corpse (&quot;The Riddle&quot; on map) - past the secret wall orb in temple (Solved?: Research station puzzle)</div></li><li class="li1"><div class="de1">Right wall of upper elevator (&quot;The Resource&quot; on map)</div></li><li class="li1"><div class="de1">Teleporter near Serpent 5 (solved: Research Outpost)</div></li><li class="li1"><div class="de1">Fishing man near Class D Guardians (&quot;nowhere&quot; on map) (solved?: 4th secret station creature? Never mind unsolved again)</div></li><li class="li1"><div class="de1">Entrance to outpost in Water sector - 8th row of the wall, also in Temple?</div></li><li class="li1"><div class="de1">Mega sad?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Coded Messages</div></li><li class="li1"><div class="de1">Lower Volcanic biome secret room</div></li><li class="li1"><div class="de1">HEAD TO THE STAND AND ENTER THE CODE (MWYA)</div></li><li class="li1"><div class="de1">THE CODE MAY BE FOUND ON THE VERY WALLS AND RELIEFS OF THE REALM</div></li><li class="li1"><div class="de1">IN THE ARTWORK (FIRST IS M)</div></li><li class="li1"><div class="de1">IN THE SANDSTONE (TWO W)</div></li><li class="li1"><div class="de1">IN THE TEMPLE (three dot symbol Y)</div></li><li class="li1"><div class="de1">IN THE SUBMERGED FORGOTTEN ROOM (4 A)</div></li><li class="li1"><div class="de1">ONLY THE KNOWLEDGEABLE ONES MAY PROCEED</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Red Maw Creature (upper jungle)</div></li><li class="li1"><div class="de1">THE LOCATION OF THE FOURTH KEY</div></li><li class="li1"><div class="de1">A LONG, DARK CORRIDOR HOUSING THREE MONSTERS</div></li><li class="li1"><div class="de1">CLIMB THE SECOND LIT PILLAR</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Blue Eye Creature (upper jungle)</div></li><li class="li1"><div class="de1">THE LOCATION OF THE SECOND KEY</div></li><li class="li1"><div class="de1">THE THREE BLUE CIRCLES FLOATING OVER SAFETY LEFT FROM A FIERY CHALLENGE</div></li><li class="li1"><div class="de1">HEAD QUICKLY RIGHT PAST THE VISIBLE DOORWAY</div></li><li class="li1"><div class="de1">PHASE THROUGH THE AIR</div></li><li class="li1"><div class="de1">(comments: even knowing this hint this was still really hard to figure out)</div></li><li class="li1"><div class="de1">(additional comments: and even knowing about Notes 2 it was still really hard to figure out)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Eagle</div></li><li class="li1"><div class="de1">Same thing as regular dialogue</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Man, I don&#039;t know.  Some kind of red guy (near Derelict ship entrance)</div></li><li class="li1"><div class="de1">THE LOCATION OF THE THIRD KEY</div></li><li class="li1"><div class="de1">A SMALL PIECE OF HIGHER GROUND RIGHT FROM A LARGE BODY OF WATER</div></li><li class="li1"><div class="de1">LEFT OF A YELLOW RUINED VERTICAL CORRIDOR</div></li><li class="li1"><div class="de1">WAIT ON TOP OF THE HIGHER GROUND TO GET THROUGH</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Research station</div></li><li class="li1"><div class="de1">MWYAH</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Dash Challenge</div></li><li class="li1"><div class="de1">IF THE PILLARS ARE ACTIVE</div></li><li class="li1"><div class="de1">THEY WILL BE LURED IN</div></li><li class="li1"><div class="de1">BUT THEIR TRUE RESIDENCE</div></li><li class="li1"><div class="de1">IS UNDER THE SAND</div></li><li class="li1"><div class="de1">TO WHICH THE ROAD IS BLUE</div></li><li class="li1"><div class="de1">PROVE YOURSELF</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Post-MWYAH</div></li><li class="li1"><div class="de1">MWYAH RESIDES AT THEIR RUINS</div></li><li class="li1"><div class="de1">BUT ONLY ANSWERS TO THE THREE ARTIFACTS</div></li><li class="li1"><div class="de1">HEAD RIGHT OF THE WATERY ARENA</div></li><li class="li1"><div class="de1">THE ROAD IS BLUE</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Under Sandrock biome</div></li><li class="li1"><div class="de1">CHAMBER OF MWYAH</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Post-Signs</div></li><li class="li1"><div class="de1">THE GHOST RESTS AT THE SMILING FACE AND RETURNS HERE</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">Basic Route
+Scrapper boss-&gt;Health tank-&gt;Underground
+Underground-&gt;Teleport-&gt;Queen Beetle health tank-&gt;Volcanic starting area
+Volcanic starting area-&gt;Sand land-&gt;water biome
+Water Biome Sanctuary-&gt;Upper Jungle area
+Overgrowth-&gt;Temple Health tank-&gt;rough map-&gt;Sand land (health tank)
+sand land generator-&gt;Temple-&gt;Volcanic area
+Use code 18466-&gt;Derelict ship
+V Dash-&gt;Health tank (west pool area in water biome, start of volcanic area, sand land swinging)
+4 Alphabet doors-&gt;AI control room (normal end)
+
+Post-game Route
+Plasma Shield-&gt;Triple shot-&gt;Multicore/Overcharge-&gt;Collect Diskettes
+
+Diskette room - left of George MeloNS room
+1. Some first biome place in the wall
+2. Hidden wall in temple shaft (also a Message room)
+3. Volcanic pit area
+4. First area blue block part (giant mushroom room)
+5. Lower sand area (from D class guardians teleporter)
+6. Upper Jungle (Gold Card blocks, Mender unit)
+7. Upper volcanic area (under temple, past garbage chute)
+8. Upper alphabet door area
+9. Upper left of Derelict ship
+10. Far right Temple (super grappling hook swing area)
+11. Under Derelict ship teleport, left into the Water biome
+12. Area under sand land first teleport, the upper part of the grappling hook area
+Second Diskette room - Gold blocks in start of Volcanic area-&gt;X Dash
+
+Pillars-&gt;Research Station-&gt;Keys-&gt;Planetary site/signs-&gt;NG+
+
+Pillar rooms
+Diskette &quot;Notes 1&quot; and &quot;Notes 2&quot; show pillar location, Key 2 hint, The Resource location
+Pillar 2 unlock - Next to elevator shaft/AI room entrance
+Glowing Squares room (Pillar 1 unlocK) - First shaft you drop down form (right side)
+Glowing Squares room (Pillar 4 unlock) - Adjacent to final boss room, one with all the geemers
+Glowing Squares room (Solved: Pillar 3 unlock) - left of Queen Beetle room also a big corpse thing?
+Pillar room - Sun, moon, and stars room (Under goliath jelly, needs triple shot/gold keycard) (solved: Room explanation above scrapper boss)
+
+Keys
+a key (key 4) - Spider room above entrance hall in temple
+Key 2 - Volcanic area save room with the 3 blue orbs above it.  Enter room from right and dash back out
+Key 1 - Glowing squares room (Some kind of key? solved: it&#039;s a key) - Right of upper alphabet door area diskette, how to get to?
+Key 3 - Almost found it in the first episode
+
+Endgame?
+Chamber of MWYAH - under the sandrock/water biome area
+Far upper right Temple (Planet surface teleporter, requires 4 keys/pillar unlocks?/code?)
+
+Clock-like Room
+No upgrade - spinning hands
+Gray hand combinations - Death
+Jump - 6-6 - THE SECOND SIGN STANDS FRONT OF A CREATURE LONG FORGOTTEN
+Hookshot - 5-5 - THE THIRD SIGN IS ON METAL AT THE FIRST STEPS ON THE ROAD ONE CAN NEVER COMPLETE
+Teleport access - 10-10 - THE TWELFTH SIGN IS WHERE EAGLES DARE
+Propeller - 4-4 - THE FOURTH SIGN IS ON A LEDGE OVER WATER UNDER A GLASS DOME
+Charge shot - 3-3 - THE FIFTH SIGN IS HIDDEN AWAY ABOVE A VERTICAL POWER
+Dash - 2-2 - THE SIXTH SIGN IS IN A MASS OF SAND ON A PLANT UNDER SIEGE
+Heat resist - 1-1 - THE SEVENTH SIGN IS AT THE BOTTOM OF THE WORLD
+Gold keycard - 8-8 - THE FINAL SIGN IS AT ANCIENT RUINS COVERED BY GLASS
+V Dash - 13-13 - THE NINTH SIGN IS NEARBY ON A POINTED PILLAR NEXT TO ALMOST CERTAIN DEATH
+Map - 7-7 - THE FIRST SIGN IS AT THE CENTER OF A SUBMERGED ARENA
+Triple - 12-12 - THE TENTH SIGN IS AT THE CIRCULAR WINDOW TO THE VASTNESS OF SPACE
+Plasma - 13-1 - Special area
+Supercharge - 9-9 - THE THIRTEENTH SIGN IS ON AN OVERHANG ABOVE ADVICE TO BE PATIENT
+X Dash - 11-11 - THE ELEVENTH SIGN IS ON THE SPOT OF WHAT WAS STOLEN
+
+In order:
+THE FIRST SIGN IS AT THE CENTER OF A SUBMERGED ARENA (Serpent 5 arena)
+THE SECOND SIGN STANDS FRONT OF A CREATURE LONG FORGOTTEN (corpse in volcanic area)
+THE THIRD SIGN IS ON METAL AT THE FIRST STEPS ON THE ROAD ONE CAN NEVER COMPLETE (second ending)
+THE FOURTH SIGN IS ON A LEDGE OVER WATER UNDER A GLASS DOME (under the derelict ship teleporter)
+THE FIFTH SIGN IS HIDDEN AWAY ABOVE A VERTICAL POWER (above the vertical dash upgrade)
+THE SIXTH SIGN IS IN A MASS OF SAND ON A PLANT UNDER SIEGE (underground sand area near George MeloNS rooms teleporter)
+THE SEVENTH SIGN IS AT THE BOTTOM OF THE WORLD (under security overmind boss arena)
+Eighth sign doesn&#039;t exist
+THE NINTH SIGN IS NEARBY ON A POINTED PILLAR NEXT TO ALMOST CERTAIN DEATH (crystal next to the death beam two rooms to the left)
+THE TENTH SIGN IS AT THE CIRCULAR WINDOW TO THE VASTNESS OF SPACE (upper left derelict ship)
+THE ELEVENTH SIGN IS ON THE SPOT OF WHAT WAS STOLEN (overcharge upgrade original location)
+THE TWELFTH SIGN IS WHERE EAGLES DARE (the eagle)
+THE THIRTEENTH SIGN IS ON AN OVERHANG ABOVE ADVICE TO BE PATIENT (above scrapper unit, next to boss rush)
+THE FINAL SIGN IS AT ANCIENT RUINS COVERED BY GLASS (broken glass dome in Temple)
+
+Clock-like Plasma Shield room
+ONLY THE KNOWLEDGEABLE ONES MAY PROCEED
+HEAD TO THE STAND AND ENTER THE CODE
+
+WRITE THE THREE INITIALS OF THE NAME AT THE TOLD SPOT
+
+Mysteries to solve
+Big X in wall in Second Level Access room
+Crystal room with dotted red block - Above V Dash powerup (solved: Sign puzzle)
+Robed guardian corpse (&quot;The Riddle&quot; on map) - past the secret wall orb in temple (Solved?: Research station puzzle)
+Right wall of upper elevator (&quot;The Resource&quot; on map)
+Teleporter near Serpent 5 (solved: Research Outpost)
+Fishing man near Class D Guardians (&quot;nowhere&quot; on map) (solved?: 4th secret station creature? Never mind unsolved again)
+Entrance to outpost in Water sector - 8th row of the wall, also in Temple?
+Mega sad?
+
+Coded Messages
+Lower Volcanic biome secret room
+HEAD TO THE STAND AND ENTER THE CODE (MWYA)
+THE CODE MAY BE FOUND ON THE VERY WALLS AND RELIEFS OF THE REALM
+IN THE ARTWORK (FIRST IS M)
+IN THE SANDSTONE (TWO W)
+IN THE TEMPLE (three dot symbol Y)
+IN THE SUBMERGED FORGOTTEN ROOM (4 A)
+ONLY THE KNOWLEDGEABLE ONES MAY PROCEED
+
+Red Maw Creature (upper jungle)
+THE LOCATION OF THE FOURTH KEY
+A LONG, DARK CORRIDOR HOUSING THREE MONSTERS
+CLIMB THE SECOND LIT PILLAR
+
+Blue Eye Creature (upper jungle)
+THE LOCATION OF THE SECOND KEY
+THE THREE BLUE CIRCLES FLOATING OVER SAFETY LEFT FROM A FIERY CHALLENGE
+HEAD QUICKLY RIGHT PAST THE VISIBLE DOORWAY
+PHASE THROUGH THE AIR
+(comments: even knowing this hint this was still really hard to figure out)
+(additional comments: and even knowing about Notes 2 it was still really hard to figure out)
+
+Eagle
+Same thing as regular dialogue
+
+Man, I don&#039;t know.  Some kind of red guy (near Derelict ship entrance)
+THE LOCATION OF THE THIRD KEY
+A SMALL PIECE OF HIGHER GROUND RIGHT FROM A LARGE BODY OF WATER
+LEFT OF A YELLOW RUINED VERTICAL CORRIDOR
+WAIT ON TOP OF THE HIGHER GROUND TO GET THROUGH
+
+Research station
+MWYAH
+
+Dash Challenge
+IF THE PILLARS ARE ACTIVE
+THEY WILL BE LURED IN
+BUT THEIR TRUE RESIDENCE
+IS UNDER THE SAND
+TO WHICH THE ROAD IS BLUE
+PROVE YOURSELF
+
+Post-MWYAH
+MWYAH RESIDES AT THEIR RUINS
+BUT ONLY ANSWERS TO THE THREE ARTIFACTS
+HEAD RIGHT OF THE WATERY ARENA
+THE ROAD IS BLUE
+
+Under Sandrock biome
+CHAMBER OF MWYAH
+
+Post-Signs
+THE GHOST RESTS AT THE SMILING FACE AND RETURNS HERE</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

@@ -1,0 +1,1440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 24 (Japanese + English) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 24 (Japanese + English) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/pJXcF9BR" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/pJXcF9BR" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="PHGaajq37xkTC1GDnc2G8JJR16YMejUKmklgnGpHsoxTPOAEC_2Zf1x_M_n1u-C21Rum6GVLV3vyOg3ZLgTotA==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/pJXcF9BR" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/pJXcF9BR" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 24 (Japanese + English)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Thursday 19th of September 2019 12:35:36 AM CDT">Sep 19th, 2019</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    359                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 37.48 KB            </div>
+
+            <div class="right">
+                <a href="/raw/pJXcF9BR" class="btn -small">raw</a>
+                <a href="/dl/pJXcF9BR" class="btn -small">download</a>
+                <a href="/clone/pJXcF9BR" class="btn -small h_800">clone</a>
+                <a href="/embed/pJXcF9BR" class="btn -small h_800">embed</a>
+                <a href="/report/pJXcF9BR" class="btn -small">report</a>
+                <a href="/print/pJXcF9BR" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">#in the train</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もうちょい、右だ。画面が見えねえろだろ。</div></li><li class="li1"><div class="de1">...Move a little more to the right.  I can&#039;t see the screen.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">トレイン・ニュースのコーナー。本日の主なトピックスは</div></li><li class="li1"><div class="de1">Now for today&#039;s Train News.  Today&#039;s headlines are...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「バレー部体罰事件、学校に事情聴取」学校側は、指導は教師に一任にしていたと説明。</div></li><li class="li1"><div class="de1">&quot;Volleyball Beating Investigation!&quot;  The school claims to have left teaching methods up to its staff.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">体罰の認識については改めて否定した。</div></li><li class="li1"><div class="de1">It has denied once again that it had any knowledge of the beatings.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「週明けから花粉注意報」例年より遅くて多いのが特徴。</div></li><li class="li1"><div class="de1">&quot;Pollen Warning as of Next Week!&quot;  Greater volume and arriving later than in previous years.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「TOKYO・お散歩スポット」渋谷でアートに触れる！斑目展、来週から開催。</div></li><li class="li1"><div class="de1">&quot;Hotspots of Tokyo!&quot;  Experience art in Shibuya!  The Madarame exhibit opens next week.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">カモシダの事件、相当話題になってんな。</div></li><li class="li1"><div class="de1">People are really talking about the Kamoshida incident.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まさか、ワガハイたちの仕業なんて、ここにいる全員誰も思ってないぜ</div></li><li class="li1"><div class="de1">No one in this car knows that we&#039;re the ones who did it...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Kawakami class</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうそう、来週の水曜からテストよ。まさか忘れてないわよね。</div></li><li class="li1"><div class="de1">Oh yeah, you&#039;ve got exams starting on Wednesday.  Don&#039;t tell me you forgot.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さ、今日やるのは、かぐや姫でおなじみ竹取語</div></li><li class="li1"><div class="de1">Anyway, today we&#039;ll be talking about &quot;The Tale of the Bamboo Cutter.&quot;</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">日本最古の物語って説もあるし、世界最古のSF小説って言う人もいたわ。</div></li><li class="li1"><div class="de1">Most theorize it&#039;s the oldest story in Japan; for some, it&#039;s the oldest science-fiction story in the world.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、私に言わせてみれば、日本最古の悪女物語ね。</div></li><li class="li1"><div class="de1">But if you ask me, it&#039;s the oldest story in Japan about a terrible woman.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だって、求婚者たちに無理難題ふっかけ、高価な貢物をせびった挙句</div></li><li class="li1"><div class="de1">月にドロンでしょ。</div></li><li class="li1"><div class="de1">I mean, Princess Kaguya gives her suitors absurd tasks, demans fancy gifts, then runs off to the moon.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">男たちは財産を失うわ、おお恥かくわ、中には大けがや失明する人もいるのよ。</div></li><li class="li1"><div class="de1">Some men lose their fortunes, some are humiliated, and some even get serious wounds or go blind.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">実のところ、かぐや姫みたいな女性は古今東西の物語に登場してるわ。</div></li><li class="li1"><div class="de1">Women like Princess Kaguya actually show up in a lot of stories from around the world.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さて、&lt;name&gt;君。</div></li><li class="li1"><div class="de1">Now then, &lt;name&gt;-kun.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ときに男を破滅させるような魅力ある女性を一般的になんて言うか、分かる？</div></li><li class="li1"><div class="de1">What do people generally call a woman who has a charm that some times leads men to their doom?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">トリックスター</div></li><li class="li1"><div class="de1">&gt;ファムファタル</div></li><li class="li1"><div class="de1">エリザベス</div></li><li class="li1"><div class="de1">A trickster.</div></li><li class="li1"><div class="de1">A femme fatale.</div></li><li class="li1"><div class="de1">Elizabeth.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">その通り。</div></li><li class="li1"><div class="de1">That&#039;s right.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">正解はファムファタル。</div></li><li class="li1"><div class="de1">The answer is femme fatale.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">直訳すると運命の女　日本語で近くいのは悪性の女ね。</div></li><li class="li1"><div class="de1">Literally translated, it means &quot;fatal woman.&quot;</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">有名どころ聖書の王女サロメ、アーサー王伝説の魔女モーガン</div></li><li class="li1"><div class="de1">Some famous examples are the witch Morgan le Fay from Arthurian legend and Queen Salome from the Bible.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あと、オペラでおなじみ、妖艶で奔放な踊り子カルメンとかね。</div></li><li class="li1"><div class="de1">Not to mention the wild, seductive dancer of opera, Carmen.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今の出来るって結構スゴくない？</div></li><li class="li1"><div class="de1">Whoa, he actually knew that?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今度、ノート貸してもらおっかな</div></li><li class="li1"><div class="de1">Maybe I should ask if I can borrow his notes...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こんな問題も解けるなんて、オマエ、賢いんだな！</div></li><li class="li1"><div class="de1">Wow, you must be really smart to be able to answer a question like that!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">言っとくけど、一夜漬けで何とかなるほど、テストは甘くないわよ？</div></li><li class="li1"><div class="de1">...Let me just warn you that exams aren&#039;t so easy that you can pass them with a single night of cramming.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しっかり勉強しなさいね。</div></li><li class="li1"><div class="de1">Take your time and make sure you understand the material, OK?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だとさ。学生もなかなか大変だな。</div></li><li class="li1"><div class="de1">...You heard her.  Must be rough being a student.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まあ勉強して悪いことは無いだろうし、頑張れよ。</div></li><li class="li1"><div class="de1">Well, you have nothing to lose from studying.  Give it all you&#039;ve got.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#rooftop meeting</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ロクな書き込みがねえ。恋人やら親へ愚痴ばっかた。</div></li><li class="li1"><div class="de1">None of these post are any good.  Everyone&#039;s just bitchin&#039; about their parents or boyfriends.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">パレスを持ってそうな大物の依頼、来そうな気配もねえし</div></li><li class="li1"><div class="de1">There ain&#039;t even a hint of a hint about a new Palace...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ネット　限界あるね。これで名前や居場所までって言っても</div></li><li class="li1"><div class="de1">We can&#039;t get everything online... Finding a post with a name and location is asking a lot...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">自力で探すしかねーか？</div></li><li class="li1"><div class="de1">Guess we just gotta find one ourselves then!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">警察も見逃してる大物、足で見つれる気か？</div></li><li class="li1"><div class="de1">Are you seriously suggesting we look for a target that even police have overlooked?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だよなぁー。とりあえず、試験終わるまで待つか？</div></li><li class="li1"><div class="de1">...Yeah, you&#039;re right.  We should prolly just hold off &#039;til exams are done with, huh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もうチョイ様子見て、いろいろ見つかんなきゃ、そん時は</div></li><li class="li1"><div class="de1">We can wait and see for a little longer, then worry about comin&#039; up empty handed if it happens...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Makoto enters</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここ、進入禁止のはずだよ？</div></li><li class="li1"><div class="de1">This place is off limits, you know.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">話、終わったらすぐ出るって。</div></li><li class="li1"><div class="de1">...We&#039;ll get outta here once we&#039;re done chattin&#039;.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つか、会長サンがなんか用っスか？</div></li><li class="li1"><div class="de1">Anyways, what&#039;s Miss Council President want with us?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">問題児君に、噂の彼女　それに訳ありの転校生。変わった取り合わせだなって思って。</div></li><li class="li1"><div class="de1">The troublemaker, the girl of rumor, and the infamous transfer student... Interesting combination.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">感じワル</div></li><li class="li1"><div class="de1">Great way to start a conversation...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ところで</div></li><li class="li1"><div class="de1">By the way...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田先生と、いろいろあったみたいだけど？</div></li><li class="li1"><div class="de1">It seems as though you got to know Mr. Kamoshida pretty well.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それなりに</div></li><li class="li1"><div class="de1">そうでもない</div></li><li class="li1"><div class="de1">&gt;鴨志田？</div></li><li class="li1"><div class="de1">Somewhat.</div></li><li class="li1"><div class="de1">Not really.</div></li><li class="li1"><div class="de1">Who?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">とぼけてるの？</div></li><li class="li1"><div class="de1">Are you playing dumb with me?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それくらい接点ないってことですって。</div></li><li class="li1"><div class="de1">It just goes to show how little interaction he had with him.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">前歴のこと、鴨志田先生が広めたらしいわね。バレー部員を使って。</div></li><li class="li1"><div class="de1">I heard Mr. Kamoshida used a volleyball team member to spread details of your past record.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">憎くない？鴨志田先生のこと。</div></li><li class="li1"><div class="de1">Don&#039;t you hate him?  Mr. Kamoshida, I mean.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さっきからなんなんスか？</div></li><li class="li1"><div class="de1">What&#039;s all this about?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つか、こいつすげえ人間できてるんで。</div></li><li class="li1"><div class="de1">My friend here&#039;s an upstanding guy.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">気を悪くしないで。鴨志田先生の件で動揺してる生徒も多いの。</div></li><li class="li1"><div class="de1">I don&#039;t mean to offend.  Many students have been shaken up by what happened with Mr. Kamoshida.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">予告状みたいな、おかしな貼り紙の噂も、中々消えないし。</div></li><li class="li1"><div class="de1">The rumors about that odd, calling card-esque posting aren&#039;t going away either.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">意外、新島先輩って、あんなセンスない貼り紙のこと気にしてんだ。</div></li><li class="li1"><div class="de1">I didn&#039;t expect someone like you would care about that tactless stuff, Niijima-senpai.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">センスねえことはねえと思うけど</div></li><li class="li1"><div class="de1">I dunno that it was tactless...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つか、もうよくねえっスか？話しかけられてると出れねえし。</div></li><li class="li1"><div class="de1">Anyways, we done here?  We can&#039;t leave if you keep talkin&#039; to us.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">悪ふざけに付き合わされる身にもなってよ。</div></li><li class="li1"><div class="de1">At least try to understand my position.  Being forced to deal with this horseplay...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">悪ふざけ</div></li><li class="li1"><div class="de1">Horseplay...!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうそう、ここね、例の事故もあったし閉鎖することになったの。</div></li><li class="li1"><div class="de1">Ah yes, by the way... It&#039;s been decided that this place will be closed off due to the incident.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">誰かさんたちが無断で入ってるって、そんな噂もあるしね。</div></li><li class="li1"><div class="de1">I heard some people are coming up here without permission, after all.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お邪魔してごめんなさい。</div></li><li class="li1"><div class="de1">...I&#039;m sorry to have interrupted you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なに、アレ？</div></li><li class="li1"><div class="de1">What was that about?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">目つけられてるな。</div></li><li class="li1"><div class="de1">...She&#039;s on to us.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あのオンナ　なかなか頭がキレそうだ。用心しろ。</div></li><li class="li1"><div class="de1">That girl seems rather sharp.  We should be cautious of her.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">マジでムカつく！</div></li><li class="li1"><div class="de1">She really pisses me off!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;気が抜けない</div></li><li class="li1"><div class="de1">目をつけられた？</div></li><li class="li1"><div class="de1">Be careful.</div></li><li class="li1"><div class="de1">She&#039;s figured us out...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">メンドくせーことになったな</div></li><li class="li1"><div class="de1">Talk about a pain in the ass...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そう言えば</div></li><li class="li1"><div class="de1">That reminds me...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちゃんと勉強もしろよ、とくにリュージ。知性で解く罠だって少しなくないだろうし。</div></li><li class="li1"><div class="de1">Study hard.  Especially you, Ryuji.  There are bound to be traps that will need to be solved with brains.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">日常の行動すべてが力になると思えよ。</div></li><li class="li1"><div class="de1">Keep in mind that everything you do in your daily lives has an impact on your abilities.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうだね、怪盗のためって思えば勉強だって</div></li><li class="li1"><div class="de1">True, studying won&#039;t be so bad if we just think of it as helping us prepare to be phantom thieves.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、そうだけどよ</div></li><li class="li1"><div class="de1">I guess you got a point...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">せっかく世直しなんぞって気合入ったとこなのに、ノらねえなぁ</div></li><li class="li1"><div class="de1">But man, it&#039;s just so lame...  I was all fired up about helpin&#039; people, not about studyin&#039;...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だったらその前に、オモシロい場所へ連れて行ってやろう。</div></li><li class="li1"><div class="de1">Well, I do have somewhere interesting to show you beforehand.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もともとワガハイの仕事を手伝うって約束だしな。</div></li><li class="li1"><div class="de1">You guys did originally promise to help me out with my mission, after all.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ？仕事？</div></li><li class="li1"><div class="de1">Huh?  Mission?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ワガハイについてこい。</div></li><li class="li1"><div class="de1">Follow me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#at the train station</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こんなとこ連れてきて何だよ？</div></li><li class="li1"><div class="de1">What&#039;re you bringin&#039; us here for?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいから言われた通りにしろ。</div></li><li class="li1"><div class="de1">Just do as I told you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「怪盗お願いチャンネル」出したぞ。こっからどうすんだ？</div></li><li class="li1"><div class="de1">All right , I&#039;ve got the Phantom Aficionado Website up.  Now what?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">名前が晒されている書き込みを探せ。</div></li><li class="li1"><div class="de1">Look for a post with a full name in it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だから、「大物」の情報は書かれてねえって。言っただろ？</div></li><li class="li1"><div class="de1">I already said there&#039;s no info on any big shots.  Don&#039;t you remember?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しっかし、ネットに相手の実名晒すか？恐え恐え</div></li><li class="li1"><div class="de1">But man, people actually go put someone&#039;s real name on there.  That&#039;s some scary shit...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「人の話を聞いてくれない」　あ、これ相手の名前ない。</div></li><li class="li1"><div class="de1">&quot;He won&#039;t listen to what I say&quot;... No wait, there&#039;s no name on this one.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「チャットで悪口を言われる」　これは名前あるぜ？</div></li><li class="li1"><div class="de1">&quot;Someone&#039;s bad-mouthin&#039; me in online chat rooms&quot;... This one&#039;s got a name.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そんなのは放っとけ。もっと困っている書き込みはないのか？</div></li><li class="li1"><div class="de1">Ignore those.  Aren&#039;t there any posts about more serious trouble?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「元カレが最近ストーカー化して困ってます。名前は、中野原夏彦」</div></li><li class="li1"><div class="de1">&quot;I don&#039;t know what to do about my ex who&#039;s stalking me.  His name is Natsuhiko Nakanohara.&quot;</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">区役所の窓口係だって。</div></li><li class="li1"><div class="de1">It says he&#039;s a teller at City Hall.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">役所のヤツがストーカーかよ</div></li><li class="li1"><div class="de1">A government worker&#039;s stalkin&#039; someone...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">手頃だな。</div></li><li class="li1"><div class="de1">That should be a suitable target.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、ならイセカイナビを用意だ。</div></li><li class="li1"><div class="de1">All right, now get the Meta-Nav ready.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">即、バレス行くっつー話か？ま、俺ぁいいけどよ！</div></li><li class="li1"><div class="de1">We&#039;re just gonna jump right into a Palace?  Fine by me!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょっと、「全会一致」でしょ？</div></li><li class="li1"><div class="de1">Hey, what happened to all that talk of &quot;unanimous decision&quot;?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうする、&lt;name&gt;？</div></li><li class="li1"><div class="de1">What do you think we should do, &lt;name&gt;?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;行こう</div></li><li class="li1"><div class="de1">仕方ない</div></li><li class="li1"><div class="de1">Let&#039;s go.</div></li><li class="li1"><div class="de1">We need to do this.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうこねえとな！</div></li><li class="li1"><div class="de1">That&#039;s what I&#039;m talkin&#039; about!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、行こっか。</div></li><li class="li1"><div class="de1">OK then.  Let&#039;s go.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">確か「名前」と「場所」だったよな。まず名前は</div></li><li class="li1"><div class="de1">We need a name and a place, right?  So the name is...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、今回は場所はいい。代わりに、ワガハイの言う通り入力してくれ。</div></li><li class="li1"><div class="de1">Actually, we don&#039;t need a location this time.  Just enter exactly what I say.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">キーワードは　「メメントス」だ。</div></li><li class="li1"><div class="de1">The keyword is... &quot;Mementos.&quot;</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ？何する気だよ？</div></li><li class="li1"><div class="de1">Huh?  What&#039;re you tryin&#039; to pull?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいから言われた通りにやれ。たぶんイケるはずだ。</div></li><li class="li1"><div class="de1">Just listen to me.  It should work... I think.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">また、たぶんかよ</div></li><li class="li1"><div class="de1">Geez, that again...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">えっと　「メ・メ・ン・ト・ス」だっけか？</div></li><li class="li1"><div class="de1">Uhhh... &quot;M-e-m-e-n-t-o-s,&quot; was it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">反応した！？</div></li><li class="li1"><div class="de1">We got a hit!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ワガハイの思った通りだぜ！</div></li><li class="li1"><div class="de1">Just as I thought!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#this scene transition reminds me of the end of The Langoliers</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">人が、消えた　！</div></li><li class="li1"><div class="de1">Everyone disappeared...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんか　フワフワしてるっていうか</div></li><li class="li1"><div class="de1">It... kind of feels like I&#039;m walking on air...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここが、中野原とかってヤツのパレスか？</div></li><li class="li1"><div class="de1">Is this that Nakanohara guy&#039;s Palace?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">半分正解、半分まちがいだな。</div></li><li class="li1"><div class="de1">That&#039;s half right, but half wrong.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">確かにここもパレスの一種だが、普通のとはちょつと違う。</div></li><li class="li1"><div class="de1">This is a type of Palace, but it&#039;s different from the normal ones.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今から地下へ降りるぞ。ここのシャドウは地下に溜まってるんだ。</div></li><li class="li1"><div class="de1">Come on, let&#039;s head down.  The Shadows here lurk underground.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何かに惹かれて集まるのかも知れないが、理由はよく分からない。</div></li><li class="li1"><div class="de1">I don&#039;t quite understand why.  It may be because they&#039;re drawn to something.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">地下って　どうやって入るの？</div></li><li class="li1"><div class="de1">Underground...?  How are we going to get there?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうやっても何も、いつも学校行くとき使ってるだろ？</div></li><li class="li1"><div class="de1">How?  You use it every day on your way to school.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ついて来い！</div></li><li class="li1"><div class="de1">Follow me!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あっ　待てよ、猫！</div></li><li class="li1"><div class="de1">Ah!  Wait up, cat!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ソだよ、ここ</div></li><li class="li1"><div class="de1">The hell is this place...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つか、変わってる！？</div></li><li class="li1"><div class="de1">Wait, our clothes changed!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">シャドウに気付かれてんの！？</div></li><li class="li1"><div class="de1">The Shadows know we&#039;re here!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">とっくにな。</div></li><li class="li1"><div class="de1">Since the moment we stepped in.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">先、言えって！</div></li><li class="li1"><div class="de1">You should&#039;ve told us!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここはまだ大丈夫だ。</div></li><li class="li1"><div class="de1">We&#039;re still safe right here.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何度か来て調べたが、シャドウはこのフロアまでは上がってこない。</div></li><li class="li1"><div class="de1">I&#039;ve come to investigate a number of times.  Shadows never come up to this floor.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも、1歩でも奥へ進めば別だぜ。ウジャウジャさ。</div></li><li class="li1"><div class="de1">But it&#039;s a different story once you go down.  This place is simply teeming with them.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ていうか！メメントスってなに？いい加減、説明してよ！</div></li><li class="li1"><div class="de1">More importantly, what is this Mementos?  It&#039;s about time you start explaining.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「みんな」のパレスだ。</div></li><li class="li1"><div class="de1">Mementos is... everyone&#039;s Palace.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ？「みんな」　？</div></li><li class="li1"><div class="de1">Huh?  Whaddya mean &quot;everyone&#039;s&quot;...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">前の「城」みたく、一人に支配されたパレスが出来上がるのは、歪みが並外れて強い奴だけだ。</div></li><li class="li1"><div class="de1">A Palace as grand as the previous castle only forms when a person&#039;s wishes are extremely distorted.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">他の「ふつうの大衆」は、別々じゃなくて1つに融合した巨大なパレスを共有している。</div></li><li class="li1"><div class="de1">So, instead of many individual Palaces, the general public has one gigantic shared Palace.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それがココ　「メメントス」だ。</div></li><li class="li1"><div class="de1">That&#039;s where we are now... Mementos.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">言われてみれば、鴨志田のときと雰囲気そがうね</div></li><li class="li1"><div class="de1">Now that you mention it, this place feels a bit different from Kamoshida&#039;s Palace.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">融合って　みんなのがくっついてんのか？赤の他人同士なのに　？</div></li><li class="li1"><div class="de1">When you say shared... you mean they&#039;re all put together?  Even though they&#039;re just strangers...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いわゆる集合的無意識</div></li><li class="li1"><div class="de1">Think of it as the collective unconscious...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まあ、いいや。言ってもわかんねえだろうし。</div></li><li class="li1"><div class="de1">No, never mind.  You wouldn&#039;t understand that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">要するに</div></li><li class="li1"><div class="de1">So what you&#039;re saying is...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここを使えば、パレスが無い人でも改心できるってこと？</div></li><li class="li1"><div class="de1">Using this place, we can even change the hearts of people who don&#039;t have a Palace?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">その通りだぜ！まあ、手順が少しだけ違うけどな。</div></li><li class="li1"><div class="de1">Correct!  The steps to do so are slightly different though.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けどコレ、だいぶ広いんじゃね　？歩きで行けんのか　？</div></li><li class="li1"><div class="de1">But this place looks pretty huge.  Are we gonna be able to get around just by walkin&#039;...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ついにこれを見せる時が来てしまったな</div></li><li class="li1"><div class="de1">It seems the time has finally come...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もるがなぁーー、変　身ッ！</div></li><li class="li1"><div class="de1">Morganaaa... transfoooooorm!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さあ、パンサー。レディース・ファーストだ。</div></li><li class="li1"><div class="de1">Come now, Panther.  Ladies first.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">くるま　！？</div></li><li class="li1"><div class="de1">A car...!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あり得ねえ！！</div></li><li class="li1"><div class="de1">No way!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">認知が具現化する異世界の仕組みを逆に利用して、ちょいと修行した成果だ。</div></li><li class="li1"><div class="de1">This comes from the way cognition materializes in the Metaverse, plus a bit of extra training.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、オマエラの変身と同じようなもんだな。</div></li><li class="li1"><div class="de1">It&#039;s not dissimilar to how you guys transform.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">服が変わんのと、車になんのは違えだろ！？</div></li><li class="li1"><div class="de1">You turnin&#039; into a car is totally different than our clothes changin&#039;!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">大衆の心の中には「猫はバスに化ける」って認知が何故だかの物凄い広く浸透してんのさ。</div></li><li class="li1"><div class="de1">For some reason &quot;cats turning into buses&quot; is an extremely widespread cognition among the general public.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんでバス？</div></li><li class="li1"><div class="de1">Why a bus though?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">知らね。</div></li><li class="li1"><div class="de1">...No idea.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つーか、城ん時からやれよ！</div></li><li class="li1"><div class="de1">Wait, why didn&#039;t you do this at the castle!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やれからやってたさ！</div></li><li class="li1"><div class="de1">I would have if I could!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど狭いし、階段だらけだし、シャンデリアの上とか絶対無理だろ？</div></li><li class="li1"><div class="de1">But that castle was cramped, there were tons of stairs, and no way this fits on top of a chandelier!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょっと！スカル！レディース・ファースト！</div></li><li class="li1"><div class="de1">Hey, Skull!  Ladies first!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">引っ張んなよ！危ねえだろ！</div></li><li class="li1"><div class="de1">Stop pullin&#039; me!  That&#039;s dangerous!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">パンサー！広がっちまう！</div></li><li class="li1"><div class="de1">Panther!  Please be gentle!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">出発シンコー！</div></li><li class="li1"><div class="de1">All aboard!  Let&#039;s go!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オマエら、何をくつろいでいるんだ？ワガハイ、車だぜ。</div></li><li class="li1"><div class="de1">Why are you all just sitting back there?  I&#039;m a car, remember?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">運転されなきゃ走れねーぞ？</div></li><li class="li1"><div class="de1">I&#039;m not going anywhere unless someone drives me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">自力で走れねーのかよ！？</div></li><li class="li1"><div class="de1">You can&#039;t drive yourself!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">運転とか、出来る？</div></li><li class="li1"><div class="de1">Do you know how to drive?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ゲームなら少し</div></li><li class="li1"><div class="de1">&gt;免許がない</div></li><li class="li1"><div class="de1">とばそう</div></li><li class="li1"><div class="de1">I&#039;ve driven in a game...</div></li><li class="li1"><div class="de1">I don&#039;t have a license.</div></li><li class="li1"><div class="de1">Time to bust my moves.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そこ気にする？</div></li><li class="li1"><div class="de1">THAT&#039;S what you&#039;re worried about?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">問題ねーだろ、異世界だし、ネコ車だしよ。</div></li><li class="li1"><div class="de1">Eh, who cares.  We&#039;re drivin&#039; a cat car through the Metaverse.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃあ、運転よろしく！</div></li><li class="li1"><div class="de1">All right then, we&#039;ll leave the driving to you!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さぁ、早くエンジンを掛けろ！エンジン掛けないと走れないぜ！</div></li><li class="li1"><div class="de1">Now start the engine!  You can&#039;t drive it&#039;s not running!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ったく、いちいちめんどくせえな　車のキーは？</div></li><li class="li1"><div class="de1">Geez, what a pain... Where&#039;s the key to this thing?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そんなもんある訳ないだろ！？ハンドルの構にスイッチがある。</div></li><li class="li1"><div class="de1">Why would you need a key!?  There&#039;s a switch just down next ot the steering wheel.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">くすくったい！もうちょっと下だ！</div></li><li class="li1"><div class="de1">That tickles!  Lower, lower!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ、そこ、すげー気持ちいいぜ</div></li><li class="li1"><div class="de1">Oh, there... That feels sooo gooooood...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オイ、ゴロゴロ言い始めたぞ　気持ちわりー、乗りもんだな！</div></li><li class="li1"><div class="de1">Uh, is that purrin&#039; I hear...?  What a creepy-ass car!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ニャータリーエンジンをパカにすんなよ？</div></li><li class="li1"><div class="de1">Don&#039;t underestimate my meowtary engine.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">エンジン全開！かっぷぶぜ！</div></li><li class="li1"><div class="de1">We&#039;re going full throttle!  It&#039;s time to fly!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この雰囲気　確かにパレスっぽいな</div></li><li class="li1"><div class="de1">Man... This place totally does feel like a Palace...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">車がレールの上走るって、なんか新鮮だね</div></li><li class="li1"><div class="de1">Yeah, I guess it&#039;d be strange driving on the tracks like this in the real world...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここのどっかに中野原が居るの？</div></li><li class="li1"><div class="de1">Anyway, Nakanohara&#039;s somewhere in here, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">パレスほどじゃないが、そいつも恐らく自分だけの空間に閉じこもってる筈だ。</div></li><li class="li1"><div class="de1">Most likely in a segment of his own creation.  Don&#039;t worry, it won&#039;t be the size of a Palace.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">入口を見つれる必要がある。</div></li><li class="li1"><div class="de1">Our next step is to find an entrance to that segment.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">入口って、どんなんだ？</div></li><li class="li1"><div class="de1">And what&#039;s that entrance gonna look like?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">知らん。でも歪みの強い場所は、見れば分かる。</div></li><li class="li1"><div class="de1">I have no idea, but strong distortions should be a pretty obvious visual clue.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">適当ウロついて探すしかねーワケか。面倒だな</div></li><li class="li1"><div class="de1">So we just gotta go wanderin&#039; around for it then?  What a goddamn pain in the ass...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#big huge portal</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うおっ、なんだよこれ　うねってんぞ？</div></li><li class="li1"><div class="de1">Dude, the hell is this...?  It&#039;s all wavy and shit.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここだ　ここから「入れる」。この先からターゲットの気配がする。</div></li><li class="li1"><div class="de1">This is the place... I sense the target up ahead.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さぁ準備はいいか？ジョーカー？</div></li><li class="li1"><div class="de1">Now, are you ready, Joker?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おっ、なんか居やがるぞ？</div></li><li class="li1"><div class="de1">Hey, something&#039;s there!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アイツが、ナカノハラのシャドウらしいな。</div></li><li class="li1"><div class="de1">That seems to be Nakanohara&#039;s Shadow.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">確か、区役所の窓口係がストーカーになったんだっけか？</div></li><li class="li1"><div class="de1">Lemme see.  Some front desk guy at City Hall became a stalker, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どこまでワルか分かんないけど、誰かを困らせてんなら、何とかしなきゃ。</div></li><li class="li1"><div class="de1">I don&#039;t know how much evil he&#039;s done, but we have to do something if he&#039;s bothering other people.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、まずは話してみろ。</div></li><li class="li1"><div class="de1">All right, we&#039;&#039;ll go talk to him.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#hey Nakanohara</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">誰だ、お前ら！</div></li><li class="li1"><div class="de1">Who are you!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アンタがストーカー男ね！？相手の気持ち、考えたことないの？</div></li><li class="li1"><div class="de1">Are you that stalker!?  Haven&#039;t you ever stopped to consider how your ex feels?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あの女は俺の物なんだよ！俺の物をどう扱おうと、俺の勝手だろ！</div></li><li class="li1"><div class="de1">She&#039;s my property!  I can do whatever I want with her!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺だって物扱いされたんだ！同じことをやって何が悪い！？</div></li><li class="li1"><div class="de1">It&#039;s not like she didn&#039;t treat me like a plaything!  What&#039;s wrong with me doing the same!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">自分がやられたからって人を物扱いなんな！ふざけやがって</div></li><li class="li1"><div class="de1">You can&#039;t treat someone like shit just &#039;cause they did it to you!  What a load of crap...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">テメーみてえな迷惑ヤロウは、改心させてやる！</div></li><li class="li1"><div class="de1">We&#039;re gonna change the hearts of all the bastards like you!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺より悪い奴は幾らでもいるだろ！</div></li><li class="li1"><div class="de1">There are millions of people far worse than me!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうだ、マダラメ　俺から全てを奪ったアイツはいいのかよ！</div></li><li class="li1"><div class="de1">What about Madarame...?  He stole everything from me, but you&#039;re letting him off the hook!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">マダラメ？なに言ってんだコイツ？</div></li><li class="li1"><div class="de1">...Madarame?  The hell&#039;s this guy goin&#039; on about?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">構うろ！くるぞ！</div></li><li class="li1"><div class="de1">Get ready!  Here he comes!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺の物をとんじゃねぇよ　やっと手に入れたんだ</div></li><li class="li1"><div class="de1">Now that I finally have what&#039;s rightfully mine... I&#039;m not going to let you take it away...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">世の中、やったもん勝ちなんだよッ！コイッ！ブッ倒してやる！</div></li><li class="li1"><div class="de1">Look... This is a winner-takes-all world.  Come fight me and I&#039;ll show you what I mean!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#well that was an easy fight</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わ　悪かった、もう許してくれ</div></li><li class="li1"><div class="de1">I-I was wrong... Please forgive me...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺、執着心が止めらんなくなってた。悪い先生に使い広手にされてさ</div></li><li class="li1"><div class="de1">That evil teacher used me, then threw me out on the street.  That&#039;s what caused my fixation on her...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;悪い先生？</div></li><li class="li1"><div class="de1">人のせい？</div></li><li class="li1"><div class="de1">......。</div></li><li class="li1"><div class="de1">Evil teacher?</div></li><li class="li1"><div class="de1">Still blaming others?</div></li><li class="li1"><div class="de1">......</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アレか？さっき言ってたマダラメってヤツ。</div></li><li class="li1"><div class="de1">Huh?  Could it be that Madarame guy he was talkin&#039; about earlier?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">また物みたいに捨てられんのが恐かったんだ</div></li><li class="li1"><div class="de1">Yeah... I just didn&#039;t want anyone to throw me out again...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そっちも身勝手なヤツのせいで苦しんでたってことか</div></li><li class="li1"><div class="de1">So some selfish bastard was making you suffer too...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど、だからって、関係無い女の人、巻き込むのよくないよ。</div></li><li class="li1"><div class="de1">Still, you shouldn&#039;t have dragged an unrelated woman into your mess.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本当、その通りだよな。もうこの恋は終わりにするよ。</div></li><li class="li1"><div class="de1">Yes, I know that now.  I&#039;ll put an end to my love for her.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なあ、お前らって「改心」させられるのか？</div></li><li class="li1"><div class="de1">...Hey, you can change people&#039;s hearts, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そしたら、マダラメ　！</div></li><li class="li1"><div class="de1">In that case...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アイツも、改心させてくれ。たくさんのヤツが犠牲になる前に</div></li><li class="li1"><div class="de1">Won&#039;t you change Madarame&#039;s heart!?  Before more people fall victim to him...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">マダラメを　改心？</div></li><li class="li1"><div class="de1">Change... Madarame&#039;s heart?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ん？その光ってんの、なんだ？</div></li><li class="li1"><div class="de1">Hm?  What&#039;s that shinin&#039; thing?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オタカラの「芽」だな。</div></li><li class="li1"><div class="de1">It&#039;s the bud of a Treasure.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">放っておいたら、パレスに育ってたかもしれない。</div></li><li class="li1"><div class="de1">Had we left it be, it very well may have blossomed into a Palace.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ジョーカー、報酬に頂いとけ！</div></li><li class="li1"><div class="de1">Joker, this wil make a perfect reward!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">中野原って改心したんだよな　？</div></li><li class="li1"><div class="de1">So Nakanohara had a change of heart, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おそらくな。</div></li><li class="li1"><div class="de1">Most likely.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも確認する方法なくない？</div></li><li class="li1"><div class="de1">But how are we supposed to know if we succeeded?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ネットに実名書いたぐらいだ。マジ改心したら、きっと書くんじゃね？</div></li><li class="li1"><div class="de1">The lady posted the dude&#039;s name online.  If he really does change, she&#039;ll prolly comment again.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">確かにそうだな。</div></li><li class="li1"><div class="de1">Hm, you do have a point.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しっかし、シャドウ相手に腕を磨けんのはいいな！ターゲット決まるまでの準備にもってこいだ。</div></li><li class="li1"><div class="de1">Either way, trainin&#039; against Shadows down here&#039;s the best!  It&#039;s great prep for our next target!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">悩みを聞き込んだ人たちを勇気づけてあげられるし、いいからもね。</div></li><li class="li1"><div class="de1">It&#039;s also nice to be able to give courage to the people who post their problems online.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オタカラもゲット出来るし、売れれば報酬も入る。</div></li><li class="li1"><div class="de1">On top of that, we can sell whatever treasure we get for some cold, hard cash!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いい事づくめじゃねーか！面白そうだ！</div></li><li class="li1"><div class="de1">Sounds like things are goin&#039; pretty great for us!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、今日んとこは目的達成だな！</div></li><li class="li1"><div class="de1">...All right, we did it!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">待った、ちょっとだけ付き合って欲しい所がある。</div></li><li class="li1"><div class="de1">Hold on.  There&#039;s somewhere I want to show you guys before we leave.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んだよ、まだ何かあんのか？</div></li><li class="li1"><div class="de1">What, there&#039;s more?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">長くはかからん。</div></li><li class="li1"><div class="de1">Don&#039;t worry, it won&#039;t take long.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まぁ、まずはこの部屋から出ないか？</div></li><li class="li1"><div class="de1">Why don&#039;t we leave this room first?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#leaving Nakanohara mini-palace</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んで？あと何がしたいんだ？</div></li><li class="li1"><div class="de1">So?  What else do you wanna do?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">更に下の階だ。そこで確かめたい事がある。</div></li><li class="li1"><div class="de1">There&#039;s something I&#039;d like to check in an area further down.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">下に降りるホームがあっただろ？まずはあそこへ行こう。</div></li><li class="li1"><div class="de1">First off, we should look for a platform that&#039;ll let us descend.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そういや、前にココ来てたんだろ？見張り図とか残してねェのかよ？</div></li><li class="li1"><div class="de1">Wait, you&#039;ve been here before, right?  Don&#039;t you got like a map or something?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そんなもんは意味が無い。ここは入るたびに構造が変わるんだ。</div></li><li class="li1"><div class="de1">That would hold no meaning in this place.  The layout changes every time you enter.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">道が変わっちゃうってこと！？</div></li><li class="li1"><div class="de1">Wait, so our path changes too!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">パレスと違って、ここは途方もない人数の認知が融合した場所だ。常に変わり続けてるのさ。</div></li><li class="li1"><div class="de1">This place is the fused cognition of a countless number of people.  It&#039;s constantly shifting.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">とは言っても、目的地はそう遠くない。頼んだぞ、ジョーカー。</div></li><li class="li1"><div class="de1">Even so, our destination should be pretty close.  I&#039;m counting on you, Joker.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#at the entrance to the next layer</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょ、ちょっと待て　なんか音しねぇか？</div></li><li class="li1"><div class="de1">H-Hold a sec... You guys hearin&#039; something?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">電車、モロ営業中じゃねぇかコラッ！！</div></li><li class="li1"><div class="de1">The trains&#039;re totally runnin&#039;!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここは地下鉄だぞ？電車走ってんのは当たり前だろ？</div></li><li class="li1"><div class="de1">Of course they are.  We&#039;re in the subway, you know.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうじゃなくて！ここ、パレスみたいなもんなんでしょ！？</div></li><li class="li1"><div class="de1">Yeah, but I thought this was a Palace!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ならこの景色が、大衆にとっての日常の光景ってことなんじゃないか？よく知らんが。</div></li><li class="li1"><div class="de1">Then maybe this is how the public views this palce?  I don&#039;t know.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こんな暗がりが　日常　？</div></li><li class="li1"><div class="de1">People go through this darkness... every day...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つーか、俺らレールの上走って大丈夫なのかよ？</div></li><li class="li1"><div class="de1">Forget that!  You sure we&#039;re cool runnin&#039; around on these tracks!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">同じレールに乗らなけりゃ平気だろ。　ま、ワガハイ電車の事は詳しくないけどな。</div></li><li class="li1"><div class="de1">It should be fine as long as we&#039;re not on the same ones... I think.  I&#039;m no train expert.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">マジかよ</div></li><li class="li1"><div class="de1">You&#039;ve got to be kiddin&#039; me...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それより、下のエリアに進もうぜ。そこのエスカレーターを下ればすぐだ。</div></li><li class="li1"><div class="de1">Anyway, let&#039;s head to the lower area.  It should be right after we go down that escalator.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よしっ、あった！確かめたいのは、あの奥だ！</div></li><li class="li1"><div class="de1">All right, there it is!  What I want to check is just past there!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#in front of the big door that looks like a Silent Hill save point</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何ココ？なんか、ちょっとだけ不気味。</div></li><li class="li1"><div class="de1">...What is this place?  It&#039;s kinda creepy.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つーか、行き止まりじゃねえか。こんなとこに何の用だ？</div></li><li class="li1"><div class="de1">And a dead end at that.  Why&#039;s it even exist?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まあ、見てろ。多分コイツは、ただの壁じゃない。</div></li><li class="li1"><div class="de1">Now hold on... Just watch.  This is most likely not an ordinary wall.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ワガハイの勘が正しければ</div></li><li class="li1"><div class="de1">If my hunch is correct...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">開いた　！</div></li><li class="li1"><div class="de1">It opened...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">最深部に新規エリアが確認されました。案内情報を更新します。</div></li><li class="li1"><div class="de1">A new area has been confirmed in the depths.  Updating guidance information.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見ろ！思った通りだぜ！</div></li><li class="li1"><div class="de1">See!?  It&#039;s just as I thought!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どういうこと？</div></li><li class="li1"><div class="de1">What do you mean?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">前に一人で来た時は、触ってもウンともスンとも言わなかったんだ。</div></li><li class="li1"><div class="de1">That wall wouldn&#039;t budge when I came here by myself before.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど、メメントスの一番下が、こんな何の変哲もないフロアだなんて、妙だろ？</div></li><li class="li1"><div class="de1">But it&#039;d be weird for the deepest part of Mementos to be some normal place like this, wouldn&#039;t it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">更に奥があったって事か。</div></li><li class="li1"><div class="de1">So you were thinkin&#039; there&#039;s gotta be more?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">カモシダのパレスが消えたし、現実でも騒がれて噂になってるだろ？</div></li><li class="li1"><div class="de1">Yeah!  Now that Kamoshida&#039;s Palace is gone and people are actually starting to talk about us...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">メメントスにも変化があんじゃねえかと思ったのさ！</div></li><li class="li1"><div class="de1">I knew something had to have changed down here!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">てか、どんくらい下まであんの？降りてみる？</div></li><li class="li1"><div class="de1">How deep is it?  Should we try going further down?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、やめとこう。今回はそこまでのつもりで来てない。</div></li><li class="li1"><div class="de1">Let&#039;s not.  That&#039;s not why we&#039;re here today, remember?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">目的はもう達した、一旦戻ろう。説明はその後だ。</div></li><li class="li1"><div class="de1">We&#039;ve already accomplished our goal.  We should head back and I&#039;ll explain more once we&#039;re home.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back to reality</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">メメントスなぁ　しかし、よくわかんねえ場所だったな。</div></li><li class="li1"><div class="de1">Mementos, huh...?  I still don&#039;t really get that place.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んで、最後に見たあの「壁」見てえのは、何だったんだ？</div></li><li class="li1"><div class="de1">Oh, and what was that wall thing we saw at the end?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">詳しくは分からんが、アレのせいで一定より深く入れなかったんだ。</div></li><li class="li1"><div class="de1">I&#039;m not entirely sure, but it blocked us from going in past a certain depth.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だが「大衆のパレス」なら　大衆がワガハイらを信じたり受け入けたりすれば、影響はある。</div></li><li class="li1"><div class="de1">If Mementos is the public&#039;s Palace though... it might be affected by the general public&#039;s belief in us.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんでモルガナは、あんな場所の事いろいろしってんの？</div></li><li class="li1"><div class="de1">Why do you know so much about it, Morgana?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうも記憶がはっきりしないんだが</div></li><li class="li1"><div class="de1">My memories are a little foggy in that regard...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">メメントスの奥がどうなってるのか、どうしても知りたいんだ。</div></li><li class="li1"><div class="de1">However, I need to know what lies in the depths of Mementos, no matter what.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうしても　？</div></li><li class="li1"><div class="de1">No matter what...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">メメントスは「みんな」のパレスだが、同時に全てのパレスの源でもあるんだ。</div></li><li class="li1"><div class="de1">Mementos is not just everyone&#039;s Palace, it&#039;s the source of all Palaces.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">昔は、カモシダの城みたいな、あんな一人が支配するパレスなんて無かった。</div></li><li class="li1"><div class="de1">It used to be that Palaces like Kamoshida&#039;s with one ruler simply didn&#039;t exist.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だから歪みの大元であるメメントスを何とかできれば、ワガハイのこの姿だって　！</div></li><li class="li1"><div class="de1">So, if we can do something about the greatest cause of the distortions, I&#039;m certain my appearance will...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">モルガナも助けて欲しかったんだね</div></li><li class="li1"><div class="de1">You wanted someone to save you too...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">て、手駒が欲しかっただけだ。</div></li><li class="li1"><div class="de1">I-I just needed pawns.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうか　だから俺たちに、ちょっかい出してきたのか。</div></li><li class="li1"><div class="de1">I see... So that&#039;s why you came pokin&#039; your nose around with us.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私、協力してあげるよ。失くしたもの、戻るといいね。</div></li><li class="li1"><div class="de1">...I&#039;ll help you.  I hope you can regain what you&#039;ve lost.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">宜しく　頼む。</div></li><li class="li1"><div class="de1">I&#039;ll... be relying on you guys.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ところでモルガナってさ、男？もしかして女？</div></li><li class="li1"><div class="de1">By the way Morgana... are you a boy?  Or might you be a girl?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">男だ</div></li><li class="li1"><div class="de1">女だ</div></li><li class="li1"><div class="de1">&gt;車かも</div></li><li class="li1"><div class="de1">Definitely boy.</div></li><li class="li1"><div class="de1">Gotta go girl.</div></li><li class="li1"><div class="de1">Could it be a car?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それある！</div></li><li class="li1"><div class="de1">That is a possibility!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ねーだろ　とも言い切れんがな。</div></li><li class="li1"><div class="de1">I with I could deny it, but... I just can&#039;t be sure.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">言い切れよ！</div></li><li class="li1"><div class="de1">Why not!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ていうか、男に決まってんだろ？</div></li><li class="li1"><div class="de1">...In any case, of course I&#039;m male!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だって　ワガハイは</div></li><li class="li1"><div class="de1">I mean, I...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何？</div></li><li class="li1"><div class="de1">...What is it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや　なんでもない。話は終わりだ！</div></li><li class="li1"><div class="de1">No... It&#039;s nothing.  We&#039;re done talking about that!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ともかく、小物の改心はメメントスで出来ることが分かった。</div></li><li class="li1"><div class="de1">Anyway, we now know that we can perform minor changes of heart in Mementos.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">目につく情報があったら実戦練習のついでに退治するのもアリだな。</div></li><li class="li1"><div class="de1">If we come across any eye-catching leads, it may be worth dealing with them for a bit of combat practice.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">他に目ぼしいのはいなかったけどね</div></li><li class="li1"><div class="de1">There weren&#039;t any other outstanding ones though...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「大物」を改心させて、怪盗団の名前を売れば、そんなもん、山ほど書き込まれんだろ。</div></li><li class="li1"><div class="de1">I bet we&#039;ll get tons of &#039;em if we can change someone famous and make the Phantom Thieves well-known.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺らの目的はあくまで「大物」だぜ？早く大物見つけねえとな。</div></li><li class="li1"><div class="de1">The big fish are our main targets after all.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まずは試験を乗り切らないとな。</div></li><li class="li1"><div class="de1">First you need to find a way to get through your exams.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">勉強しねえと</div></li><li class="li1"><div class="de1">I gotta study...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#obligatory IM recap</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つか中野原？余裕！</div></li><li class="li1"><div class="de1">Man, that Nakanohara guy was a piece of cake!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これで次の大物やれば俺ら絶対、目立つな</div></li><li class="li1"><div class="de1">If we can take down some kinda big target next, we&#039;re totally gonna get famous.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょっと！それじゃ目的変わってるでしょ</div></li><li class="li1"><div class="de1">Hey!  We&#039;re trying to help people, not get famous!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">目立たないと弱いやつらにも勇気与えられねえじゃん</div></li><li class="li1"><div class="de1">But if people don&#039;t know who we are, how&#039;re we gonna give them any courage?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そのとおりだ</div></li><li class="li1"><div class="de1">&gt;本当にそうか？</div></li><li class="li1"><div class="de1">He&#039;s right.</div></li><li class="li1"><div class="de1">Are you sure, Ryuji?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本当にそうか？</div></li><li class="li1"><div class="de1">Are you sure, Ryuji?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺、間違ってる？</div></li><li class="li1"><div class="de1">Am I wrong?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">間違ってるわけじゃないけどさ</div></li><li class="li1"><div class="de1">I don&#039;t think that you&#039;re necessarily wrong...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田のときみたいな理由がないのに、いいのかな</div></li><li class="li1"><div class="de1">But should we really be doing this at all if we don&#039;t have a reason like with Kamoshida?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">クビつっこむなって話か？</div></li><li class="li1"><div class="de1">You mean we shouldn&#039;t be sticking our noses into other people&#039;s business?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">困ってるヤツがいたら助けんのがスジだろ！</div></li><li class="li1"><div class="de1">I dunno, man.  If someone&#039;s in trouble, it&#039;s only natural to wanna help &#039;em out!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私だってそう思ってるよ</div></li><li class="li1"><div class="de1">I mean, I agree with that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今回はストーカーのこと解決できて嬉しかったし</div></li><li class="li1"><div class="de1">And I guess I was glad we were able to solve the stalker case.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つか、そのためのペルソナだろ？</div></li><li class="li1"><div class="de1">Plus, what good are our Personas if we don&#039;t use &#039;em for good?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&lt;name&gt;だってそう思うよな？</div></li><li class="li1"><div class="de1">Don&#039;t you agree &lt;name&gt;?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;当然だ</div></li><li class="li1"><div class="de1">助けたい</div></li><li class="li1"><div class="de1">Definitely.</div></li><li class="li1"><div class="de1">I want to help people.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">当然だ</div></li><li class="li1"><div class="de1">Definitely.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうだよね</div></li><li class="li1"><div class="de1">Yeah... You&#039;re right.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あんま迷ってるヒマねえぞマダラメ？とかも気になるし</div></li><li class="li1"><div class="de1">We don&#039;t got much time to be arguing over this either.  That Madarame(?) guy bothers me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わかったでも調子に乗るのはダメ</div></li><li class="li1"><div class="de1">Yeah.  But no getting carried away, you understand?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">目立つのもやめてよテストで全部赤点とか</div></li><li class="li1"><div class="de1">And don&#039;t do anything to stand out like fail all your exams.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やべ！勉強全然してねえ</div></li><li class="li1"><div class="de1">Oh crap!  Speaking of that, I haven&#039;t studied at all...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">リュージからか？メメントスのこと、何か言ってたから？</div></li><li class="li1"><div class="de1">Is it Ryuji?  Did he mention anything about Mementos?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">分からない事があったら、教えてやるぞ。</div></li><li class="li1"><div class="de1">If there&#039;s anything you want to know, I can tell you.</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">#in the train
+
+もうちょい、右だ。画面が見えねえろだろ。
+...Move a little more to the right.  I can&#039;t see the screen.
+
+トレイン・ニュースのコーナー。本日の主なトピックスは
+Now for today&#039;s Train News.  Today&#039;s headlines are...
+
+「バレー部体罰事件、学校に事情聴取」学校側は、指導は教師に一任にしていたと説明。
+&quot;Volleyball Beating Investigation!&quot;  The school claims to have left teaching methods up to its staff.
+
+体罰の認識については改めて否定した。
+It has denied once again that it had any knowledge of the beatings.
+
+「週明けから花粉注意報」例年より遅くて多いのが特徴。
+&quot;Pollen Warning as of Next Week!&quot;  Greater volume and arriving later than in previous years.
+
+「TOKYO・お散歩スポット」渋谷でアートに触れる！斑目展、来週から開催。
+&quot;Hotspots of Tokyo!&quot;  Experience art in Shibuya!  The Madarame exhibit opens next week.
+
+カモシダの事件、相当話題になってんな。
+People are really talking about the Kamoshida incident.
+
+まさか、ワガハイたちの仕業なんて、ここにいる全員誰も思ってないぜ
+No one in this car knows that we&#039;re the ones who did it...
+
+#Kawakami class
+
+そうそう、来週の水曜からテストよ。まさか忘れてないわよね。
+Oh yeah, you&#039;ve got exams starting on Wednesday.  Don&#039;t tell me you forgot.
+
+さ、今日やるのは、かぐや姫でおなじみ竹取語
+Anyway, today we&#039;ll be talking about &quot;The Tale of the Bamboo Cutter.&quot;
+
+日本最古の物語って説もあるし、世界最古のSF小説って言う人もいたわ。
+Most theorize it&#039;s the oldest story in Japan; for some, it&#039;s the oldest science-fiction story in the world.
+
+ま、私に言わせてみれば、日本最古の悪女物語ね。
+But if you ask me, it&#039;s the oldest story in Japan about a terrible woman.
+
+だって、求婚者たちに無理難題ふっかけ、高価な貢物をせびった挙句
+月にドロンでしょ。
+I mean, Princess Kaguya gives her suitors absurd tasks, demans fancy gifts, then runs off to the moon.
+
+男たちは財産を失うわ、おお恥かくわ、中には大けがや失明する人もいるのよ。
+Some men lose their fortunes, some are humiliated, and some even get serious wounds or go blind.
+
+実のところ、かぐや姫みたいな女性は古今東西の物語に登場してるわ。
+Women like Princess Kaguya actually show up in a lot of stories from around the world.
+
+さて、&lt;name&gt;君。
+Now then, &lt;name&gt;-kun.
+
+ときに男を破滅させるような魅力ある女性を一般的になんて言うか、分かる？
+What do people generally call a woman who has a charm that some times leads men to their doom?
+
+トリックスター
+&gt;ファムファタル
+エリザベス
+A trickster.
+A femme fatale.
+Elizabeth.
+
+その通り。
+That&#039;s right.
+
+正解はファムファタル。
+The answer is femme fatale.
+
+直訳すると運命の女　日本語で近くいのは悪性の女ね。
+Literally translated, it means &quot;fatal woman.&quot;
+
+有名どころ聖書の王女サロメ、アーサー王伝説の魔女モーガン
+Some famous examples are the witch Morgan le Fay from Arthurian legend and Queen Salome from the Bible.
+
+あと、オペラでおなじみ、妖艶で奔放な踊り子カルメンとかね。
+Not to mention the wild, seductive dancer of opera, Carmen.
+
+今の出来るって結構スゴくない？
+Whoa, he actually knew that?
+
+今度、ノート貸してもらおっかな
+Maybe I should ask if I can borrow his notes...
+
+こんな問題も解けるなんて、オマエ、賢いんだな！
+Wow, you must be really smart to be able to answer a question like that!
+
+言っとくけど、一夜漬けで何とかなるほど、テストは甘くないわよ？
+...Let me just warn you that exams aren&#039;t so easy that you can pass them with a single night of cramming.
+
+しっかり勉強しなさいね。
+Take your time and make sure you understand the material, OK?
+
+だとさ。学生もなかなか大変だな。
+...You heard her.  Must be rough being a student.
+
+まあ勉強して悪いことは無いだろうし、頑張れよ。
+Well, you have nothing to lose from studying.  Give it all you&#039;ve got.
+
+#rooftop meeting
+
+ロクな書き込みがねえ。恋人やら親へ愚痴ばっかた。
+None of these post are any good.  Everyone&#039;s just bitchin&#039; about their parents or boyfriends.
+
+パレスを持ってそうな大物の依頼、来そうな気配もねえし
+There ain&#039;t even a hint of a hint about a new Palace...
+
+ネット　限界あるね。これで名前や居場所までって言っても
+We can&#039;t get everything online... Finding a post with a name and location is asking a lot...
+
+自力で探すしかねーか？
+Guess we just gotta find one ourselves then!
+
+警察も見逃してる大物、足で見つれる気か？
+Are you seriously suggesting we look for a target that even police have overlooked?
+
+だよなぁー。とりあえず、試験終わるまで待つか？
+...Yeah, you&#039;re right.  We should prolly just hold off &#039;til exams are done with, huh?
+
+もうチョイ様子見て、いろいろ見つかんなきゃ、そん時は
+We can wait and see for a little longer, then worry about comin&#039; up empty handed if it happens...
+
+#Makoto enters
+
+ここ、進入禁止のはずだよ？
+This place is off limits, you know.
+
+話、終わったらすぐ出るって。
+...We&#039;ll get outta here once we&#039;re done chattin&#039;.
+
+つか、会長サンがなんか用っスか？
+Anyways, what&#039;s Miss Council President want with us?
+
+問題児君に、噂の彼女　それに訳ありの転校生。変わった取り合わせだなって思って。
+The troublemaker, the girl of rumor, and the infamous transfer student... Interesting combination.
+
+感じワル
+Great way to start a conversation...
+
+ところで
+By the way...
+
+鴨志田先生と、いろいろあったみたいだけど？
+It seems as though you got to know Mr. Kamoshida pretty well.
+
+それなりに
+そうでもない
+&gt;鴨志田？
+Somewhat.
+Not really.
+Who?
+
+とぼけてるの？
+Are you playing dumb with me?
+
+それくらい接点ないってことですって。
+It just goes to show how little interaction he had with him.
+
+前歴のこと、鴨志田先生が広めたらしいわね。バレー部員を使って。
+I heard Mr. Kamoshida used a volleyball team member to spread details of your past record.
+
+憎くない？鴨志田先生のこと。
+Don&#039;t you hate him?  Mr. Kamoshida, I mean.
+
+さっきからなんなんスか？
+What&#039;s all this about?
+
+つか、こいつすげえ人間できてるんで。
+My friend here&#039;s an upstanding guy.
+
+気を悪くしないで。鴨志田先生の件で動揺してる生徒も多いの。
+I don&#039;t mean to offend.  Many students have been shaken up by what happened with Mr. Kamoshida.
+
+予告状みたいな、おかしな貼り紙の噂も、中々消えないし。
+The rumors about that odd, calling card-esque posting aren&#039;t going away either.
+
+意外、新島先輩って、あんなセンスない貼り紙のこと気にしてんだ。
+I didn&#039;t expect someone like you would care about that tactless stuff, Niijima-senpai.
+
+センスねえことはねえと思うけど
+I dunno that it was tactless...
+
+つか、もうよくねえっスか？話しかけられてると出れねえし。
+Anyways, we done here?  We can&#039;t leave if you keep talkin&#039; to us.
+
+悪ふざけに付き合わされる身にもなってよ。
+At least try to understand my position.  Being forced to deal with this horseplay...
+
+悪ふざけ
+Horseplay...!?
+
+そうそう、ここね、例の事故もあったし閉鎖することになったの。
+Ah yes, by the way... It&#039;s been decided that this place will be closed off due to the incident.
+
+誰かさんたちが無断で入ってるって、そんな噂もあるしね。
+I heard some people are coming up here without permission, after all.
+
+お邪魔してごめんなさい。
+...I&#039;m sorry to have interrupted you.
+
+なに、アレ？
+What was that about?
+
+目つけられてるな。
+...She&#039;s on to us.
+
+あのオンナ　なかなか頭がキレそうだ。用心しろ。
+That girl seems rather sharp.  We should be cautious of her.
+
+マジでムカつく！
+She really pisses me off!
+
+&gt;気が抜けない
+目をつけられた？
+Be careful.
+She&#039;s figured us out...
+
+メンドくせーことになったな
+Talk about a pain in the ass...
+
+そう言えば
+That reminds me...
+
+ちゃんと勉強もしろよ、とくにリュージ。知性で解く罠だって少しなくないだろうし。
+Study hard.  Especially you, Ryuji.  There are bound to be traps that will need to be solved with brains.
+
+日常の行動すべてが力になると思えよ。
+Keep in mind that everything you do in your daily lives has an impact on your abilities.
+
+そうだね、怪盗のためって思えば勉強だって
+True, studying won&#039;t be so bad if we just think of it as helping us prepare to be phantom thieves.
+
+ま、そうだけどよ
+I guess you got a point...
+
+せっかく世直しなんぞって気合入ったとこなのに、ノらねえなぁ
+But man, it&#039;s just so lame...  I was all fired up about helpin&#039; people, not about studyin&#039;...
+
+だったらその前に、オモシロい場所へ連れて行ってやろう。
+Well, I do have somewhere interesting to show you beforehand.
+
+もともとワガハイの仕事を手伝うって約束だしな。
+You guys did originally promise to help me out with my mission, after all.
+
+あ？仕事？
+Huh?  Mission?
+
+ワガハイについてこい。
+Follow me.
+
+#at the train station
+
+こんなとこ連れてきて何だよ？
+What&#039;re you bringin&#039; us here for?
+
+いいから言われた通りにしろ。
+Just do as I told you.
+
+「怪盗お願いチャンネル」出したぞ。こっからどうすんだ？
+All right , I&#039;ve got the Phantom Aficionado Website up.  Now what?
+
+名前が晒されている書き込みを探せ。
+Look for a post with a full name in it.
+
+だから、「大物」の情報は書かれてねえって。言っただろ？
+I already said there&#039;s no info on any big shots.  Don&#039;t you remember?
+
+しっかし、ネットに相手の実名晒すか？恐え恐え
+But man, people actually go put someone&#039;s real name on there.  That&#039;s some scary shit...
+
+「人の話を聞いてくれない」　あ、これ相手の名前ない。
+&quot;He won&#039;t listen to what I say&quot;... No wait, there&#039;s no name on this one.
+
+「チャットで悪口を言われる」　これは名前あるぜ？
+&quot;Someone&#039;s bad-mouthin&#039; me in online chat rooms&quot;... This one&#039;s got a name.
+
+そんなのは放っとけ。もっと困っている書き込みはないのか？
+Ignore those.  Aren&#039;t there any posts about more serious trouble?
+
+「元カレが最近ストーカー化して困ってます。名前は、中野原夏彦」
+&quot;I don&#039;t know what to do about my ex who&#039;s stalking me.  His name is Natsuhiko Nakanohara.&quot;
+
+区役所の窓口係だって。
+It says he&#039;s a teller at City Hall.
+
+役所のヤツがストーカーかよ
+A government worker&#039;s stalkin&#039; someone...?
+
+手頃だな。
+That should be a suitable target.
+
+よし、ならイセカイナビを用意だ。
+All right, now get the Meta-Nav ready.
+
+即、バレス行くっつー話か？ま、俺ぁいいけどよ！
+We&#039;re just gonna jump right into a Palace?  Fine by me!
+
+ちょっと、「全会一致」でしょ？
+Hey, what happened to all that talk of &quot;unanimous decision&quot;?
+
+どうする、&lt;name&gt;？
+What do you think we should do, &lt;name&gt;?
+
+&gt;行こう
+仕方ない
+Let&#039;s go.
+We need to do this.
+
+そうこねえとな！
+That&#039;s what I&#039;m talkin&#039; about!
+
+よし、行こっか。
+OK then.  Let&#039;s go.
+
+確か「名前」と「場所」だったよな。まず名前は
+We need a name and a place, right?  So the name is...
+
+いや、今回は場所はいい。代わりに、ワガハイの言う通り入力してくれ。
+Actually, we don&#039;t need a location this time.  Just enter exactly what I say.
+
+キーワードは　「メメントス」だ。
+The keyword is... &quot;Mementos.&quot;
+
+あ？何する気だよ？
+Huh?  What&#039;re you tryin&#039; to pull?
+
+いいから言われた通りにやれ。たぶんイケるはずだ。
+Just listen to me.  It should work... I think.
+
+また、たぶんかよ
+Geez, that again...?
+
+えっと　「メ・メ・ン・ト・ス」だっけか？
+Uhhh... &quot;M-e-m-e-n-t-o-s,&quot; was it?
+
+反応した！？
+We got a hit!?
+
+ワガハイの思った通りだぜ！
+Just as I thought!
+
+#this scene transition reminds me of the end of The Langoliers
+
+人が、消えた　！
+Everyone disappeared...!
+
+なんか　フワフワしてるっていうか
+It... kind of feels like I&#039;m walking on air...?
+
+ここが、中野原とかってヤツのパレスか？
+Is this that Nakanohara guy&#039;s Palace?
+
+半分正解、半分まちがいだな。
+That&#039;s half right, but half wrong.
+
+確かにここもパレスの一種だが、普通のとはちょつと違う。
+This is a type of Palace, but it&#039;s different from the normal ones.
+
+今から地下へ降りるぞ。ここのシャドウは地下に溜まってるんだ。
+Come on, let&#039;s head down.  The Shadows here lurk underground.
+
+何かに惹かれて集まるのかも知れないが、理由はよく分からない。
+I don&#039;t quite understand why.  It may be because they&#039;re drawn to something.
+
+地下って　どうやって入るの？
+Underground...?  How are we going to get there?
+
+どうやっても何も、いつも学校行くとき使ってるだろ？
+How?  You use it every day on your way to school.
+
+ついて来い！
+Follow me!
+
+あっ　待てよ、猫！
+Ah!  Wait up, cat!
+
+ソだよ、ここ
+The hell is this place...?
+
+つか、変わってる！？
+Wait, our clothes changed!?
+
+シャドウに気付かれてんの！？
+The Shadows know we&#039;re here!?
+
+とっくにな。
+Since the moment we stepped in.
+
+先、言えって！
+You should&#039;ve told us!
+
+ここはまだ大丈夫だ。
+We&#039;re still safe right here.
+
+何度か来て調べたが、シャドウはこのフロアまでは上がってこない。
+I&#039;ve come to investigate a number of times.  Shadows never come up to this floor.
+
+でも、1歩でも奥へ進めば別だぜ。ウジャウジャさ。
+But it&#039;s a different story once you go down.  This place is simply teeming with them.
+
+ていうか！メメントスってなに？いい加減、説明してよ！
+More importantly, what is this Mementos?  It&#039;s about time you start explaining.
+
+「みんな」のパレスだ。
+Mementos is... everyone&#039;s Palace.
+
+あ？「みんな」　？
+Huh?  Whaddya mean &quot;everyone&#039;s&quot;...?
+
+前の「城」みたく、一人に支配されたパレスが出来上がるのは、歪みが並外れて強い奴だけだ。
+A Palace as grand as the previous castle only forms when a person&#039;s wishes are extremely distorted.
+
+他の「ふつうの大衆」は、別々じゃなくて1つに融合した巨大なパレスを共有している。
+So, instead of many individual Palaces, the general public has one gigantic shared Palace.
+
+それがココ　「メメントス」だ。
+That&#039;s where we are now... Mementos.
+
+言われてみれば、鴨志田のときと雰囲気そがうね
+Now that you mention it, this place feels a bit different from Kamoshida&#039;s Palace.
+
+融合って　みんなのがくっついてんのか？赤の他人同士なのに　？
+When you say shared... you mean they&#039;re all put together?  Even though they&#039;re just strangers...?
+
+いわゆる集合的無意識
+Think of it as the collective unconscious...
+
+まあ、いいや。言ってもわかんねえだろうし。
+No, never mind.  You wouldn&#039;t understand that.
+
+要するに
+So what you&#039;re saying is...
+
+ここを使えば、パレスが無い人でも改心できるってこと？
+Using this place, we can even change the hearts of people who don&#039;t have a Palace?
+
+その通りだぜ！まあ、手順が少しだけ違うけどな。
+Correct!  The steps to do so are slightly different though.
+
+けどコレ、だいぶ広いんじゃね　？歩きで行けんのか　？
+But this place looks pretty huge.  Are we gonna be able to get around just by walkin&#039;...?
+
+ついにこれを見せる時が来てしまったな
+It seems the time has finally come...
+
+もるがなぁーー、変　身ッ！
+Morganaaa... transfoooooorm!
+
+さあ、パンサー。レディース・ファーストだ。
+Come now, Panther.  Ladies first.
+
+くるま　！？
+A car...!?
+
+あり得ねえ！！
+No way!
+
+認知が具現化する異世界の仕組みを逆に利用して、ちょいと修行した成果だ。
+This comes from the way cognition materializes in the Metaverse, plus a bit of extra training.
+
+ま、オマエラの変身と同じようなもんだな。
+It&#039;s not dissimilar to how you guys transform.
+
+服が変わんのと、車になんのは違えだろ！？
+You turnin&#039; into a car is totally different than our clothes changin&#039;!
+
+大衆の心の中には「猫はバスに化ける」って認知が何故だかの物凄い広く浸透してんのさ。
+For some reason &quot;cats turning into buses&quot; is an extremely widespread cognition among the general public.
+
+なんでバス？
+Why a bus though?
+
+知らね。
+...No idea.
+
+つーか、城ん時からやれよ！
+Wait, why didn&#039;t you do this at the castle!?
+
+やれからやってたさ！
+I would have if I could!
+
+けど狭いし、階段だらけだし、シャンデリアの上とか絶対無理だろ？
+But that castle was cramped, there were tons of stairs, and no way this fits on top of a chandelier!
+
+ちょっと！スカル！レディース・ファースト！
+Hey, Skull!  Ladies first!
+
+引っ張んなよ！危ねえだろ！
+Stop pullin&#039; me!  That&#039;s dangerous!
+
+パンサー！広がっちまう！
+Panther!  Please be gentle!
+
+出発シンコー！
+All aboard!  Let&#039;s go!
+
+オマエら、何をくつろいでいるんだ？ワガハイ、車だぜ。
+Why are you all just sitting back there?  I&#039;m a car, remember?
+
+運転されなきゃ走れねーぞ？
+I&#039;m not going anywhere unless someone drives me.
+
+自力で走れねーのかよ！？
+You can&#039;t drive yourself!?
+
+運転とか、出来る？
+Do you know how to drive?
+
+ゲームなら少し
+&gt;免許がない
+とばそう
+I&#039;ve driven in a game...
+I don&#039;t have a license.
+Time to bust my moves.
+
+そこ気にする？
+THAT&#039;S what you&#039;re worried about?
+
+問題ねーだろ、異世界だし、ネコ車だしよ。
+Eh, who cares.  We&#039;re drivin&#039; a cat car through the Metaverse.
+
+じゃあ、運転よろしく！
+All right then, we&#039;ll leave the driving to you!
+
+さぁ、早くエンジンを掛けろ！エンジン掛けないと走れないぜ！
+Now start the engine!  You can&#039;t drive it&#039;s not running!
+
+ったく、いちいちめんどくせえな　車のキーは？
+Geez, what a pain... Where&#039;s the key to this thing?
+
+そんなもんある訳ないだろ！？ハンドルの構にスイッチがある。
+Why would you need a key!?  There&#039;s a switch just down next ot the steering wheel.
+
+くすくったい！もうちょっと下だ！
+That tickles!  Lower, lower!
+
+あ、そこ、すげー気持ちいいぜ
+Oh, there... That feels sooo gooooood...
+
+オイ、ゴロゴロ言い始めたぞ　気持ちわりー、乗りもんだな！
+Uh, is that purrin&#039; I hear...?  What a creepy-ass car!
+
+ニャータリーエンジンをパカにすんなよ？
+Don&#039;t underestimate my meowtary engine.
+
+エンジン全開！かっぷぶぜ！
+We&#039;re going full throttle!  It&#039;s time to fly!
+
+この雰囲気　確かにパレスっぽいな
+Man... This place totally does feel like a Palace...
+
+車がレールの上走るって、なんか新鮮だね
+Yeah, I guess it&#039;d be strange driving on the tracks like this in the real world...
+
+ここのどっかに中野原が居るの？
+Anyway, Nakanohara&#039;s somewhere in here, right?
+
+パレスほどじゃないが、そいつも恐らく自分だけの空間に閉じこもってる筈だ。
+Most likely in a segment of his own creation.  Don&#039;t worry, it won&#039;t be the size of a Palace.
+
+入口を見つれる必要がある。
+Our next step is to find an entrance to that segment.
+
+入口って、どんなんだ？
+And what&#039;s that entrance gonna look like?
+
+知らん。でも歪みの強い場所は、見れば分かる。
+I have no idea, but strong distortions should be a pretty obvious visual clue.
+
+適当ウロついて探すしかねーワケか。面倒だな
+So we just gotta go wanderin&#039; around for it then?  What a goddamn pain in the ass...
+
+#big huge portal
+
+うおっ、なんだよこれ　うねってんぞ？
+Dude, the hell is this...?  It&#039;s all wavy and shit.
+
+ここだ　ここから「入れる」。この先からターゲットの気配がする。
+This is the place... I sense the target up ahead.
+
+さぁ準備はいいか？ジョーカー？
+Now, are you ready, Joker?
+
+おっ、なんか居やがるぞ？
+Hey, something&#039;s there!
+
+アイツが、ナカノハラのシャドウらしいな。
+That seems to be Nakanohara&#039;s Shadow.
+
+確か、区役所の窓口係がストーカーになったんだっけか？
+Lemme see.  Some front desk guy at City Hall became a stalker, right?
+
+どこまでワルか分かんないけど、誰かを困らせてんなら、何とかしなきゃ。
+I don&#039;t know how much evil he&#039;s done, but we have to do something if he&#039;s bothering other people.
+
+よし、まずは話してみろ。
+All right, we&#039;&#039;ll go talk to him.
+
+#hey Nakanohara
+
+誰だ、お前ら！
+Who are you!?
+
+アンタがストーカー男ね！？相手の気持ち、考えたことないの？
+Are you that stalker!?  Haven&#039;t you ever stopped to consider how your ex feels?
+
+あの女は俺の物なんだよ！俺の物をどう扱おうと、俺の勝手だろ！
+She&#039;s my property!  I can do whatever I want with her!
+
+俺だって物扱いされたんだ！同じことをやって何が悪い！？
+It&#039;s not like she didn&#039;t treat me like a plaything!  What&#039;s wrong with me doing the same!?
+
+自分がやられたからって人を物扱いなんな！ふざけやがって
+You can&#039;t treat someone like shit just &#039;cause they did it to you!  What a load of crap...
+
+テメーみてえな迷惑ヤロウは、改心させてやる！
+We&#039;re gonna change the hearts of all the bastards like you!
+
+俺より悪い奴は幾らでもいるだろ！
+There are millions of people far worse than me!
+
+そうだ、マダラメ　俺から全てを奪ったアイツはいいのかよ！
+What about Madarame...?  He stole everything from me, but you&#039;re letting him off the hook!?
+
+マダラメ？なに言ってんだコイツ？
+...Madarame?  The hell&#039;s this guy goin&#039; on about?
+
+構うろ！くるぞ！
+Get ready!  Here he comes!
+
+俺の物をとんじゃねぇよ　やっと手に入れたんだ
+Now that I finally have what&#039;s rightfully mine... I&#039;m not going to let you take it away...
+
+世の中、やったもん勝ちなんだよッ！コイッ！ブッ倒してやる！
+Look... This is a winner-takes-all world.  Come fight me and I&#039;ll show you what I mean!
+
+#well that was an easy fight
+
+わ　悪かった、もう許してくれ
+I-I was wrong... Please forgive me...
+
+俺、執着心が止めらんなくなってた。悪い先生に使い広手にされてさ
+That evil teacher used me, then threw me out on the street.  That&#039;s what caused my fixation on her...
+
+&gt;悪い先生？
+人のせい？
+......。
+Evil teacher?
+Still blaming others?
+......
+
+アレか？さっき言ってたマダラメってヤツ。
+Huh?  Could it be that Madarame guy he was talkin&#039; about earlier?
+
+また物みたいに捨てられんのが恐かったんだ
+Yeah... I just didn&#039;t want anyone to throw me out again...
+
+そっちも身勝手なヤツのせいで苦しんでたってことか
+So some selfish bastard was making you suffer too...
+
+けど、だからって、関係無い女の人、巻き込むのよくないよ。
+Still, you shouldn&#039;t have dragged an unrelated woman into your mess.
+
+本当、その通りだよな。もうこの恋は終わりにするよ。
+Yes, I know that now.  I&#039;ll put an end to my love for her.
+
+なあ、お前らって「改心」させられるのか？
+...Hey, you can change people&#039;s hearts, right?
+
+そしたら、マダラメ　！
+In that case...
+
+アイツも、改心させてくれ。たくさんのヤツが犠牲になる前に
+Won&#039;t you change Madarame&#039;s heart!?  Before more people fall victim to him...
+
+マダラメを　改心？
+Change... Madarame&#039;s heart?
+
+ん？その光ってんの、なんだ？
+Hm?  What&#039;s that shinin&#039; thing?
+
+オタカラの「芽」だな。
+It&#039;s the bud of a Treasure.
+
+放っておいたら、パレスに育ってたかもしれない。
+Had we left it be, it very well may have blossomed into a Palace.
+
+ジョーカー、報酬に頂いとけ！
+Joker, this wil make a perfect reward!
+
+中野原って改心したんだよな　？
+So Nakanohara had a change of heart, right?
+
+おそらくな。
+Most likely.
+
+でも確認する方法なくない？
+But how are we supposed to know if we succeeded?
+
+ネットに実名書いたぐらいだ。マジ改心したら、きっと書くんじゃね？
+The lady posted the dude&#039;s name online.  If he really does change, she&#039;ll prolly comment again.
+
+確かにそうだな。
+Hm, you do have a point.
+
+しっかし、シャドウ相手に腕を磨けんのはいいな！ターゲット決まるまでの準備にもってこいだ。
+Either way, trainin&#039; against Shadows down here&#039;s the best!  It&#039;s great prep for our next target!
+
+悩みを聞き込んだ人たちを勇気づけてあげられるし、いいからもね。
+It&#039;s also nice to be able to give courage to the people who post their problems online.
+
+オタカラもゲット出来るし、売れれば報酬も入る。
+On top of that, we can sell whatever treasure we get for some cold, hard cash!
+
+いい事づくめじゃねーか！面白そうだ！
+Sounds like things are goin&#039; pretty great for us!
+
+よし、今日んとこは目的達成だな！
+...All right, we did it!
+
+待った、ちょっとだけ付き合って欲しい所がある。
+Hold on.  There&#039;s somewhere I want to show you guys before we leave.
+
+んだよ、まだ何かあんのか？
+What, there&#039;s more?
+
+長くはかからん。
+Don&#039;t worry, it won&#039;t take long.
+
+まぁ、まずはこの部屋から出ないか？
+Why don&#039;t we leave this room first?
+
+#leaving Nakanohara mini-palace
+
+んで？あと何がしたいんだ？
+So?  What else do you wanna do?
+
+更に下の階だ。そこで確かめたい事がある。
+There&#039;s something I&#039;d like to check in an area further down.
+
+下に降りるホームがあっただろ？まずはあそこへ行こう。
+First off, we should look for a platform that&#039;ll let us descend.
+
+そういや、前にココ来てたんだろ？見張り図とか残してねェのかよ？
+Wait, you&#039;ve been here before, right?  Don&#039;t you got like a map or something?
+
+そんなもんは意味が無い。ここは入るたびに構造が変わるんだ。
+That would hold no meaning in this place.  The layout changes every time you enter.
+
+道が変わっちゃうってこと！？
+Wait, so our path changes too!?
+
+パレスと違って、ここは途方もない人数の認知が融合した場所だ。常に変わり続けてるのさ。
+This place is the fused cognition of a countless number of people.  It&#039;s constantly shifting.
+
+とは言っても、目的地はそう遠くない。頼んだぞ、ジョーカー。
+Even so, our destination should be pretty close.  I&#039;m counting on you, Joker.
+
+#at the entrance to the next layer
+
+ちょ、ちょっと待て　なんか音しねぇか？
+H-Hold a sec... You guys hearin&#039; something?
+
+電車、モロ営業中じゃねぇかコラッ！！
+The trains&#039;re totally runnin&#039;!
+
+ここは地下鉄だぞ？電車走ってんのは当たり前だろ？
+Of course they are.  We&#039;re in the subway, you know.
+
+そうじゃなくて！ここ、パレスみたいなもんなんでしょ！？
+Yeah, but I thought this was a Palace!
+
+ならこの景色が、大衆にとっての日常の光景ってことなんじゃないか？よく知らんが。
+Then maybe this is how the public views this palce?  I don&#039;t know.
+
+こんな暗がりが　日常　？
+People go through this darkness... every day...?
+
+つーか、俺らレールの上走って大丈夫なのかよ？
+Forget that!  You sure we&#039;re cool runnin&#039; around on these tracks!?
+
+同じレールに乗らなけりゃ平気だろ。　ま、ワガハイ電車の事は詳しくないけどな。
+It should be fine as long as we&#039;re not on the same ones... I think.  I&#039;m no train expert.
+
+マジかよ
+You&#039;ve got to be kiddin&#039; me...
+
+それより、下のエリアに進もうぜ。そこのエスカレーターを下ればすぐだ。
+Anyway, let&#039;s head to the lower area.  It should be right after we go down that escalator.
+
+よしっ、あった！確かめたいのは、あの奥だ！
+All right, there it is!  What I want to check is just past there!
+
+#in front of the big door that looks like a Silent Hill save point
+
+何ココ？なんか、ちょっとだけ不気味。
+...What is this place?  It&#039;s kinda creepy.
+
+つーか、行き止まりじゃねえか。こんなとこに何の用だ？
+And a dead end at that.  Why&#039;s it even exist?
+
+まあ、見てろ。多分コイツは、ただの壁じゃない。
+Now hold on... Just watch.  This is most likely not an ordinary wall.
+
+ワガハイの勘が正しければ
+If my hunch is correct...
+
+開いた　！
+It opened...!
+
+最深部に新規エリアが確認されました。案内情報を更新します。
+A new area has been confirmed in the depths.  Updating guidance information.
+
+見ろ！思った通りだぜ！
+See!?  It&#039;s just as I thought!
+
+どういうこと？
+What do you mean?
+
+前に一人で来た時は、触ってもウンともスンとも言わなかったんだ。
+That wall wouldn&#039;t budge when I came here by myself before.
+
+けど、メメントスの一番下が、こんな何の変哲もないフロアだなんて、妙だろ？
+But it&#039;d be weird for the deepest part of Mementos to be some normal place like this, wouldn&#039;t it?
+
+更に奥があったって事か。
+So you were thinkin&#039; there&#039;s gotta be more?
+
+カモシダのパレスが消えたし、現実でも騒がれて噂になってるだろ？
+Yeah!  Now that Kamoshida&#039;s Palace is gone and people are actually starting to talk about us...
+
+メメントスにも変化があんじゃねえかと思ったのさ！
+I knew something had to have changed down here!
+
+てか、どんくらい下まであんの？降りてみる？
+How deep is it?  Should we try going further down?
+
+いや、やめとこう。今回はそこまでのつもりで来てない。
+Let&#039;s not.  That&#039;s not why we&#039;re here today, remember?
+
+目的はもう達した、一旦戻ろう。説明はその後だ。
+We&#039;ve already accomplished our goal.  We should head back and I&#039;ll explain more once we&#039;re home.
+
+#back to reality
+
+メメントスなぁ　しかし、よくわかんねえ場所だったな。
+Mementos, huh...?  I still don&#039;t really get that place.
+
+んで、最後に見たあの「壁」見てえのは、何だったんだ？
+Oh, and what was that wall thing we saw at the end?
+
+詳しくは分からんが、アレのせいで一定より深く入れなかったんだ。
+I&#039;m not entirely sure, but it blocked us from going in past a certain depth.
+
+だが「大衆のパレス」なら　大衆がワガハイらを信じたり受け入けたりすれば、影響はある。
+If Mementos is the public&#039;s Palace though... it might be affected by the general public&#039;s belief in us.
+
+なんでモルガナは、あんな場所の事いろいろしってんの？
+Why do you know so much about it, Morgana?
+
+どうも記憶がはっきりしないんだが
+My memories are a little foggy in that regard...
+
+メメントスの奥がどうなってるのか、どうしても知りたいんだ。
+However, I need to know what lies in the depths of Mementos, no matter what.
+
+どうしても　？
+No matter what...?
+
+メメントスは「みんな」のパレスだが、同時に全てのパレスの源でもあるんだ。
+Mementos is not just everyone&#039;s Palace, it&#039;s the source of all Palaces.
+
+昔は、カモシダの城みたいな、あんな一人が支配するパレスなんて無かった。
+It used to be that Palaces like Kamoshida&#039;s with one ruler simply didn&#039;t exist.
+
+だから歪みの大元であるメメントスを何とかできれば、ワガハイのこの姿だって　！
+So, if we can do something about the greatest cause of the distortions, I&#039;m certain my appearance will...!
+
+モルガナも助けて欲しかったんだね
+You wanted someone to save you too...
+
+て、手駒が欲しかっただけだ。
+I-I just needed pawns.
+
+そうか　だから俺たちに、ちょっかい出してきたのか。
+I see... So that&#039;s why you came pokin&#039; your nose around with us.
+
+私、協力してあげるよ。失くしたもの、戻るといいね。
+...I&#039;ll help you.  I hope you can regain what you&#039;ve lost.
+
+宜しく　頼む。
+I&#039;ll... be relying on you guys.
+
+ところでモルガナってさ、男？もしかして女？
+By the way Morgana... are you a boy?  Or might you be a girl?
+
+男だ
+女だ
+&gt;車かも
+Definitely boy.
+Gotta go girl.
+Could it be a car?
+
+それある！
+That is a possibility!
+
+ねーだろ　とも言い切れんがな。
+I with I could deny it, but... I just can&#039;t be sure.
+
+言い切れよ！
+Why not!?
+
+ていうか、男に決まってんだろ？
+...In any case, of course I&#039;m male!
+
+だって　ワガハイは
+I mean, I...
+
+何？
+...What is it?
+
+いや　なんでもない。話は終わりだ！
+No... It&#039;s nothing.  We&#039;re done talking about that!
+
+ともかく、小物の改心はメメントスで出来ることが分かった。
+Anyway, we now know that we can perform minor changes of heart in Mementos.
+
+目につく情報があったら実戦練習のついでに退治するのもアリだな。
+If we come across any eye-catching leads, it may be worth dealing with them for a bit of combat practice.
+
+他に目ぼしいのはいなかったけどね
+There weren&#039;t any other outstanding ones though...
+
+「大物」を改心させて、怪盗団の名前を売れば、そんなもん、山ほど書き込まれんだろ。
+I bet we&#039;ll get tons of &#039;em if we can change someone famous and make the Phantom Thieves well-known.
+
+俺らの目的はあくまで「大物」だぜ？早く大物見つけねえとな。
+The big fish are our main targets after all.
+
+まずは試験を乗り切らないとな。
+First you need to find a way to get through your exams.
+
+勉強しねえと
+I gotta study...
+
+#obligatory IM recap
+
+つか中野原？余裕！
+Man, that Nakanohara guy was a piece of cake!
+
+これで次の大物やれば俺ら絶対、目立つな
+If we can take down some kinda big target next, we&#039;re totally gonna get famous.
+
+ちょっと！それじゃ目的変わってるでしょ
+Hey!  We&#039;re trying to help people, not get famous!
+
+目立たないと弱いやつらにも勇気与えられねえじゃん
+But if people don&#039;t know who we are, how&#039;re we gonna give them any courage?
+
+そのとおりだ
+&gt;本当にそうか？
+He&#039;s right.
+Are you sure, Ryuji?
+
+本当にそうか？
+Are you sure, Ryuji?
+
+俺、間違ってる？
+Am I wrong?
+
+間違ってるわけじゃないけどさ
+I don&#039;t think that you&#039;re necessarily wrong...
+
+鴨志田のときみたいな理由がないのに、いいのかな
+But should we really be doing this at all if we don&#039;t have a reason like with Kamoshida?
+
+クビつっこむなって話か？
+You mean we shouldn&#039;t be sticking our noses into other people&#039;s business?
+
+困ってるヤツがいたら助けんのがスジだろ！
+I dunno, man.  If someone&#039;s in trouble, it&#039;s only natural to wanna help &#039;em out!
+
+私だってそう思ってるよ
+I mean, I agree with that.
+
+今回はストーカーのこと解決できて嬉しかったし
+And I guess I was glad we were able to solve the stalker case.
+
+つか、そのためのペルソナだろ？
+Plus, what good are our Personas if we don&#039;t use &#039;em for good?
+
+&lt;name&gt;だってそう思うよな？
+Don&#039;t you agree &lt;name&gt;?
+
+&gt;当然だ
+助けたい
+Definitely.
+I want to help people.
+
+当然だ
+Definitely.
+
+そうだよね
+Yeah... You&#039;re right.
+
+あんま迷ってるヒマねえぞマダラメ？とかも気になるし
+We don&#039;t got much time to be arguing over this either.  That Madarame(?) guy bothers me.
+
+わかったでも調子に乗るのはダメ
+Yeah.  But no getting carried away, you understand?
+
+目立つのもやめてよテストで全部赤点とか
+And don&#039;t do anything to stand out like fail all your exams.
+
+やべ！勉強全然してねえ
+Oh crap!  Speaking of that, I haven&#039;t studied at all...
+
+リュージからか？メメントスのこと、何か言ってたから？
+Is it Ryuji?  Did he mention anything about Mementos?
+
+分からない事があったら、教えてやるぞ。
+If there&#039;s anything you want to know, I can tell you.</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

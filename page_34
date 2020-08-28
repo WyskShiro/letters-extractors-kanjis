@@ -1,0 +1,1071 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 4 (Japanese + English) (Ver 2) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta name="robots" content="noindex" />
+    <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 4 (Japanese + English) (Ver 2) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/C20pm2aT" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/C20pm2aT" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="w3la0J1hiA-c2QIJ4UvAzbNfIhE8YKiaZpbJTcFU9MyAFg6mzCD7YeWPR0vXfKSZ0ml2YlBZ6cAWpfF5jCDE-g==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/C20pm2aT" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/C20pm2aT" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 4 (Japanese + English) (Ver 2)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Sunday 17th of November 2019 05:57:59 PM CDT">Nov 17th, 2019</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    86                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 15.65 KB            </div>
+
+            <div class="right">
+                <a href="/raw/C20pm2aT" class="btn -small">raw</a>
+                <a href="/dl/C20pm2aT" class="btn -small">download</a>
+                <a href="/clone/C20pm2aT" class="btn -small h_800">clone</a>
+                <a href="/embed/C20pm2aT" class="btn -small h_800">embed</a>
+                <a href="/report/C20pm2aT" class="btn -small">report</a>
+                <a href="/print/C20pm2aT" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">#back at school</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kawakami</div></li><li class="li1"><div class="de1">もう４限じゃない。</div></li><li class="li1"><div class="de1">...It’s fourth period already.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kawakami</div></li><li class="li1"><div class="de1">佐倉さんは家出たって言ってるし、警察に連絡した方が</div></li><li class="li1"><div class="de1">Sakura-san said that &lt;name&gt;-kun left the house this morning.  Should I contact the police…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kawakami</div></li><li class="li1"><div class="de1">いや、そんなの余計面倒なことになるし</div></li><li class="li1"><div class="de1">No, that’ll just be more of a hassle...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kawakami</div></li><li class="li1"><div class="de1">ホント、厄介なこと押しつけられたちゃったな</div></li><li class="li1"><div class="de1">What did I do to deserve this…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#back at the castle</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">しゃーねぇ　ついて行ってみっか。</div></li><li class="li1"><div class="de1">Oh well… Guess we just gotta follow it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">なにやってんだ？</div></li><li class="li1"><div class="de1">What’re you doin’?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1"> 決まってるだろ、橋を降ろすんだよ。</div></li><li class="li1"><div class="de1">What does it look like I’m doing?   I’m lowering the bridge.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">クセっ毛のオマエ、キンバツより飲み込みが早そうだ。</div></li><li class="li1"><div class="de1">You, Frizzy Hair.  It seems like you pick up on things faster than Blondie over here.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ちょっとこの像を調べてみろ。口のところだ。</div></li><li class="li1"><div class="de1">Try checking around the mouth of this statue, OK?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">こんなん分かるかよ！</div></li><li class="li1"><div class="de1">How were we supposed to know to do that!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">素人め。さっさと行くぞ！</div></li><li class="li1"><div class="de1">Hmph, amateur.  Come on, let’s keep going!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">う、うわぁ！！やべえ、きたぁー！！</div></li><li class="li1"><div class="de1">A-Aah!  Shit... Shit, it’s them!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ちっ　とんだ素人め！</div></li><li class="li1"><div class="de1">Tch… You amateur!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">じっとしてろ！</div></li><li class="li1"><div class="de1">Stay still!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">おい、オマエ！戦えるんだろ？やるぞ！！</div></li><li class="li1"><div class="de1">Hey, you!  You could fight, right?  Let’s go!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">来い</div></li><li class="li1"><div class="de1">Come…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ゾロッ！！</div></li><li class="li1"><div class="de1">Zorro!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1"> お前もそれ、出んのかよっ！？</div></li><li class="li1"><div class="de1">Y-You got one of those things too!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">速やかに黙らせてやる！</div></li><li class="li1"><div class="de1">Hmph, we will promptly shut them up!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">シャドウめ　迎撃態勢に入りやがったな！</div></li><li class="li1"><div class="de1">Damn Shadows… they’ve taken up intercept positions!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ワガハイたちを殺すために、本気を出してきたってことだぜ！</div></li><li class="li1"><div class="de1">It means they’re holding nothing back and are serious to kill us!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">支援してやるから死ぬ気で戦え！行くぞ！</div></li><li class="li1"><div class="de1">I’ll back you up, so fight like your life depends on it!  Let’s go!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ふん、やっぱり素人だな。</div></li><li class="li1"><div class="de1">Hmph, I knew you were an amatear.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">戦いってのはこうやるんだよ！</div></li><li class="li1"><div class="de1">This is how you fight!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">弱点に攻撃して敵をコカす！その隙を突いてさらに動く！</div></li><li class="li1"><div class="de1">Strike at an enemy’s weakness to knock it them down!  Use that opening to strike again!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">基本中の基本だ！覚えとけ！</div></li><li class="li1"><div class="de1">That’s the most basic of basics!  Remember it well!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ほら、さっさと突破するぞ！</div></li><li class="li1"><div class="de1">C’mon, let’s hurry and get through this!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">オマエ、やるじゃねえか。ペルソナの力も、なかなかのもんだ。</div></li><li class="li1"><div class="de1">Not bad.  Your Persona’s pretty powerful.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">ペルソナ　？</div></li><li class="li1"><div class="de1">Persona…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">お前らがブワーって出す、あれか？</div></li><li class="li1"><div class="de1">Y’mean that thing that comes outta you</div></li><li class="li1"><div class="de1">guys all dramatic-like?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">呼び出すとき、クセっ毛のコイツが、仮面をはがすのを見たろ？</div></li><li class="li1"><div class="de1">Yes.  You saw how Frizzy Hair here ripped off his mask when he summoned it, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">人は誰でも、心に仮面を被ってる。そいつを自覚し、自らはがす事で</div></li><li class="li1"><div class="de1">Well, everybody wears a mask deep within their heart.  By removing that...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">また戻っちまった</div></li><li class="li1"><div class="de1">Huh…?  He turned back to normal...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">力の扱いが、まだ完全じゃないようだな…</div></li><li class="li1"><div class="de1">こんだけ騒がれてて、変身が解けるはずがない。</div></li><li class="li1"><div class="de1">Hm, it looks like you don’t have full control over your power yet.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">あの姿は、本来</div></li><li class="li1"><div class="de1">The transformation shouldn’t normally dissolve like that.  After all--</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">あー、もういい！さっきからワケ分かんねえしっ！</div></li><li class="li1"><div class="de1">Rrgh, that’s enough!  This crap doesn’t make any sense!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">話くらい、じっと聞けねえのかキンバツ！</div></li><li class="li1"><div class="de1">Can’t you just sit still and listen for once, Blondie!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">キンバツ、キンバツ言うな！ちゃんと竜司って名前が</div></li><li class="li1"><div class="de1">Don’t call me Blondie!  My name’s Ryuji...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">よく考えたら、講義してやってる時間はねえよ！</div></li><li class="li1"><div class="de1">Actually, there’s no time for me to lecture you!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">生きて出たいんだろ？行くぞ！</div></li><li class="li1"><div class="de1">You wanna escape this place in one piece, right?  Let’s go!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">っと、その前に　コイツをくれてやる、大事に使えよ？</div></li><li class="li1"><div class="de1">Oh, but before that... take these.  Use them carefully, OK?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#get medicine</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">急ぐぞ。出口まで、そう遠くない。</div></li><li class="li1"><div class="de1">Come on, we should hurry.  It’s not much farther to the exit.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">一応、体力には注意しておけよ？また戦闘にならんとも限らんからな。</div></li><li class="li1"><div class="de1">Just make sure you’re good on HP, OK?  There’s still a chance we’ll end up having to fight in here.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Ryuji noticing guy in cell</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">ちょっと待った！</div></li><li class="li1"><div class="de1">Hold on a sec!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">これ、こいつの格好　どっんで見た気が</div></li><li class="li1"><div class="de1">I feel like I’ve seen what this dude’s wearin’ before...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">クソッ、頭がパニクって出てこねえ！</div></li><li class="li1"><div class="de1">Dammit!  I’m too flustered!  I can’t remember a damn thing!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">行くぞ！？</div></li><li class="li1"><div class="de1">Come on, let’s go!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">待てって！</div></li><li class="li1"><div class="de1">Hold on, dammit!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">何なんだ、早くしろ！</div></li><li class="li1"><div class="de1">What is it?  We need to go, fast!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">コイツら、確か</div></li><li class="li1"><div class="de1">But… who are these guys?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">他人の心配してる状況かよ！？</div></li><li class="li1"><div class="de1">Do you really think you have time to worry about other people right now!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">それに、そいつらは</div></li><li class="li1"><div class="de1">Besides, they’re--</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Guard</div></li><li class="li1"><div class="de1">見つけたぞッ！</div></li><li class="li1"><div class="de1">There!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">言わんこっちゃねえ　！</div></li><li class="li1"><div class="de1">You should’ve listened to me…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">迎え撃とう</div></li><li class="li1"><div class="de1">&gt;逃げよう</div></li><li class="li1"><div class="de1">Let’s fight.</div></li><li class="li1"><div class="de1">Let’s run away.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">アイツが許してくれりゃあな</div></li><li class="li1"><div class="de1">Sure, if it lets us...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">駄目だってさ。やるぞ！</div></li><li class="li1"><div class="de1">Looks like that’s not an option.  Come on, let’s do this!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#after fight</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">よしっ、新手が来る前に逃げるぞ！</div></li><li class="li1"><div class="de1">All right!  Let’s get away before more show up!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">待てって！こいつら、こんままじゃ</div></li><li class="li1"><div class="de1">Hold on, we can’t just leave these guys here...!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">お前、本当に何も分かってないんだな？　いや、説明してる暇は無いか</div></li><li class="li1"><div class="de1">You really don’t get it, do you?  Hrgh.. There’s no time to explain.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">おい、ワガハイは行くぞ？ついてこないなら、好きにしな！</div></li><li class="li1"><div class="de1">Look, I’m going.  If you don’t want to follow, be my guest!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">ちっ　分かったよチクショウ！</div></li><li class="li1"><div class="de1">Dammit... Fine, I’m coming!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">この上が正面ホールだ！出口は近いぞ、ついて来い！</div></li><li class="li1"><div class="de1">The entrance hall is right above here!  The exit’s close... Keep it up!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">着いたぞ！</div></li><li class="li1"><div class="de1">We’re here!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">やっとか！助かった　！</div></li><li class="li1"><div class="de1">Finally!  We’re saved…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">開かねえ！</div></li><li class="li1"><div class="de1">...It’s not openin’!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">テメェ、騙しやがったのか！？</div></li><li class="li1"><div class="de1">D’you trick us, you jerk!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">慌てんな！こっちだ！</div></li><li class="li1"><div class="de1">Don’t jump to conclusions!  Over here!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">ま、待てよオイ！</div></li><li class="li1"><div class="de1">H-Hey, wait up!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">どっから出んだ、窓も無えぞ！？</div></li><li class="li1"><div class="de1">Where are we supposed to get out from here!?  There aren’t even any windows!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">これだから素人は</div></li><li class="li1"><div class="de1">Ugh, amateur...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">こんなの基本中の基本だぞ？</div></li><li class="li1"><div class="de1">This is the most basic of basics.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;通気口か？</div></li><li class="li1"><div class="de1">壁を壊すのか？</div></li><li class="li1"><div class="de1">ここで心中か？</div></li><li class="li1"><div class="de1">A ventilation shaft?</div></li><li class="li1"><div class="de1">Blow the wall up?</div></li><li class="li1"><div class="de1">Are we going to die here?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">その通り！オマエ、やはり筋がいいな。</div></li><li class="li1"><div class="de1">That’s right!  As I thought, you’re a natural at this.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">外までちゃんと通じてるぜ。</div></li><li class="li1"><div class="de1">It leads all the way outside.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">なるほど</div></li><li class="li1"><div class="de1">I see...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">てことは、あの嵌ってる網を　！</div></li><li class="li1"><div class="de1">Then we just gotta get that metallic mesh off!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">せぇえのぉ　っ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">痛ってぇ　やべ！敵に聞こえてねえよな！？</div></li><li class="li1"><div class="de1">Oww... Crap!  The enemy didn’t hear us, did they?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">やっとだぜマジ　！</div></li><li class="li1"><div class="de1">Seriously, we’re finally gettin’ outta here…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">喜ぶのは出てからにしておけ。</div></li><li class="li1"><div class="de1">You should wait on celebrating until you actually get out.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">さあ、行けよ。</div></li><li class="li1"><div class="de1">Now, get going.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">行けよって　お前は？</div></li><li class="li1"><div class="de1">But... what about you?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ワガハイは、まだやる事があるからな。</div></li><li class="li1"><div class="de1">There’s something that I still have to do.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ここでお別れだ。</div></li><li class="li1"><div class="de1">We’re going our separate ways.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ありがとう</div></li><li class="li1"><div class="de1">&gt;今度は捕まるな</div></li><li class="li1"><div class="de1">Thanks.</div></li><li class="li1"><div class="de1">Don’t get caught again.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ふん、そっちこそ気を付けろよ？</div></li><li class="li1"><div class="de1">Heh, you better be careful too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">じゃあな。</div></li><li class="li1"><div class="de1">See ya.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#exit main character and Ryuji</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">あいつら　使えそうだな</div></li><li class="li1"><div class="de1">Those two seem useful...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Morgana</div></li><li class="li1"><div class="de1">ワガハイの見立てが確かなら、あのクセっ毛の方はとくに　な。</div></li><li class="li1"><div class="de1">Especially the frizzy-haired one, if my judgment’s right...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#outside the palace</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">俺ら、どうなった？</div></li><li class="li1"><div class="de1">Did we make it…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Navigation App</div></li><li class="li1"><div class="de1">現実世界に帰還しました。お疲れ様でした。</div></li><li class="li1"><div class="de1">You have returned to the real world.  Welcome back.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">あ？帰還しました　？</div></li><li class="li1"><div class="de1">Huh?  Returned…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">　逃げ切れたってことか？</div></li><li class="li1"><div class="de1">...Does that mean we got away?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;おそらく</div></li><li class="li1"><div class="de1">こっちが訊きたい</div></li><li class="li1"><div class="de1">Probably.</div></li><li class="li1"><div class="de1">I wonder...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">もう何が何だかよ</div></li><li class="li1"><div class="de1">I dunno what to think anymore...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">なんだったんだよ、アレ　？城か、鴨志田とか、妙な猫とか！</div></li><li class="li1"><div class="de1">What was all that anyways...?  That castle, and Kamoshida, and that weird cat!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">どうなってんだよっ！？</div></li><li class="li1"><div class="de1">The hell’s goin’ on!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">でかい声だな。お前ら、秀尽の生徒か？</div></li><li class="li1"><div class="de1">What’s with the yelling?  Are you students of Shujin?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">サボリか？</div></li><li class="li1"><div class="de1">Cutting classes, are we?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">あ？ちがうって！</div></li><li class="li1"><div class="de1">Huh?  No!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">学校、行こうとしたら変な城でっ！</div></li><li class="li1"><div class="de1">We were tryin’ to get to school, and we ended up at this weird castle!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">なんだ？</div></li><li class="li1"><div class="de1">...What?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">おい、カベン出せ。おかしなモン、やってないだろうな？</div></li><li class="li1"><div class="de1">Hand over your bag.  You better not be doing any drugs.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">なんでそうなんだよっ！</div></li><li class="li1"><div class="de1">Why would you think that!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">キミは友達か？</div></li><li class="li1"><div class="de1">Are you his friend?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;そんなものだ</div></li><li class="li1"><div class="de1">アカの他人だ</div></li><li class="li1"><div class="de1">実は絡まれてる</div></li><li class="li1"><div class="de1">Something like that.</div></li><li class="li1"><div class="de1">Never met him.</div></li><li class="li1"><div class="de1">He was bullying me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">だったら　学校に行きたまえ。彼を連れてね。</div></li><li class="li1"><div class="de1">Then you should go to school.  Take him with you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">だからっ！俺だってわけ分かんねえんだって！</div></li><li class="li1"><div class="de1">Like I’m tryin’ to say...!  I don’t know what’s goin’ on either!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">秀尽の前なら通って来たよ。おかしな所はなかった。</div></li><li class="li1"><div class="de1">We passed by Shujin on our way here.  There was nothing out of the ordinary about it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Police</div></li><li class="li1"><div class="de1">それ以上でたらめを言う気なら、学校に連絡するぞ？</div></li><li class="li1"><div class="de1">If you spout any more nonsense, I’ll contact your school.  Is that what you want?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">お前からもなんか言えよ！</div></li><li class="li1"><div class="de1">C’mon, say somethin’!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そろそろ行こう</div></li><li class="li1"><div class="de1">&gt;遅刻したくない</div></li><li class="li1"><div class="de1">Let’s get going.</div></li><li class="li1"><div class="de1">I don’t want to be late.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">や、そうじゃねえだろ。</div></li><li class="li1"><div class="de1">Uh, that’s not what I meant...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">ま、待てよ！まじかコイツ</div></li><li class="li1"><div class="de1">W-Wait a sec!  Is that guy for real…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">行くゃいいんだろ</div></li><li class="li1"><div class="de1">...Fine, I’m goin’!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Sae boss monologuing in his office for some reason</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae boss</div></li><li class="li1"><div class="de1">国交相が辞任表明</div></li><li class="li1"><div class="de1">A Minister of Transport announcing his resignation...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae boss</div></li><li class="li1"><div class="de1">フフ、これで</div></li><li class="li1"><div class="de1">*chuckle* Things are going as planned...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae boss</div></li><li class="li1"><div class="de1">新島冴　そういえば、彼女</div></li><li class="li1"><div class="de1">Sae Niijima… That reminds me...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Sae boss</div></li><li class="li1"><div class="de1">今は泳がせでおくか。</div></li><li class="li1"><div class="de1">...Better to leave it be for now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#In front of the normal school</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">マジかよ</div></li><li class="li1"><div class="de1">Is this for real…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">同じ道、来たはずだろ　どうなってやがんだ</div></li><li class="li1"><div class="de1">I’m sure we came the same way…  What’s goin’ on here…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#school official approaches</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">どうなってんだは、こっちのセリフだ。</div></li><li class="li1"><div class="de1">That’s exactly what I wanted to ask you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">補導の連絡あったぞ。</div></li><li class="li1"><div class="de1">We received a call from the police.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">あの警官、結局チクったんかよ！</div></li><li class="li1"><div class="de1">That damn cop snitched on us after all!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">お前が一人じゃないとは、珍しいな。</div></li><li class="li1"><div class="de1">It’s rare not to see you alone.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">こんな時間までどこほっつき歩いてた？</div></li><li class="li1"><div class="de1">Where were you roaming around until this time?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">城？</div></li><li class="li1"><div class="de1">Uhh… a ca- a castle?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">まともに答える気無いわけか？</div></li><li class="li1"><div class="de1">So, you have no intention of giving an honest answer?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#enter Kamoshida</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">「城」が、どうしたって？</div></li><li class="li1"><div class="de1">What’s this about a “castle”?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">鴨志田！</div></li><li class="li1"><div class="de1">Kamoshida!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">呑気だな、坂本。</div></li><li class="li1"><div class="de1">You seem so carefree, Sakamoto.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">陸上の朝練やってた頃とは大違いだ。</div></li><li class="li1"><div class="de1">Quite a difference from when you did morning practice for the track team.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">るっせ！テメェが</div></li><li class="li1"><div class="de1">Shuddup!  It’s your fault that--</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">鴨志田先生になんて口きいてんだ！？</div></li><li class="li1"><div class="de1">How dare you speak that way to Mr. Kamoshida!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">お前な、もう後ないんだぞ？</div></li><li class="li1"><div class="de1">...There’s not much leeway left for you, you know?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">向こうが煽ってきたんだろうがっ！</div></li><li class="li1"><div class="de1">He’s the one that provoked me!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">ほんとに退学になりたいのかっ！？</div></li><li class="li1"><div class="de1">Do you really want to be expelled!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">とにかく事情聞くからな、来い！</div></li><li class="li1"><div class="de1">In any case, you’ll have to explain yourself!  Follow me!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">はぁ！？ふざけんな！</div></li><li class="li1"><div class="de1">What !?  This is bullshit!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">私も配慮が足りませんでしたし、ここは両成敗ってことで。</div></li><li class="li1"><div class="de1">Come now.  I should have been more considerate, too.  Let’s just say we were both to blame.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">え？いや、まあ、鴨志田先生がおっしゃるなら</div></li><li class="li1"><div class="de1">Well, if you say so...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">School official</div></li><li class="li1"><div class="de1">とにかく来なさい。大遅刻は事実だ。</div></li><li class="li1"><div class="de1">Still, you’re coming with me.  It’s undeniable that you’re extremely late.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Ryuji</div></li><li class="li1"><div class="de1">わぁったよ</div></li><li class="li1"><div class="de1">Fine...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">ところで　例の転校生ってのは、お前だな？&lt;name&gt;</div></li><li class="li1"><div class="de1">By the way… you’re that new transfer student, correct?  &lt;name&gt;...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">何処かで会ったか？</div></li><li class="li1"><div class="de1">...Have we met somewhere?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">城で会った</div></li><li class="li1"><div class="de1">&gt;知らない</div></li><li class="li1"><div class="de1">女子を車に乗せてた</div></li><li class="li1"><div class="de1">At the castle.</div></li><li class="li1"><div class="de1">Nope.</div></li><li class="li1"><div class="de1">I saw a girl in your car.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">ん　？そうか　駅前で見たな。</div></li><li class="li1"><div class="de1">Hm…?  Oh, I remember now… I saw you at the station.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">まあ、今日だけは大目に見てやる。</div></li><li class="li1"><div class="de1">...Well, I’ll overlook this just for today.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">校長から聞いていると思うが、問題を起こしたら、退学だからな？</div></li><li class="li1"><div class="de1">I’m sure you’ve heard from the principal, but cause any trouble and you’ll be expelled.  Understand?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わかりました</div></li><li class="li1"><div class="de1">&gt;明日からも頼む</div></li><li class="li1"><div class="de1">I understand.</div></li><li class="li1"><div class="de1">Can you overlook more?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">冗談のつもりか？面白いないな。</div></li><li class="li1"><div class="de1">Is that supposed to be a joke?  I’m not laughing.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">まあいい。早く職員室へ行け。川上先生も待ちくたびれてるだろう。</div></li><li class="li1"><div class="de1">At any rate, hurry up and go to the faculty office.  I’m sure Ms. Kawakami’s tired of waiting.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">Kamoshida</div></li><li class="li1"><div class="de1">新しい学校生活、せいぜい楽しめよ。</div></li><li class="li1"><div class="de1">Good luck trying to enjoy your new school life.</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">#back at school
+
+Kawakami
+もう４限じゃない。
+...It’s fourth period already.
+
+Kawakami
+佐倉さんは家出たって言ってるし、警察に連絡した方が
+Sakura-san said that &lt;name&gt;-kun left the house this morning.  Should I contact the police…?
+
+Kawakami
+いや、そんなの余計面倒なことになるし
+No, that’ll just be more of a hassle...
+
+Kawakami
+ホント、厄介なこと押しつけられたちゃったな
+What did I do to deserve this…?
+
+#back at the castle
+
+Ryuji
+しゃーねぇ　ついて行ってみっか。
+Oh well… Guess we just gotta follow it.
+
+Ryuji
+なにやってんだ？
+What’re you doin’?
+
+Morgana
+ 決まってるだろ、橋を降ろすんだよ。
+What does it look like I’m doing?   I’m lowering the bridge.
+
+Morgana
+クセっ毛のオマエ、キンバツより飲み込みが早そうだ。
+You, Frizzy Hair.  It seems like you pick up on things faster than Blondie over here.
+
+Morgana
+ちょっとこの像を調べてみろ。口のところだ。
+Try checking around the mouth of this statue, OK?
+
+Ryuji
+こんなん分かるかよ！
+How were we supposed to know to do that!?
+
+Morgana
+素人め。さっさと行くぞ！
+Hmph, amateur.  Come on, let’s keep going!
+
+Ryuji
+う、うわぁ！！やべえ、きたぁー！！
+A-Aah!  Shit... Shit, it’s them!
+
+Morgana
+ちっ　とんだ素人め！
+Tch… You amateur!
+
+Morgana
+じっとしてろ！
+Stay still!
+
+Morgana
+おい、オマエ！戦えるんだろ？やるぞ！！
+Hey, you!  You could fight, right?  Let’s go!
+
+Morgana
+来い
+Come…!
+
+Morgana
+ゾロッ！！
+Zorro!
+
+Ryuji
+ お前もそれ、出んのかよっ！？
+Y-You got one of those things too!?
+
+Morgana
+速やかに黙らせてやる！
+Hmph, we will promptly shut them up!
+
+Morgana
+シャドウめ　迎撃態勢に入りやがったな！
+Damn Shadows… they’ve taken up intercept positions!
+
+Morgana
+ワガハイたちを殺すために、本気を出してきたってことだぜ！
+It means they’re holding nothing back and are serious to kill us!
+
+Morgana
+支援してやるから死ぬ気で戦え！行くぞ！
+I’ll back you up, so fight like your life depends on it!  Let’s go!
+
+Morgana
+ふん、やっぱり素人だな。
+Hmph, I knew you were an amatear.
+
+Morgana
+戦いってのはこうやるんだよ！
+This is how you fight!
+
+Morgana
+弱点に攻撃して敵をコカす！その隙を突いてさらに動く！
+Strike at an enemy’s weakness to knock it them down!  Use that opening to strike again!
+
+Morgana
+基本中の基本だ！覚えとけ！
+That’s the most basic of basics!  Remember it well!
+
+Morgana
+ほら、さっさと突破するぞ！
+C’mon, let’s hurry and get through this!
+
+Morgana
+オマエ、やるじゃねえか。ペルソナの力も、なかなかのもんだ。
+Not bad.  Your Persona’s pretty powerful.
+
+Ryuji
+ペルソナ　？
+Persona…?
+
+Ryuji
+お前らがブワーって出す、あれか？
+Y’mean that thing that comes outta you
+guys all dramatic-like?
+
+Morgana
+呼び出すとき、クセっ毛のコイツが、仮面をはがすのを見たろ？
+Yes.  You saw how Frizzy Hair here ripped off his mask when he summoned it, right?
+
+Morgana
+人は誰でも、心に仮面を被ってる。そいつを自覚し、自らはがす事で
+Well, everybody wears a mask deep within their heart.  By removing that...
+
+Ryuji
+また戻っちまった
+Huh…?  He turned back to normal...
+
+Morgana
+力の扱いが、まだ完全じゃないようだな…
+こんだけ騒がれてて、変身が解けるはずがない。
+Hm, it looks like you don’t have full control over your power yet.
+
+Morgana
+あの姿は、本来
+The transformation shouldn’t normally dissolve like that.  After all--
+
+Ryuji
+あー、もういい！さっきからワケ分かんねえしっ！
+Rrgh, that’s enough!  This crap doesn’t make any sense!
+
+Morgana
+話くらい、じっと聞けねえのかキンバツ！
+Can’t you just sit still and listen for once, Blondie!?
+
+Ryuji
+キンバツ、キンバツ言うな！ちゃんと竜司って名前が
+Don’t call me Blondie!  My name’s Ryuji...
+
+Morgana
+よく考えたら、講義してやってる時間はねえよ！
+Actually, there’s no time for me to lecture you!
+
+Morgana
+生きて出たいんだろ？行くぞ！
+You wanna escape this place in one piece, right?  Let’s go!
+
+Morgana
+っと、その前に　コイツをくれてやる、大事に使えよ？
+Oh, but before that... take these.  Use them carefully, OK?
+
+#get medicine
+
+Morgana
+急ぐぞ。出口まで、そう遠くない。
+Come on, we should hurry.  It’s not much farther to the exit.
+
+Morgana
+一応、体力には注意しておけよ？また戦闘にならんとも限らんからな。
+Just make sure you’re good on HP, OK?  There’s still a chance we’ll end up having to fight in here.
+
+#Ryuji noticing guy in cell
+
+Ryuji
+ちょっと待った！
+Hold on a sec!
+
+Ryuji
+これ、こいつの格好　どっんで見た気が
+I feel like I’ve seen what this dude’s wearin’ before...
+
+Ryuji
+クソッ、頭がパニクって出てこねえ！
+Dammit!  I’m too flustered!  I can’t remember a damn thing!
+
+Morgana
+行くぞ！？
+Come on, let’s go!
+
+Ryuji
+待てって！
+Hold on, dammit!
+
+Morgana
+何なんだ、早くしろ！
+What is it?  We need to go, fast!
+
+Ryuji
+コイツら、確か
+But… who are these guys?
+
+Morgana
+他人の心配してる状況かよ！？
+Do you really think you have time to worry about other people right now!?
+
+Morgana
+それに、そいつらは
+Besides, they’re--
+
+Guard
+見つけたぞッ！
+There!
+
+Morgana
+言わんこっちゃねえ　！
+You should’ve listened to me…!
+
+迎え撃とう
+&gt;逃げよう
+Let’s fight.
+Let’s run away.
+
+Morgana
+アイツが許してくれりゃあな
+Sure, if it lets us...
+
+Morgana
+駄目だってさ。やるぞ！
+Looks like that’s not an option.  Come on, let’s do this!
+
+#after fight
+
+Morgana
+よしっ、新手が来る前に逃げるぞ！
+All right!  Let’s get away before more show up!
+
+Ryuji
+待てって！こいつら、こんままじゃ
+Hold on, we can’t just leave these guys here...!
+
+Morgana
+お前、本当に何も分かってないんだな？　いや、説明してる暇は無いか
+You really don’t get it, do you?  Hrgh.. There’s no time to explain.
+
+Morgana
+おい、ワガハイは行くぞ？ついてこないなら、好きにしな！
+Look, I’m going.  If you don’t want to follow, be my guest!
+
+Ryuji
+ちっ　分かったよチクショウ！
+Dammit... Fine, I’m coming!
+
+Morgana
+この上が正面ホールだ！出口は近いぞ、ついて来い！
+The entrance hall is right above here!  The exit’s close... Keep it up!
+
+Morgana
+着いたぞ！
+We’re here!
+
+Ryuji
+やっとか！助かった　！
+Finally!  We’re saved…!
+
+Ryuji
+開かねえ！
+...It’s not openin’!
+
+Ryuji
+テメェ、騙しやがったのか！？
+D’you trick us, you jerk!?
+
+Morgana
+慌てんな！こっちだ！
+Don’t jump to conclusions!  Over here!
+
+Ryuji
+ま、待てよオイ！
+H-Hey, wait up!
+
+Ryuji
+どっから出んだ、窓も無えぞ！？
+Where are we supposed to get out from here!?  There aren’t even any windows!
+
+Morgana
+これだから素人は
+Ugh, amateur...
+
+Morgana
+こんなの基本中の基本だぞ？
+This is the most basic of basics.
+
+&gt;通気口か？
+壁を壊すのか？
+ここで心中か？
+A ventilation shaft?
+Blow the wall up?
+Are we going to die here?
+
+Morgana
+その通り！オマエ、やはり筋がいいな。
+That’s right!  As I thought, you’re a natural at this.
+
+Morgana
+外までちゃんと通じてるぜ。
+It leads all the way outside.
+
+Ryuji
+なるほど
+I see...
+
+Ryuji
+てことは、あの嵌ってる網を　！
+Then we just gotta get that metallic mesh off!
+
+Ryuji
+せぇえのぉ　っ！
+
+Ryuji
+痛ってぇ　やべ！敵に聞こえてねえよな！？
+Oww... Crap!  The enemy didn’t hear us, did they?
+
+Ryuji
+やっとだぜマジ　！
+Seriously, we’re finally gettin’ outta here…!
+
+Morgana
+喜ぶのは出てからにしておけ。
+You should wait on celebrating until you actually get out.
+
+Morgana
+さあ、行けよ。
+Now, get going.
+
+Ryuji
+行けよって　お前は？
+But... what about you?
+
+Morgana
+ワガハイは、まだやる事があるからな。
+There’s something that I still have to do.
+
+Morgana
+ここでお別れだ。
+We’re going our separate ways.
+
+ありがとう
+&gt;今度は捕まるな
+Thanks.
+Don’t get caught again.
+
+Morgana
+ふん、そっちこそ気を付けろよ？
+Heh, you better be careful too.
+
+Morgana
+じゃあな。
+See ya.
+
+#exit main character and Ryuji
+
+Morgana
+あいつら　使えそうだな
+Those two seem useful...
+
+Morgana
+ワガハイの見立てが確かなら、あのクセっ毛の方はとくに　な。
+Especially the frizzy-haired one, if my judgment’s right...
+
+#outside the palace
+
+Ryuji
+俺ら、どうなった？
+Did we make it…?
+
+Navigation App
+現実世界に帰還しました。お疲れ様でした。
+You have returned to the real world.  Welcome back.
+
+Ryuji
+あ？帰還しました　？
+Huh?  Returned…?
+
+Ryuji
+　逃げ切れたってことか？
+...Does that mean we got away?
+
+&gt;おそらく
+こっちが訊きたい
+Probably.
+I wonder...
+
+Ryuji
+もう何が何だかよ
+I dunno what to think anymore...
+
+Ryuji
+なんだったんだよ、アレ　？城か、鴨志田とか、妙な猫とか！
+What was all that anyways...?  That castle, and Kamoshida, and that weird cat!
+
+Ryuji
+どうなってんだよっ！？
+The hell’s goin’ on!?
+
+Police
+でかい声だな。お前ら、秀尽の生徒か？
+What’s with the yelling?  Are you students of Shujin?
+
+Police
+サボリか？
+Cutting classes, are we?
+
+Ryuji
+あ？ちがうって！
+Huh?  No!
+
+Ryuji
+学校、行こうとしたら変な城でっ！
+We were tryin’ to get to school, and we ended up at this weird castle!
+
+Police
+なんだ？
+...What?
+
+Police
+おい、カベン出せ。おかしなモン、やってないだろうな？
+Hand over your bag.  You better not be doing any drugs.
+
+Ryuji
+なんでそうなんだよっ！
+Why would you think that!?
+
+Police
+キミは友達か？
+Are you his friend?
+
+&gt;そんなものだ
+アカの他人だ
+実は絡まれてる
+Something like that.
+Never met him.
+He was bullying me.
+
+Police
+だったら　学校に行きたまえ。彼を連れてね。
+Then you should go to school.  Take him with you.
+
+Ryuji
+だからっ！俺だってわけ分かんねえんだって！
+Like I’m tryin’ to say...!  I don’t know what’s goin’ on either!
+
+Police
+秀尽の前なら通って来たよ。おかしな所はなかった。
+We passed by Shujin on our way here.  There was nothing out of the ordinary about it.
+
+Police
+それ以上でたらめを言う気なら、学校に連絡するぞ？
+If you spout any more nonsense, I’ll contact your school.  Is that what you want?
+
+Ryuji
+お前からもなんか言えよ！
+C’mon, say somethin’!
+
+そろそろ行こう
+&gt;遅刻したくない
+Let’s get going.
+I don’t want to be late.
+
+Ryuji
+や、そうじゃねえだろ。
+Uh, that’s not what I meant...
+
+Ryuji
+ま、待てよ！まじかコイツ
+W-Wait a sec!  Is that guy for real…?
+
+Ryuji
+行くゃいいんだろ
+...Fine, I’m goin’!
+
+#Sae boss monologuing in his office for some reason
+
+Sae boss
+国交相が辞任表明
+A Minister of Transport announcing his resignation...
+
+Sae boss
+フフ、これで
+*chuckle* Things are going as planned...
+
+Sae boss
+新島冴　そういえば、彼女
+Sae Niijima… That reminds me...
+
+Sae boss
+今は泳がせでおくか。
+...Better to leave it be for now.
+
+#In front of the normal school
+
+Ryuji
+マジかよ
+Is this for real…?
+
+Ryuji
+同じ道、来たはずだろ　どうなってやがんだ
+I’m sure we came the same way…  What’s goin’ on here…?
+
+#school official approaches
+
+School official
+どうなってんだは、こっちのセリフだ。
+That’s exactly what I wanted to ask you.
+
+School official
+補導の連絡あったぞ。
+We received a call from the police.
+
+Ryuji
+あの警官、結局チクったんかよ！
+That damn cop snitched on us after all!
+
+School official
+お前が一人じゃないとは、珍しいな。
+It’s rare not to see you alone.
+
+School official
+こんな時間までどこほっつき歩いてた？
+Where were you roaming around until this time?
+
+Ryuji
+城？
+Uhh… a ca- a castle?
+
+School official
+まともに答える気無いわけか？
+So, you have no intention of giving an honest answer?
+
+#enter Kamoshida
+
+Kamoshida
+「城」が、どうしたって？
+What’s this about a “castle”?
+
+Ryuji
+鴨志田！
+Kamoshida!?
+
+Kamoshida
+呑気だな、坂本。
+You seem so carefree, Sakamoto.
+
+Kamoshida
+陸上の朝練やってた頃とは大違いだ。
+Quite a difference from when you did morning practice for the track team.
+
+Ryuji
+るっせ！テメェが
+Shuddup!  It’s your fault that--
+
+School official
+鴨志田先生になんて口きいてんだ！？
+How dare you speak that way to Mr. Kamoshida!
+
+School official
+お前な、もう後ないんだぞ？
+...There’s not much leeway left for you, you know?
+
+Ryuji
+向こうが煽ってきたんだろうがっ！
+He’s the one that provoked me!
+
+School official
+ほんとに退学になりたいのかっ！？
+Do you really want to be expelled!?
+
+School official
+とにかく事情聞くからな、来い！
+In any case, you’ll have to explain yourself!  Follow me!
+
+Ryuji
+はぁ！？ふざけんな！
+What !?  This is bullshit!
+
+Kamoshida
+私も配慮が足りませんでしたし、ここは両成敗ってことで。
+Come now.  I should have been more considerate, too.  Let’s just say we were both to blame.
+
+School official
+え？いや、まあ、鴨志田先生がおっしゃるなら
+Well, if you say so...
+
+School official
+とにかく来なさい。大遅刻は事実だ。
+Still, you’re coming with me.  It’s undeniable that you’re extremely late.
+
+Ryuji
+わぁったよ
+Fine...
+
+Kamoshida
+ところで　例の転校生ってのは、お前だな？&lt;name&gt;
+By the way… you’re that new transfer student, correct?  &lt;name&gt;...
+
+Kamoshida
+何処かで会ったか？
+...Have we met somewhere?
+
+城で会った
+&gt;知らない
+女子を車に乗せてた
+At the castle.
+Nope.
+I saw a girl in your car.
+
+Kamoshida
+ん　？そうか　駅前で見たな。
+Hm…?  Oh, I remember now… I saw you at the station.
+
+Kamoshida
+まあ、今日だけは大目に見てやる。
+...Well, I’ll overlook this just for today.
+
+Kamoshida
+校長から聞いていると思うが、問題を起こしたら、退学だからな？
+I’m sure you’ve heard from the principal, but cause any trouble and you’ll be expelled.  Understand?
+
+わかりました
+&gt;明日からも頼む
+I understand.
+Can you overlook more?
+
+Kamoshida
+冗談のつもりか？面白いないな。
+Is that supposed to be a joke?  I’m not laughing.
+
+Kamoshida
+まあいい。早く職員室へ行け。川上先生も待ちくたびれてるだろう。
+At any rate, hurry up and go to the faculty office.  I’m sure Ms. Kawakami’s tired of waiting.
+
+Kamoshida
+新しい学校生活、せいぜい楽しめよ。
+Good luck trying to enjoy your new school life.</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    38 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

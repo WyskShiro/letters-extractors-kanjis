@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 14 (Japanese) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 14 (Japanese) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/GNdiXDYS" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/GNdiXDYS" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="lAItVopaBQr6k8X5hSHRa8mB_Wc--uOX6tptP1dUiHjlNkMw3RJCQYDp9Zf3UqE7ruiXPVaqr8Xb7BgSEACxOw==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/GNdiXDYS" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/GNdiXDYS" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 14 (Japanese)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Sunday 16th of June 2019 10:44:30 PM CDT">Jun 16th, 2019</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    145                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 8.77 KB            </div>
+
+            <div class="right">
+                <a href="/raw/GNdiXDYS" class="btn -small">raw</a>
+                <a href="/dl/GNdiXDYS" class="btn -small">download</a>
+                <a href="/clone/GNdiXDYS" class="btn -small h_800">clone</a>
+                <a href="/embed/GNdiXDYS" class="btn -small h_800">embed</a>
+                <a href="/report/GNdiXDYS" class="btn -small">report</a>
+                <a href="/print/GNdiXDYS" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">開かねェのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、その部屋はもういいでしょ？思い出しただけでゾッとするのに</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょっと！なによこの部屋！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">認知の隙間、セーフルームだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、全然わかんない。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だよなぁ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あー、なんか知らんがシャドウに見つからない安全地帯みてーだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">安全地帯　そんな場所もあるのね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">で、ここで何するの？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なにするも何も、休憩だよ。あと、相談したり。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">休憩と相談か　そうだね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それじゃ、私も休む。行くときにはちゃんと声かけてね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それでは、現状の把握をしておこうか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">進行状況は？</div></li><li class="li1"><div class="de1">&gt;皆の状態は？</div></li><li class="li1"><div class="de1">回復をしよう</div></li><li class="li1"><div class="de1">探索を続けよう</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まだまだ俺はやれるぜ！全員、余裕あんじゃねーか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まだみんな元気なようだなる。もう少し探索続けても良いと思うぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まだ他に相談するか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">進行状況は？</div></li><li class="li1"><div class="de1">皆の状態は？</div></li><li class="li1"><div class="de1">回復をしよう</div></li><li class="li1"><div class="de1">&gt;探索を続けよう</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わかった、それでは行こう。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、探索を再開するよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここから先は、まだ未調査の場所だ。怪しい場所がないか集中して調査していくぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちっ　ここにもいんのかよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しゃーねぇ　また後ろから不意打ちまして</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まぁ、それが生攻法だがな。もっとスタイリッシュな方法もあるぞ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">廊下の脇に手頃なソファーがあるだろ？あの物陰に潜んで敵に近づくんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">敵が問合いに入ったら、一気に飛びかかって仮面を剥ぐ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おお、なんかカッコイイな、ソレ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょっと！映画じゃないだよ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ジョーカー、オマエの身のこなしならやれる筈だ。やってみろ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見ろ！なんかあんぞ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど、柵で通れねえ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これだけ厳重に守ってるって事は、きっと重要な物って事だ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これなら出入りする方法も必ずある。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ジョーカー、この部屋の秘密、見抜けないか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オマエの観察能力なら、きっと何か見えてくるはずだ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おっ　すげ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さすがはジョーカーだ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんだよ　厳重に守ってた別にゃ、ただの見取り図かよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オマエというヤツは　見取り図がどれほど重要なのか知らないのか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見取り図を手に入れれば、行ってない場所の地形や情報が把握できる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まさに怪盗の必需品だ。これでルート確保もグッと楽になるぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃあ、オタカラの場所もこれで分かっちゃうの？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ　いや　この見取り図は中途までみたいだ　他もあるのかもな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んじゃ、分かった範囲からあたろうぜ。そうすりゃ、別の見取り図も出てくんだろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">またこの柵かよ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しかも引っぱるヤツ、向こう側じゃん　他の道にする？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よく探してみろって。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">屋根裏だろうが通気口だろうが、通れる所はどこだって利用するのが潜入ってモンだろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これ、鍵がかかってるな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">キービックなら1本あるぞ。開けるか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;開ける</div></li><li class="li1"><div class="de1">今やめる</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">フム。ここは休憩に使えそうだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここを拠点にして探索を再開することができるぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見取り図通りなら、この先も結構長そうだよな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おい　左側見てみろ　シャドウもウロウロしてるみたいだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいか？闇雲に戦いを仕掛けるなよ？まず相手の強さ見極めてからだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ソなモン、どうやんだよ？　</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見極めるって言っただろ？相手の所作を観察して、その技量を見抜くんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ジョーカー、オマエの目なら、それが出来るんじゃないか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうした？仕切り直しか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;引き上げよう</div></li><li class="li1"><div class="de1">まだ帰らない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">カモシダ　パレスから現実世界へ帰還します。お疲れ様でした。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ある程度は探索できたが　まだ折り返し地点じゃなさそうだな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あれ　まだそんなもんか　？結構行ってるかと思ってたけど</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まっ、そんだけやり甲斐あるってモンだよな！次も頼むぜ、ジョーカー！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">異世界と現実世界を行き来したからさすがにクタクタだな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さっさと寝て、疲れを取らないとな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お前、妙なことに道突っ込んでねえだろうな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">少しでも問題起こしてみろ。お前の人生、お先真っ暗だぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">小遣いはやらねえからな。欲しけりゃ自分で稼げ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日は疲れただろ？もう寝ようぜ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;寝る</div></li><li class="li1"><div class="de1">まだ寝ない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">高校入ったら彼女できると思ってたけど全然、そんな気配ないんだよな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">クソッ、俺の何がいけないっ！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そんなんだからダメなんだよ　ちょっとは自分を磨く努力しろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本でも読むんだな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">知識だけじゃない色々な事が身に付くし話題の引き出しも増える。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">知的ってだけで、ひとつハードルも下がる。こういうのは地道な努力の積み重ねだぞ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本か　読むと眠たくなるんだよな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど、モテるためなら我慢して頑張ってみっかな！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本はそうだな　確か、学校の図書室で借りれたよな？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本を読むのは大事だ。色々な考えを身に着けられる。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;本は好きだ</div></li><li class="li1"><div class="de1">読んだ方がいい？</div></li><li class="li1"><div class="de1">読書は苦手</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">奇遇だな、ワガハイもだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">学校の図書室なら本をタダで読めるし活用しない手はないぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あとはそうだな　セントラル街に本屋があったっけか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やあ、キミたち　バクが生物を教える蛭田(ひるた)だ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あんな事故があったばかりでショックだよね。モチロン、ボクもだ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも、彼女のキモチ　分からなくもないよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">彼女の目には灰色に見えていたんだ。閉鎖に満ちて、希望のないこの世界が、ね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">人それぞれ世界の見え法は違う。一つテストしてみようか。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そこのキミ　！この絵を見て答えてもらおう。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">点Aが直線で繋がっているのはB？C？さあ、どっち！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">B</div></li><li class="li1"><div class="de1">C</div></li><li class="li1"><div class="de1">&gt;どちらも繋がっていない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">キミには見えないんだね</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">正解はCだよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そう、これは錯視。正しく見えた人も、そうでない人もいるね。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">同じものを見ているのに、遠く見えるなんて不思議だろ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">人はありのままの世界を見てはいない　目から入る視覚情報を脳で感じているだけさ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やっぱ出来ないんだ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">仕方ないんじゃん？だって彼</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ、やば！コッチ見てる！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">世界がどう見えるかなんて、脳のまやかし　ただの認知に過ぎない。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ボク達の目に映る世界が同じなんて保証はどこにもないんだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">世界がどう見えるかは、脳の認知次第、か</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">異世界と錯視　案外近いのかもしれないな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なぁ,&lt;name&gt;って今ドコ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;また帰ってない</div></li><li class="li1"><div class="de1">教室にいる</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">また帰ってない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺もまだ学校教室出た階段のトコ居んだけど</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日、パレスどうする？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;行こうか</div></li><li class="li1"><div class="de1">決めてない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">行こうか</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おう　マジかちょっと悪ぃんだけど</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しばらく体動かしてねーから体鈍っちまってよ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">急がば回れってやつ？まだ敵も強くなるかもしれねーし</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">外晴れで丁度いいしちょっと体ほぐさね？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">リュージもそれなりに色々考えてるみたいだな</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">確かに身体を鍛えておいた方がいざって時に動けるもんな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">せっかくの誘いだ。ちょっと話を聞いてやったらどうだ？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日はパレス行く？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">決めたなら集合よろしくね</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうすんだ？パレス行くなら、アジトに集合するか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;集合する</div></li><li class="li1"><div class="de1">後で決める</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">集合する</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アジトに向かうね</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ワガハイは準備OKだ。いつでも声を掛けてくれ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">な、なんだよ　ここ開かねぇのか！？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、微かだが風の音がする　どこかに通れそうな場所は無いか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おい見ろ、宝箱だ！アレも頂戴しとこうぜ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、見張り居るし</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おいジョーカー、ここからなら、直接、奇襲がかけられそうじゃないか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">隠れて敵にとびかかるのと同じだ。やってみろ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">シャドウも命乞いなんてなるんだ　なんか以外</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">シャドウにも感情はある。孤立して追い詰められれば命乞いだってするさ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">戦況時代じゃ、わざとその状況を作って、命乞いを誘うのも手かもな。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うっし！これで通るな！</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">開かねェのか？
+
+いや、その部屋はもういいでしょ？思い出しただけでゾッとするのに
+
+ちょっと！なによこの部屋！？
+
+認知の隙間、セーフルームだ。
+
+いや、全然わかんない。
+
+だよなぁ。
+
+あー、なんか知らんがシャドウに見つからない安全地帯みてーだ。
+
+安全地帯　そんな場所もあるのね。
+
+で、ここで何するの？
+
+なにするも何も、休憩だよ。あと、相談したり。
+
+休憩と相談か　そうだね。
+
+それじゃ、私も休む。行くときにはちゃんと声かけてね。
+
+それでは、現状の把握をしておこうか。
+
+進行状況は？
+&gt;皆の状態は？
+回復をしよう
+探索を続けよう
+
+まだまだ俺はやれるぜ！全員、余裕あんじゃねーか？
+
+まだみんな元気なようだなる。もう少し探索続けても良いと思うぞ。
+
+まだ他に相談するか？
+
+進行状況は？
+皆の状態は？
+回復をしよう
+&gt;探索を続けよう
+
+わかった、それでは行こう。
+
+よし、探索を再開するよ。
+
+ここから先は、まだ未調査の場所だ。怪しい場所がないか集中して調査していくぞ。
+
+ちっ　ここにもいんのかよ
+
+しゃーねぇ　また後ろから不意打ちまして
+
+まぁ、それが生攻法だがな。もっとスタイリッシュな方法もあるぞ？
+
+廊下の脇に手頃なソファーがあるだろ？あの物陰に潜んで敵に近づくんだ。
+
+敵が問合いに入ったら、一気に飛びかかって仮面を剥ぐ！
+
+おお、なんかカッコイイな、ソレ
+
+ちょっと！映画じゃないだよ！？
+
+ジョーカー、オマエの身のこなしならやれる筈だ。やってみろ！
+
+見ろ！なんかあんぞ？
+
+けど、柵で通れねえ
+
+これだけ厳重に守ってるって事は、きっと重要な物って事だ
+
+これなら出入りする方法も必ずある。
+
+ジョーカー、この部屋の秘密、見抜けないか？
+
+オマエの観察能力なら、きっと何か見えてくるはずだ！
+
+おっ　すげ
+
+さすがはジョーカーだ！
+
+なんだよ　厳重に守ってた別にゃ、ただの見取り図かよ
+
+オマエというヤツは　見取り図がどれほど重要なのか知らないのか？
+
+見取り図を手に入れれば、行ってない場所の地形や情報が把握できる。
+
+まさに怪盗の必需品だ。これでルート確保もグッと楽になるぞ。
+
+じゃあ、オタカラの場所もこれで分かっちゃうの？
+
+あ　いや　この見取り図は中途までみたいだ　他もあるのかもな
+
+んじゃ、分かった範囲からあたろうぜ。そうすりゃ、別の見取り図も出てくんだろ。
+
+またこの柵かよ！
+
+しかも引っぱるヤツ、向こう側じゃん　他の道にする？
+
+よく探してみろって。
+
+屋根裏だろうが通気口だろうが、通れる所はどこだって利用するのが潜入ってモンだろ？
+
+これ、鍵がかかってるな
+
+キービックなら1本あるぞ。開けるか？
+
+&gt;開ける
+今やめる
+
+フム。ここは休憩に使えそうだ。
+
+ここを拠点にして探索を再開することができるぞ。
+
+見取り図通りなら、この先も結構長そうだよな
+
+おい　左側見てみろ　シャドウもウロウロしてるみたいだ。
+
+いいか？闇雲に戦いを仕掛けるなよ？まず相手の強さ見極めてからだ。
+
+ソなモン、どうやんだよ？　
+
+見極めるって言っただろ？相手の所作を観察して、その技量を見抜くんだ。
+
+ジョーカー、オマエの目なら、それが出来るんじゃないか？
+
+どうした？仕切り直しか？
+
+&gt;引き上げよう
+まだ帰らない
+
+カモシダ　パレスから現実世界へ帰還します。お疲れ様でした。
+
+ある程度は探索できたが　まだ折り返し地点じゃなさそうだな
+
+あれ　まだそんなもんか　？結構行ってるかと思ってたけど
+
+まっ、そんだけやり甲斐あるってモンだよな！次も頼むぜ、ジョーカー！
+
+異世界と現実世界を行き来したからさすがにクタクタだな
+
+さっさと寝て、疲れを取らないとな
+
+お前、妙なことに道突っ込んでねえだろうな？
+
+少しでも問題起こしてみろ。お前の人生、お先真っ暗だぞ。
+
+小遣いはやらねえからな。欲しけりゃ自分で稼げ。
+
+今日は疲れただろ？もう寝ようぜ。
+
+&gt;寝る
+まだ寝ない
+
+高校入ったら彼女できると思ってたけど全然、そんな気配ないんだよな
+
+クソッ、俺の何がいけないっ！？
+
+そんなんだからダメなんだよ　ちょっとは自分を磨く努力しろ。
+
+本でも読むんだな。
+
+知識だけじゃない色々な事が身に付くし話題の引き出しも増える。
+
+知的ってだけで、ひとつハードルも下がる。こういうのは地道な努力の積み重ねだぞ？
+
+本か　読むと眠たくなるんだよな
+
+けど、モテるためなら我慢して頑張ってみっかな！
+
+本はそうだな　確か、学校の図書室で借りれたよな？
+
+本を読むのは大事だ。色々な考えを身に着けられる。
+
+&gt;本は好きだ
+読んだ方がいい？
+読書は苦手
+
+奇遇だな、ワガハイもだ。
+
+学校の図書室なら本をタダで読めるし活用しない手はないぞ。
+
+あとはそうだな　セントラル街に本屋があったっけか
+
+やあ、キミたち　バクが生物を教える蛭田(ひるた)だ。
+
+あんな事故があったばかりでショックだよね。モチロン、ボクもだ
+
+でも、彼女のキモチ　分からなくもないよ。
+
+彼女の目には灰色に見えていたんだ。閉鎖に満ちて、希望のないこの世界が、ね。
+
+人それぞれ世界の見え法は違う。一つテストしてみようか。
+
+そこのキミ　！この絵を見て答えてもらおう。
+
+点Aが直線で繋がっているのはB？C？さあ、どっち！
+
+B
+C
+&gt;どちらも繋がっていない
+
+キミには見えないんだね
+
+正解はCだよ。
+
+そう、これは錯視。正しく見えた人も、そうでない人もいるね。
+
+同じものを見ているのに、遠く見えるなんて不思議だろ？
+
+人はありのままの世界を見てはいない　目から入る視覚情報を脳で感じているだけさ。
+
+やっぱ出来ないんだ
+
+仕方ないんじゃん？だって彼
+
+あ、やば！コッチ見てる！
+
+世界がどう見えるかなんて、脳のまやかし　ただの認知に過ぎない。
+
+ボク達の目に映る世界が同じなんて保証はどこにもないんだ。
+
+世界がどう見えるかは、脳の認知次第、か
+
+異世界と錯視　案外近いのかもしれないな。
+
+なぁ,&lt;name&gt;って今ドコ？
+
+&gt;また帰ってない
+教室にいる
+
+また帰ってない
+
+俺もまだ学校教室出た階段のトコ居んだけど
+
+今日、パレスどうする？
+
+&gt;行こうか
+決めてない
+
+行こうか
+
+おう　マジかちょっと悪ぃんだけど
+
+しばらく体動かしてねーから体鈍っちまってよ
+
+急がば回れってやつ？まだ敵も強くなるかもしれねーし
+
+外晴れで丁度いいしちょっと体ほぐさね？
+
+リュージもそれなりに色々考えてるみたいだな
+
+確かに身体を鍛えておいた方がいざって時に動けるもんな。
+
+せっかくの誘いだ。ちょっと話を聞いてやったらどうだ？
+
+今日はパレス行く？
+
+決めたなら集合よろしくね
+
+どうすんだ？パレス行くなら、アジトに集合するか？
+
+&gt;集合する
+後で決める
+
+集合する
+
+アジトに向かうね
+
+ワガハイは準備OKだ。いつでも声を掛けてくれ。
+
+な、なんだよ　ここ開かねぇのか！？
+
+いや、微かだが風の音がする　どこかに通れそうな場所は無いか？
+
+おい見ろ、宝箱だ！アレも頂戴しとこうぜ！
+
+いや、見張り居るし
+
+おいジョーカー、ここからなら、直接、奇襲がかけられそうじゃないか？
+
+隠れて敵にとびかかるのと同じだ。やってみろ。
+
+シャドウも命乞いなんてなるんだ　なんか以外
+
+シャドウにも感情はある。孤立して追い詰められれば命乞いだってするさ。
+
+戦況時代じゃ、わざとその状況を作って、命乞いを誘うのも手かもな。
+
+うっし！これで通るな！</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

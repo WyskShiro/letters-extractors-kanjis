@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 15 (Japanese + English) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 15 (Japanese + English) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/pCPtQGfm" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/pCPtQGfm" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="uQh0qQZbEn20PD56vOwGuA3C23vyZEDxKKHAsVPbgczQRD7gUT1QM-NbUBfShVLrPbGvNMQMGZ9yyZn_Iq-sjg==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/pCPtQGfm" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/pCPtQGfm" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 15 (Japanese + English)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Thursday 11th of July 2019 07:25:28 AM CDT">Jul 11th, 2019</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    178                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 24.07 KB            </div>
+
+            <div class="right">
+                <a href="/raw/pCPtQGfm" class="btn -small">raw</a>
+                <a href="/dl/pCPtQGfm" class="btn -small">download</a>
+                <a href="/clone/pCPtQGfm" class="btn -small h_800">clone</a>
+                <a href="/embed/pCPtQGfm" class="btn -small h_800">embed</a>
+                <a href="/report/pCPtQGfm" class="btn -small">report</a>
+                <a href="/print/pCPtQGfm" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">#Book on shelf behind Safe Room</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この本は　？</div></li><li class="li1"><div class="de1">What is this…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">その本、気になるのか？ジョーカー？</div></li><li class="li1"><div class="de1">Are you curious about that book, Joker?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うーん　だったら一応、頂いとこうぜ！</div></li><li class="li1"><div class="de1">Hmmm…  I guess we can always take it with us if you want!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">奴隷の書　か　意味深だな</div></li><li class="li1"><div class="de1">The Slave Book, huh…?  That sounds kind of important...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Book on shelf in Southwestern Library</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この本も、何かを感じる</div></li><li class="li1"><div class="de1">I sense something strange about this book too...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">気になるのか？ジョーカー。　だったらその本も頂いとこうぜ！</div></li><li class="li1"><div class="de1">Did that catch your attention Joker?  We should take it with us!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">王の書？なんだろ</div></li><li class="li1"><div class="de1">The King Book?  What is this…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Book on shelf in Northwestern Library</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんだよ、その本も気になるのか？</div></li><li class="li1"><div class="de1">What, you curious ‘bout that too?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だったらこれも貰っとこうよ！</div></li><li class="li1"><div class="de1">Then let’s bring it along!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">王妃の書？何か特別な本なのか？</div></li><li class="li1"><div class="de1">The Queen Book?  Is this some kinda special book?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Examining mysterious wall mechanism</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おっ、これ前にもあった仕掛けじゃん！確か、鎖を下に引けば</div></li><li class="li1"><div class="de1">Hey, this is just like the one we saw before!  If I’m rememberin’ right, we just gotta pull this...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、下にある丸いくぼみ　何かをハメないと動かんようだ。</div></li><li class="li1"><div class="de1">Wait, there’s a round indentation underneath…  It looks like it won’t move unless we fill that.</div></li><li class="li1"><div class="de1">鍵　って事だよね　どっかにあるのかな？</div></li><li class="li1"><div class="de1">So we need a key… I wonder where it could be.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">探すぞ、ジョーカー</div></li><li class="li1"><div class="de1">Let’s go look for it, Joker!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Entering Southern Library, examining bookshelves</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うわ、カビくさい</div></li><li class="li1"><div class="de1">Whoa, it’s so musty...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここは「書庫」か　いかにもって感じだなぁ。</div></li><li class="li1"><div class="de1">A library, huh?  This definitely seems fishy.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何だよ、いかにもって？</div></li><li class="li1"><div class="de1">Whaddya mean?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">城に書庫といえば、何か仕掛けがありそうなもんだろ？</div></li><li class="li1"><div class="de1">Come on, it’s a library in a castle.  There has to be some kind of secret mechanism in here.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ジョーカー、調べてみようぜ？</div></li><li class="li1"><div class="de1">Let’s look around, Joker.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ん　ちょっと待て。この棚の本　知ってる名前が書いてあるぜ？</div></li><li class="li1"><div class="de1">Hm… Wait a second.  The books on this shelf seem familiar.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これ、バレー部の連中の名前だ！</div></li><li class="li1"><div class="de1">These’re the names of the volleyball team members!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つか、どの本もウチの男子の名前が書いてあんぞ！？</div></li><li class="li1"><div class="de1">Wait, what the hell!?  All of the titles are boys from our school!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「卑しいき猿・坂本竜司」　か。スカルのもあるな。</div></li><li class="li1"><div class="de1">“Ryuji Sakamoto: The Vulgar Ape” There’s one here for Skull.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ヤロウ、なめやがって！</div></li><li class="li1"><div class="de1">That bastard!  Who the hell does he think he is!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ねぇ、さっき本を拾ったよね・もしかしたら</div></li><li class="li1"><div class="de1">Wait, didn’t we find a book earlier?  What if we...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もしかしたら？</div></li><li class="li1"><div class="de1">&gt;ここに入れてみよう</div></li><li class="li1"><div class="de1">What if we what?</div></li><li class="li1"><div class="de1">Let’s put it on the shelf.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うん、本をしまえば、何か起きるかも</div></li><li class="li1"><div class="de1">Yeah, maybe something will change if we put it on the shelf.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">(list of books)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">色んな本あるね　タイトルもバラバラ</div></li><li class="li1"><div class="de1">There are all sorts of books here… The titles don’t have any rhyme or reason to them.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あれ？この本　タイトルに、志帆の名前が</div></li><li class="li1"><div class="de1">Huh? This book… has Shiho’s name in the title...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">てか、この本だけじゃない！どの本も、タイトルに女生徒が入ってる　！</div></li><li class="li1"><div class="de1">Wait… It’s not just this one!  All of the books here are about female students…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「魅惑の人形・高巻杏」　マジかよ</div></li><li class="li1"><div class="de1">“Ann Takamaki: The Charming Doll”  Holy shit...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何なの、これ　！</div></li><li class="li1"><div class="de1">What the heck is this…!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">(list of books)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">えーっと</div></li><li class="li1"><div class="de1">Let’s see...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">「鴨志田の歴史」　「鴨志田の軌跡」　「鴨志田武勇伝」　「鴨志田の掟」？</div></li><li class="li1"><div class="de1">“The History of Kamoshida”...”Tracing Kamoshida’s Steps”... “Kamoshida’s Heroisms”... “Kamoshida’s Law”...?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んだこりゃ！この辺全部、鴨志田本ばっかじゃねーか。</div></li><li class="li1"><div class="de1">What the hell?  All these goddamn books’re about Kamoshida!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">(list of books)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うおっ、なんか開いたぞ！？</div></li><li class="li1"><div class="de1">Whoa, it opened up!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見事だジョーカー！中を探ってみようぜ！</div></li><li class="li1"><div class="de1">You got it, Joker!  Let’s take a look inside!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">げ　なんだよ、この部屋　鈴井の写真だらけじゃねぇかっ！？</div></li><li class="li1"><div class="de1">Ugh… The hell is this room?  There’re tons of pictures of Suzui here!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これ　全部、鈴井の写真か　？</div></li><li class="li1"><div class="de1">Wait… It’s all pics of her…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;大丈夫か？</div></li><li class="li1"><div class="de1">ケジメをつけさせよう</div></li><li class="li1"><div class="de1">いくぞ</div></li><li class="li1"><div class="de1">Are you going to be OK?</div></li><li class="li1"><div class="de1">We’ll make him pay for this.</div></li><li class="li1"><div class="de1">Let’s keep moving.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うん　ありがとう。</div></li><li class="li1"><div class="de1">Yeah… Thanks.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんか　闘志湧いて来たよ。</div></li><li class="li1"><div class="de1">If anything… I feel even more motivated to do this now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">気分は良くないだろうが。部屋を探索なるぞ。</div></li><li class="li1"><div class="de1">I’m sure it’ll feel awful, but we should search this room.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あんな大仕掛けで隠してたんだ、必ず何かある。</div></li><li class="li1"><div class="de1">There has to be something in here if he was hiding it with such an elaborate trick.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これって　メダル？</div></li><li class="li1"><div class="de1">Is this… a medal?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">その大きさと形　多分、コイツがカギだな！</div></li><li class="li1"><div class="de1">That size, and that shape… I think that’s our key!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">覚えてるか？柵を開ける仕掛けに付いてた「丸いくぼみ」だ！</div></li><li class="li1"><div class="de1">Remember that round indentation we saw back near those bars?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">待って、メタルの下にも何かあるよ？</div></li><li class="li1"><div class="de1">Wait, there’s something under the medal too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こいつは　前のとは別の「見取り図」だ！ラッキー！一緒に頂いとこうぜ！</div></li><li class="li1"><div class="de1">Oh…!  It’s a different map form the one we have!  This is lucky… Let’s take it with us!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おおっ、これで見取り図が揃ってみタイだぞ！</div></li><li class="li1"><div class="de1">Aha!  Our map’s complete now!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んじゃあアレか？オタカラの場所も分かんのか？</div></li><li class="li1"><div class="de1">So is it going to tell us where the Treasure is?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見ろ。きっとココだ</div></li><li class="li1"><div class="de1">Yeah, look.  It has to be here.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ヘンな形の建物だね　？塔か何かかな</div></li><li class="li1"><div class="de1">That’s a weird-shaped building…  Could it be a tower or something?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今の場所から考えると　距離的には後平分ってトコだな。</div></li><li class="li1"><div class="de1">Considering our current position… I’d say we’re about halfway there.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よーしっ、だったら一気に行っちまおうぜ！</div></li><li class="li1"><div class="de1">All right!  Let’s hurry over there!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、先が見えたなら、ペース配分も考えられるはずだ。</div></li><li class="li1"><div class="de1">No.  Now that we know how much we have left, we can calculate the best way to pace ourselves.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">適度に引き上げつつ、探索を進めようぜ、ジョーカー。</div></li><li class="li1"><div class="de1">Let’s keep exploring, but take breaks when you need to, Joker.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Reexamining wall mechanism with medal</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">この仕掛けを動かせば扉を開けられるはずだ。</div></li><li class="li1"><div class="de1">If we activate this device, we should be able to open the door.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;メダルを使おう</div></li><li class="li1"><div class="de1">後にしよう</div></li><li class="li1"><div class="de1">Let’s use the medal.</div></li><li class="li1"><div class="de1">Maybe later.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よっしゃ！上手くいったみてーだな。</div></li><li class="li1"><div class="de1">Sweet!  Looks like it worked.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これで先に進めるね！</div></li><li class="li1"><div class="de1">Now we can keep going!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">きっと、この先は重要な場所に違いない。行くぞ！</div></li><li class="li1"><div class="de1">This must lead somewhere important.  Let’s go!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Entering Cathedral</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">待て、ジョーカー！！</div></li><li class="li1"><div class="de1">Hold on, Joker!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これだけ広い場所に　見張り無しか？怪しいなぁ</div></li><li class="li1"><div class="de1">This place is huge… yet there are no guards?  That seems suspicious...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けどオタカラはこの先なんだろ？行くしかなくねぇか？</div></li><li class="li1"><div class="de1">But the Treasure’s up ahead, right?  We don’t got a choice but to keep goin’.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まぁ　そうなんだが　万が一には備えた方が良さそうだ。</div></li><li class="li1"><div class="de1">I guess that’s true… but we need to make sure we’re ready for whatever might be ahead.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうなるジョーカー？このまま進むか？</div></li><li class="li1"><div class="de1">What do you think, Joker?  Should we continue onward?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;行こう</div></li><li class="li1"><div class="de1">準備する</div></li><li class="li1"><div class="de1">Let’s do it.</div></li><li class="li1"><div class="de1">We should prepare first.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">えっ、今の　体育館　？</div></li><li class="li1"><div class="de1">Wait, was that… the gym…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なるほどな　体育館は望なる場所　でもって自分は、そこの神ってか。</div></li><li class="li1"><div class="de1">I get it… The gym’s some kinda holy place for him.  He’s a god there.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">志帆を　あんな目にあわせておいて</div></li><li class="li1"><div class="de1">I can’t believe he can think like that… especially after what he did to Shiho...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">心底、吐き気がするぜ！待ってやがれよ　！</div></li><li class="li1"><div class="de1">God, that bastard makes me so freakin’ sick!  Just you wait, Kamoshida…!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なるほど　書庫の部屋を荒らしたのは貴様らか。</div></li><li class="li1"><div class="de1">I see… So you’re the ones who tampered with the library.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">待っていた甲斐がっあったというものだ</div></li><li class="li1"><div class="de1">It seems my time waiting here has paid off...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そこの猿が言った通り、ここは我らがカモシダ様の聖域だ。</div></li><li class="li1"><div class="de1">Just as that ape there said, this place is a holy ground for our great King Kamoshida.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そこに土足で踏見入るとは不届き千万</div></li><li class="li1"><div class="de1">It is preposterous for miscreants like yourselves to come waltzing in like this.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">カモシダ様に逆らった愚かしさ　身を持って知るが良い！！ </div></li><li class="li1"><div class="de1">You will pay for foolishly defying King Kamoshida… with your lives!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やっぱりこうなったかっ！仕方ないっ！迎え撃つぞっ！！</div></li><li class="li1"><div class="de1">I knew this would happen!  Well, we don’t have a choice!  Let’s take it down!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見ろ！あいつ何かやろうとしてるぜ！</div></li><li class="li1"><div class="de1">Look!  He’s trying to do something!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">危ないって思ったらガードも大事だぜ！</div></li><li class="li1"><div class="de1">It’s important to guard if you think you’re in danger!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Exiting dungeon</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうした？仕切り直しか？</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;引き上げよう</div></li><li class="li1"><div class="de1">まだ帰らない</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">カモシダ・パレスから現実世界へ帰遠します。お疲れ様でした。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">もう少しで探索も半分くらいか？わずかにオタカラの気配がして来たぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やっと半分？どんだけ広いんだよ　ここ</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ま、ゴールにゃ近づいてんのか　次の探索ではもっと進もうぜ！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Entering LeBlanc</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">真面目に学校に行くフリしたからって俺の目はごまかせねえぞ？</div></li><li class="li1"><div class="de1">Just ‘cause you seem to be takin’ school seriously don’t mean I’m not keepin’ an eye on you, got it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">学校の成績を見りゃ、一発で分かる。</div></li><li class="li1"><div class="de1">I’ll know what’s what as soon as I see your grades.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちゃんと更生したって認められたいなら日ごろから強制しとくんだな。</div></li><li class="li1"><div class="de1">Wanna prove you’re turnin’ over a new leaf?  Make studying a habit as second nature as breathing.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうだ、二階に置いてあるガラクタは全部、処分していいからな？</div></li><li class="li1"><div class="de1">Oh yeah, you can get rid of all the crap that’s upstairs.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">つうか、部屋を片付けろ。</div></li><li class="li1"><div class="de1">That room needs a good cleaning.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">強制すんなら、テーブル席使っていいぞ。ただし、終わったら綺麗にしとけよ？</div></li><li class="li1"><div class="de1">If you’re going to study, you can use the booth.  Just remember to clean it afterward, OK?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここでなら強制出来そうだな。けど、今日は疲れてるだろ？</div></li><li class="li1"><div class="de1">This looks like a good place for studying, but aren’t you tired after today?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Speaking with customer</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">失礼、お邪魔してるよ。</div></li><li class="li1"><div class="de1">Ah, I apologize if I have overstayed my welcome.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">評論の仕事がひとつ片付いてね。ささやかな休憩というわけさ。</div></li><li class="li1"><div class="de1">I finished a critique for work, so I am parting in a moment&#039;s rest.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">閉店間際の馴染みの店　この静寂が私を癒してくれる。</div></li><li class="li1"><div class="de1">The ambience of my favorite cafe at closing time… This perfect silence soothes my very soul.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">テレビ点いてるけどな。</div></li><li class="li1"><div class="de1">The TV’s on, though.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それじゃあ、私は帰ることにするよ。</div></li><li class="li1"><div class="de1">Well, I’ll be going home then.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日は疲れただろ？もう寝ようぜ。</div></li><li class="li1"><div class="de1">You must be tired after today… Let’s go to sleep.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">座れたけど、やることないのか</div></li><li class="li1"><div class="de1">We were able to grab a seat, but you’ve already read all the books that you own...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、ワガハイはちょっと寝る。着いたら起こしてくれ。</div></li><li class="li1"><div class="de1">I guess we should probably buy some new books...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ヤバイ、今月、服買い過ぎてお金ない</div></li><li class="li1"><div class="de1">Ugh, I spent way too much on new clothes this month.  Now I’m broke...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">バイトするしかないね。駅に置いてある情報誌、割と使えるよ？</div></li><li class="li1"><div class="de1">Guess you’re getting yourself a job.  Those job magazines they have at the train station are useful.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">渋谷の地下にあったっけ？そっか、帰りに見てみようかな</div></li><li class="li1"><div class="de1">Maybe I’ll swing by the Shibuya underground and pick one up after school.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">てもー、働いたら負けな気もするし　ラクし稼げるバイトがいいなぁ。</div></li><li class="li1"><div class="de1">Then again, work’s for losers.  I hope I find something easy.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">運資金が欲しいな</div></li><li class="li1"><div class="de1">Man, we need some cash.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">急にどうしたの？</div></li><li class="li1"><div class="de1">Why are you bringing that up now?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">武器と薬が調達できるようになっても</div></li><li class="li1"><div class="de1">Well we can get all sortsa weapons and meds and shit now...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">運資金がないと何も買えねえだろ？</div></li><li class="li1"><div class="de1">But we can’t actually buy any of it without some dough.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;貯金は？</div></li><li class="li1"><div class="de1">稼げばいい</div></li><li class="li1"><div class="de1">Do you have any savings?</div></li><li class="li1"><div class="de1">We just need to earn some.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">貯金は？</div></li><li class="li1"><div class="de1">Do you have any savings?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ねえ！</div></li><li class="li1"><div class="de1">Nope!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">バイトしたら？</div></li><li class="li1"><div class="de1">Why don’t we get part-time jobs?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何か気が乗らねえんだよな</div></li><li class="li1"><div class="de1">I dunno, I don’t feel like it...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おっと</div></li><li class="li1"><div class="de1">Oh, shit.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">牛丸の授業だった！</div></li><li class="li1"><div class="de1">I’m in class!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">悪いいったん閉じる</div></li><li class="li1"><div class="de1">Sorry, I gotta leave the chat for now.  Seeya!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">バレスで手に入れて物を売れば運資金の足しになるかもしれないが</div></li><li class="li1"><div class="de1">If we sell the stuff we find in the Palace, we can make some quick scratch for the war funds, but...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アン殿の言う通りバイトするのが手っ取り早いかもな。</div></li><li class="li1"><div class="de1">Like Lady Ann said-a part-time job might be the better bet.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">シブヤの駅地下にアルバイト情報誌があるんだろ？ちょっと見に行ってみるか？</div></li><li class="li1"><div class="de1">There are job magazines at the Shibuya Station, aren’t there?  Maybe you should pick one up.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Speaking with Ryuji after class</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おう、&lt;name&gt;。今日の予定決まってんのか？</div></li><li class="li1"><div class="de1">‘Sup, &lt;name&gt;?  You got any big plans for today?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;息抜きをしよう</div></li><li class="li1"><div class="de1">潜入するぞ</div></li><li class="li1"><div class="de1">決めてない</div></li><li class="li1"><div class="de1">Let’s hang out.</div></li><li class="li1"><div class="de1">Let’s go to the Palace.</div></li><li class="li1"><div class="de1">I haven’t decided yet.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日お袋に買いモン頼まれてんだわ。まじ面倒くせえ</div></li><li class="li1"><div class="de1">Ugh, my mom asked me to go grab stuff from the store today.  What a pain...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">緊急の時はスグ向かうからよ。何かあったら、連絡頼むな。</div></li><li class="li1"><div class="de1">I should be free if something big come up though, so just lemme know.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Examining the part-time job pamphlets in Shibuya</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アルバイトか？確かに先立つものは必要だしな。</div></li><li class="li1"><div class="de1">A part-time job, huh?  Well, you do need the money.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも、募集条件とかあるんだろ？オマエ、大丈夫か？</div></li><li class="li1"><div class="de1">There are conditions for applying though, right?  You sure you’ve got this?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">で、どんなのがあるんだ？</div></li><li class="li1"><div class="de1">So, what kind of jobs are there?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">コンビニエンスストア</div></li><li class="li1"><div class="de1">&gt;フラワーショップ</div></li><li class="li1"><div class="de1">牛丼屋</div></li><li class="li1"><div class="de1">Convenience Store</div></li><li class="li1"><div class="de1">Flower Shop</div></li><li class="li1"><div class="de1">Beef Bowl Shop</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">花屋でバイトか　花に囲まれて優しさが磨かれるかもな。</div></li><li class="li1"><div class="de1">A part-time job at a flower shop, huh?  Being around all those flowers might boost your Kindness.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんか難しそうだけど本当にやれるのか？</div></li><li class="li1"><div class="de1">It seems kinda hard.  You sure you wanna do it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;応募する</div></li><li class="li1"><div class="de1">やめておく</div></li><li class="li1"><div class="de1">Apply</div></li><li class="li1"><div class="de1">Cancel</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">募集条件に「魅力的なスタッフ」ってあるぞ。今のオマエじゃ、ムリだろ</div></li><li class="li1"><div class="de1">The requirements say you gotta be charming.  I don’t think you’ve got what it takes right now...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Entering the school library</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ　図書室の利用は初めてですか？</div></li><li class="li1"><div class="de1">Oh… Is this your first time at the library?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">初めての人には利用方法を説明なる決まりで</div></li><li class="li1"><div class="de1">It’s my job to explain the rules of the library to first-time visitors, so...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">貸し出せる本は1冊だけです。読み終わったら必ず返却して　あれ？</div></li><li class="li1"><div class="de1">You’re only allowed to borrow one book at a time.  Once you finish, please be sure to return-- Huh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そのバッジ　2年生？</div></li><li class="li1"><div class="de1">That badge… Are you a second-year?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あっ、噂の転校生？</div></li><li class="li1"><div class="de1">...Oh, could you be that transfer student I keep hearing about!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;そうだ</div></li><li class="li1"><div class="de1">違う</div></li><li class="li1"><div class="de1">Yup.</div></li><li class="li1"><div class="de1">Nope.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やっぱり</div></li><li class="li1"><div class="de1">I knew it...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あの　おせっかいかもしれないけど図書室の利用は止めた方が</div></li><li class="li1"><div class="de1">Uh… I don’t mean to be rude, but maybe you shouldn’t come here...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ほら、他の生徒も怖がっているし</div></li><li class="li1"><div class="de1">See, you’re scaring the other students too...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや　利用するのはか構わないんですが</div></li><li class="li1"><div class="de1">Oh… No, I didn’t mean that you can’t use the library, but...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どこ行っても歓迎されないな　まあ、仕方ないが</div></li><li class="li1"><div class="de1">You’re not welcomed anywhere you go… I guess there’s nothing we can do about it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Speak with Makoto</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ん？何かしら？用が無ければ邪魔しないでくれる？</div></li><li class="li1"><div class="de1">Hm?  Is something the matter?  If you don’t need anything, please don’t bother me.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">忙しいのよ、色々とね。</div></li><li class="li1"><div class="de1">I’m very busy right now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Speak with librarian</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">何か用ですか？</div></li><li class="li1"><div class="de1">...Do you need something?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;本を借りる</div></li><li class="li1"><div class="de1">本を返す</div></li><li class="li1"><div class="de1">用はない</div></li><li class="li1"><div class="de1">I’d like to borrow a book.</div></li><li class="li1"><div class="de1">I’d like to return a book.</div></li><li class="li1"><div class="de1">No, never mind.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本の貸し出しは1冊だけです。読み終わったら、必ず返却して下さい。</div></li><li class="li1"><div class="de1">...You can only borrow one book at a time.  Be sure to return it once you’ve finished reading it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今、貸し出せるのはこれだけでな。</div></li><li class="li1"><div class="de1">...These are all the books you can check out right now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;大怪盗・アルセーヌ</div></li><li class="li1"><div class="de1">海賊伝説</div></li><li class="li1"><div class="de1">大盗賊・ゾロ</div></li><li class="li1"><div class="de1">妖艶の踊り子</div></li><li class="li1"><div class="de1">The Great Thief</div></li><li class="li1"><div class="de1">Pirate Legend</div></li><li class="li1"><div class="de1">Zorro, the Outlaw</div></li><li class="li1"><div class="de1">The Alluring Dancer</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">はい、これらです。扱いには気を付けてください。</div></li><li class="li1"><div class="de1">...This one, yes?  OK, be careful with it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">大怪盗・アルセーヌか。なかなか面白そうな本だな盗</div></li><li class="li1"><div class="de1">The Great Thief, eh?  Sounds interesting!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここは空いてるみたいだな。</div></li><li class="li1"><div class="de1">It looks like this spot’s open.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど、図書が渋い顔してるぞ。周りの生徒もヤな感じだし</div></li><li class="li1"><div class="de1">But I’m a little worried about the look that librarian is giving you.  Not to mention the other students.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こんなとこで勉強なるつもりか？大丈夫なのか？</div></li><li class="li1"><div class="de1">Are you sure you’re gonna be OK studying here?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;やろう</div></li><li class="li1"><div class="de1">やめておく</div></li><li class="li1"><div class="de1">Study</div></li><li class="li1"><div class="de1">Never mind</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">周りの雑音は気になるな。ちゃんと集中しろよ？</div></li><li class="li1"><div class="de1">I think you should study somewhere quieter...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">こんな場所で平然としてられるとは　オマエ、やるな！</div></li><li class="li1"><div class="de1">I’m impressed that you were able to keep calm in a place like this...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちゃんと勉強にも集中できてたぜ。</div></li><li class="li1"><div class="de1">Well, it seemed like you were really focused on your studies.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さて、そろそろいい時間だな。今日はこれで切り上げるか！</div></li><li class="li1"><div class="de1">Well, it’s getting late. You should probably call it quits for today!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんだ、雨降ってんのかよ</div></li><li class="li1"><div class="de1">Damn, it’s raining...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺らの退学のウワサ結構、広まってんだな</div></li><li class="li1"><div class="de1">Looks like rumors about our expulsion’re spreading fast.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;そうらしい</div></li><li class="li1"><div class="de1">そうなのか？</div></li><li class="li1"><div class="de1">It seems so.</div></li><li class="li1"><div class="de1">Really?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうらしい</div></li><li class="li1"><div class="de1">It seems so.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まあ派手にやっちまったしな</div></li><li class="li1"><div class="de1">I guess we did have a pretty big confrontation with him...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど、こっから逆転だ</div></li><li class="li1"><div class="de1">Doesn’t matter though.  We’re gonna turn the tables.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">鴨志田を改心させたら絶対みんな驚くぜ</div></li><li class="li1"><div class="de1">Everyone’ll be totally surprised if we can change Kamoshida’s heart.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">私たちがやったって誰も信じないだろうけどね</div></li><li class="li1"><div class="de1">I doubt they would believe we were responsible though.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;仕方ない</div></li><li class="li1"><div class="de1">それでいい</div></li><li class="li1"><div class="de1">言ってみる？</div></li><li class="li1"><div class="de1">It is what it is.</div></li><li class="li1"><div class="de1">That’s OK.</div></li><li class="li1"><div class="de1">Should we tell them?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">仕方ない</div></li><li class="li1"><div class="de1">It is what it is.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やり切れねえよな</div></li><li class="li1"><div class="de1">But it’ll be a pain in the ass not getting credit.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも、評判なんて気にしてらんないよ</div></li><li class="li1"><div class="de1">Either way, we can’t worry about what people are saying about us.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">分かってる</div></li><li class="li1"><div class="de1">I know that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">このままだと退学だ絶対に成功させようぜ！</div></li><li class="li1"><div class="de1">At this rate, we’re gonna get expelled.  We just gotta pull this shit off, no matter what!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アン殿の言う通りだ。</div></li><li class="li1"><div class="de1">Lady Ann’s right.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今は余計な事を考えるな。カモシダを改心させることだけに集中しろ。</div></li><li class="li1"><div class="de1">Don’t think about unnecessary stuff right now.  Just focus on changing Kamoshida’s heart.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そうだ、時間あるか？</div></li><li class="li1"><div class="de1">Hey, you got a minute?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お前に聞きたい事あんだった。ちょっと話、聞かせてくれ。</div></li><li class="li1"><div class="de1">Somethin’ I wanna ask you.  C’mere, let’s have a chat.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">#Sakura social link rank 1</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">話してくれんのか。妙に素直だな　？</div></li><li class="li1"><div class="de1">You’ll talk with me?  You’re being unusually well-behaved...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">惣治郎と関係を深められる、いい機会かもしれない</div></li><li class="li1"><div class="de1">This may be a good opportunity to deepen my bond with Sojiro...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;話を聞こう</div></li><li class="li1"><div class="de1">やめておこう</div></li><li class="li1"><div class="de1">Let’s talk.</div></li><li class="li1"><div class="de1">Not now.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おう。色々聞いておきてぇことがあんだよ。</div></li><li class="li1"><div class="de1">Good.  There’re a lot of things I want to ask you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今、片づけっから待ってろ。</div></li><li class="li1"><div class="de1">I’ll clean up, so just wait there.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">学校はどうだ？</div></li><li class="li1"><div class="de1">Hey, how’s school?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">問題起こすようなこと、してねえよな？</div></li><li class="li1"><div class="de1">You’re not causing any trouble, are you?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;してない</div></li><li class="li1"><div class="de1">ごめんなさい</div></li><li class="li1"><div class="de1">……</div></li><li class="li1"><div class="de1">I’m not.</div></li><li class="li1"><div class="de1">I might be.</div></li><li class="li1"><div class="de1">…...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それならいい。</div></li><li class="li1"><div class="de1">Good.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">保護司ってのはな、月に2回、書類を出す義務があんだよ。</div></li><li class="li1"><div class="de1">I’ve gotta report to your probation officer twice a month.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ただでさえめんどくせんだから、変なこと書かせんなよ。</div></li><li class="li1"><div class="de1">It’s already a pain in the ass as is, so please don’t make me have to write even more crap.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいか・社会には抗えない秩序や権力ってもんがある。</div></li><li class="li1"><div class="de1">Got that?  This society is kept in check by laws and authority figures.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ひとりで勝手に野垂れ死ぬなら、まだマシだ。だが中には、他人を巻き込む馬鹿もいる。</div></li><li class="li1"><div class="de1">You can go and get yourself killed if you want, but don’t go dragging other people into your mess.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">世の中にそんな馬鹿が増えねえように、こっちで芽を潰してやってんだよ。</div></li><li class="li1"><div class="de1">The last thing we need is more idiots like you roaming about.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうした？</div></li><li class="li1"><div class="de1">Hm?  What’s wrong?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ああ、もう出るよ。遅いなって悪いな。</div></li><li class="li1"><div class="de1">Yeah, I’m heading out now.  Sorry about that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わかってるって。いつものやつだろ。</div></li><li class="li1"><div class="de1">...I know.  The usual, right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それじゃ、後でな。</div></li><li class="li1"><div class="de1">OK, I’ll see you later.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見ての通りだよ。仕事にプライベートに大忙しってやつだ。</div></li><li class="li1"><div class="de1">As you can see, I’m pretty damn busy both at work and in my private life.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お前が手伝えってくれると、すごく助かるんだけどなぁ</div></li><li class="li1"><div class="de1">If you could lend a hand, it’d really be a great help.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;手伝うよ</div></li><li class="li1"><div class="de1">忙しい</div></li><li class="li1"><div class="de1">面倒くさい</div></li><li class="li1"><div class="de1">I’d be glad to.</div></li><li class="li1"><div class="de1">I’m kinda busy…</div></li><li class="li1"><div class="de1">It’s too much trouble.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">話せるじゃないの。</div></li><li class="li1"><div class="de1">Now we’re talking.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ただでとは言わねえよ、手伝ってくれるなら、そうだな</div></li><li class="li1"><div class="de1">Either way, I won’t ask you to work for free.  If you agree to help me, then...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">コーヒーの淹れ方とか教えてやるよ。悪くないだろう？</div></li><li class="li1"><div class="de1">I’ll teach you how to make the perfect cup of coffee.  Not a  bad trade, eh?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;悪くない</div></li><li class="li1"><div class="de1">面白そうだ</div></li><li class="li1"><div class="de1">I guess.</div></li><li class="li1"><div class="de1">Sounds interesting.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、それじゃ取引成立ってやつだな。</div></li><li class="li1"><div class="de1">All right.  Looks like we’ve got ourselves a deal.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">惣治郎との距離が少し縮まるのを感じる</div></li><li class="li1"><div class="de1">The distance between me and Sojiro seems to be closing slightly...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">怪盗団とは言っても、君は未成年。生活の基盤を支えていた者がいたはず。</div></li><li class="li1"><div class="de1">You may call yourself a phantom thief, but you’re still a minor.  Someone had to support you.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しかも、君が怪盗団であることを知りながら</div></li><li class="li1"><div class="de1">Furthermore, they did so knowing you were part of that group...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あの喫茶店のマスター、協力者だったんじゃないの！？</div></li><li class="li1"><div class="de1">...Isn’t the owner of the cafe an accomplice of yours!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃあ手伝うって件、よろしくな。</div></li><li class="li1"><div class="de1">I’ll be counting on your help.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">帰るわ。</div></li><li class="li1"><div class="de1">See ya later.</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">#Book on shelf behind Safe Room
+
+この本は　？
+What is this…?
+
+その本、気になるのか？ジョーカー？
+Are you curious about that book, Joker?
+
+うーん　だったら一応、頂いとこうぜ！
+Hmmm…  I guess we can always take it with us if you want!
+
+奴隷の書　か　意味深だな
+The Slave Book, huh…?  That sounds kind of important...
+
+#Book on shelf in Southwestern Library
+
+この本も、何かを感じる
+I sense something strange about this book too...
+
+気になるのか？ジョーカー。　だったらその本も頂いとこうぜ！
+Did that catch your attention Joker?  We should take it with us!
+
+王の書？なんだろ
+The King Book?  What is this…?
+
+#Book on shelf in Northwestern Library
+
+なんだよ、その本も気になるのか？
+What, you curious ‘bout that too?
+
+だったらこれも貰っとこうよ！
+Then let’s bring it along!
+
+王妃の書？何か特別な本なのか？
+The Queen Book?  Is this some kinda special book?
+
+#Examining mysterious wall mechanism
+
+おっ、これ前にもあった仕掛けじゃん！確か、鎖を下に引けば
+Hey, this is just like the one we saw before!  If I’m rememberin’ right, we just gotta pull this...
+
+いや、下にある丸いくぼみ　何かをハメないと動かんようだ。
+Wait, there’s a round indentation underneath…  It looks like it won’t move unless we fill that.
+鍵　って事だよね　どっかにあるのかな？
+So we need a key… I wonder where it could be.
+
+探すぞ、ジョーカー
+Let’s go look for it, Joker!
+
+#Entering Southern Library, examining bookshelves
+
+うわ、カビくさい
+Whoa, it’s so musty...
+
+ここは「書庫」か　いかにもって感じだなぁ。
+A library, huh?  This definitely seems fishy.
+
+何だよ、いかにもって？
+Whaddya mean?
+
+城に書庫といえば、何か仕掛けがありそうなもんだろ？
+Come on, it’s a library in a castle.  There has to be some kind of secret mechanism in here.
+
+ジョーカー、調べてみようぜ？
+Let’s look around, Joker.
+
+ん　ちょっと待て。この棚の本　知ってる名前が書いてあるぜ？
+Hm… Wait a second.  The books on this shelf seem familiar.
+
+これ、バレー部の連中の名前だ！
+These’re the names of the volleyball team members!
+
+つか、どの本もウチの男子の名前が書いてあんぞ！？
+Wait, what the hell!?  All of the titles are boys from our school!
+
+「卑しいき猿・坂本竜司」　か。スカルのもあるな。
+“Ryuji Sakamoto: The Vulgar Ape” There’s one here for Skull.
+
+ヤロウ、なめやがって！
+That bastard!  Who the hell does he think he is!?
+
+ねぇ、さっき本を拾ったよね・もしかしたら
+Wait, didn’t we find a book earlier?  What if we...
+
+もしかしたら？
+&gt;ここに入れてみよう
+What if we what?
+Let’s put it on the shelf.
+
+うん、本をしまえば、何か起きるかも
+Yeah, maybe something will change if we put it on the shelf.
+
+(list of books)
+
+色んな本あるね　タイトルもバラバラ
+There are all sorts of books here… The titles don’t have any rhyme or reason to them.
+
+あれ？この本　タイトルに、志帆の名前が
+Huh? This book… has Shiho’s name in the title...
+
+てか、この本だけじゃない！どの本も、タイトルに女生徒が入ってる　！
+Wait… It’s not just this one!  All of the books here are about female students…!
+
+「魅惑の人形・高巻杏」　マジかよ
+“Ann Takamaki: The Charming Doll”  Holy shit...
+
+何なの、これ　！
+What the heck is this…!?
+
+(list of books)
+
+えーっと
+Let’s see...
+
+「鴨志田の歴史」　「鴨志田の軌跡」　「鴨志田武勇伝」　「鴨志田の掟」？
+“The History of Kamoshida”...”Tracing Kamoshida’s Steps”... “Kamoshida’s Heroisms”... “Kamoshida’s Law”...?
+
+んだこりゃ！この辺全部、鴨志田本ばっかじゃねーか。
+What the hell?  All these goddamn books’re about Kamoshida!
+
+(list of books)
+
+うおっ、なんか開いたぞ！？
+Whoa, it opened up!?
+
+見事だジョーカー！中を探ってみようぜ！
+You got it, Joker!  Let’s take a look inside!
+
+げ　なんだよ、この部屋　鈴井の写真だらけじゃねぇかっ！？
+Ugh… The hell is this room?  There’re tons of pictures of Suzui here!
+
+これ　全部、鈴井の写真か　？
+Wait… It’s all pics of her…?
+
+&gt;大丈夫か？
+ケジメをつけさせよう
+いくぞ
+Are you going to be OK?
+We’ll make him pay for this.
+Let’s keep moving.
+
+うん　ありがとう。
+Yeah… Thanks.
+
+なんか　闘志湧いて来たよ。
+If anything… I feel even more motivated to do this now.
+
+気分は良くないだろうが。部屋を探索なるぞ。
+I’m sure it’ll feel awful, but we should search this room.
+
+あんな大仕掛けで隠してたんだ、必ず何かある。
+There has to be something in here if he was hiding it with such an elaborate trick.
+
+これって　メダル？
+Is this… a medal?
+
+その大きさと形　多分、コイツがカギだな！
+That size, and that shape… I think that’s our key!
+
+覚えてるか？柵を開ける仕掛けに付いてた「丸いくぼみ」だ！
+Remember that round indentation we saw back near those bars?
+
+待って、メタルの下にも何かあるよ？
+Wait, there’s something under the medal too.
+
+こいつは　前のとは別の「見取り図」だ！ラッキー！一緒に頂いとこうぜ！
+Oh…!  It’s a different map form the one we have!  This is lucky… Let’s take it with us!
+
+おおっ、これで見取り図が揃ってみタイだぞ！
+Aha!  Our map’s complete now!
+
+んじゃあアレか？オタカラの場所も分かんのか？
+So is it going to tell us where the Treasure is?
+
+見ろ。きっとココだ
+Yeah, look.  It has to be here.
+
+ヘンな形の建物だね　？塔か何かかな
+That’s a weird-shaped building…  Could it be a tower or something?
+
+今の場所から考えると　距離的には後平分ってトコだな。
+Considering our current position… I’d say we’re about halfway there.
+
+よーしっ、だったら一気に行っちまおうぜ！
+All right!  Let’s hurry over there!
+
+いや、先が見えたなら、ペース配分も考えられるはずだ。
+No.  Now that we know how much we have left, we can calculate the best way to pace ourselves.
+
+適度に引き上げつつ、探索を進めようぜ、ジョーカー。
+Let’s keep exploring, but take breaks when you need to, Joker.
+
+#Reexamining wall mechanism with medal
+
+この仕掛けを動かせば扉を開けられるはずだ。
+If we activate this device, we should be able to open the door.
+
+&gt;メダルを使おう
+後にしよう
+Let’s use the medal.
+Maybe later.
+
+よっしゃ！上手くいったみてーだな。
+Sweet!  Looks like it worked.
+
+これで先に進めるね！
+Now we can keep going!
+
+きっと、この先は重要な場所に違いない。行くぞ！
+This must lead somewhere important.  Let’s go!
+
+#Entering Cathedral
+
+待て、ジョーカー！！
+Hold on, Joker!
+
+これだけ広い場所に　見張り無しか？怪しいなぁ
+This place is huge… yet there are no guards?  That seems suspicious...
+
+けどオタカラはこの先なんだろ？行くしかなくねぇか？
+But the Treasure’s up ahead, right?  We don’t got a choice but to keep goin’.
+
+まぁ　そうなんだが　万が一には備えた方が良さそうだ。
+I guess that’s true… but we need to make sure we’re ready for whatever might be ahead.
+
+どうなるジョーカー？このまま進むか？
+What do you think, Joker?  Should we continue onward?
+
+&gt;行こう
+準備する
+Let’s do it.
+We should prepare first.
+
+えっ、今の　体育館　？
+Wait, was that… the gym…?
+
+なるほどな　体育館は望なる場所　でもって自分は、そこの神ってか。
+I get it… The gym’s some kinda holy place for him.  He’s a god there.
+
+志帆を　あんな目にあわせておいて
+I can’t believe he can think like that… especially after what he did to Shiho...
+
+心底、吐き気がするぜ！待ってやがれよ　！
+God, that bastard makes me so freakin’ sick!  Just you wait, Kamoshida…!
+
+なるほど　書庫の部屋を荒らしたのは貴様らか。
+I see… So you’re the ones who tampered with the library.
+
+待っていた甲斐がっあったというものだ
+It seems my time waiting here has paid off...
+
+そこの猿が言った通り、ここは我らがカモシダ様の聖域だ。
+Just as that ape there said, this place is a holy ground for our great King Kamoshida.
+
+そこに土足で踏見入るとは不届き千万
+It is preposterous for miscreants like yourselves to come waltzing in like this.
+
+カモシダ様に逆らった愚かしさ　身を持って知るが良い！！ 
+You will pay for foolishly defying King Kamoshida… with your lives!
+
+やっぱりこうなったかっ！仕方ないっ！迎え撃つぞっ！！
+I knew this would happen!  Well, we don’t have a choice!  Let’s take it down!
+
+見ろ！あいつ何かやろうとしてるぜ！
+Look!  He’s trying to do something!
+
+危ないって思ったらガードも大事だぜ！
+It’s important to guard if you think you’re in danger!
+
+#Exiting dungeon
+
+どうした？仕切り直しか？
+
+&gt;引き上げよう
+まだ帰らない
+
+カモシダ・パレスから現実世界へ帰遠します。お疲れ様でした。
+
+もう少しで探索も半分くらいか？わずかにオタカラの気配がして来たぞ。
+
+やっと半分？どんだけ広いんだよ　ここ
+
+ま、ゴールにゃ近づいてんのか　次の探索ではもっと進もうぜ！
+
+#Entering LeBlanc
+
+真面目に学校に行くフリしたからって俺の目はごまかせねえぞ？
+Just ‘cause you seem to be takin’ school seriously don’t mean I’m not keepin’ an eye on you, got it?
+
+学校の成績を見りゃ、一発で分かる。
+I’ll know what’s what as soon as I see your grades.
+
+ちゃんと更生したって認められたいなら日ごろから強制しとくんだな。
+Wanna prove you’re turnin’ over a new leaf?  Make studying a habit as second nature as breathing.
+
+そうだ、二階に置いてあるガラクタは全部、処分していいからな？
+Oh yeah, you can get rid of all the crap that’s upstairs.
+
+つうか、部屋を片付けろ。
+That room needs a good cleaning.
+
+強制すんなら、テーブル席使っていいぞ。ただし、終わったら綺麗にしとけよ？
+If you’re going to study, you can use the booth.  Just remember to clean it afterward, OK?
+
+ここでなら強制出来そうだな。けど、今日は疲れてるだろ？
+This looks like a good place for studying, but aren’t you tired after today?
+
+#Speaking with customer
+
+失礼、お邪魔してるよ。
+Ah, I apologize if I have overstayed my welcome.
+
+評論の仕事がひとつ片付いてね。ささやかな休憩というわけさ。
+I finished a critique for work, so I am parting in a moment&#039;s rest.
+
+閉店間際の馴染みの店　この静寂が私を癒してくれる。
+The ambience of my favorite cafe at closing time… This perfect silence soothes my very soul.
+
+テレビ点いてるけどな。
+The TV’s on, though.
+
+それじゃあ、私は帰ることにするよ。
+Well, I’ll be going home then.
+
+今日は疲れただろ？もう寝ようぜ。
+You must be tired after today… Let’s go to sleep.
+
+座れたけど、やることないのか
+We were able to grab a seat, but you’ve already read all the books that you own...
+
+よし、ワガハイはちょっと寝る。着いたら起こしてくれ。
+I guess we should probably buy some new books...
+
+ヤバイ、今月、服買い過ぎてお金ない
+Ugh, I spent way too much on new clothes this month.  Now I’m broke...
+
+バイトするしかないね。駅に置いてある情報誌、割と使えるよ？
+Guess you’re getting yourself a job.  Those job magazines they have at the train station are useful.
+
+渋谷の地下にあったっけ？そっか、帰りに見てみようかな
+Maybe I’ll swing by the Shibuya underground and pick one up after school.
+
+てもー、働いたら負けな気もするし　ラクし稼げるバイトがいいなぁ。
+Then again, work’s for losers.  I hope I find something easy.
+
+運資金が欲しいな
+Man, we need some cash.
+
+急にどうしたの？
+Why are you bringing that up now?
+
+武器と薬が調達できるようになっても
+Well we can get all sortsa weapons and meds and shit now...
+
+運資金がないと何も買えねえだろ？
+But we can’t actually buy any of it without some dough.
+
+&gt;貯金は？
+稼げばいい
+Do you have any savings?
+We just need to earn some.
+
+貯金は？
+Do you have any savings?
+
+ねえ！
+Nope!
+
+バイトしたら？
+Why don’t we get part-time jobs?
+
+何か気が乗らねえんだよな
+I dunno, I don’t feel like it...
+
+おっと
+Oh, shit.
+
+牛丸の授業だった！
+I’m in class!
+
+悪いいったん閉じる
+Sorry, I gotta leave the chat for now.  Seeya!
+
+バレスで手に入れて物を売れば運資金の足しになるかもしれないが
+If we sell the stuff we find in the Palace, we can make some quick scratch for the war funds, but...
+
+アン殿の言う通りバイトするのが手っ取り早いかもな。
+Like Lady Ann said-a part-time job might be the better bet.
+
+シブヤの駅地下にアルバイト情報誌があるんだろ？ちょっと見に行ってみるか？
+There are job magazines at the Shibuya Station, aren’t there?  Maybe you should pick one up.
+
+#Speaking with Ryuji after class
+
+おう、&lt;name&gt;。今日の予定決まってんのか？
+‘Sup, &lt;name&gt;?  You got any big plans for today?
+
+&gt;息抜きをしよう
+潜入するぞ
+決めてない
+Let’s hang out.
+Let’s go to the Palace.
+I haven’t decided yet.
+
+今日お袋に買いモン頼まれてんだわ。まじ面倒くせえ
+Ugh, my mom asked me to go grab stuff from the store today.  What a pain...
+
+緊急の時はスグ向かうからよ。何かあったら、連絡頼むな。
+I should be free if something big come up though, so just lemme know.
+
+#Examining the part-time job pamphlets in Shibuya
+
+アルバイトか？確かに先立つものは必要だしな。
+A part-time job, huh?  Well, you do need the money.
+
+でも、募集条件とかあるんだろ？オマエ、大丈夫か？
+There are conditions for applying though, right?  You sure you’ve got this?
+
+で、どんなのがあるんだ？
+So, what kind of jobs are there?
+
+コンビニエンスストア
+&gt;フラワーショップ
+牛丼屋
+Convenience Store
+Flower Shop
+Beef Bowl Shop
+
+花屋でバイトか　花に囲まれて優しさが磨かれるかもな。
+A part-time job at a flower shop, huh?  Being around all those flowers might boost your Kindness.
+
+なんか難しそうだけど本当にやれるのか？
+It seems kinda hard.  You sure you wanna do it?
+
+&gt;応募する
+やめておく
+Apply
+Cancel
+
+募集条件に「魅力的なスタッフ」ってあるぞ。今のオマエじゃ、ムリだろ
+The requirements say you gotta be charming.  I don’t think you’ve got what it takes right now...
+
+#Entering the school library
+
+あ　図書室の利用は初めてですか？
+Oh… Is this your first time at the library?
+
+初めての人には利用方法を説明なる決まりで
+It’s my job to explain the rules of the library to first-time visitors, so...
+
+貸し出せる本は1冊だけです。読み終わったら必ず返却して　あれ？
+You’re only allowed to borrow one book at a time.  Once you finish, please be sure to return-- Huh?
+
+そのバッジ　2年生？
+That badge… Are you a second-year?
+
+あっ、噂の転校生？
+...Oh, could you be that transfer student I keep hearing about!?
+
+&gt;そうだ
+違う
+Yup.
+Nope.
+
+やっぱり
+I knew it...
+
+あの　おせっかいかもしれないけど図書室の利用は止めた方が
+Uh… I don’t mean to be rude, but maybe you shouldn’t come here...
+
+ほら、他の生徒も怖がっているし
+See, you’re scaring the other students too...
+
+いや　利用するのはか構わないんですが
+Oh… No, I didn’t mean that you can’t use the library, but...
+
+どこ行っても歓迎されないな　まあ、仕方ないが
+You’re not welcomed anywhere you go… I guess there’s nothing we can do about it.
+
+#Speak with Makoto
+
+ん？何かしら？用が無ければ邪魔しないでくれる？
+Hm?  Is something the matter?  If you don’t need anything, please don’t bother me.
+
+忙しいのよ、色々とね。
+I’m very busy right now.
+
+#Speak with librarian
+
+何か用ですか？
+...Do you need something?
+
+&gt;本を借りる
+本を返す
+用はない
+I’d like to borrow a book.
+I’d like to return a book.
+No, never mind.
+
+本の貸し出しは1冊だけです。読み終わったら、必ず返却して下さい。
+...You can only borrow one book at a time.  Be sure to return it once you’ve finished reading it.
+
+今、貸し出せるのはこれだけでな。
+...These are all the books you can check out right now.
+
+&gt;大怪盗・アルセーヌ
+海賊伝説
+大盗賊・ゾロ
+妖艶の踊り子
+The Great Thief
+Pirate Legend
+Zorro, the Outlaw
+The Alluring Dancer
+
+はい、これらです。扱いには気を付けてください。
+...This one, yes?  OK, be careful with it.
+
+大怪盗・アルセーヌか。なかなか面白そうな本だな盗
+The Great Thief, eh?  Sounds interesting!
+
+ここは空いてるみたいだな。
+It looks like this spot’s open.
+
+けど、図書が渋い顔してるぞ。周りの生徒もヤな感じだし
+But I’m a little worried about the look that librarian is giving you.  Not to mention the other students.
+
+こんなとこで勉強なるつもりか？大丈夫なのか？
+Are you sure you’re gonna be OK studying here?
+
+&gt;やろう
+やめておく
+Study
+Never mind
+
+周りの雑音は気になるな。ちゃんと集中しろよ？
+I think you should study somewhere quieter...
+
+こんな場所で平然としてられるとは　オマエ、やるな！
+I’m impressed that you were able to keep calm in a place like this...
+
+ちゃんと勉強にも集中できてたぜ。
+Well, it seemed like you were really focused on your studies.
+
+さて、そろそろいい時間だな。今日はこれで切り上げるか！
+Well, it’s getting late. You should probably call it quits for today!
+
+なんだ、雨降ってんのかよ
+Damn, it’s raining...
+
+俺らの退学のウワサ結構、広まってんだな
+Looks like rumors about our expulsion’re spreading fast.
+
+&gt;そうらしい
+そうなのか？
+It seems so.
+Really?
+
+そうらしい
+It seems so.
+
+まあ派手にやっちまったしな
+I guess we did have a pretty big confrontation with him...
+
+けど、こっから逆転だ
+Doesn’t matter though.  We’re gonna turn the tables.
+
+鴨志田を改心させたら絶対みんな驚くぜ
+Everyone’ll be totally surprised if we can change Kamoshida’s heart.
+
+私たちがやったって誰も信じないだろうけどね
+I doubt they would believe we were responsible though.
+
+&gt;仕方ない
+それでいい
+言ってみる？
+It is what it is.
+That’s OK.
+Should we tell them?
+
+仕方ない
+It is what it is.
+
+やり切れねえよな
+But it’ll be a pain in the ass not getting credit.
+
+でも、評判なんて気にしてらんないよ
+Either way, we can’t worry about what people are saying about us.
+
+分かってる
+I know that.
+
+このままだと退学だ絶対に成功させようぜ！
+At this rate, we’re gonna get expelled.  We just gotta pull this shit off, no matter what!
+
+アン殿の言う通りだ。
+Lady Ann’s right.
+
+今は余計な事を考えるな。カモシダを改心させることだけに集中しろ。
+Don’t think about unnecessary stuff right now.  Just focus on changing Kamoshida’s heart.
+
+そうだ、時間あるか？
+Hey, you got a minute?
+
+お前に聞きたい事あんだった。ちょっと話、聞かせてくれ。
+Somethin’ I wanna ask you.  C’mere, let’s have a chat.
+
+#Sakura social link rank 1
+
+話してくれんのか。妙に素直だな　？
+You’ll talk with me?  You’re being unusually well-behaved...
+
+惣治郎と関係を深められる、いい機会かもしれない
+This may be a good opportunity to deepen my bond with Sojiro...
+
+&gt;話を聞こう
+やめておこう
+Let’s talk.
+Not now.
+
+おう。色々聞いておきてぇことがあんだよ。
+Good.  There’re a lot of things I want to ask you.
+
+今、片づけっから待ってろ。
+I’ll clean up, so just wait there.
+
+学校はどうだ？
+Hey, how’s school?
+
+問題起こすようなこと、してねえよな？
+You’re not causing any trouble, are you?
+
+&gt;してない
+ごめんなさい
+……
+I’m not.
+I might be.
+…...
+
+それならいい。
+Good.
+
+保護司ってのはな、月に2回、書類を出す義務があんだよ。
+I’ve gotta report to your probation officer twice a month.
+
+ただでさえめんどくせんだから、変なこと書かせんなよ。
+It’s already a pain in the ass as is, so please don’t make me have to write even more crap.
+
+いいか・社会には抗えない秩序や権力ってもんがある。
+Got that?  This society is kept in check by laws and authority figures.
+
+ひとりで勝手に野垂れ死ぬなら、まだマシだ。だが中には、他人を巻き込む馬鹿もいる。
+You can go and get yourself killed if you want, but don’t go dragging other people into your mess.
+
+世の中にそんな馬鹿が増えねえように、こっちで芽を潰してやってんだよ。
+The last thing we need is more idiots like you roaming about.
+
+どうした？
+Hm?  What’s wrong?
+
+ああ、もう出るよ。遅いなって悪いな。
+Yeah, I’m heading out now.  Sorry about that.
+
+わかってるって。いつものやつだろ。
+...I know.  The usual, right?
+
+それじゃ、後でな。
+OK, I’ll see you later.
+
+見ての通りだよ。仕事にプライベートに大忙しってやつだ。
+As you can see, I’m pretty damn busy both at work and in my private life.
+
+お前が手伝えってくれると、すごく助かるんだけどなぁ
+If you could lend a hand, it’d really be a great help.
+
+&gt;手伝うよ
+忙しい
+面倒くさい
+I’d be glad to.
+I’m kinda busy…
+It’s too much trouble.
+
+話せるじゃないの。
+Now we’re talking.
+
+ただでとは言わねえよ、手伝ってくれるなら、そうだな
+Either way, I won’t ask you to work for free.  If you agree to help me, then...
+
+コーヒーの淹れ方とか教えてやるよ。悪くないだろう？
+I’ll teach you how to make the perfect cup of coffee.  Not a  bad trade, eh?
+
+&gt;悪くない
+面白そうだ
+I guess.
+Sounds interesting.
+
+よし、それじゃ取引成立ってやつだな。
+All right.  Looks like we’ve got ourselves a deal.
+
+惣治郎との距離が少し縮まるのを感じる
+The distance between me and Sojiro seems to be closing slightly...
+
+怪盗団とは言っても、君は未成年。生活の基盤を支えていた者がいたはず。
+You may call yourself a phantom thief, but you’re still a minor.  Someone had to support you.
+
+しかも、君が怪盗団であることを知りながら
+Furthermore, they did so knowing you were part of that group...
+
+あの喫茶店のマスター、協力者だったんじゃないの！？
+...Isn’t the owner of the cafe an accomplice of yours!?
+
+じゃあ手伝うって件、よろしくな。
+I’ll be counting on your help.
+
+帰るわ。
+See ya later.</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>

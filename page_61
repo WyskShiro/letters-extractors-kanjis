@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Persona 5 - Part 14 (Japanese + English) - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="Persona 5 - Part 14 (Japanese + English) - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/zLj3Mgb4" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/zLj3Mgb4" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="4uif4xEtsjJFzxrQxhSMn_ExzR6761gsaFRjbF7S1geB3vGXIEbZBjOOcbe-bun9kGeLeMzebHMZBzwhbIOCXg==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?71b0e4248bdf19b8109f" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/text.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-url="https://pastebin.com/zLj3Mgb4" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-url="https://pastebin.com/zLj3Mgb4" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="DocFirebird">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>Persona 5 - Part 14 (Japanese + English)</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                                                    <a href="/u/DocFirebird">DocFirebird</a>
+                                            </div>
+
+                    
+                                             <a href="/message/compose?to=DocFirebird" class="message" title="Send a private message to: DocFirebird"></a>
+                                    
+                <div class="date">
+                    <span title="Sunday 16th of June 2019 10:45:21 PM CDT">Jun 16th, 2019</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    156                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/text" class="btn -small h_800">text</a> 16.24 KB            </div>
+
+            <div class="right">
+                <a href="/raw/zLj3Mgb4" class="btn -small">raw</a>
+                <a href="/dl/zLj3Mgb4" class="btn -small">download</a>
+                <a href="/clone/zLj3Mgb4" class="btn -small h_800">clone</a>
+                <a href="/embed/zLj3Mgb4" class="btn -small h_800">embed</a>
+                <a href="/report/zLj3Mgb4" class="btn -small">report</a>
+                <a href="/print/zLj3Mgb4" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="text"><li class="li1"><div class="de1">開かねェのか？</div></li><li class="li1"><div class="de1">It ain’t openin’?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、その部屋はもういいでしょ？思い出しただけでゾッとするのに</div></li><li class="li1"><div class="de1">Uh, we’re done in there.  Just thinking about that room gives me the creeps...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょっと！なによこの部屋！？</div></li><li class="li1"><div class="de1">Hey, what’s with this room!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">認知の隙間、セーフルームだ。</div></li><li class="li1"><div class="de1">It’s a gap in the cognition. A safe room, if you will.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、全然わかんない。</div></li><li class="li1"><div class="de1">Yeah, still not getting it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">だよなぁ。</div></li><li class="li1"><div class="de1">Right?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あー、なんか知らんがシャドウに見つからない安全地帯みてーだ。</div></li><li class="li1"><div class="de1">Uhhh, I’m fuzzy on the details, but I think it’s some kinda spot where Shadows can’t find us.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">安全地帯　そんな場所もあるのね。</div></li><li class="li1"><div class="de1">Huh… I didn’t think a place like that existed in here.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">で、ここで何するの？</div></li><li class="li1"><div class="de1">So, what do we do in this “safe room”?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なにするも何も、休憩だよ。あと、相談したり。</div></li><li class="li1"><div class="de1">Take a break, duh.  Oh, and we talk about stuff too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">休憩と相談か　そうだね。</div></li><li class="li1"><div class="de1">Huh…  Those are important.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それじゃ、私も休む。行くときにはちゃんと声かけてね。</div></li><li class="li1"><div class="de1">I guess I’ll rest for a bit too then.  Let me know when we’re ready to head out, Joker.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">それでは、現状の把握をしておこうか。</div></li><li class="li1"><div class="de1">OK then, let’s get a grasp of our current situation.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">進行状況は？</div></li><li class="li1"><div class="de1">&gt;皆の状態は？</div></li><li class="li1"><div class="de1">回復をしよう</div></li><li class="li1"><div class="de1">探索を続けよう</div></li><li class="li1"><div class="de1">How’s our progress?</div></li><li class="li1"><div class="de1">How is everyone?</div></li><li class="li1"><div class="de1">Let’s keep exploring.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まだまだ俺はやれるぜ！全員、余裕あんじゃねーか？</div></li><li class="li1"><div class="de1">I can totally keep goin’!  Looks like everyone else’s good too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まだみんな元気なようだなる。もう少し探索続けても良いと思うぞ。</div></li><li class="li1"><div class="de1">Everyone still seems energetic.  I think we can keep exploring if you’re feeling up to it.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まだ他に相談するか？</div></li><li class="li1"><div class="de1">Is there anything else you want to discuss?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">進行状況は？</div></li><li class="li1"><div class="de1">皆の状態は？</div></li><li class="li1"><div class="de1">回復をしよう</div></li><li class="li1"><div class="de1">&gt;探索を続けよう</div></li><li class="li1"><div class="de1">How’s our progress?</div></li><li class="li1"><div class="de1">How is everyone?</div></li><li class="li1"><div class="de1">Let’s keep exploring.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">わかった、それでは行こう。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よし、探索を再開するよ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここから先は、まだ未調査の場所だ。怪しい場所がないか集中して調査していくぞ。</div></li><li class="li1"><div class="de1">We haven’t explored past here yet.  Keep an eye out for anything suspicious as we push on.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちっ　ここにもいんのかよ</div></li><li class="li1"><div class="de1">Damn…  There’s one here too...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しゃーねぇ　また後ろから不意打ちまして</div></li><li class="li1"><div class="de1">Oh well… Guess we just gotta ambush it from behind again...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まぁ、それが生攻法だがな。もっとスタイリッシュな方法もあるぞ？</div></li><li class="li1"><div class="de1">Well sure, if you want to go about it the orthodox way.  But there’s a more stylish route!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">廊下の脇に手頃なソファーがあるだろ？あの物陰に潜んで敵に近づくんだ。</div></li><li class="li1"><div class="de1">See those sofas on the sides of the hallway?  Hide behind those so you can get closer to the enemy.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">敵が問合いに入ったら、一気に飛びかかって仮面を剥ぐ！</div></li><li class="li1"><div class="de1">Once it’s in range, jump on it and rip its mask off!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おお、なんかカッコイイな、ソレ</div></li><li class="li1"><div class="de1">Whoa… That does sound pretty damn cool...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ちょっと！映画じゃないだよ！？</div></li><li class="li1"><div class="de1">Hey!  This isn’t a movie!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ジョーカー、オマエの身のこなしならやれる筈だ。やってみろ！</div></li><li class="li1"><div class="de1">Joker, with your poise, you should be able to pull it off.  Give it a try!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見ろ！なんかあんぞ？</div></li><li class="li1"><div class="de1">Look!  There’s something in there.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど、柵で通れねえ</div></li><li class="li1"><div class="de1">But the bars’re blockin’ our way in...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これだけ厳重に守ってるって事は、きっと重要な物って事だ</div></li><li class="li1"><div class="de1">If he’s protecting it this securely, it has to be important.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これなら出入りする方法も必ずある。</div></li><li class="li1"><div class="de1">That means there should be a way in and out of there.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ジョーカー、この部屋の秘密、見抜けないか？</div></li><li class="li1"><div class="de1">Joker, do you think you can solve the mystery of this room?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オマエの観察能力なら、きっと何か見えてくるはずだ！</div></li><li class="li1"><div class="de1">I’m sure your observation skills will help you get through!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おっ　すげ</div></li><li class="li1"><div class="de1">Whoa...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さすがはジョーカーだ！</div></li><li class="li1"><div class="de1">As expected from you, Joker!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なんだよ　厳重に守ってた別にゃ、ただの見取り図かよ</div></li><li class="li1"><div class="de1">What the hell?  He had it all locked up and shit, but it was just some old map…?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">オマエというヤツは　見取り図がどれほど重要なのか知らないのか？</div></li><li class="li1"><div class="de1">You’re hopeless… Don’t you realize how vital a map is?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見取り図を手に入れれば、行ってない場所の地形や情報が把握できる。</div></li><li class="li1"><div class="de1">Having this will give us a better grasp of the topology of the Palace.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まさに怪盗の必需品だ。これでルート確保もグッと楽になるぞ。</div></li><li class="li1"><div class="de1">It’s a true necessity for a phantom thief.  This should make securing a route much easier.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">じゃあ、オタカラの場所もこれで分かっちゃうの？</div></li><li class="li1"><div class="de1">Wait, does it say where the treasure is on there?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ　いや　この見取り図は中途までみたいだ　他もあるのかもな</div></li><li class="li1"><div class="de1">Oh… Actually, it seems like this map is incomplete… There might be more of them around.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">んじゃ、分かった範囲からあたろうぜ。そうすりゃ、別の見取り図も出てくんだろ。</div></li><li class="li1"><div class="de1">Mkay, let’s start checkin’ what we can.  We’ll prolly find another map along the way somewhere.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">またこの柵かよ！</div></li><li class="li1"><div class="de1">More bars!?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しかも引っぱるヤツ、向こう側じゃん　他の道にする？</div></li><li class="li1"><div class="de1">And the thing we need to pull is on the other side…  Should we find another way?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">よく探してみろって。</div></li><li class="li1"><div class="de1">Try looking around some more.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">屋根裏だろうが通気口だろうが、通れる所はどこだって利用するのが潜入ってモンだろ？</div></li><li class="li1"><div class="de1">We need to find something we can use to proceed in this infiltration!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">これ、鍵がかかってるな</div></li><li class="li1"><div class="de1">Huh, it’s locked...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">キーピックなら1本あるぞ。開けるか？</div></li><li class="li1"><div class="de1">It needs a Lockpick… We have 1 of those.  Want to open it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;開ける</div></li><li class="li1"><div class="de1">今やめる</div></li><li class="li1"><div class="de1">Open the chest</div></li><li class="li1"><div class="de1">Ignore it for now</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">フム。ここは休憩に使えそうだ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ここを拠点にして探索を再開することができるぞ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見取り図通りなら、この先も結構長そうだよな</div></li><li class="li1"><div class="de1">If the map’s right, we still got a long way to go...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おい　左側見てみろ　シャドウもウロウロしてるみたいだ。</div></li><li class="li1"><div class="de1">Hey… Look to the left… There are some Shadows here too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いいか？闇雲に戦いを仕掛けるなよ？まず相手の強さ見極めてからだ。</div></li><li class="li1"><div class="de1">Now, you can’t just blindly rush into a fight.  First you need to ascertain how strong they are.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ソなモン、どうやんだよ？　</div></li><li class="li1"><div class="de1">How’re we supposed to do that?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">見極めるって言っただろ？相手の所作を観察して、その技量を見抜くんだ。</div></li><li class="li1"><div class="de1">Well, we’ll need to observe the enemy’s actions and get some insight into their skills.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ジョーカー、オマエの目なら、それが出来るんじゃないか？</div></li><li class="li1"><div class="de1">That should be possible for you, Joker.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうした？仕切り直しか？</div></li><li class="li1"><div class="de1">Hm?  Are we retreating, Joker?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;引き上げよう</div></li><li class="li1"><div class="de1">まだ帰らない</div></li><li class="li1"><div class="de1">Return to the real world</div></li><li class="li1"><div class="de1">Don’t leave yet</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">カモシダ　パレスから現実世界へ帰還します。お疲れ様でした。</div></li><li class="li1"><div class="de1">Now returning to the real world from Kamoshida’s Palace.  Thank you for your hard work.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ある程度は探索できたが　まだ折り返し地点じゃなさそうだな</div></li><li class="li1"><div class="de1">We got some exploration done… but I don’t think we’re really at a turning point yet...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あれ　まだそんなもんか　？結構行ってるかと思ってたけど</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">まっ、そんだけやり甲斐あるってモンだよな！次も頼むぜ、ジョーカー！</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">異世界と現実世界を行き来したからさすがにクタクタだな</div></li><li class="li1"><div class="de1">I’m pretty exhausted from going to the Metaverse...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">さっさと寝て、疲れを取らないとな</div></li><li class="li1"><div class="de1">Let’s hurry to bed and get some rest.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">お前、妙なことに道突っ込んでねえだろうな？</div></li><li class="li1"><div class="de1">You better not be up to any trouble.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">少しでも問題起こしてみろ。お前の人生、お先真っ暗だぞ。</div></li><li class="li1"><div class="de1">You make just one mistake and your life’s over.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">小遣いはやらねえからな。欲しけりゃ自分で稼げ。</div></li><li class="li1"><div class="de1">I’m not giving you alny allowance.  If you want money, get a job.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日は疲れただろ？もう寝ようぜ。</div></li><li class="li1"><div class="de1">You must be tired after today… Let’s go to sleep.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;寝る</div></li><li class="li1"><div class="de1">まだ寝ない</div></li><li class="li1"><div class="de1">Go to sleep</div></li><li class="li1"><div class="de1">Stay up for now</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">高校入ったら彼女できると思ってたけど全然、そんな気配ないんだよな</div></li><li class="li1"><div class="de1">I thought I’d get a girlfriend once I was in high school, but I’m not having any luck at all...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">クソッ、俺の何がいけないっ！？</div></li><li class="li1"><div class="de1">Is there something wrong with me?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そんなんだからダメなんだよ　ちょっとは自分を磨く努力しろ。</div></li><li class="li1"><div class="de1">Maybe.  Maybe you need to do some self-improvement.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本でも読むんだな。</div></li><li class="li1"><div class="de1">Try reading some books.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">知識だけじゃない色々な事が身に付くし話題の引き出しも増える。</div></li><li class="li1"><div class="de1">Broaden your horizons so you’ll have more things to talk about.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">知的ってだけで、ひとつハードルも下がる。こういうのは地道な努力の積み重ねだぞ？</div></li><li class="li1"><div class="de1">You’ll be more desirable if you’re more intelligent.  It’ll take hard work, though--won’t happen overnight.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本か　読むと眠たくなるんだよな</div></li><li class="li1"><div class="de1">Yeah, but books make me sleepy...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">けど、モテるためなら我慢して頑張ってみっかな！</div></li><li class="li1"><div class="de1">Guess I can give it a go, though, if it’ll help me more popular with the ladies!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本はそうだな　確か、学校の図書室で借りれたよな？</div></li><li class="li1"><div class="de1">Uh, is the library where you go to borrow books?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">本を読むのは大事だ。色々な考えを身に着けられる。</div></li><li class="li1"><div class="de1">Reading books is an important way to expand your mind.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;本は好きだ</div></li><li class="li1"><div class="de1">読んだ方がいい？</div></li><li class="li1"><div class="de1">読書は苦手</div></li><li class="li1"><div class="de1">Books are great!</div></li><li class="li1"><div class="de1">And why should I do that?</div></li><li class="li1"><div class="de1">I don’t like reading though.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">奇遇だな、ワガハイもだ。</div></li><li class="li1"><div class="de1">I totally agree.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">学校の図書室なら本をタダで読めるし活用しない手はないぞ。</div></li><li class="li1"><div class="de1">You can apparently read for free at the school library, so you should try and take advantage of that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あとはそうだな　セントラル街に本屋があったっけか</div></li><li class="li1"><div class="de1">I think there’s also a bookstore over on Central Street...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やあ、キミたち　ボクが生物を教える蛭田(ひるた)だ。</div></li><li class="li1"><div class="de1">Hi there, everyone… I’m Mr. Hiruta, your biology teacher.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あんな事故があったばかりでショックだよね。モチロン、ボクもだ</div></li><li class="li1"><div class="de1">You must all be shocked by what happened with Suzui-san.  It was a shock to me too...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">でも、彼女のキモチ　分からなくもないよ。</div></li><li class="li1"><div class="de1">Although, I can relate to how she felt.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">彼女の目には灰色に見えていたんだ。閉鎖に満ちて、希望のないこの世界が、ね。</div></li><li class="li1"><div class="de1">Her eyes were devoid of life as they looked upon this sad, hopeless world.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">人それぞれ世界の見え法は違う。一つテストしてみようか。</div></li><li class="li1"><div class="de1">Well, I suppose everyone views the world differently.  Let’s have a test.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そこのキミ　！この絵を見て答えてもらおう。</div></li><li class="li1"><div class="de1">You there!  Take a look at this diagram.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">点Aが直線で繋がっているのはB？C？さあ、どっち！</div></li><li class="li1"><div class="de1">Is the line extending from A connected to B or C?  Which is it?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">B</div></li><li class="li1"><div class="de1">C</div></li><li class="li1"><div class="de1">&gt;どちらも繋がっていない</div></li><li class="li1"><div class="de1">B</div></li><li class="li1"><div class="de1">C</div></li><li class="li1"><div class="de1">Neither.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">キミには見えないんだね</div></li><li class="li1"><div class="de1">So you can’t see it...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">正解はCだよ。</div></li><li class="li1"><div class="de1">The correct answer is it connects to Line C.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">そう、これは錯視。正しく見えた人も、そうでない人もいるね。</div></li><li class="li1"><div class="de1">This is an optical illusion.  Some people see it correctly, and some do not.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">同じものを見ているのに、遠く見えるなんて不思議だろ？</div></li><li class="li1"><div class="de1">Isn’t it strange that they view the same image differently?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">人はありのままの世界を見てはいない　目から入る視覚情報を脳で感じているだけさ。</div></li><li class="li1"><div class="de1">Humans don’t see the world as it is.  We simply process visual information with our brain.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">やっぱ出来ないんだ</div></li><li class="li1"><div class="de1">I knew he wouldn’t get it right...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">仕方ないんじゃん？だって彼</div></li><li class="li1"><div class="de1">Duh.  I mean, he’s-</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">あ、やば！コッチ見てる！</div></li><li class="li1"><div class="de1">Crap, the teacher’s looking at us!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">世界がどう見えるかなんて、脳のまやかし　ただの認知に過ぎない。</div></li><li class="li1"><div class="de1">How you see the world is nothing more than a trick of the mind… It is al mere cognition.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ボク達の目に映る世界が同じなんて保証はどこにもないんだ。</div></li><li class="li1"><div class="de1">There is no proof that the world each of us sees is the same.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">世界がどう見えるかは、脳の認知次第、か</div></li><li class="li1"><div class="de1">How you see the world depends on your brain&#039;s cognition, huh...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">異世界と錯視　案外近いのかもしれないな。</div></li><li class="li1"><div class="de1">Optical illusions and the metaverse might be more similar than you’d think.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">なぁ,&lt;name&gt;って今ドコ？</div></li><li class="li1"><div class="de1">Hey, where are you right now?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;また帰ってない</div></li><li class="li1"><div class="de1">教室にいる</div></li><li class="li1"><div class="de1">I haven’t gone home yet.</div></li><li class="li1"><div class="de1">I’m still in the classroom.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">また帰ってない</div></li><li class="li1"><div class="de1">I haven’t gone home yet.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">俺もまだ学校教室出た階段のトコ居んだけど</div></li><li class="li1"><div class="de1">I’m still at school too.  I’m by the staircase outside your classroom.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日、パレスどうする？</div></li><li class="li1"><div class="de1">Think we should head into the Palace today?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;行こうか</div></li><li class="li1"><div class="de1">決めてない</div></li><li class="li1"><div class="de1">Let’s go.</div></li><li class="li1"><div class="de1">I haven&#039;t decided.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">行こうか</div></li><li class="li1"><div class="de1">Let’s go.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おう　マジかちょっと悪ぃんだけど</div></li><li class="li1"><div class="de1">Oh.  For real?  Hey, listen, man...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">しばらく体動かしてねーから体鈍っちまってよ</div></li><li class="li1"><div class="de1">Maybe it’s cause I haven’t been moving around as much lately, but I feel like I’m getting weak.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">急がば回れってやつ？まだ敵も強くなるかもしれねーし</div></li><li class="li1"><div class="de1">We’re prolly gonna run into some pretty tough Shadows sometime.  We should try to get stronger too.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">外晴れで丁度いいしちょっと体ほぐさね？</div></li><li class="li1"><div class="de1">It’s sunny outside.  Perfect for training!  So, you wanna get your blood pumpin’?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">リュージもそれなりに色々考えてるみたいだな</div></li><li class="li1"><div class="de1">Seems like even Ryuji has a lot on his mind...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">確かに身体を鍛えておいた方がいざって時に動けるもんな。</div></li><li class="li1"><div class="de1">It’s true that training your body will let you be able to move when it counts.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">せっかくの誘いだ。ちょっと話を聞いてやったらどうだ？</div></li><li class="li1"><div class="de1">He went to the trouble of inviting you, so why not listen to what he has to say?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">今日はパレス行く？</div></li><li class="li1"><div class="de1">Wanna go to the Palace today?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">決めたなら集合よろしくね</div></li><li class="li1"><div class="de1">I’ll leave it to you to get everyone once you’ve decided when to meet up.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">どうすんだ？パレス行くなら、アジトに集合するか？</div></li><li class="li1"><div class="de1">Well, what do you want to do?  Should we meet up at the hideout and head into the Palace?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&gt;集合する</div></li><li class="li1"><div class="de1">後で決める</div></li><li class="li1"><div class="de1">Meet up</div></li><li class="li1"><div class="de1">Decide later</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">アジトに向かうね</div></li><li class="li1"><div class="de1">I’ll head to the hideout.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">ワガハイは準備OKだ。いつでも声を掛けてくれ。</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">な、なんだよ　ここ開かねぇのか！？</div></li><li class="li1"><div class="de1">Th-The hell…?  It ain’t openin’?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、微かだが風の音がする　どこかに通れそうな場所は無いか？</div></li><li class="li1"><div class="de1">Wait… I can hear a faint breeze blowing in from somewhere… Is there another way through?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おい見ろ、宝箱だ！アレも頂戴しとこうぜ！</div></li><li class="li1"><div class="de1">Look, a treasure chest!  Let’s take whatever is in there too!</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">いや、見張り居るし</div></li><li class="li1"><div class="de1">Uh, there’s a guard there...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">おいジョーカー、ここからなら、直接、奇襲がかけられそうじゃないか？</div></li><li class="li1"><div class="de1">That’s OK.  Hey, Joker, do you think we can ambush it from here?</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">隠れて敵にとびかかるのと同じだ。やってみろ。</div></li><li class="li1"><div class="de1">It should be the same as hiding and jumping toward an enemy.  Give it a try.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">シャドウも命乞いなんてなるんだ　なんか以外</div></li><li class="li1"><div class="de1">I didn’t realize even Shadows beg for their lives… That’s actually kind of surprising...</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">シャドウにも感情はある。孤立して追い詰められれば命乞いだってするさ。</div></li><li class="li1"><div class="de1">Shadows have emotions too, you know.  Of course they’ll be afraid if you corner them like that.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">戦況時代じゃ、わざとその状況を作って、命乞いを誘うのも手かもな。</div></li><li class="li1"><div class="de1">It might be worth purposely creating such situations to get them begging for their lives.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">うっし！これで通るな！</div></li><li class="li1"><div class="de1">All right!  Let’s get movin’!</div></li></ol>        </div>
+    </div>
+
+    <!--  TEST ADS SCRIPT  -->
+    <div style="max-width: 420px; margin: 10px auto;">
+        <script async id="vd200485928" src="https://tags.viewdeos.com/pastebin/player-pastebin-desktop.js"></script>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">開かねェのか？
+It ain’t openin’?
+
+いや、その部屋はもういいでしょ？思い出しただけでゾッとするのに
+Uh, we’re done in there.  Just thinking about that room gives me the creeps...
+
+ちょっと！なによこの部屋！？
+Hey, what’s with this room!?
+
+認知の隙間、セーフルームだ。
+It’s a gap in the cognition. A safe room, if you will.
+
+いや、全然わかんない。
+Yeah, still not getting it.
+
+だよなぁ。
+Right?
+
+あー、なんか知らんがシャドウに見つからない安全地帯みてーだ。
+Uhhh, I’m fuzzy on the details, but I think it’s some kinda spot where Shadows can’t find us.
+
+安全地帯　そんな場所もあるのね。
+Huh… I didn’t think a place like that existed in here.
+
+で、ここで何するの？
+So, what do we do in this “safe room”?
+
+なにするも何も、休憩だよ。あと、相談したり。
+Take a break, duh.  Oh, and we talk about stuff too.
+
+休憩と相談か　そうだね。
+Huh…  Those are important.
+
+それじゃ、私も休む。行くときにはちゃんと声かけてね。
+I guess I’ll rest for a bit too then.  Let me know when we’re ready to head out, Joker.
+
+それでは、現状の把握をしておこうか。
+OK then, let’s get a grasp of our current situation.
+
+進行状況は？
+&gt;皆の状態は？
+回復をしよう
+探索を続けよう
+How’s our progress?
+How is everyone?
+Let’s keep exploring.
+
+まだまだ俺はやれるぜ！全員、余裕あんじゃねーか？
+I can totally keep goin’!  Looks like everyone else’s good too.
+
+まだみんな元気なようだなる。もう少し探索続けても良いと思うぞ。
+Everyone still seems energetic.  I think we can keep exploring if you’re feeling up to it.
+
+まだ他に相談するか？
+Is there anything else you want to discuss?
+
+進行状況は？
+皆の状態は？
+回復をしよう
+&gt;探索を続けよう
+How’s our progress?
+How is everyone?
+Let’s keep exploring.
+
+わかった、それでは行こう。
+
+よし、探索を再開するよ。
+
+ここから先は、まだ未調査の場所だ。怪しい場所がないか集中して調査していくぞ。
+We haven’t explored past here yet.  Keep an eye out for anything suspicious as we push on.
+
+ちっ　ここにもいんのかよ
+Damn…  There’s one here too...
+
+しゃーねぇ　また後ろから不意打ちまして
+Oh well… Guess we just gotta ambush it from behind again...
+
+まぁ、それが生攻法だがな。もっとスタイリッシュな方法もあるぞ？
+Well sure, if you want to go about it the orthodox way.  But there’s a more stylish route!
+
+廊下の脇に手頃なソファーがあるだろ？あの物陰に潜んで敵に近づくんだ。
+See those sofas on the sides of the hallway?  Hide behind those so you can get closer to the enemy.
+
+敵が問合いに入ったら、一気に飛びかかって仮面を剥ぐ！
+Once it’s in range, jump on it and rip its mask off!
+
+おお、なんかカッコイイな、ソレ
+Whoa… That does sound pretty damn cool...
+
+ちょっと！映画じゃないだよ！？
+Hey!  This isn’t a movie!
+
+ジョーカー、オマエの身のこなしならやれる筈だ。やってみろ！
+Joker, with your poise, you should be able to pull it off.  Give it a try!
+
+見ろ！なんかあんぞ？
+Look!  There’s something in there.
+
+けど、柵で通れねえ
+But the bars’re blockin’ our way in...
+
+これだけ厳重に守ってるって事は、きっと重要な物って事だ
+If he’s protecting it this securely, it has to be important.
+
+これなら出入りする方法も必ずある。
+That means there should be a way in and out of there.
+
+ジョーカー、この部屋の秘密、見抜けないか？
+Joker, do you think you can solve the mystery of this room?
+
+オマエの観察能力なら、きっと何か見えてくるはずだ！
+I’m sure your observation skills will help you get through!
+
+おっ　すげ
+Whoa...
+
+さすがはジョーカーだ！
+As expected from you, Joker!
+
+なんだよ　厳重に守ってた別にゃ、ただの見取り図かよ
+What the hell?  He had it all locked up and shit, but it was just some old map…?
+
+オマエというヤツは　見取り図がどれほど重要なのか知らないのか？
+You’re hopeless… Don’t you realize how vital a map is?
+
+見取り図を手に入れれば、行ってない場所の地形や情報が把握できる。
+Having this will give us a better grasp of the topology of the Palace.
+
+まさに怪盗の必需品だ。これでルート確保もグッと楽になるぞ。
+It’s a true necessity for a phantom thief.  This should make securing a route much easier.
+
+じゃあ、オタカラの場所もこれで分かっちゃうの？
+Wait, does it say where the treasure is on there?
+
+あ　いや　この見取り図は中途までみたいだ　他もあるのかもな
+Oh… Actually, it seems like this map is incomplete… There might be more of them around.
+
+んじゃ、分かった範囲からあたろうぜ。そうすりゃ、別の見取り図も出てくんだろ。
+Mkay, let’s start checkin’ what we can.  We’ll prolly find another map along the way somewhere.
+
+またこの柵かよ！
+More bars!?
+
+しかも引っぱるヤツ、向こう側じゃん　他の道にする？
+And the thing we need to pull is on the other side…  Should we find another way?
+
+よく探してみろって。
+Try looking around some more.
+
+屋根裏だろうが通気口だろうが、通れる所はどこだって利用するのが潜入ってモンだろ？
+We need to find something we can use to proceed in this infiltration!
+
+これ、鍵がかかってるな
+Huh, it’s locked...
+
+キーピックなら1本あるぞ。開けるか？
+It needs a Lockpick… We have 1 of those.  Want to open it?
+
+&gt;開ける
+今やめる
+Open the chest
+Ignore it for now
+
+フム。ここは休憩に使えそうだ。
+
+ここを拠点にして探索を再開することができるぞ。
+
+見取り図通りなら、この先も結構長そうだよな
+If the map’s right, we still got a long way to go...
+
+おい　左側見てみろ　シャドウもウロウロしてるみたいだ。
+Hey… Look to the left… There are some Shadows here too.
+
+いいか？闇雲に戦いを仕掛けるなよ？まず相手の強さ見極めてからだ。
+Now, you can’t just blindly rush into a fight.  First you need to ascertain how strong they are.
+
+ソなモン、どうやんだよ？　
+How’re we supposed to do that?
+
+見極めるって言っただろ？相手の所作を観察して、その技量を見抜くんだ。
+Well, we’ll need to observe the enemy’s actions and get some insight into their skills.
+
+ジョーカー、オマエの目なら、それが出来るんじゃないか？
+That should be possible for you, Joker.
+
+どうした？仕切り直しか？
+Hm?  Are we retreating, Joker?
+
+&gt;引き上げよう
+まだ帰らない
+Return to the real world
+Don’t leave yet
+
+カモシダ　パレスから現実世界へ帰還します。お疲れ様でした。
+Now returning to the real world from Kamoshida’s Palace.  Thank you for your hard work.
+
+ある程度は探索できたが　まだ折り返し地点じゃなさそうだな
+We got some exploration done… but I don’t think we’re really at a turning point yet...
+
+あれ　まだそんなもんか　？結構行ってるかと思ってたけど
+
+まっ、そんだけやり甲斐あるってモンだよな！次も頼むぜ、ジョーカー！
+
+異世界と現実世界を行き来したからさすがにクタクタだな
+I’m pretty exhausted from going to the Metaverse...
+
+さっさと寝て、疲れを取らないとな
+Let’s hurry to bed and get some rest.
+
+お前、妙なことに道突っ込んでねえだろうな？
+You better not be up to any trouble.
+
+少しでも問題起こしてみろ。お前の人生、お先真っ暗だぞ。
+You make just one mistake and your life’s over.
+
+小遣いはやらねえからな。欲しけりゃ自分で稼げ。
+I’m not giving you alny allowance.  If you want money, get a job.
+
+今日は疲れただろ？もう寝ようぜ。
+You must be tired after today… Let’s go to sleep.
+
+&gt;寝る
+まだ寝ない
+Go to sleep
+Stay up for now
+
+高校入ったら彼女できると思ってたけど全然、そんな気配ないんだよな
+I thought I’d get a girlfriend once I was in high school, but I’m not having any luck at all...
+
+クソッ、俺の何がいけないっ！？
+Is there something wrong with me?
+
+そんなんだからダメなんだよ　ちょっとは自分を磨く努力しろ。
+Maybe.  Maybe you need to do some self-improvement.
+
+本でも読むんだな。
+Try reading some books.
+
+知識だけじゃない色々な事が身に付くし話題の引き出しも増える。
+Broaden your horizons so you’ll have more things to talk about.
+
+知的ってだけで、ひとつハードルも下がる。こういうのは地道な努力の積み重ねだぞ？
+You’ll be more desirable if you’re more intelligent.  It’ll take hard work, though--won’t happen overnight.
+
+本か　読むと眠たくなるんだよな
+Yeah, but books make me sleepy...
+
+けど、モテるためなら我慢して頑張ってみっかな！
+Guess I can give it a go, though, if it’ll help me more popular with the ladies!
+
+本はそうだな　確か、学校の図書室で借りれたよな？
+Uh, is the library where you go to borrow books?
+
+本を読むのは大事だ。色々な考えを身に着けられる。
+Reading books is an important way to expand your mind.
+
+&gt;本は好きだ
+読んだ方がいい？
+読書は苦手
+Books are great!
+And why should I do that?
+I don’t like reading though.
+
+奇遇だな、ワガハイもだ。
+I totally agree.
+
+学校の図書室なら本をタダで読めるし活用しない手はないぞ。
+You can apparently read for free at the school library, so you should try and take advantage of that.
+
+あとはそうだな　セントラル街に本屋があったっけか
+I think there’s also a bookstore over on Central Street...
+
+やあ、キミたち　ボクが生物を教える蛭田(ひるた)だ。
+Hi there, everyone… I’m Mr. Hiruta, your biology teacher.
+
+あんな事故があったばかりでショックだよね。モチロン、ボクもだ
+You must all be shocked by what happened with Suzui-san.  It was a shock to me too...
+
+でも、彼女のキモチ　分からなくもないよ。
+Although, I can relate to how she felt.
+
+彼女の目には灰色に見えていたんだ。閉鎖に満ちて、希望のないこの世界が、ね。
+Her eyes were devoid of life as they looked upon this sad, hopeless world.
+
+人それぞれ世界の見え法は違う。一つテストしてみようか。
+Well, I suppose everyone views the world differently.  Let’s have a test.
+
+そこのキミ　！この絵を見て答えてもらおう。
+You there!  Take a look at this diagram.
+
+点Aが直線で繋がっているのはB？C？さあ、どっち！
+Is the line extending from A connected to B or C?  Which is it?
+
+B
+C
+&gt;どちらも繋がっていない
+B
+C
+Neither.
+
+キミには見えないんだね
+So you can’t see it...
+
+正解はCだよ。
+The correct answer is it connects to Line C.
+
+そう、これは錯視。正しく見えた人も、そうでない人もいるね。
+This is an optical illusion.  Some people see it correctly, and some do not.
+
+同じものを見ているのに、遠く見えるなんて不思議だろ？
+Isn’t it strange that they view the same image differently?
+
+人はありのままの世界を見てはいない　目から入る視覚情報を脳で感じているだけさ。
+Humans don’t see the world as it is.  We simply process visual information with our brain.
+
+やっぱ出来ないんだ
+I knew he wouldn’t get it right...
+
+仕方ないんじゃん？だって彼
+Duh.  I mean, he’s-
+
+あ、やば！コッチ見てる！
+Crap, the teacher’s looking at us!
+
+世界がどう見えるかなんて、脳のまやかし　ただの認知に過ぎない。
+How you see the world is nothing more than a trick of the mind… It is al mere cognition.
+
+ボク達の目に映る世界が同じなんて保証はどこにもないんだ。
+There is no proof that the world each of us sees is the same.
+
+世界がどう見えるかは、脳の認知次第、か
+How you see the world depends on your brain&#039;s cognition, huh...
+
+異世界と錯視　案外近いのかもしれないな。
+Optical illusions and the metaverse might be more similar than you’d think.
+
+なぁ,&lt;name&gt;って今ドコ？
+Hey, where are you right now?
+
+&gt;また帰ってない
+教室にいる
+I haven’t gone home yet.
+I’m still in the classroom.
+
+また帰ってない
+I haven’t gone home yet.
+
+俺もまだ学校教室出た階段のトコ居んだけど
+I’m still at school too.  I’m by the staircase outside your classroom.
+
+今日、パレスどうする？
+Think we should head into the Palace today?
+
+&gt;行こうか
+決めてない
+Let’s go.
+I haven&#039;t decided.
+
+行こうか
+Let’s go.
+
+おう　マジかちょっと悪ぃんだけど
+Oh.  For real?  Hey, listen, man...
+
+しばらく体動かしてねーから体鈍っちまってよ
+Maybe it’s cause I haven’t been moving around as much lately, but I feel like I’m getting weak.
+
+急がば回れってやつ？まだ敵も強くなるかもしれねーし
+We’re prolly gonna run into some pretty tough Shadows sometime.  We should try to get stronger too.
+
+外晴れで丁度いいしちょっと体ほぐさね？
+It’s sunny outside.  Perfect for training!  So, you wanna get your blood pumpin’?
+
+リュージもそれなりに色々考えてるみたいだな
+Seems like even Ryuji has a lot on his mind...
+
+確かに身体を鍛えておいた方がいざって時に動けるもんな。
+It’s true that training your body will let you be able to move when it counts.
+
+せっかくの誘いだ。ちょっと話を聞いてやったらどうだ？
+He went to the trouble of inviting you, so why not listen to what he has to say?
+
+今日はパレス行く？
+Wanna go to the Palace today?
+
+決めたなら集合よろしくね
+I’ll leave it to you to get everyone once you’ve decided when to meet up.
+
+どうすんだ？パレス行くなら、アジトに集合するか？
+Well, what do you want to do?  Should we meet up at the hideout and head into the Palace?
+
+&gt;集合する
+後で決める
+Meet up
+Decide later
+
+アジトに向かうね
+I’ll head to the hideout.
+
+ワガハイは準備OKだ。いつでも声を掛けてくれ。
+
+な、なんだよ　ここ開かねぇのか！？
+Th-The hell…?  It ain’t openin’?
+
+いや、微かだが風の音がする　どこかに通れそうな場所は無いか？
+Wait… I can hear a faint breeze blowing in from somewhere… Is there another way through?
+
+おい見ろ、宝箱だ！アレも頂戴しとこうぜ！
+Look, a treasure chest!  Let’s take whatever is in there too!
+
+いや、見張り居るし
+Uh, there’s a guard there...
+
+おいジョーカー、ここからなら、直接、奇襲がかけられそうじゃないか？
+That’s OK.  Hey, Joker, do you think we can ambush it from here?
+
+隠れて敵にとびかかるのと同じだ。やってみろ。
+It should be the same as hiding and jumping toward an enemy.  Give it a try.
+
+シャドウも命乞いなんてなるんだ　なんか以外
+I didn’t realize even Shadows beg for their lives… That’s actually kind of surprising...
+
+シャドウにも感情はある。孤立して追い詰められれば命乞いだってするさ。
+Shadows have emotions too, you know.  Of course they’ll be afraid if you corner them like that.
+
+戦況時代じゃ、わざとその状況を作って、命乞いを誘うのも手かもな。
+It might be worth purposely creating such situations to get them begging for their lives.
+
+うっし！これで通るな！
+All right!  Let’s get movin’!</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/ig9yHcWS">Horror</a>
+                <div class="details">
+                                            Python |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/ceXD6JUV">jdbc</a>
+                <div class="details">
+                                            Java |
+                    
+                    39 min ago                </div>
+            </li>
+                    <li>
+                <a href="/Vz9Xukcn">chiamante</a>
+                <div class="details">
+                                            Java |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Ca7LyFfB">Fix WooCommerce Product Page</a>
+                <div class="details">
+                                            CSS |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/nAmWZfuz">islands</a>
+                <div class="details">
+                                            Python |
+                    
+                    2 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/fNmQ9AHX">Untitled</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/Ud8NsB3D">string splitter</a>
+                <div class="details">
+                                            Lua |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/86HRU2yA">Guess The Word</a>
+                <div class="details">
+                                            C++ |
+                    
+                    3 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?71b0e4248bdf19b8109f"></script>
+<script src="/themes/pastebin/js/app.bundle.js?71b0e4248bdf19b8109f"></script>
+</body>
+</html>
