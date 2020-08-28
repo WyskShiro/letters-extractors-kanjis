@@ -44,10 +44,30 @@ def load_page(url):
 # Starts here
 # Starts here
 
-for a in soup.find("table", {"class": "maintable"}).find_all("a"):
-    sub_path = a["href"]
-    if sub_path not in subpaths_to_exclude:
-        load_page(base_url + sub_path)
+# Uncomment if you want to download pages again
+# Uncomment if you want to download pages again
+# Uncomment if you want to download pages again
+# Uncomment if you want to download pages again
+
+# for a in soup.find("table", {"class": "maintable"}).find_all("a"):
+#     sub_path = a["href"]
+#     if sub_path not in subpaths_to_exclude:
+#         load_page(base_url + sub_path)
+
+
+# Starts here if have the local txts
+# Starts here if have the local txts
+# Starts here if have the local txts
+# Starts here if have the local txts
+
+for i in range(1, 86):
+    f = open("page_" + str(page_num), "r")
+    page_num += 1
+    soup = BeautifulSoup(f.read(), "html.parser")
+    for a in soup.find("div", {"class": "source"}).find_all("li"):
+        if kanji_to_search_for in a.text.encode('utf-8'):
+            add_to_list(a.text)
+
 
 keys = set(letters_dict)
 f = open(file_to_write_name, "w")
